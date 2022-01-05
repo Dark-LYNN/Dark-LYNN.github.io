@@ -4,7 +4,7 @@
 * @authorLink https://discordapp.com/users/705306248538488947
 * @authorId 705306248538488947
 * @description A theme based Nyria#3863's theme
-* @version 1.1.2
+* @version 1.1.3
 * @source https://dark-lynn.github.io/BetterDiscord/theme/akira.theme.css
 * @updateUrl https://dark-lynn.github.io/BetterDiscord/theme/akira.theme.css
 * @invite SBj5WzeVBj
@@ -22,7 +22,7 @@
 /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
---background-tertiary-alt: #FFC7D4;
+--background-tertiary-alt: #ba6f81;
 
 /* Border-radius for the whole theme */
 --border-radius: 20px;
