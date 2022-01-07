@@ -1,45 +1,21 @@
-#app-mount .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt::before,
-#app-mount .nameAndDecorators-5FJ2dg .name-uJV0GL span::before,
-#app-mount .listAvatar-1BbvHX + .listName-U3shDM .username-2b1r56::before {
-    padding: 0 8px 0 8px;
-    margin-right: 4px;
-}
-#app-mount .wrapper-2a6GCs h2 .username-1A8OIy::before,
-#app-mount .userInfo-2zN2z8 .wrapper-3t9DeA + .text-37NqbO .username-2b1r56::before,
-#app-mount .userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY::before,
-#app-mount .userPopout-xaxa6l .nickname-2gQ76l::before {
-    padding: 0 10px 0 10px;
-    margin-right: 4px;
-}
-#app-mount .wrapper-3t9DeA + .header-3uLluP::before {
-    padding: 0 12px 0 12px;
-    margin-right: 4px;
-}
 
-[data-user-id="705306248538488947"] .username-1A8OIy::before,
-[data-user-id="705306248538488947"] .nameAndDecorators-5FJ2dg .name-uJV0GL span::before,
-[data-user-id="705306248538488947"] .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt::before, 
-[data-user-id="705306248538488947"].userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY::before, 
-[data-user-id="705306248538488947"].userPopout-xaxa6l .nickname-2gQ76l::before {
-    content: "";
-    background: url("https://cdn.discordapp.com/emojis/758814419701465128.gif?size=96&quality=lossless") center/100% no-repeat;
-}
+@import url('https://dark-lynn.github.io/BetterDiscord/theme/donators/donators.css');
 
-.message-2qnXI6[data-user-id="705306248538488947"]> :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[data-author-id="705306248538488947"]> :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[vz-user-id="705306248538488947"] .username-1A8OIy,
-.channel-2QD9_O[data-user-id="705306248538488947"] .overflow-WK9Ogt,
-.channel-2QD9_O[vz-user-id="705306248538488947"] .overflow-WK9Ogt,
-.member-3-YXUe[data-user-id="705306248538488947"] .roleColor-rz2vM0,
-.member-3-YXUe[vz-user-id="705306248538488947"] .roleColor-rz2vM0,
-.userPopout-xaxa6l[data-user-id="705306248538488947"] .username-2b1r56,
-.userPopout-xaxa6l[vz-user-id="705306248538488947"] .username-2b1r56,
-.root-3QyAh1[data-user-id="705306248538488947"] .username-2b1r56 {
-  color: transparent !important;
-  font-weight: bold;
-  background-size: 300%;
-  -webkit-animation: shine-reversed 5s linear infinite;
-  animation: shine-reversed 5s linear infinite;
-  -webkit-background-clip: text;
-  background-image: linear-gradient(90deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
-}
+.container-2lgZY8::after {
+    content: "Stay comfy ❤";
+    position: fixed;
+    top: 220px;
+    bottom: 85px;
+    right: 60px;
+    z-index: -2;
+    width: 320px;
+    background-color: var(--background-primary);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: var(--text-normal);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+  }
