@@ -1,0 +1,28 @@
+/* Blur My Info */
+
+@import url("https://dark-lynn.github.io/BetterDiscord/theme/donators/donators.css");
+@import url("https://dark-lynn.github.io/BetterDiscord/theme/Tools/BlurMyInfo.tool.css");
+:root {
+    --bai-build: "3";
+    --theme-name: "Blur My Info";
+}
+.field-1HUseB .constrainedRow-2GB6Ki,
+.field-3wYU29 .constrainedRow-11nTbN {
+    filter: blur(var(--blur-amount)) !important;
+    transition: var(--fade-out) !important;
+    transition-delay: var(--fade-out-delay) !important;
+}
+.field-1HUseB .constrainedRow-2GB6Ki:hover,
+.field-3wYU29 .constrainedRow-11nTbN:hover {
+    filter: blur(var(--blur-amount-on-hover)) !important;
+    transition: var(--fade-in) !important;
+    transition-delay: var(--fade-in-delay) !important;
+}
+
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+    display: var(--version-003_bai, block) !important;
+}
+
+[id*="BlurAccountInfos"] .bd-addon-header .bd-meta:before {
+    content:"build " var(--bai-build) " ";
+}
