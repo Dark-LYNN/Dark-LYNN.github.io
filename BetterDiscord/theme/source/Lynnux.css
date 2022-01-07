@@ -25,11 +25,21 @@
     background: url("https://cdn.discordapp.com/emojis/758814419701465128.gif?size=96&quality=lossless") center/100% no-repeat;
 }
 
-[data-user-id="440990343899643943"] .username-1A8OIy::before,
-[data-user-id="440990343899643943"] .nameAndDecorators-5FJ2dg .name-uJV0GL span::before,
-[data-user-id="440990343899643943"] .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt::before, 
-[data-user-id="440990343899643943"].userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY::before, 
-[data-user-id="440990343899643943"].userPopout-xaxa6l .nickname-2gQ76l::before {
-    content: "";
-    background: url("https://i.imgur.com/n73BD5k.gif") center/100% no-repeat;
+.message-2qnXI6[data-user-id="705306248538488947"]> :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="705306248538488947"]> :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="705306248538488947"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="705306248538488947"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="705306248538488947"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="705306248538488947"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="705306248538488947"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="705306248538488947"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="705306248538488947"] .username-2b1r56,
+.root-3QyAh1[data-user-id="705306248538488947"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-animation: shine-reversed 5s linear infinite;
+  animation: shine-reversed 5s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(90deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
 }
