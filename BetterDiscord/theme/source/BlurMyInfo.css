@@ -1,7 +1,7 @@
 /* Blur My Info */
 
 @import url("https://dark-lynn.github.io/BetterDiscord/theme/donators/donators.css");
-@import url("https://dark-lynn.github.io/BetterDiscord/theme/Tools/BlurMyInfo.tool.css");
+@import url("https://dark-lynn.github.io/BetterDiscord/theme/Tools/UserPopout.tool.css");
 :root {
     --bai-build: "3";
     --theme-name: "Blur My Info";
