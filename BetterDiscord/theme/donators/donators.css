@@ -1,11 +1,11 @@
-.profileBadges-ohc0Vu::before, .userPopout-xaxa6l[data-user-id="705306248538488947"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="705306248538488947"] .profileBadges-ohc0Vu::before {
+.userPopout-xaxa6l[data-user-id="705306248538488947"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="705306248538488947"] .profileBadges-ohc0Vu::before {
   content: "";
   position: relative;
   width: 20px;
   height: 17px;
   margin: 1.5px 6px 0 0;
   pointer-events: none;
-  background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif?size=96&quality=lossless") center/100% no-repeat;
+  background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif") center/100% no-repeat;
 }
 
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="705306248538488947"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="705306248538488947"]::before {
@@ -16,21 +16,7 @@
   bottom: -3px;
   left: -5px;
   z-index: 2;
-  background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif?size=96&quality=lossless") no-repeat;
-  background-size: 85%;
-  border-radius: 0 5px 0 0;
-  pointer-events: none;
-}
-
-.member-3-YXUe .wrapper-3t9DeA[data-user-id="705306248538488947"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="705306248538488947"]::before {
-  content: "";
-  position: absolute;
-  width: 18px;
-  height: 14px;
-  bottom: -3px;
-  left: -5px;
-  z-index: 2;
-  background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif?size=96&quality=lossless") no-repeat;
+  background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif") no-repeat;
   background-size: 85%;
   border-radius: 0 5px 0 0;
   pointer-events: none;
