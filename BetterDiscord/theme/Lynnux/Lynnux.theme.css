@@ -4,7 +4,7 @@
 * @authorLink https://discordapp.com/users/705306248538488947
 * @authorId 705306248538488947
 * @description UwU
-* @version 1.1
+* @version 1.2
 * @source https://dark-lynn.github.io/BetterDiscord/theme/Lynnux/Lynnux.theme.css
 * @updateUrl https://dark-lynn.github.io/BetterDiscord/theme/Lynnux/Lynnux.theme.css
 * @invite SBj5WzeVBj
@@ -13,7 +13,7 @@
 
 @import url('https://dark-lynn.github.io/BetterDiscord/theme/donators/donators.css');
 @import url("https://dark-lynn.github.io/BetterDiscord/theme/Lynnux/CircleStatus.css");
-@import url('https://dark-lynn.github.io/BetterDiscord/theme/lynnux/lynnux.css');
+@import url('https://dark-lynn.github.io/BetterDiscord/theme/Lynnux/Lynnux.css');
 @import url('https://dark-lynn.github.io/BetterDiscord/theme/event/christmas.css');
 
 :root {
