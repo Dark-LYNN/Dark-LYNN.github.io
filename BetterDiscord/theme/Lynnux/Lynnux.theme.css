@@ -62,3 +62,7 @@
 
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
 }
+
+.wordmarkWindows-2dq6rw+div {
+  overflow: visible;
+}
