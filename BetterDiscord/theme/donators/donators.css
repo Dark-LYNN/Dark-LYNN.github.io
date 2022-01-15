@@ -1,4 +1,4 @@
-.userPopout-xaxa6l[data-user-id="705306248538488947"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="705306248538488947"] .profileBadges-ohc0Vu::before {
+.userPopout-2j1gM4[data-user-id="705306248538488947"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[vz-user-id="705306248538488947"] .profileBadges-2pItdR::before {
   content: "";
   position: relative;
   width: 20px;
@@ -8,7 +8,7 @@
   background: url("https://cdn.discordapp.com/emojis/853136871433830411.gif") center/100% no-repeat;
 }
 
-.member-3-YXUe .wrapper-3t9DeA[data-user-id="705306248538488947"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="705306248538488947"]::before {
+.member-2gU6Ar .wrapper-1VLyxH[data-user-id="705306248538488947"]::before, .member-2gU6Ar .wrapper-1VLyxH[vz-user-id="705306248538488947"]::before {
   content: "";
   position: absolute;
   width: 18px;
@@ -22,16 +22,16 @@
   pointer-events: none;
 }
 
-.message-2qnXI6[data-user-id="705306248538488947"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[data-author-id="705306248538488947"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[vz-user-id="705306248538488947"] .username-1A8OIy,
-.channel-2QD9_O[data-user-id="705306248538488947"] .overflow-WK9Ogt,
-.channel-2QD9_O[vz-user-id="705306248538488947"] .overflow-WK9Ogt,
-.member-3-YXUe[data-user-id="705306248538488947"] .roleColor-rz2vM0,
-.member-3-YXUe[vz-user-id="705306248538488947"] .roleColor-rz2vM0,
-.userPopout-xaxa6l[data-user-id="705306248538488947"] .username-2b1r56,
-.userPopout-xaxa6l[vz-user-id="705306248538488947"] .username-2b1r56,
-.root-3QyAh1[data-user-id="705306248538488947"] .username-2b1r56 {
+.message-2CShn3[data-user-id="705306248538488947"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="705306248538488947"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="705306248538488947"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="705306248538488947"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="705306248538488947"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="705306248538488947"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="705306248538488947"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="705306248538488947"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="705306248538488947"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="705306248538488947"] .username-3JLfHz {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
