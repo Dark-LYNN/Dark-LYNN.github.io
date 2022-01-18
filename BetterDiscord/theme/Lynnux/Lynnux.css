@@ -1939,3 +1939,15 @@
     margin-right: 450px;
   }
 }
+
+.typing-2J1mQU .text-3S7XCz { display: flex; align-items: center;}
+
+.typing-2J1mQU .text-3S7XCz strong { 
+    margin: 0 3px;
+    line-height: 16px;
+    animation: slideUp 300ms;
+  }
+  @keyframes slideUp {
+    0% { margin-top: -50px;}
+    100% { margin-top: 0;}
+  }
