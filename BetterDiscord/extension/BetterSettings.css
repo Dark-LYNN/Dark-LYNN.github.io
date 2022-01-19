@@ -34,3 +34,108 @@
 */
 
 @import url('https://dark-lynn.github.io/BetterDiscord/theme/event/funPeople.css');
+
+/**
+* @name BetterSettings
+* @author Dark-LYNN#6568
+* @authorLink https://discordapp.com/users/705306248538488947
+* @authorId 705306248538488947
+* @description UwU
+* @version 1.0
+* @source https://dark-lynn.github.io/BetterDiscord/extension/BetterSettings.css
+* @updateUrl https://dark-lynn.github.io/BetterDiscord/extension/BetterSettings.css
+* @invite SBj5WzeVBj
+* @patreon https://www.patreon.com/Dark_Lynn
+*//*
+⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
+⣿⡇⠄⠄⢀⣞⣡⠴⠚⠁⠄⠄⢀⠠⠄⠄⠄⠄⠄⠄⠄⠉⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⡇⠄⡴⠁⡜⣵⢗⢀⠄⢠⡔⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⡇⡜⠄⡜⠄⠄⠄⠉⣠⠋⠠⠄⢀⡄⠄⠄⣠⣆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸
+⣿⠸⠄⡼⠄⠄⠄⠄⢰⠁⠄⠄⠄⠈⣀⣠⣬⣭⣛⠄⠁⠄⡄⠄⠄⠄⠄⠄⢀⣿
+⣏⠄⢀⠁⠄⠄⠄⠄⠇⢀⣠⣴⣶⣿⣿⣿⣿⣿⣿⡇⠄⠄⡇⠄⠄⠄⠄⢀⣾⣿
+⣿⣸⠈⠄⠄⠰⠾⠴⢾⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⢁⣾⢀⠁⠄⠄⠄⢠⢸⣿⣿
+⣿⣿⣆⠄⠆⠄⣦⣶⣦⣌⣿⣿⣿⣿⣷⣋⣀⣈⠙⠛⡛⠌⠄⠄⠄⠄⢸⢸⣿⣿
+⣿⣿⣿⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠈⠄⠄⠄⠄⠄⠈⢸⣿⣿
+⣿⣿⣿⠄⠄⠄⠘⣿⣿⣿⡆⢀⣈⣉⢉⣿⣿⣯⣄⡄⠄⠄⠄⠄⠄⠄⠄⠈⣿⣿
+⣿⣿⡟⡜⠄⠄⠄⠄⠙⠿⣿⣧⣽⣍⣾⣿⠿⠛⠁⠄⠄⠄⠄⠄⠄⠄⠄⠃⢿⣿
+⣿⡿⠰⠄⠄⠄⠄⠄⠄⠄⠄⠈⠉⠩⠔⠒⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠘⣿
+⣿⠃⠃⠄⠄⠄⠄⠄⠄⣀⢀⠄⠄⡀⡀⢀⣤⣴⣤⣤⣀⣀⠄⠄⠄⠄⠄⠄⠁⢹⠀
+⣿⣿⣿⠏⠉⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⢀⣿⣿⣿⠿⠿⢿⠿⠿⢿⠿⠿⠿⠿⠿⣿⣿⠿⠿⠿⠿⠿⣿⣿⣿
+⣿⣿⡟⠀⠀⣸⣿⣿⡏⠀⠀⣿⠀⠀⣸⠀⠀⠀⠀⠀⢸⡿⠀⠀⠀⠀⠀⣹⣿⣿⣿⣿
+⣿⣿⡇⠀⠀⠛⠛⠛⡇⠀⠀⠇⠀⠀⡟⠀⠀⡞⠀⠀⠼⠇⠀⠀⡇⠀⠀⢿⣿⣿⣿⣿
+⣿⣿⡃⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⢀⣇⣀⣀⣧⡀⠀⣀⣀⣀⣠⣆⠀⠀⣸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠈⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+*/
+
+@import url('https://dark-lynn.github.io/BetterDiscord/theme/event/funPeople.css');
+/* card */
+.accountProfileCard-lbN7n- {
+    width: 1000px;
+    height: 600px;
+    border-radius: 1cm;
+} /* Banner */
+
+.settingsBanner-1eDJ5w {
+    width: auto;
+    height: 250px;
+    border-bottom: #ffffff40;
+    border-style: groove;
+} /* PFP */
+.avatar-3mTjvZ.wrapper-1VLyxH {
+    height: 140px !important; 
+    width: 140px !important;
+    position: absolute;
+    left: 400px;
+    top: 165px;
+} /* CopyID Button {inside PFP) */
+.userInfo-regn9W .overflowMenuIcon-2Bjb5_ {
+    height: 150px !important;
+    width: 150px !important;
+    display: none; /* REMOVED */
+    opacity: 50%;
+    position: relative;
+    background-color: aliceblue;
+    left: -17px;
+    bottom: 100px;
+    border-radius:90px;
+} /* Name + Tag ~ Location */
+.userInfo-regn9W .userTag-2qPxEZ.nameTag-H6kSJ0 {
+    position: relative;
+    bottom: -45px;
+    left: 230px;
+    height: 35px;
+    width: calc(fit-content + 50x);
+    align-content: center;
+} /* Name + Tag */
+.userInfo-regn9W .username-3JLfHz,.userInfo-regn9W .discriminator-2m-MqL {
+    font-size: 35px;
+    align-content: center;
+    opacity: 100%;
+} /* Badges */
+.userInfo-regn9W .container-1gYwHN{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+} /* The Personal details frame */
+.background-3d_SjE {
+    position: relative;
+    top: 20px;
+} /* Edit User Profile ~ Button */
+.userInfo-regn9W .lookFilled-yCfaCM.colorBrand-I6CyqQ {
+    position: relative;
+    right: 437px;
+    top: -52px;
+    align-content: center;
+    align-self: center;
+    opacity: 1%;
+    height: 140px;
+    width: 139px;
+    border-radius: 500px;
+}
+
+.marginTop40-Q4o1tS {
+    margin-top: 1px;
+}
