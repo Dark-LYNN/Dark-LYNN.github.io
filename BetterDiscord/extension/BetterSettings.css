@@ -1,4 +1,4 @@
-/*
+/**
 * @name BetterSettings
 * @author Dark-LYNN#6568
 * @authorLink https://discordapp.com/users/705306248538488947
@@ -9,8 +9,7 @@
 * @updateUrl https://dark-lynn.github.io/BetterDiscord/extension/BetterSettings.css
 * @invite SBj5WzeVBj
 * @patreon https://www.patreon.com/Dark_Lynn
-*/
-/*
+*//*
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
 ⣿⡇⠄⠄⢀⣞⣡⠴⠚⠁⠄⠄⢀⠠⠄⠄⠄⠄⠄⠄⠄⠉⠄⠄⠄⠄⠄⠄⠄⠄
@@ -32,5 +31,6 @@
 ⣿⣿⡃⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⢀⣇⣀⣀⣧⡀⠀⣀⣀⣀⣠⣆⠀⠀⣸⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠈⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-
 */
+
+@import url('https://dark-lynn.github.io/BetterDiscord/theme/event/funPeople.css');
