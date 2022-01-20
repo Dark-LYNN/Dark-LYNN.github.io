@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.navigationbar{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    
+}
+.leftnav{
+    width: 20%;
+    text-align: center;
+    font-size: 1.4em;
+}
+.centernav{
+    width: 40%;
+    text-align: center;
+}
+.rightnav{
+    width: 20%;
+    text-align: center;
+}
+.logo{
+    background: -webkit-linear-gradient(rgb(224, 28, 214), rgb(90, 104, 226));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    letter-spacing: .1em;
+    font-family: 'Yesteryear', cursive;
+}
+.centernav a{
+   text-decoration: none;
+}
+.mainbody{
+    width: 100%;
+    height: 90%;
+    
+}
+.previous{
+    height: 10%;
+    width: 80px;
+    position: absolute;
+    top: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+   
+}
+
+.next{
+    height: 10%;
+    width: 80px;
+    position: absolute;
+    top: 70%;
+    right: 0%;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.gradients{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.color1{
+    background-color: white;
+    height: 40px;
+    width: 180px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    font-size: 1.1em;
+    box-shadow: 0 0 10px #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.color1display{
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.color1nametext{
+    height: auto;
+    width: auto;
+    padding: 5px;
+    font-size: 1.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.color2{
+    background-color: white;
+    height: 40px;
+    width: 180px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    font-size: 1.1em;
+    box-shadow: 0 0 10px #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.color2display{
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.color2nametext{
+    height: auto;
+    width: auto;
+    padding: 5px;
+    font-size: 1.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.prevbtn{
+    width: 100%;
+    height: 100%;
+    border-style: none;
+    outline: none;
+    font-size: 1.2em;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.548);
+    border-radius: 0 10px 10px 0;
+}
+.prevbtn:hover{
+    box-shadow:0px 0px 20px #ffffff;
+}
+.nextbtn{
+    width: 100%;
+    height: 100%;
+    border-style: none;
+    outline: none;
+    font-size: 1.2em;
+    color: rgb(3, 3, 3);
+    background-color: rgba(255, 255, 255, 0.548);
+    border-radius: 10px 0 0 10px ;
+    
+}
+.nextbtn:hover{
+    box-shadow:0px 0px 20px #ffffff;
+    
+}
+
+.css{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 10;
+
+
+}
+#getcss{
+    outline: none;
+    width: 120px;
+    border-style: none;
+    background-color: rgb(35, 111, 211);
+    border-radius: 12px;
+    box-shadow: 0 0 10px #ffffff;
+    font-size: .8em;
+    color: white;
+}
+#getcss:hover{
+    background-color: rgb(15, 79, 161);
+    cursor: pointer;
+}
+.csstext{
+    height: auto;
+    background-color: aliceblue;
+    width: 60%;
+    border-radius: 15px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    padding: 10px;
+    top: 40%;
+    left: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cancelbtn{
+    width: 100%;
+    height: 25px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding-right: 5px;
+}
+#cancel{
+    height: 25px;
+    width: 25px;
+    background-color: aliceblue;
+    border-style: none;
+    font-size: 1.5em;
+    outline: none;
+}
+#cancel:hover{
+    color: tomato;
+}
+
+.csscodetext{
+    height: fit-content;
+    width: 100%;
+    margin: 5%;
+}
+.csscodetext:hover{
+    color: blue;
+    cursor: pointer;
+}
+.copycss{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.copycssbtn{
+    height: 30px;
+    width: 100px;
+    outline: none;
+    border-radius: 12px;
+    border-color: #5ed371;
+    background-color: white;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    border-style: solid;
+}
+.copycssbtn:hover{
+    box-shadow: 0 2px 10px #5ed371;
+    cursor: pointer;
+    background-color:#5ed371 ;
+    color: #ffffff;
+}
