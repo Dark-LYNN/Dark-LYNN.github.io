@@ -15,16 +15,7 @@
     <!--Stylesheet-->
     <link rel="stylesheet" href="style.css" />
   </head>
-
   <body>
-    <!-- Navbar Starts -->
-    <nav>
-      <div class="navbar-container" id= "mydiv">
-        <div class="navbar-text">Gradient Generator</div>
-      </div>
-      <button id= "mybtn" type="button">Hide Nav bar</button>    <!--hideBtn will be ideal name for button instead of mybtn  --> 
-    </nav>
-
     <!-- Navbar Ends -->
     <div class="container">
       <div class="colors">
@@ -47,25 +38,19 @@
         <button class="rotate-icon" onclick="setDirection('to top right',this)">
           <i class="fas fa-arrow-up"></i>
         </button>
-        <button
-          class="rotate-icon"
-          onclick="setDirection('to bottom left',this)"
-        >
+        <button class="rotate-icon" onclick="setDirection('to bottom left',this)">
           <i class="fas fa-arrow-down"></i>
         </button>
         <button
           class="rotate-icon"
-          onclick="setDirection('to bottom right',this)"
-        >
+          onclick="setDirection('to bottom right',this)">
           <i class="fas fa-arrow-right"></i>
         </button>
         <button class="rotate-icon" onclick="setDirection('to top left',this)">
           <i class="fas fa-arrow-left"></i>
         </button>
       </div>
-      <button class="grow_spin" id="submit" onclick="generateCode()">
-        Generate
-      </button>
+      <button class="grow_spin" id="submit" onclick="generateCode()">Generate</button>
       <div class="output">
         <textarea id="code" rows="2"></textarea>
         <button class="grow_out" id="copy" onclick="copyText()">Copy</button>
