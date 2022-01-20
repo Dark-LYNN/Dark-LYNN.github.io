@@ -1,256 +1,186 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
 }
-body{
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-}
-.navigationbar{
-    height: 10%;
-    width: 100%;
-    display: flex;
-    justify-content:space-evenly;
-    align-items: center;
-    
-}
-.leftnav{
-    width: 20%;
-    text-align: center;
-    font-size: 1.4em;
-}
-.centernav{
-    width: 40%;
-    text-align: center;
-}
-.rightnav{
-    width: 20%;
-    text-align: center;
-}
-.logo{
-    background: -webkit-linear-gradient(rgb(224, 28, 214), rgb(90, 104, 226));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2rem;
-    letter-spacing: .1em;
-    font-family: 'Yesteryear', cursive;
-}
-.centernav a{
-   text-decoration: none;
-}
-.mainbody{
-    width: 100%;
-    height: 90%;
-    
-}
-.previous{
-    height: 10%;
-    width: 80px;
-    position: absolute;
-    top: 70%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2em;
-   
+body {
+  height: 100vh;
 }
 
-.next{
-    height: 10%;
-    width: 80px;
-    position: absolute;
-    top: 70%;
-    right: 0%;
-    font-size: 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+/* Navbar CSS start */
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+nav .navbar-container {
+  background-color: #ffffff;
+  /* background-color: rgb(74, 110, 224); */
+  width: 1000px;
+  padding: 1.4rem;
+  position: relative;
+  border-radius: 0.8rem;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
 
-.gradients{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+nav .navbar-container .navbar-text {
+  font-size: 2rem;
+  font-family: "Rubik", sans-serif;
+  color: rgba(74, 110, 224, 0.8);
 }
-.color1{
-    background-color: white;
-    height: 40px;
-    width: 180px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 12px;
-    font-size: 1.1em;
-    box-shadow: 0 0 10px #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/* Navbar CSS start */
+.container {
+  background-color: #ffffff;
+  max-width: 400px;
+  padding: 50px 30px;
+  position: relative;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
 }
-.color1display{
-    background-color: blue;
-    height: 20px;
-    width: 20px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
+.container *:not(i) {
+  font-family: "Rubik", sans-serif;
 }
-.color1nametext{
-    height: auto;
-    width: auto;
-    padding: 5px;
-    font-size: 1.1em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+.colors {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
 }
-.color2{
-    background-color: white;
-    height: 40px;
-    width: 180px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 12px;
-    font-size: 1.1em;
-    box-shadow: 0 0 10px #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+input[type="color"] {
+  -webkit-appearance: none;
+  background-color: transparent;
+  width: 100px;
+  height: 45px;
+  cursor: pointer;
 }
-.color2display{
-    background-color: blue;
-    height: 20px;
-    width: 20px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
+input[type="color"]::-webkit-color-swatch {
+  border-radius: 20px;
+  border: none;
 }
-.color2nametext{
-    height: auto;
-    width: auto;
-    padding: 5px;
-    font-size: 1.1em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
 }
-.prevbtn{
-    width: 100%;
-    height: 100%;
-    border-style: none;
-    outline: none;
-    font-size: 1.2em;
-    color: rgb(0, 0, 0);
-    background-color: rgba(255, 255, 255, 0.548);
-    border-radius: 0 10px 10px 0;
+.buttons button {
+  height: 35px;
+  width: 35px;
+  background-color: transparent;
+  border: 2px solid #d5d5dc;
+  color: #d5d5dc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
 }
-.prevbtn:hover{
-    box-shadow:0px 0px 20px #ffffff;
+.buttons button:hover {
+  background: #4a6ee0;
+  color: #fff;
+  border: 2px solid #4a6ee0;
 }
-.nextbtn{
-    width: 100%;
-    height: 100%;
-    border-style: none;
-    outline: none;
-    font-size: 1.2em;
-    color: rgb(3, 3, 3);
-    background-color: rgba(255, 255, 255, 0.548);
-    border-radius: 10px 0 0 10px ;
-    
+.rotate-icon i {
+  transform: rotate(45deg);
 }
-.nextbtn:hover{
-    box-shadow:0px 0px 20px #ffffff;
-    
+.buttons .active {
+  border: none;
+  background-color: #4a6ee0;
+  color: #ffffff;
 }
-
-.css{
-    width: 100%;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    bottom: 10;
-
-
+.output {
+  background-color: #f0f2fc;
 }
-#getcss{
-    outline: none;
-    width: 120px;
-    border-style: none;
-    background-color: rgb(35, 111, 211);
-    border-radius: 12px;
-    box-shadow: 0 0 10px #ffffff;
-    font-size: .8em;
-    color: white;
+#code {
+  width: 100%;
+  resize: none;
+  color: #30304a;
+  padding: 10px 20px;
+  background-color: transparent;
 }
-#getcss:hover{
-    background-color: rgb(15, 79, 161);
-    cursor: pointer;
+/* BUTTONS */
+#submit {
+  display: block;
+  border: 1px solid #4a6ee0;
+  background: none;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 12px 70px;
+  border-radius: 25px;
+  margin: 0 auto 30px auto;
+  cursor: pointer;
+  transition: 0.8s;
+  position: relative;
+  overflow: hidden;
 }
-.csstext{
-    height: auto;
-    background-color: aliceblue;
-    width: 60%;
-    border-radius: 15px;
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    visibility: hidden;
-    padding: 10px;
-    top: 40%;
-    left: 20%;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#submit::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 180%;
+  background: #4a6ee0;
+  z-index: -1;
+  transition: 0.8s;
+  border-radius: 0 0 50% 50%;
 }
-.cancelbtn{
-    width: 100%;
-    height: 25px;
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-end;
-    padding-right: 5px;
+#submit:hover {
+  color: #4a6ee0;
 }
-#cancel{
-    height: 25px;
-    width: 25px;
-    background-color: aliceblue;
-    border-style: none;
-    font-size: 1.5em;
-    outline: none;
+#submit:hover::before {
+  height: 0%;
 }
-#cancel:hover{
-    color: tomato;
+#copy {
+  font-size: 1rem;
+  background: #4a6ee0;
+  color: #fff;
+  border: 0.25rem solid #4a6ee0;
+  padding: 0.4em 1em;
+  margin: 1rem;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  border-radius: 25px;
+  cursor: pointer;
+  left: 75%;
 }
-
-.csscodetext{
-    height: fit-content;
-    width: 100%;
-    margin: 5%;
+#mybtn {
+  max-width: 20vw;
+  padding: 15px;
+  background: #2b32b2;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  position: absolute;
+  z-index: 10;
+  top: 50px;
+  right: 185px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px black;
 }
-.csscodetext:hover{
-    color: blue;
-    cursor: pointer;
+#mybtn:hover {
+  transform: scale(1.05);
 }
-.copycss{
-    height: fit-content;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.copycssbtn{
-    height: 30px;
-    width: 100px;
-    outline: none;
-    border-radius: 12px;
-    border-color: #5ed371;
-    background-color: white;
-    color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 1em;
-    border-style: solid;
-}
-.copycssbtn:hover{
-    box-shadow: 0 2px 10px #5ed371;
-    cursor: pointer;
-    background-color:#5ed371 ;
-    color: #ffffff;
+/* making it resposive */
+@media screen and (max-width:500px) {
+  #mybtn {
+    top: 20px;
+    right: 0px;
+  }
+  .container {
+    top: 60%;
+  }
+  nav .navbar-container {
+    text-align: left;
+  }
 }
