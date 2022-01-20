@@ -1,1 +1,20 @@
 @import url('https://dark-lynn.github.io/BetterDiscord/theme/donators/donators.css');
+  
+  .message-2CShn3[data-user-id="739591551155437654"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[data-author-id="739591551155437654"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[vz-user-id="739591551155437654"] .username-h_Y3Us,
+  .channel-1Shao0[data-user-id="739591551155437654"] .overflow-1wOqNV,
+  .channel-1Shao0[vz-user-id="739591551155437654"] .overflow-1wOqNV,
+  .member-2gU6Ar[data-user-id="739591551155437654"] .roleColor-nA7BqX,
+  .member-2gU6Ar[vz-user-id="739591551155437654"] .roleColor-nA7BqX,
+  .userPopout-2j1gM4[data-user-id="739591551155437654"] .username-3JLfHz,
+  .userPopout-2j1gM4[vz-user-id="739591551155437654"] .username-3JLfHz,
+  .root-8LYsGj[data-user-id="739591551155437654"] .username-3JLfHz {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    -webkit-animation: shine-reversed 5s linear infinite;
+            animation: shine-reversed 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to top left, #1388cc, #ff0000);
+  }
