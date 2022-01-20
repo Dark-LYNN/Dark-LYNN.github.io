@@ -14,7 +14,7 @@ function setDirection(value,_this){
 }
 
 function generateCode(){
-    outputCode.value = `background-image: linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value});`
+    outputCode.value = `linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value});`
 
     document.getElementsByTagName("BODY")[0].style.backgroundImage = `linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value})`;
     btn.style.backgroundImage = `linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value})`; //Button styling
