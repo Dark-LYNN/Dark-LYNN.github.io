@@ -61,7 +61,6 @@ function cancel(){
     document.getElementById("css").style.visibility ="hidden";
     document.getElementById("csscodetext").style.color = "#000000";
     document.getElementById("copycssbtn").innerHTML = "Copy CSS";
-
 }
 
 
