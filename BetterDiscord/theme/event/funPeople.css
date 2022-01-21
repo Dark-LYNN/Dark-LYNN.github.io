@@ -92,6 +92,6 @@
     -webkit-animation: shine-reversed 5s linear infinite;
             animation: shine-reversed 5s linear infinite;
     -webkit-background-clip: text;
-    background-image: linear-gradient(to bottom right, #b82934, #eac502);
+    background-image: linear-gradient(to bottom right, #b82934, #eac502, #b82934);
 
   }
