@@ -56,3 +56,42 @@
     -webkit-background-clip: text;
     background-image: linear-gradient(to bottom, #000000, #000dff);
   }
+
+  .message-2CShn3[data-user-id="551786741296791562"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[data-author-id="551786741296791562"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[vz-user-id="551786741296791562"] .username-h_Y3Us,
+  .channel-1Shao0[data-user-id="551786741296791562"] .overflow-1wOqNV,
+  .channel-1Shao0[vz-user-id="551786741296791562"] .overflow-1wOqNV,
+  .member-2gU6Ar[data-user-id="551786741296791562"] .roleColor-nA7BqX,
+  .member-2gU6Ar[vz-user-id="551786741296791562"] .roleColor-nA7BqX,
+  .userPopout-2j1gM4[data-user-id="551786741296791562"] .username-3JLfHz,
+  .userPopout-2j1gM4[vz-user-id="551786741296791562"] .username-3JLfHz,
+  .root-8LYsGj[data-user-id="551786741296791562"] .username-3JLfHz {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    -webkit-animation: shine-reversed 5s linear infinite;
+            animation: shine-reversed 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to bottom, #00a2ff, #ae00ff);
+  }
+  
+  .message-2CShn3[data-user-id="325663449680052227"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[data-author-id="325663449680052227"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+  .message-2CShn3[vz-user-id="325663449680052227"] .username-h_Y3Us,
+  .channel-1Shao0[data-user-id="325663449680052227"] .overflow-1wOqNV,
+  .channel-1Shao0[vz-user-id="325663449680052227"] .overflow-1wOqNV,
+  .member-2gU6Ar[data-user-id="325663449680052227"] .roleColor-nA7BqX,
+  .member-2gU6Ar[vz-user-id="325663449680052227"] .roleColor-nA7BqX,
+  .userPopout-2j1gM4[data-user-id="325663449680052227"] .username-3JLfHz,
+  .userPopout-2j1gM4[vz-user-id="325663449680052227"] .username-3JLfHz,
+  .root-8LYsGj[data-user-id="325663449680052227"] .username-3JLfHz {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    -webkit-animation: shine-reversed 5s linear infinite;
+            animation: shine-reversed 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to bottom right, #b82934, #eac502);
+
+  }
