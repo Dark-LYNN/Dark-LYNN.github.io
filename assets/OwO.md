@@ -2,9 +2,9 @@
 ### Permissions:
 Command | Usage | Description | Akira Perms | Discord Perms | aliasses
 ----|----|----|----|----|----
-Admin-Role | a.adminrole [ROLE] | Gives Admin perms to a role | Admin | Admin | adminrole / AR / Admin-role
-srmod-role | a.srmodrole [ROLE] | Give SR-Mod perms to a role | Admin | Admin | srmodrole / SRMR / sr-mod-role
-mod-role | a.modrole [ROLE] | Give Mod perm to a role | Admin | Admin | modrole / MR / mod-role
+Admin-Role | a.adminrole [ROLE] | Gives Admin perms to a role | Owner | Admin | AR 
+srmod-role | a.srmodrole [ROLE] | Give SR-Mod perms to a role | Admin | Admin | SRMR
+mod-role | a.modrole [ROLE] | Give Mod perm to a role | Admin | Admin | MR 
 
 ### Log Channels
 Command | Usage | Description | Akira Perms | Discord Perms | aliasses
@@ -25,3 +25,6 @@ punishments | a.punishments (user) (page) | See the past punishment history of a
 warn | a.warn [users] [reason] | Warn a user so you can track of who has been warninged before | Warn / Mod / SR-Mod / Admin | Manage-Messages / Admin | None
 unwarn | a.unwarn [user] [warning ID] (reason) | Remove the warn from a user. | Unwarn / Mod / SR-Mod / Admin | Manage-Messages / Admin | None
 warnings | a.warnings (user) (page) | See the warnings of a user | Warnings / Mod / SR-Mod / Admin | Manage-Messages / Admin | Warns
+stafflog | a.stafflog (user) | See how much punishments a staff member has given | stafflog / Mod / SR-Mod / Admin | ban / Admin | None
+nuke | a.nuke (channel) | Destroy all messages sent in a channel by cloning the channel. | Nuke / Admin | Admin | None
+punishmessage | a.punishmessage (text) | Change the default punishment message | Punishmessage / Admin | Admin | punishmsg
