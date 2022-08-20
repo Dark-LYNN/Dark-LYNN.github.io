@@ -20,3 +20,4 @@ mute | a.mute [users] (time) (reason) {dm} | mute a user so they can't send mess
 unmute | a.unmute [user] (reason) | Unmute a user so they can send messages again | Unmute / Mod / SR-Mod / Admin | Kick / Admin | unmute / un-mute / untimeout 
 ban | a.ban [users] (time) (reason) {DM_OR_NOT} | Ban a user from the server | Ban / Mod / SR-Mod / Admin | Ban / Admin | ban
 unban | a.unban [user] (reason) | Unban a user from the server | Unban / Mod / SR-Mod / Admin | Ban / Admin | unban
+purge | a.purge (user) {amount} (reason) | Mass delete messages up to 1000 messages at once. | Purge / Mod / SR-Mod / Admin | Manage-Messages / Admin | clear / clean / delete
