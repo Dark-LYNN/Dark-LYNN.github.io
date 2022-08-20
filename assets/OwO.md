@@ -9,7 +9,7 @@ mod-role | a.modrole [ROLE] | Give Mod perm to a role | Admin | Admin | modrole 
 ### Log Channels
 Command | Usage | Description | Akira Perms | Discord Perms | aliasses
 ----|----|----|----|----|----
-Set Log Channel | a.logchannel (command) [channel] | Send Command usage to channel | Admin | Admin | logchannel / log-channel set-log-channel / setlogchannel / log-channel / log-channel
+Set Log Channel | a.logchannel (command) [channel] | Send Command usage to channel | Admin | Admin | logchannel / log-channel 
 
 ### Moderation:
 Command | Usage | Description | Akira Perms | Discord Perms | aliasses
