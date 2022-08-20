@@ -14,11 +14,14 @@ Set Log Channel | a.logchannel (command) [channel] | Send Command usage to chann
 ### Moderation:
 Command | Usage | Description | Akira Perms | Discord Perms | aliasses
 ----|----|----|----|----|----
-warn | a.warn [USER] (Reason) {dm} | Warn a user |  Warn / Mod / SR-Mod / Admin |  Kick / Admin | warn
-kick | a.kick [USER] (Reason) {dm}   | kick a user from the server | Kick / Mod / SR-Mod / Admin | Kick / Admin | kick / remove / send-away / sendaway
-mute | a.mute [users] (time) (reason) {dm} | mute a user so they can't send messages anymore. | Mute / Mod / SR-Mod / Admin | Kick / Admin | mute / timeout / time-out
-unmute | a.unmute [user] (reason) | Unmute a user so they can send messages again | Unmute / Mod / SR-Mod / Admin | Kick / Admin | unmute / un-mute / untimeout 
-ban | a.ban [users] (time) (reason) {DM_OR_NOT} | Ban a user from the server | Ban / Mod / SR-Mod / Admin | Ban / Admin | ban
-unban | a.unban [user] (reason) | Unban a user from the server | Unban / Mod / SR-Mod / Admin | Ban / Admin | unban
+warn | a.warn [USER] (Reason) {dm} | Warn a user |  Warn / Mod / SR-Mod / Admin |  Kick / Admin | None
+kick | a.kick [USER] (Reason) {dm}   | kick a user from the server | Kick / Mod / SR-Mod / Admin | Kick / Admin | remove / send-away / sendaway
+mute | a.mute [users] (time) (reason) {dm} | mute a user so they can't send messages anymore. | Mute / Mod / SR-Mod / Admin | Kick / Admin | timeout
+unmute | a.unmute [user] (reason) | Unmute a user so they can send messages again | Unmute / Mod / SR-Mod / Admin | Kick / Admin | un-mute / untimeout 
+ban | a.ban [users] (time) (reason) {DM_OR_NOT} | Ban a user from the server | Ban / Mod / SR-Mod / Admin | Ban / Admin | None
+unban | a.unban [user] (reason) | Unban a user from the server | Unban / Mod / SR-Mod / Admin | Ban / Admin | None
 purge | a.purge (user) {amount} (reason) | Mass delete messages up to 1000 messages at once. | Purge / Mod / SR-Mod / Admin | Manage-Messages / Admin | clear / clean / delete
-punishments | a.punishments (user) (page) | See the past punishment history of a user in the server | Punishment / Mod / SR-Mod / Admin | Manage-Messages / Admin | punishment
+punishments | a.punishments (user) (page) | See the past punishment history of a user in the server | Punishment / Mod / SR-Mod / Admin | Manage-Messages / Admin |  punishment
+warn | a.warn [users] [reason] | Warn a user so you can track of who has been warninged before | Warn / Mod / SR-Mod / Admin | Manage-Messages / Admin | None
+unwarn | a.unwarn [user] [warning ID] (reason) | Remove the warn from a user. | Unwarn / Mod / SR-Mod / Admin | Manage-Messages / Admin | None
+warnings | a.warnings (user) (page) | See the warnings of a user | Warnings / Mod / SR-Mod / Admin | Manage-Messages / Admin | Warns
