@@ -1,0 +1,121 @@
+/**
+* @name Cyan
+* @author Dark-LYNN#6568
+* @authorLink https://discordapp.com/users/705306248538488947
+* @authorId 705306248538488947
+* @description A cool cyan theme soft for eyes
+* @version 1.1
+* @source https://dark-lynn.github.io/BetterDiscord/theme/cyan.theme.css
+* @updateUrl https://dark-lynn.github.io/BetterDiscord/theme/cyan.theme.css
+*/
+
+@import url("https://dark-lynn.github.io/BetterDiscord/theme/source/cyan.css");
+
+:root {
+    /* --- User variables --- */
+    --background-tertiary-alt: #497b8e;
+    /* Border-radius for the whole theme */
+    --border-radius: 20px;
+}
+    
+.theme-dark {
+
+    /* Text */
+    --text-normal: #ffffff;
+    --header-primary: #f8e1e5;
+    --interactive-normal: #fab1bd;
+    --channels-default: #f8e1e5;
+
+    --text-muted: #e2c1c7;
+    --interactive-muted: #ad8c91;
+
+    --header-secondary: #e2c1c7;
+    --interactive-hover: #e2c1c7;
+    --interactive-active: #e2c1c7;
+
+    /* Background color */
+    --background-primary: #003538;
+    --background-secondary: #00272a;
+    --background-secondary-alt: #001d1f;
+    --background-tertiary: #002425;
+    --background-floating: #081e1e;
+    --background-accent: #011a1b;
+    --channeltextarea-background: var(--background-secondary);
+    --background-modifier-hover: rgba(6, 74, 83, 0.32);
+    --background-modifier-active: rgba(0, 76, 76, 0.32);
+    --background-modifier-selected: rgba(7, 67, 79, 0.32);
+    --toast-background: #005a5e !important;
+    --toast-header: #013639 !important;
+    --toast-contents: #004a4e !important;
+    --toast-border: #004a4e !important;
+
+    /* Scrollbar */
+    --scrollbar-auto-thumb: var(--background-tertiary);
+    --scrollbar-auto-track: var(--background-secondary-alt);
+    --scrollbar-thin-thumb: var(--background-tertiary);
+    --scrollbar-thin-track: transparent;
+
+    /* Other */
+    --deprecated-quickswitcher-input-background: var(--background-primary);
+}
+    .colorBrand-ROmMP1 { color: #259096;}
+    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { background-color: var(--background-modifier-hover) !important;}
+
+    /* Buttons */
+    .lookFilled-1Gx00P { background-color: #259096 !important;}
+    .lookFilled-1Gx00P:active, .lookFilled-1Gx00P:hover { background-color: #1d7075 !important;}
+    .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) { color: #259096; border-color: #259096;}
+
+    /* Hover background */
+    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { color: var(--interactive-normal);}
+
+.theme-light {
+
+    /* Text */
+    --text-normal: #ffffff;
+    --header-primary: #8fe5ea;
+    --interactive-normal: #5ac1c6;
+    --channels-default: #c2e6e8;
+
+    --text-muted: #0b1a1b;
+    --interactive-muted: #12292a;
+
+    --header-secondary: #14b0bb;
+    --interactive-hover: #8de5ea;
+    --interactive-active: #6ab8be;
+
+    /* Background color */
+    --background-primary: #005a5e;
+    --background-secondary: #014b4f;
+    --background-secondary-alt: #002d2f;
+    --background-tertiary: #004042;
+    --background-floating: #004042;
+    --background-accent: #004345;
+    --channeltextarea-background: var(--background-secondary);
+    --background-modifier-hover: rgba(32, 46, 48, 0.238);
+    --background-modifier-active: rgba(183, 196, 196, 0.32);
+    --background-modifier-selected: rgba(33, 51, 54, 0.32);
+    --toast-background: #005a5e !important;
+    --toast-header: #013639 !important;
+    --toast-contents: #004a4e !important;
+    --toast-border: #004a4e !important;
+
+    /* Scrollbar */
+    --scrollbar-auto-thumb: var(--background-tertiary);
+    --scrollbar-auto-track: var(--background-secondary-alt);
+    --scrollbar-thin-thumb: var(--background-tertiary);
+    --scrollbar-thin-track: transparent;
+    /* Other */
+    --deprecated-quickswitcher-input-background: var(--background-primary);
+}
+
+    .colorBrand-ROmMP1 { color: #259096;}
+    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { background-color: var(--background-modifier-hover) !important;}
+
+    /* Buttons */
+    .lookFilled-1Gx00P { background-color: #259096 !important;}
+    .lookFilled-1Gx00P:active, .lookFilled-1Gx00P:hover { background-color: #1c7075 !important;}
+    .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) { color: #259096; border-color: #259096;}
+
+    /* Hover background */
+    .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) { color: var(--interactive-normal);}
