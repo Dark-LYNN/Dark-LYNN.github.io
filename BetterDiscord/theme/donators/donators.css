@@ -75,3 +75,25 @@
           animation: shine-reversed 5s linear infinite;
   background-image: radial-gradient(circle, rgb(1, 144, 249) 0%, rgb(253, 224, 45) 100%);
 }
+
+@-webkit-keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@-webkit-keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}
+@keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}
