@@ -11,15 +11,20 @@
 
 <body>
     <header>
-        <div class="logo">
-            <a href="#">Akira Bot</a>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="/commands">Features</a></li>
-                <li><a href="/blog">About</a></li>
-                <li><a href="/contact">Contact</a></li>
-            </ul>
+        <nav class="navbar nav-bar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="./">
+                    <p class="nav-name">Akira</p>
+                </a><a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-unfold"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></a></div>
+            <div class="navbar-menu" id="navbar-unfold">
+                <div class="navbar-end">
+                    <a class="navbar-item nav-active" href="./"><i class="nav-icons fas fa-home nav-fa"></i>Home</a>
+                    <a class="navbar-item" href="./commands"><i class="nav-icons fas fa-terminal nav-fa"></i>Commands</a>
+                    <a class="navbar-item" href="./status"><i class="nav-icons fas fa-check nav-fa"></i>Status</a>
+                    <a href="./support" target="_blank" class="navbar-item"><i class="nav-icons fab fa-discord nav-fa"></i>Community</a>
+                    <a href="./invite" target="_blank" class="navbar-item last-item"><i class="nav-icons fas fa-plus nav-fa"></i>Invite Akira</a>
+                </div>
+            </div>
         </nav>
     </header>
     <section class="banner">
@@ -65,7 +70,7 @@
                 <a href="./support" data-preload-link="true" data-preload-link-activated="true">Support Server</a>
                 <a href="./commands" data-preload-link="true" data-preload-link-activated="true">Commands</a>
                 <a href="./donate">Premium</a>
-                <a href="./status">Status</a>
+                <a href="./s">Status</a>
             </div>
             <div class="section-entry">
                 <h3>About us</h3>
