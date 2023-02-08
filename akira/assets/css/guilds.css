@@ -1,0 +1,194 @@
+*,
+ :after,
+ :before {
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+}
+
+.backward-animate {
+    animation: moveBackward 72.6s linear infinite
+}
+
+.blur-box {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 33;
+    background: linear-gradient(90deg, #181f25 0, transparent 5%, transparent 95%, #181f25)
+}
+
+.duration-300 {
+    transition-duration: .3s
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column
+}
+
+.flex-row {
+    flex-direction: row
+}
+
+.font-bold,
+.hover\:font-bold:hover {
+    font-weight: 700
+}
+
+.font-normal {
+    font-weight: 400
+}
+
+.forward-animate {
+    animation: moveForward 72.6s linear infinite
+}
+
+.gap-2 {
+    grid-gap: .5rem;
+    gap: .5rem
+}
+
+.grow {
+    flex-grow: 1
+}
+
+.h-18 {
+    height: 4.5rem
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-around {
+    justify-content: space-around
+}
+
+.justify-between {
+    justify-content: space-between
+}
+
+.lg\:flex-col {
+    flex-direction: column
+}
+
+.lg\:relative {
+    position: relative
+}
+
+.lt-lg\:flex-col {
+    flex-direction: column
+}
+
+.lt-lg\:flex-col-reverse {
+    flex-direction: column-reverse
+}
+
+.lt-lg\:gap-2 {
+    grid-gap: .5rem;
+    gap: .5rem
+}
+
+.mt-5 {
+    margin-top: 1.25rem
+}
+
+.overflow-hidden {
+    overflow: hidden
+}
+
+.p-4 {
+    padding: 1rem;
+}
+
+.pr-7 {
+    padding-right: 1.75rem
+}
+
+.px-5 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem
+}
+
+.py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem
+}
+
+.relative {
+    position: relative
+}
+
+.rounded-full {
+    border-radius: 9999px
+}
+
+.rounded-lg {
+    border-radius: .5rem
+}
+
+.text-light-500 {
+    --un-text-opacity: 1;
+    color: rgba(242, 242, 242, var(--un-text-opacity))
+}
+
+.transition {
+    transition-property: color, background-color, border-color, outline-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
+    transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+    transition-duration: .15s
+}
+
+.truncate {
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.truncate,
+.whitespace-nowrap {
+    white-space: nowrap
+}
+
+.w-50 {
+    width: 12.5rem
+}
+
+.w-95 {
+    width: 23.75rem
+}
+
+.w-1400 {
+    width: 350rem;
+}
+
+.w-full {
+    width: 100%
+}
+
+@keyframes moveForward {
+    0% {
+        transform: translateX(-2840px)
+    }
+    to {
+        transform: translateX(0)
+    }
+}
+
+@keyframes moveBackward {
+    0% {
+        transform: translateX(0)
+    }
+    to {
+        transform: translateX(-2840px)
+    }
+}
+
+.bg-\[\#303A52\] {
+    --un-bg-opacity: 1;
+    background-color: rgba(48, 58, 82, var(--un-bg-opacity));
+}
