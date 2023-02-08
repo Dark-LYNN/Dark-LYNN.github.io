@@ -276,9 +276,8 @@ footer .call-to-action-footer h3 {
 }
 
 @media (max-width: 767px) {
-    #stats[data-v-972439db] div {
-        width: 100%;
-        float: none;
+    #stats[data-v-972439db] {
+        display: grid;
     }
 }
 
