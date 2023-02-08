@@ -349,5 +349,9 @@ img {
     #ft-3 {
         width: 100%;
         float: none;
+        display: none;
+    }
+    #text-feature {
+        display: none;
     }
 }
