@@ -107,6 +107,12 @@ main {
     margin: 20px;
 }
 
+@media screen and (max-width: 600px) {
+    footer .navigation-footer {
+        flex-direction: column;
+    }
+}
+
 
 /* footer */
 
