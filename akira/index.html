@@ -75,6 +75,29 @@
                 <div data-v-972439db="" style="background-color: #f47fff; box-shadow: 0 0 25px black;" class="card"><span data-v-972439db="" class="title">Commands</span><span data-v-972439db="" class="value">000</span></div>
             </div>
         </div>
+        <div id="ft-0" class="flex">
+            <div id="ft-1" class="row mt-3">
+                <div id="ft-2" class="col-lg-5 col-12">
+                    <div class="card1 auth-card bg-transparent shadow-none rounded-0 mb-0 w-100">
+                        <div class="card-content">
+                            <div class="card-body text-center">
+                                <img src="/static/app-assets/images/features/welcome.webp" alt="Feature" class="img-fluid img-transition-fade round" width="400" height="250" loading="lazy">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="ft-3" class="col-lg-5 col-12 mr-4">
+                    <div class="card1 auth-card bg-transparent shadow-none rounded-0 mb-0 w-100">
+                        <div class="card-content">
+                            <div class="card-body text-lg-left">
+                                <h3 class="text-primary"><i class="feather icon-user-plus text-primary"></i> Welcome new members to your server</h3>
+                                <p>Use Maki's welcome feature to make new members feel welcome or to inform them about your server rules. You can fully customize your welcome card or you can keep it simple and stick to a simple message.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div id="guilds" class="flex flex-col mt-5 gap-2 overflow-hidden relative">
             <div class="blur-box"></div>
             <div class="flex w-full w-1400 forward-animate" style="color: white;">
@@ -985,15 +1008,16 @@
         </nav>
         <p style="text-align: center;">Akira 2023 — All rights reserved</p>
     </footer>
-    <!--    <script>
-        $.ajax({
-            type: "GET",
-            url: "http://159.69.69.222:3000/discorddata",
-            success: function(data) {
-                // process the data here
-            }
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $(".navbar-burger").click(function() {
+                $(".navbar-burger").toggleClass("is-active");
+                $(".navbar-menu").toggleClass("is-active");
+            });
         });
-    </script> -->
+    </script>
+
 </body>
 
 </html>
