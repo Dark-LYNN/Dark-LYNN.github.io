@@ -336,3 +336,12 @@ img {
     --un-bg-opacity: 1;
     background-color: rgba(48, 58, 82, var(--un-bg-opacity));
 }
+
+@media only screen and (max-width: 767px) {
+    #ft-2,
+    #ft-3 {
+        width: 100%;
+        float: none;
+        clear: both;
+    }
+}

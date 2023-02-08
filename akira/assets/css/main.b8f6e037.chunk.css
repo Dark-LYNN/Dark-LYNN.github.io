@@ -27,10 +27,6 @@ html {
     min-height: 100vh
 }
 
-body {
-    background-image: url(/web/20210204060849im_/https://elibot.gg/images/pattern.svg)
-}
-
 .uppercased {
     text-transform: uppercase
 }
