@@ -103,6 +103,10 @@
     font-weight: 400
 }
 
+.ft-12 {
+    font-size: 120%;
+}
+
 .forward-animate {
     animation: moveForward 72.6s linear infinite
 }
@@ -247,6 +251,8 @@ img {
 #ft-1 {
     display: flex;
     flex-direction: row;
+    width: 100%;
+    float: left
 }
 
 .shadow-none {
@@ -267,7 +273,7 @@ img {
 }
 
 .text-primary {
-    color: #f24443!important;
+    color: #f47fff!important;
 }
 
 .transition {
