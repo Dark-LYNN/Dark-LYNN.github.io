@@ -34,16 +34,20 @@
         <div class="timer">You will be redirected in <span id="countdown">3</span> seconds...</div>
     </div>
     <script>
-        const countdown = 3;
-        const count = document.getElementById("countdown");
-        const interval = setInterval(() => {
+        let countdown = 3;
+        document.getElementById("countdown").innerHTML = countdown;
+
+        setInterval(function() {
             countdown--;
-            count.textContent = countdown;
+            document.getElementById("countdown").innerHTML = countdown;
             if (countdown === 0) {
-                clearInterval(interval);
-                window.location.href = "https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=4393717858295&scope=bot%20applications.commands";
+                redirect();
             }
         }, 1000);
+
+        function redirect() {
+            window.location.href = "https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=4393717858295&scope=bot%20applications.commands";
+        }
     </script>
     <footer class="footer ">
         <nav class="navigation-footer ">
