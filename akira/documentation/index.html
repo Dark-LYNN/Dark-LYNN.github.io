@@ -7,9 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Akira - Discord Bot</title>
     <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="./main.css">
 </head>
 
-<body style="margin: 0!important;">
+<body style="margin: 0!important; color: #fff;">
     <header>
         <nav class=" navbar nav-bar " role="navigation " aria-label="main navigation ">
             <div class="navbar-brand ">
@@ -28,7 +29,334 @@
             </div>
         </nav>
     </header>
-    <footer class="footer" style="position: fixed;bottom: 0; width: 100%;">
+    <div class="main">
+        <div class="main">
+            <div style="width: 100%; height: 35px; border-bottom: 1px solid black; text-align: center; margin-bottom: 2em;">
+                <span style="font-size: 40px; background-color: #333333; padding: 0 10px;">
+        Basic Permissions
+    </span>
+            </div>
+            <div class="columns">
+                <div class="column is-one-half ">
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 100%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff; font-weight: 600;">Creating a bot channel</h1>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!botchannel {channel}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Set the current channel to be the only channel that allows commands by default.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!freechannel {channel}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Will remove the bot channel status of the mentioned channel
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 100%; margin-top: 1em;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Enabling or disabling a command</h1>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!enable {command/group}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Enable a command or group on the guild level (y!default {command/group} to reset)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!disable {command/group}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Disable a command or group on the guild level (y!default {command/group} to reset)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-one-half ">
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;;">Ignore or listen to a channel</h1>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!ignore {channel}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Yui will ignore the channel you tag. (defaults to current channel)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!listen {channel}</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Yui will stop ignoring the current channel. (or the one you tag)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%; margin-top: 1em;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Blacklist or whitelist a member</h1>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!blacklist &lt;user&gt;</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Allows you to blacklist members from using Yui. (To prevent spam)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card card-command">
+                                <header class="card-header">
+                                    <p class="card-header-title" style="margin-bottom: 0em;">
+                                        <code>y!whitelist &lt;user&gt;</code>
+                                    </p>
+                                    <div class="card-header-icon">
+                                        <span class="tag tag-mobile is-success is-pulled-right">MANAGE_SERVER</span>
+                                        <span class="tag tag-mobile is-info is-pulled-right">SERVER ONLY</span>
+                                    </div>
+                                </header>
+                                <div class="card-content card-content-command">
+                                    <div class="content">
+                                        Removes a member from the blacklist so they can use commands again.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="width: 100%; height: 35px; border-bottom: 1px solid black; text-align: center; margin-bottom: 2em;">
+                <span style="font-size: 40px; background-color: #333333; padding: 0 10px;">
+        Advanced Permissions
+    </span>
+            </div>
+            <div class="columns">
+                <div class="column is-one-half ">
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 100%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Advanced Permission Commands</h1>
+                        </div>
+                        <div class="content is-small">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Command</th>
+                                        <th>Options</th>
+                                        <th>Information</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>y!perms list</td>
+                                        <td></td>
+                                        <td>Lists all available commands you can edit permissions for</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms allow</td>
+                                        <td>&lt;group/command&gt; &lt;type&gt; {target}</td>
+                                        <td>Enable the command in the given target</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms deny</td>
+                                        <td>&lt;group/command&gt; &lt;type&gt; {target}</td>
+                                        <td>Disable the command in the given target</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms default</td>
+                                        <td>&lt;group/command&gt; &lt;type&gt; {target}</td>
+                                        <td>Resets the permission to the default</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms clear</td>
+                                        <td>&lt;group/command&gt; &lt;type&gt; {target}</td>
+                                        <td>Clears the permissions for the given extended type</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms show</td>
+                                        <td>&lt;group/command&gt;</td>
+                                        <td>Show set permissions for the given extended type</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms warn</td>
+                                        <td></td>
+                                        <td>Yui will react to commands that are disabled</td>
+                                    </tr>
+                                    <tr>
+                                        <td>y!perms ignore</td>
+                                        <td></td>
+                                        <td>Yui will just ignore commands that are disabled</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <article class="message" style="font-size: 0.75rem;">
+                                <div class="message-body">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding: 0em 0em;">&lt;&gt; - Required argument</td>
+                                                <td style="padding: 0em 0em;">{} - Optional argument</td>
+                                                <td style="padding: 0em 0em;">/ - Either option</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </article>
+                            <article class="message is-danger" style="font-size: 0.75rem;">
+                                <div class="message-body">
+                                    Do not include &lt;&gt;, {}, or / in your command!
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 100%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Examples</h1>
+                            <ul>
+                                <li>y!perms list</li>
+                            </ul>
+                            <ul>
+                                <li>y!perms allow ping channel #general</li>
+                                <li>y!perms deny all guild</li>
+                                <li>y!perms deny fun role @newpeople</li>
+                                <li>y!perms allow fun user @member</li>
+                            </ul>
+                            <ul>
+                                <li>y!perms clear</li>
+                                <li>y!perms clear hello</li>
+                                <li>y!perms clear util channel</li>
+                                <li>y!perms show</li>
+                                <li>y!perms show fun</li>
+                                <li>y!perms show user @member</li>
+                            </ul>
+                            <ul>
+                                <li>y!perms warn</li>
+                                <li>y!perms ignore</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-one-half ">
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Type Hierarchy</h1>
+                            <article class="message is-info" style="font-size: 0.75rem;">
+                                <div class="message-body">
+                                    Context will always overwrite in the one above it, from least important to most important:<br> Guild -&gt; Channel -&gt; Role -&gt; User
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Types</h1>
+                            <dl>
+                                <dt>guild</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the current guild</dd>
+                                <dt>channel {#channel}</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the tagged channel or current channel if no tag is provided</dd>
+                                <dt>role &lt;@role&gt;</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the tagged role</dd>
+                                <dt>user &lt;@user&gt;</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the tagged user</dd>
+                            </dl>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%; ">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Extended Types</h1>
+                            <h6 style="color: #f47fff;">Extended types are used by the clear and show commands, they use the same types as above as well as below:</h6>
+                            <dl>
+                                <dt>command &lt;command&gt;</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the command mentioned</dd>
+                                <dt>group &lt;group&gt;</dt>
+                                <dd style="-webkit-margin-start: 40px;">Will use the group mentioned</dd>
+                            </dl>
+                        </div>
+                    </div>
+                    <div class="card" style="padding: 1em 1em 1em 1em; width: 88%;">
+                        <div class="content">
+                            <h1 style="color: #f47fff;font-weight: 600;">Getting started (optional)</h1>
+                            <p>
+                                To create a channel dedicated to using bot commands you can run:
+                            </p>
+                            <blockquote style="-webkit-margin-start: 40px;">y!perms deny all guild</blockquote>
+                            <p>
+                                To deny commands everywhere, and then:
+                            </p>
+                            <blockquote style="-webkit-margin-start: 40px; margin-bottom: 1em;">y!perms allow all channel</blockquote>
+                            In the channel that you wish to be used for commands.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
         <nav class="navigation-footer ">
             <div class="section-entry ">
                 <h3>Akira Bot</h3>
