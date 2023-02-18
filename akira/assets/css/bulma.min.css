@@ -5975,7 +5975,7 @@ print {
 
 .menu-list a {
     border-radius: 2px;
-    color: #4a4a4a;
+    color: #fff;
     display: block;
     padding: .5em .75em
 }
@@ -5997,7 +5997,7 @@ print {
 }
 
 .menu-label {
-    color: #7a7a7a;
+    color: #fff;
     font-size: .75em;
     letter-spacing: .1em;
     text-transform: uppercase
