@@ -36,4 +36,10 @@
       <changefreq>yearly</changefreq>
       <priority>0.7</priority>
    </url>
+   <url>
+      <loc>https://akira.lynnux.xyz/commands/</loc>
+      <lastmod>2023-02-18</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
 </urlset>
