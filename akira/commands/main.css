@@ -1,0 +1,21 @@
+    @media screen and (min-width: 769px) {
+        .column.is-one-quarter,
+        .column.is-one-quarter-tablet {
+            -webkit-box-flex: 0;
+            -ms-flex: none;
+            flex: none;
+            width: 25%;
+        }
+    }
+    
+    .column {
+        display: block;
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-negative: 1;
+        flex-shrink: 1;
+        padding: 0.75rem;
+    }
