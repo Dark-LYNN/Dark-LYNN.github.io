@@ -4,584 +4,228 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0" name="viewport">
-    <link rel="stylesheet" href="/assets/532.7fbd5147ee8b816c530d.css">
-    <script src="./assets/3ecba7af535756b7d6fd.js"></script>
+    <link rel="stylesheet" href="https://discordlookup.com/css/app.css">
+    <script src="https://discordlookup.com/js/app.js"></script>
 </head>
 
 <body>
-    <div class="flexChild-3PzYmX child-GVttEz columnSpread12-38DH5j" style="flex-grow: 0; flex-shrink: 0;">
-        <div class="wrapper-1y6MF3 medium-1VKeKo borderPrimary-1l1Cvj colorLight-1o6rnK">
-            <div class="headingContent-2Bltfe bottomMarginMedium--JfLEZ">
-                <h3 class="headingCopy-3cIg6M mediumLarge-M_to8d size20-9PKVkn height26-2ohlR- white-2p-ZZc weightMedium-3qcLrj">Bot Permissions</h3>
+    <div wire:id="ge0TMcfMOq9mdUB6CaF8">
+        <h1 class="mb-4 mt-5 text-center text-white">Permissions Calculator</h1>
+        <div class="mb-4">
+            <div class="input-group input-group-lg">
+                <span class="input-group-text bg-dark">
+                    <i class="fas fa-sort-numeric-down"></i>
+                </span>
+                <input wire:keyup="update()" wire:model="permissions" class="form-control form-control-lg" type="text">
             </div>
-            <p class="heading-OB_sJb marginBottom20-2Ckqv7 medium-1uW3Ao size16-3gfP8i height20-3Liu3p primary300-1m2cgJ weightNormal-saP-ZY">Need some help with bit math? Use the tool below to calculate the permissions integer for your bot based on the features it needs.</p>
-            <div class="grid-2a45cj">
-                <div class="flex-2S1XBF flexHorizontal-humxgD flexJustifyStart-3aWekq flexAlignStretch-1BJbuT flexWrap-A0-NZQ" style="flex: 1 1 auto;">
-                    <div class="flexChild-3PzYmX child-GVttEz columnSpread12-38DH5j columnSpreadSmallMedium12-1Egxbs columnSpreadMedium4-3wQEZ- columnSpreadLarge4-3UkVhE columnSpreadExtraLarge4-Df67TF" style="flex-grow: 0; flex-shrink: 0;">
-                        <label class="label-3ZpjMQ marginBottom8-19TZ8C small-246BYy size12-3r1pkq height16-3se7kO primary300-1m2cgJ weightSemiBold-1D1-HD uppercase-2u5iUA">General Permissions</label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Administrator</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">View Audit Log</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Server</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Roles</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Channels</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Kick Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Ban Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Create Instant Invite</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Change Nickname</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Nicknames</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Emojis and Stickers</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Webhooks</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Read Messages/View Channels</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Events</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Moderate Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">View Server Insights</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">View Creator Monetization Insights</div>
-                       </div>
-                    </label>
-                    </div>
-                    <div class="flexChild-3PzYmX child-GVttEz columnSpread12-38DH5j columnSpreadSmallMedium12-1Egxbs columnSpreadMedium4-3wQEZ- columnSpreadLarge4-3UkVhE columnSpreadExtraLarge4-Df67TF" style="flex-grow: 0; flex-shrink: 0;">
-                        <label class="label-3ZpjMQ marginBottom8-19TZ8C small-246BYy size12-3r1pkq height16-3se7kO primary300-1m2cgJ weightSemiBold-1D1-HD uppercase-2u5iUA">Text Permissions</label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Send Messages</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Create Public Threads</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Create Private Threads</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Send Messages in Threads</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Send TTS Messages</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Messages</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Manage Threads</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Embed Links</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Attach Files</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Read Message History</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Mention Everyone</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Use External Emojis</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Use External Stickers</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Add Reactions</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Use Slash Commands</div>
-                       </div>
-                    </label>
-                    </div>
-                    <div class="flexChild-3PzYmX child-GVttEz columnSpread12-38DH5j columnSpreadSmallMedium12-1Egxbs columnSpreadMedium4-3wQEZ- columnSpreadLarge4-3UkVhE columnSpreadExtraLarge4-Df67TF" style="flex-grow: 0; flex-shrink: 0;">
-                        <label class="label-3ZpjMQ marginBottom8-19TZ8C small-246BYy size12-3r1pkq height16-3se7kO primary300-1m2cgJ weightSemiBold-1D1-HD uppercase-2u5iUA">Voice Permissions</label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Connect</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Speak</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Video</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Mute Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Deafen Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Move Members</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Use Voice Activity</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Priority Speaker</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Request To Speak</div>
-                       </div>
-                    </label>
-                        <label class="checkboxWrapper-2fDzaA checkbox-3okXGP" style="height: 24px;">
-                       <input class="inputDefault-2F39XG input-3xr72x" type="checkbox" style="width: 24px; height: 24px;">
-                       <div class="checkbox-f1HnKB flexCenter-363AJy box-BHImcZ" style="width: 24px; height: 24px;">
-                          <svg name="Checkmark" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                             <g fill="none" fill-rule="evenodd">
-                                <polyline stroke="transparent" stroke-width="2" points="3.5 9.5 7 13 15 5"></polyline>
-                             </g>
-                          </svg>
-                       </div>
-                       <div class="label-1xtMHH" style="line-height: 24px;">
-                          <div class="checkboxLabel-1kat9D">Use Embedded Activities</div>
-                       </div>
-                    </label>
-                    </div>
-                </div>
-                <div class="flex-2S1XBF flexHorizontal-humxgD flexJustifyStart-3aWekq flexAlignStretch-1BJbuT flexWrap-A0-NZQ" style="flex: 1 1 auto;">
-                    <div class="flexChild-3PzYmX child-GVttEz columnSpread12-38DH5j" style="flex-grow: 0; flex-shrink: 0;">
-                        <label class="label-3ZpjMQ marginBottom8-19TZ8C small-246BYy size12-3r1pkq height16-3se7kO primary300-1m2cgJ weightSemiBold-1D1-HD uppercase-2u5iUA">Permissions Integer</label>
-                        <div class="textboxInputWrapper-1EiEZG">
-                            <div class="inputWrapper-1YNMmM undefined"><input class="inputDefault-3FGxgL input-2g-os5 size16-3gfP8i textboxInput-oqx5A6" readonly="" name="" type="text" placeholder="" maxlength="999" value="0"></div>
-                            <button class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightShort-5JiyOY unpaired-GdFe-D copyAction-3ReaM0" type="button">
-                          <div class="flex-2S1XBF flexHorizontal-humxgD flexJustifyCenter-3VdGrQ flexAlignCenter-8FgVwZ flexWrap-A0-NZQ contentWrapper-2lY2rd" style="flex: 1 1 auto;"><span class="buttonContent-2HNzoF"><span class="copyActionContentFeedback-3RhX3e copyActionContent-1P9VcW copyActionContentHidden-3VxNp4">Copied</span><span class="copyActionContent-1P9VcW">Copy</span></span></div>
-                       </button>
+        </div>
+        <div class="mb-4">
+            <div class="card text-white bg-dark">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="small mb-3">
+                            <span class="cursor-pointer text-primary" wire:click="addAll([64, 8, 32768, 4, 67108864, 1048576, 1, 68719476736, 34359738368, 8388608, 16384, 2, 16, 1073741824, 8589934592, 8192, 134217728, 268435456, 32, 17179869184, 536870912, 131072, 1099511627776, 16777216, 4194304, 256, 65536, 1024, 4294967296, 2048, 274877906944, 4096, 2097152, 2147483648, 549755813888, 262144, 137438953472, 33554432, 512, 128, 2199023255552, 524288])">Select all</span>                            /
+                            <span class="cursor-pointer text-primary" wire:click="removeAll([64, 8, 32768, 4, 67108864, 1048576, 1, 68719476736, 34359738368, 8388608, 16384, 2, 16, 1073741824, 8589934592, 8192, 134217728, 268435456, 32, 17179869184, 536870912, 131072, 1099511627776, 16777216, 4194304, 256, 65536, 1024, 4294967296, 2048, 274877906944, 4096, 2097152, 2147483648, 549755813888, 262144, 137438953472, 33554432, 512, 128, 2199023255552, 524288])">Deselect all</span>
                         </div>
+
+                        <div class="col-sm">
+                            <div class="fw-bold mb-2">General Permissions</div>
+
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="8" id="checkbox_1">
+                                <label class="form-check-label  text-warning " for="checkbox_1">Administrator</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="4" id="checkbox_3">
+                                <label class="form-check-label  text-warning " for="checkbox_3">Ban Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="67108864" id="checkbox_4">
+                                <label class="form-check-label " for="checkbox_4">Change Nickname</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="1" id="checkbox_6">
+                                <label class="form-check-label " for="checkbox_6">Create Instant Invite</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="2" id="checkbox_11">
+                                <label class="form-check-label  text-warning " for="checkbox_11">Kick Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="16" id="checkbox_12">
+                                <label class="form-check-label  text-warning " for="checkbox_12">Manage Channels</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="1073741824" id="checkbox_13">
+                                <label class="form-check-label  text-warning " for="checkbox_13">Manage Emojis and Stickers</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="8589934592" id="checkbox_14">
+                                <label class="form-check-label " for="checkbox_14">Manage Events</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="134217728" id="checkbox_16">
+                                <label class="form-check-label " for="checkbox_16">Manage Nicknames</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="268435456" id="checkbox_17">
+                                <label class="form-check-label  text-warning " for="checkbox_17">Manage Roles</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="32" id="checkbox_18">
+                                <label class="form-check-label  text-warning " for="checkbox_18">Manage Server</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="536870912" id="checkbox_20">
+                                <label class="form-check-label  text-warning " for="checkbox_20">Manage Webhooks</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="1099511627776" id="checkbox_22">
+                                <label class="form-check-label " for="checkbox_22">Moderate Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="1024" id="checkbox_27">
+                                <label class="form-check-label " for="checkbox_27">Read Messages/View Channels</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="128" id="checkbox_39">
+                                <label class="form-check-label " for="checkbox_39">View Audit Log</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="2199023255552" id="checkbox_40">
+                                <label class="form-check-label " for="checkbox_40">View Creator Monetization Insights</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="524288" id="checkbox_41">
+                                <label class="form-check-label " for="checkbox_41">View Server Insights</label>
+                            </div>
+
+                            <div class="small">
+                                <span class="cursor-pointer text-primary" wire:click="addAll([8, 4, 67108864, 1, 2, 16, 1073741824, 8589934592, 134217728, 268435456, 32, 536870912, 1099511627776, 1024, 128, 2199023255552, 524288])">Select group</span>                                /
+                                <span class="cursor-pointer text-primary" wire:click="removeAll([8, 4, 67108864, 1, 2, 16, 1073741824, 8589934592, 134217728, 268435456, 32, 536870912, 1099511627776, 1024, 128, 2199023255552, 524288])">Deselect group</span>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="fw-bold mb-2">Text Permissions</div>
+
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="64" id="checkbox_0">
+                                <label class="form-check-label " for="checkbox_0">Add Reactions</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="32768" id="checkbox_2">
+                                <label class="form-check-label " for="checkbox_2">Attach Files</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="68719476736" id="checkbox_7">
+                                <label class="form-check-label " for="checkbox_7">Create Private Threads</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="34359738368" id="checkbox_8">
+                                <label class="form-check-label " for="checkbox_8">Create Public Threads</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="16384" id="checkbox_10">
+                                <label class="form-check-label " for="checkbox_10">Embed Links</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="8192" id="checkbox_15">
+                                <label class="form-check-label  text-warning " for="checkbox_15">Manage Messages</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="17179869184" id="checkbox_19">
+                                <label class="form-check-label  text-warning " for="checkbox_19">Manage Threads</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="131072" id="checkbox_21">
+                                <label class="form-check-label " for="checkbox_21">Mention @everyone, @here, and All Roles</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="65536" id="checkbox_26">
+                                <label class="form-check-label " for="checkbox_26">Read Message History</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="2048" id="checkbox_29">
+                                <label class="form-check-label " for="checkbox_29">Send Messages</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="274877906944" id="checkbox_30">
+                                <label class="form-check-label " for="checkbox_30">Send Messages in Threads</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="4096" id="checkbox_31">
+                                <label class="form-check-label " for="checkbox_31">Send TTS Messages</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="2147483648" id="checkbox_33">
+                                <label class="form-check-label " for="checkbox_33">Use Application Commands</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="262144" id="checkbox_35">
+                                <label class="form-check-label " for="checkbox_35">Use External Emojis</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="137438953472" id="checkbox_36">
+                                <label class="form-check-label " for="checkbox_36">Use External Stickers</label>
+                            </div>
+
+                            <div class="small">
+                                <span class="cursor-pointer text-primary" wire:click="addAll([64, 32768, 68719476736, 34359738368, 16384, 8192, 17179869184, 131072, 65536, 2048, 274877906944, 4096, 2147483648, 262144, 137438953472])">Select group</span>                                /
+                                <span class="cursor-pointer text-primary" wire:click="removeAll([64, 32768, 68719476736, 34359738368, 16384, 8192, 17179869184, 131072, 65536, 2048, 274877906944, 4096, 2147483648, 262144, 137438953472])">Deselect group</span>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="fw-bold mb-2">Voice Permissions</div>
+
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="1048576" id="checkbox_5">
+                                <label class="form-check-label " for="checkbox_5">Connect</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="8388608" id="checkbox_9">
+                                <label class="form-check-label " for="checkbox_9">Deafen Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="16777216" id="checkbox_23">
+                                <label class="form-check-label " for="checkbox_23">Move Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="4194304" id="checkbox_24">
+                                <label class="form-check-label " for="checkbox_24">Mute Members</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="256" id="checkbox_25">
+                                <label class="form-check-label " for="checkbox_25">Priority Speaker</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="4294967296" id="checkbox_28">
+                                <label class="form-check-label " for="checkbox_28">Request To Speak</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="2097152" id="checkbox_32">
+                                <label class="form-check-label " for="checkbox_32">Speak</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="549755813888" id="checkbox_34">
+                                <label class="form-check-label " for="checkbox_34">Use Embedded Activities</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="33554432" id="checkbox_37">
+                                <label class="form-check-label " for="checkbox_37">Use Voice Activity</label>
+                            </div>
+                            <div class="form-check">
+                                <input wire:model="permissionsListSelected" wire:change.lazy="calcPermissions()" class="form-check-input" type="checkbox" value="512" id="checkbox_38">
+                                <label class="form-check-label " for="checkbox_38">Video</label>
+                            </div>
+
+                            <div class="small">
+                                <span class="cursor-pointer text-primary" wire:click="addAll([1048576, 8388608, 16777216, 4194304, 256, 4294967296, 2097152, 549755813888, 33554432, 512])">Select group</span> /
+                                <span class="cursor-pointer text-primary" wire:click="removeAll([1048576, 8388608, 16777216, 4194304, 256, 4294967296, 2097152, 549755813888, 33554432, 512])">Deselect group</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 small text-white-50">
+                        Yellow colored = These permissions require the owner account to use <a class="text-decoration-none" target="_blank" rel="noopener" href="https://discord.com/developers/docs/topics/oauth2#twofactor-authentication-requirement">two-factor authentication</a>                        when used on a guild that has server-wide 2FA enabled.
                     </div>
                 </div>
             </div>
