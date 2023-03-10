@@ -12,14 +12,43 @@ module.exports = ({
                         $if[$findRole[$message[2]]!=]
                             $if[$message[3]==]
                                 $color[$getVar[color]]
+                                $if[$getServerVar[botLogChannel]==1083095711094149180]
+                                $else
+                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:Role given}{thumbnail:$if[$serverIcon==] https://cdn.lynnux.xyz/images/No-Server_Icon-found.png $else $serverIcon $endif}{footer:Given by @$userTag}{description:The <@&$findRole[$message[2]]> has been given to <@$findUser[$message[1]]>.
+Reason: \`\`\`
+$replaceText[$replaceText[$message;$message[2] ;;1];$message[1] ;;1]
+\`\`\`}}]
+                                $endif
                                 $title[Role given]
+                                $description[The <@&$findRole[$message[2]]> has been given to <@$findUser[$message[1]]>.
+Reason: \`\`\`
+$replaceText[$replaceText[$message;$message[2] ;;1];$message[1] ;;1]
+\`\`\`]
                                 $if[$serverIcon==]
-                                    $thumbnail[]
+                                    $thumbnail[https://cdn.lynnux.xyz/images/No-Server_Icon-found.png]
                                 $else
                                     $thumbnail[$serverIcon]
                                 $endif
                             $else
-                                no reason given 
+                            $if[$message[3]==]
+                                $color[$getVar[color]]
+                                $if[$getServerVar[botLogChannel]==1083095711094149180]
+                                $else
+                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:Role given}{thumbnail:$if[$serverIcon==] https://cdn.lynnux.xyz/images/No-Server_Icon-found.png $else $serverIcon $endif}{footer:Given by @$userTag}{description:The <@&$findRole[$message[2]]> has been given to <@$findUser[$message[1]]>.
+Reason: \`\`\`
+No reason given.
+\`\`\`}}]
+                                $endif
+                                $title[Role given]
+                                $description[The <@&$findRole[$message[2]]> has been given to <@$findUser[$message[1]]>.
+Reason: \`\`\`
+No reason given.
+\`\`\`]
+                                $if[$serverIcon==]
+                                    $thumbnail[https://cdn.lynnux.xyz/images/No-Server_Icon-found.png]
+                                $else
+                                    $thumbnail[$serverIcon]
+                                $endif
                             $endif
                         $else
                             $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Wrong usage!}{description:Wrong usage of the command \`giverole\`,
