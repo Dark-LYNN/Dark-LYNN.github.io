@@ -9,149 +9,148 @@ module.exports = ({
         $color[$getServerVar[color]]
         $if[$checkContains[$toLowerCase[$message[1]];about;ping]==true]
         $description[**Command:** \`about\`
-    **aliases:** [\`ping\`\] 
-    **description:**  \`Check the details about akira like latancy etc\`
-    **Usage:** \`akira about\`
-    
-    **Example:**
-    \`\`\`
-    akira about
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]
+**Aliases:** [\`ping\`\] 
+**description:**  \`Check the details about akira like latancy etc\`
+**Usage:** \`akira about\`
+
+**Example:**
+\`\`\`
+akira about
+\`\`\`
+**Module\:** \`Utility\`
+]
         $else
             $if[$checkContains[$toLowerCase[$message[1]];whois;who-is;user;userinfo;user-info]==true]
             $description[**Command:** \`userinfo\`
-    **aliases:** [\`user-info\`,\`user\`,\`whois\`,\`who-is\`\] 
-    **description:**  \`Check the details about a user\`
-    **Usage:** \`akira userinfo [user]\`
-    
-    **Example:**
-    \`\`\`
-    akira userinfo @Dark-LYNN#6568
-    akira userinfo 705306248538488947
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]		
+**Aliases:** [\`user-info\`,\`user\`,\`whois\`,\`who-is\`\] 
+**Description:**  \`Check the details about a user\`
+**Usage:** \`akira userinfo [user]\`
+
+**Example:**
+\`\`\`
+akira userinfo @Dark-LYNN#6568
+akira userinfo 705306248538488947
+\`\`\`
+**Module\:** \`Utility\`
+]		
             $else
                 $if[$checkContains[$toLowerCase[$message[1]];commandinfo;command-info;command]==true]
                     $description[**Command:** \`commandinfo\`
-    **aliases:** [\`command-info\`,\`command\`\] 
-    **description:**  \`Check the details about a user\`
-    **Usage:** \`akira commandinfo [command]\`
-    
-    **Example:**
-    \`\`\`
-    akira commandinfo ping
-    \`\`\`
-    **Module\:** \`Help\`
-    ]		
+**Aliases:** [\`command-info\`,\`command\`\] 
+**Description:**  \`Check the details about a user\`
+**Usage:** \`akira commandinfo [command]\`
+
+**Example:**
+\`\`\`
+akira commandinfo ping
+\`\`\`
+**Module\:** \`Help\`
+]		
                 $else
                     $if[$checkContains[$toLowerCase[$message[1]];balance;bal;money;wallet]==true]
                     $description[**Command:** \`balance\`
-    **aliases:** [\`bal\`,\`money\`,\`wallet\`\] 
-    **description:**  \`Check how much money is in your wallet and in your bank.\`
-    **Usage:** \`akira balance <user>\`
-    
-    **Example:**
-    \`\`\`
-    akira balance
-    akira balance @Dark-LYNN#6568
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]		
+**Aliases:** [\`bal\`,\`money\`,\`wallet\`\] 
+**Description:**  \`Check how much money is in your wallet and in your bank.\`
+**Usage:** \`akira balance <user>\`
+
+**Example:**
+\`\`\`
+akira balance
+akira balance @Dark-LYNN#6568
+\`\`\`
+**Module\:** \`Economy\`
+]		
                     $else
                         $if[$checkContains[$toLowerCase[$message[1]];deposit;dep]==true]
                         $description[**Command:** \`deposit\`
-    **aliases:** [\`dep\`\] 
-    **description:**  \`Deposit money from your wallet to your bank.\`
-    **Usage:** \`akira deposit [amount]\`
-    
-    **Example:**
-    \`\`\`
-    akira deposit 100
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]
+**Aliases:** [\`dep\`\] 
+**Description:**  \`Deposit money from your wallet to your bank.\`
+**Usage:** \`akira deposit [amount]\`
+
+**Example:**
+\`\`\`
+akira deposit 100
+\`\`\`
+**Module\:** \`Economy\`
+]
                         $else
                             $if[$checkContains[$toLowerCase[$message[1]];withdraw;with]==true]
                             $description[**Command:** \`withdraw\`
-    **aliases:** [\`with\`\] 
-    **description:**  \`Withdraw money from your bank to your wallet.\`
-    **Usage:** \`akira withdraw [amount]\`
-    
-    **Example:**
-    \`\`\`
-    akira withdraw 100
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]
+**Aliases:** [\`with\`\] 
+**Description:**  \`Withdraw money from your bank to your wallet.\`
+**Usage:** \`akira withdraw [amount]\`
+
+**Example:**
+\`\`\`
+akira withdraw 100
+\`\`\`
+**Module\:** \`Economy\`
+]
                             $else
                                 $if[$checkContains[$toLowerCase[$message[1]];eval;ev;djs]==true]
                                 $description[**Command:** \`eval\`
-    **aliases:** [\`ev\`,\`djs\`\] 
-    **description:**  \`Run a d.js/javascript code.\`
-    **Usage:** \`akira eval [code]\`
-    
-    **Example:**
-    \`\`\`
-    akira eval message.channel.send('hello world')
-    \`\`\`
-    **Module\:** \`Dev\`
-    ]
+**Aliases:** [\`ev\`,\`djs\`\] 
+**Description:**  \`Run a d.js/javascript code.\`
+**Usage:** \`akira eval [code]\`
+
+**Example:**
+\`\`\`
+akira eval message.channel.send('hello world')
+\`\`\`
+**Module\:** \`Dev\`
+]
                                 $else
                                     $if[$checkContains[$toLowerCase[$message[1]];serverinfo;server-info;server;guildinfo;guild-info;guild]==true]
                                         $description[**Command:** \`ServerInfo\`
-    **aliases:** [\`server-info\`,\`server\`,\`guildinfo\`,\`guild-info\`,\`guild\`\] 
-    **description:**  \`show info about the current server.\`
-    **Usage:** \`akira serverinfo\`
-    
-    **Example:**
-    \`\`\`
-    akira serverinfo
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]
+**Aliases:** [\`server-info\`,\`server\`,\`guildinfo\`,\`guild-info\`,\`guild\`\] 
+**Description:**  \`show info about the current server.\`
+**Usage:** \`akira serverinfo\`
+
+**Example:**
+\`\`\`
+akira serverinfo
+\`\`\`
+**Module\:** \`Utility\`
+]
                                     $else
                                         $if[$checkContains[$toLowerCase[$message[1]];settings;setting]==true]
                                             $description[**Command:** \`Settings\`
-    **aliases:** [\`setting\`\] 
-    **description:**  \`See your settings.\`
-    **Usage:** \`akira settings\`
-    
-    **Example:**
-    \`\`\`
-    akira settings
-    \`\`\`
-    **Note:** 
-    \`\`\`
-    to see the server setting you need "Admin" permission in discord or the "server-settings" permission in akira {akira perms add server-settings} 
-    \`\`\`
-    
-    **Module\:** \`Utility\`
-    ]
+**Aliases:** [\`setting\`\] 
+**Description:**  \`See your settings.\`
+**Usage:** \`akira settings\`
+
+**Example:**
+\`\`\`
+akira settings
+\`\`\`
+**Note:** 
+\`\`\`
+to see the server setting you need "Admin" permission in discord or the "server-settings" permission in akira {akira perms add server-settings} 
+\`\`\`
+
+**Module\:** \`Utility\`
+]
                                         $else
                                             $if[$checkContains[$toLowerCase[$message[1]];prefix;setprefix;set-prefix]==true]
                                                 $description[**Command:** \`prefix\`
-    **aliases:** [\`setprefix\`,\`set-prefix\`\] 
-    **description:**  \`Change your own or the server prefix.\`
-    **Usage:** \`akira prefix [newPrefix\] <user/server>\`
-    
-    **Example:**
-    \`\`\`
-    akira prefix ! user
-    akira prefix ?
-    \`\`\`
-    
-    **Module\:** \`Utility\`
-    ]
+**Aliases:** [\`setprefix\`,\`set-prefix\`\] 
+**Description:**  \`Change your own or the server prefix.\`
+**Usage:** \`akira prefix [newPrefix\] <user/server>\`
+
+**Example:**
+\`\`\`
+akira prefix ! user
+akira prefix ?
+\`\`\`
+
+**Module\:** \`Utility\`]
                                             $else
                                                 $if[$checkContains[$toLowerCase[$message[1]];ban]==true]
                                                     $description[**Command:** \`ban\`
-**aliases:** [\`None\`\] 
-**description:**  \`bans the user with the given reason.\`
+**Aliases:** [\`None\`\] 
+**Description:**  \`bans the user with the given reason.\`
 **Usage:** \`akira ban <user> {reason}\`
-**Bot Perms:** \`BanMembers or admin\`
+**Bot Perms:** \`BanMembers or Admin\`
 **User Perms:** \`BanMembers or Admin\`
 
 **Example:**\`\`\`
@@ -160,12 +159,12 @@ akira ban @Dark-LYNN spamming\`\`\`
 
 **Module\:** \`Moderation\`]
                                                 $else
-                                                    $if[$checkContains[$toLowerCase[$message[1]];ban]==true]
+                                                    $if[$checkContains[$toLowerCase[$message[1]];kick]==true]
                                                         $description[**Command:** \`kick\`
-**aliases:** [\`None\`\] 
-**description:**  \`kick a user from the server.\`
+**Aliases:** [\`None\`\] 
+**Description:**  \`kick a user from the server.\`
 **Usage:** \`akira kick <user> {reason}\`
-**Bot Perms:** \`KickMembers or admin\`
+**Bot Perms:** \`KickMembers or Admin\`
 **User Perms:** \`KickMembers or Admin\`
 
 **Example:**\`\`\`
@@ -174,7 +173,39 @@ akira kick @Dark-LYNN spamming\`\`\`
 
 **Module\:** \`Moderation\`]
                                                     $else
-                                                        $description[I couldn't found "$message" in my command list.]
+                                                        $if[$checkContains[$toLowerCase[$message[1]];clean;clear]==true]
+                                                            $description[**Command:** \`clean\`
+**Aliases:** [\`clear\`\] 
+**Description:**  \`Quickly delete multiple messages from a channel.\`
+**Usage:** \`akira clean {channel} <Filter>\`
+**Bot Perms:** \`ManageMessages or Admin\`
+**User Perms:** \`ManageMessages or Admin\`
+
+**Example:**\`\`\`
+akira clear user @Dark-LYNN
+akira clear bots
+akira clear akira
+akira clear me\`\`\`
+
+**Module\:** \`Moderation\`]
+                                                        $else
+                                                            $if[$checkContains[$toLowerCase[$message[1]];giverole]==true]
+                                                                $description[**Command:** \`giverole\`
+**Aliases:** [\`none\`\] 
+**Description:**  \`Quickly assign a role to a member.\`
+**Usage:** \`akira giverole <user> <role> {reason}\`
+**Bot Perms:** \`ManageRoles or Admin\`
+**User Perms:** \`ManageRoles or Admin\`
+
+**Example:**\`\`\`
+akira giverole @Dark-LYNN @developer
+akira giverole @Dark-LYNN @mod became moderator\`\`\`
+
+**Module\:** \`Moderation\`]
+                                                            $else
+                                                                $description[I couldn't found "$message" in my command list.]
+                                                            $endif
+                                                        $endif
                                                     $endif
                                                 $endif
                                             $endif
