@@ -146,23 +146,7 @@ module.exports = ({
     **Module\:** \`Utility\`
     ]
                                             $else
-                                                $if[$checkContains[$toLowerCase[$message[1]];ban;ban]==true]
-                                                    $description[**Command:** \`prefix\`
-**aliases:** [\`setprefix\`,\`set-prefix\`\] 
-**description:**  \`Change your own or the server prefix.\`
-**Usage:** \`akira prefix [newPrefix\] <user/server>\`
-
-**Example:**
-\`\`\`
-akira prefix ! user
-akira prefix ?
-\`\`\`
-
-**Module\:** \`Utility\`
-]
-                                                $else
-                                                    $description[I couldn't found "$message" in my command list.]
-                                                $endif
+                                                $description[I couldn't found "$message" in my command list.]
                                             $endif
                                         $endif
                                     $endif
@@ -173,7 +157,11 @@ akira prefix ?
                 $endif
             $endif
         $endif
-        $addField[Extra links and information:;[[Invite akira\](https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=8&scope=bot%20applications.commands)\] | [Support Server\] | [Vote\] | [Website\] | [Premium\]]
+        $onlyIf[$message!=;{newEmbed:{color:ff3333}{title:❌ Something went wrong!}{description:Wrong usage of the command \`commandinfo\`
+please try:
+\`\`\`
+$getGlobalUserVar[prefix] commandinfo <command>\`\`\`}}]
+    $addField[Extra links and information:;[[Invite akira\](https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=8&scope=bot%20applications.commands)\] | \[[Support Server](https://discord.com/invite/TUqZTutDUz)\] | \[[Vote](https://akira.lynnux.xyz/vote)\] | \[[Website](https://akira.lynnux.xyz)\] | [Premium\]]
     
     $textSplit[$message[1]1274,^-=-;1274,^-=-]
     `})
