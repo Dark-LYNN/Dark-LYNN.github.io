@@ -19,7 +19,7 @@ Reported On <t:$round[$divide[$djsEval[Date.now();yes];1000]]:t> - <t:$round[$di
 $replaceText[$message;$message[1] ;;1]}}]
             $setServerVar[bugNR;$sum[$getServerVar[bugNR;738381353921544282];1];738381353921544282]
             $setGlobalUserVar[bugNR;$sum[$getGlobalUserVar[bugNR];1]]
-            $globalCooldown[1m;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+            $globalCooldown[1h;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
         $else
             $title[❌ Something went wrong!]
             $color[ff3333] $description[Wrong usage of the \`report bug\` command:
@@ -41,7 +41,7 @@ $replaceText[$replaceText[$message;$message[1] ;;1];$message[2] ;;1]}}]
                     $description[A report under the category "\`user\`" has been sent.
 Thanks to our awesome members like you we can keep Akira user friendly and safe for everyone.]                    
                     $addField[Keep in mind:;Abusing this command could get you warned or even blacklisted from Akira.]
-                    $globalCooldown[1m;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+                    $globalCooldown[1h;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
 
                 $else
                     $title[❌ Something went wrong!]
@@ -77,7 +77,7 @@ Thanks to our awesome members like you we can keep Akira easy to use and underst
                             $setGlobalUserVar[typoNR;$sum[$getGlobalUserVar[typoNR];1]]
                             $setServerVar[typoNR;$sum[$getServerVar[bugNR;738381353921544282];1];738381353921544282]
                 
-                            $globalCooldown[1m;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+                            $globalCooldown[1h;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
                         $else
                             $title[❌ Something went wrong!]
                             $color[ff3333] $description[Wrong usage of the \`report typo\` command:
@@ -117,7 +117,7 @@ Server - $serverName[$message[2]] ||$message[2]||}{field:Reason:
 Thanks to our awesome members like you we can keep Akira easy to use and understandable for everyone.] 
                                 $footer[This is your "$getGlobalUserVar[typoNR]"th typo report]
                             
-                                $globalCooldown[1m;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+                                $globalCooldown[1h;{newEmbed:{title:❌ You're on cooldown!}{color:ff3333}{description:You're on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
                             $else
                                 $title[❌ Something went wrong!]
                                 $color[ff3333] $description[I can't find this server, this server either doesn't exist or I'm not in that server.]    
