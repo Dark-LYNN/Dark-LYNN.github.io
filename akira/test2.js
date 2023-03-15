@@ -109,7 +109,7 @@ $getGlobalUserVar[prefix]report typo <command> <Current Content> <Expected Conte
                                 $channelSendMessage[1085289598097313845;{newEmbed:{color:$getVar[color]}{title:Server Report}{description:
 Reported By <@$authorID> - \`@$userTag\` ||$authorID||
 Reported On <t:$round[$divide[$djsEval[Date.now();yes];1000]]:t> - <t:$round[$divide[$djsEval[Date.now();yes];1000]]:D>
-Server - $serverName[$message[2]] ||$message[2]||}{field:Reaspn:
+Server - $serverName[$message[2]] ||$message[2]||}{field:Reason:
                                 $replaceText[$replaceText[$message;$message[1] ;;1];$message[2] ;;1]}}]                            
                                 $title[Typo Reported!]
                                 $color[$getVar[color]]
