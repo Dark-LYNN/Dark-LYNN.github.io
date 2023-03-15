@@ -1,205 +1,123 @@
-module.exports = ({
-    name: "kick",
-    description: "kick a user from the server",
+module.exports = [{
+	name: "report",
+	description: "Report your problem or user",
     $if: "old",
-    usage: "$getServerVar[prefix]kick <user> {reason}",
-    code: `
-    $if[$getServerVar[moderation]==enabled]
-        $if[$getServerVar[kick]==enabled]
-            $if[$getChannelVar[ignored]==false]
-                $if[$checkContains[$userPerms[$authorID];kickmembers;admin]==true]
-                    $if[$findUser[$message[1]]!=$authotID]
-                        $if[$findUser[$message[1]]!=$ownerID]
-                            $if[$findUser[$message[1]]!=$clientID]
-                                $if[$authorID==$ownerID]
-                                    $if[$message[2]==]
-                                        $if[$rolePosition[$highestRole[$findUser[$message[1]]];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
-                                            $title[User kicked]
-                                            $thumbnail[$userAvatar[$splitText[1]]]
-                                            $color[$getServerVar[color]]
-                                            $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-No reason given.
-\`\`\`]
-                                            $footer[Kicked by @$userTag]
-                                            $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-No reason given.
-\`\`\`}}]
-                                            $else
-                                            $endif
-                                            $kick[$findUser[$message[1]];$guildID;No Reason Given! ~ Kicked By @$userTag]
-                                        $else
-                                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't kick this user!}{description:This user has a higher or the same role as me,
-if you want me to kick, put my highest role above the user's higest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-kick.png}}]                                            
-                                        $endif
-                                    $else
-                                        $if[$rolePosition[$highestRole[$findUser[$message[1]]];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
-                                            $title[User kicked]
-                                            $thumbnail[$userAvatar[$splitText[1]]]
-                                            $color[$getServerVar[color]]
-                                            $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`]
-                                            $footer[kicked by @$userTag]
-                                            $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`}}]
-                                            $else
-                                            $endif
-                                            $kick[$findUser[$message[1]];$guildID;$replaceText[$message;$message[1] ;;1] ~ Kicked By @$userTag]
-                                        $else
-                                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't kick this user!}{description:This user has a higher or the same role as me,
-if you want me to kick, put my highest role above the user's higest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-kick.png}}]                                                                                                                            
-                                        $endif
-                                    $else
-                                    $endif
-                                $else
-                                    $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
-                                        $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$authorID;$guildID;id];$guildID]]
-                                            $if[$message[2]==]
-                                                $title[User kicked]
-                                                $thumbnail[$userAvatar[$splitText[1]]]
-                                                $color[$getServerVar[color]]
-                                                $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-No reason given.
-\`\`\`]
-                                                $footer[Kicked by @$userTag]
-                                                $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-No reason given.
-\`\`\`}}]
-                                                $else
-                                                $endif
-                                                $kick[$findUser[$message[1]];$guildID;No Reason Given! ~ Kicked By @$userTag]
-                                            $else
-                                                $title[User kicked]
-                                                $thumbnail[$userAvatar[$splitText[1]]]
-                                                $color[$getServerVar[color]]
-                                                $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`]
-                                                $footer[kicked by @$userTag]
-                                                $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`}}]
-                                                $else
-                                                $endif
-                                                $kick[$findUser[$message[1]];$guildID;$replaceText[$message;$message[1] ;;1] ~ Kicked By @$userTag]
-                                            $endif
-                                        $else
-                                            $if[$splitText[2]!=$ownerID]
-                                                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't kick this user!}{description:This user has a higher or the same role as you.}}]
-                                            $else
-                                                $if[$message[2]==]
-                                                    $title[User kicked]
-                                                    $thumbnail[$userAvatar[$splitText[1]]]
-                                                    $color[$getServerVar[color]]
-                                                    $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-No reason given.
-\`\`\`]
-                                                    $footer[Kicked by @$userTag]
-                                                    $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                        $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-No reason given.
-\`\`\`}}]
-                                                    $else
-                                                    $endif
-                                                    $kick[$findUser[$message[1]];$guildID;No Reason Given! ~ Kicked By @$userTag]
-                                                $else
-                                                    $title[User kicked]
-                                                    $thumbnail[$userAvatar[$splitText[1]]]
-                                                    $color[$getServerVar[color]]
-                                                    $description[**User:** <@$splitText[1]> ||$splitText[1]||
-**Reason:** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`]
-                                                    $footer[Kicked by @$userTag]
-                                                    $if[$getServerVar[botLogChannel]!=1083095711094149180]
-                                                        $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User kicked}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Kicked by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
-**Reason** \`\`\`
-$replaceText[$message;$message[1] ;;1]
-\`\`\`}}]
-                                                    $else
-                                                    $endif
-                                                    $kick[$findUser[$message[1]];$guildID;$replaceText[$message;$message[1] ;;1] ~ Kicked By @$userTag]
-                                                $endif
-                                            $endif
-                                        $endif
-                                    $else
-                                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't kick this user!}{description:This user has a higher or the same role as me,
-if you want me to kick, put my highest role above the user's highest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-kick.png}}]
-                                    $endif
-                                $endif
-                            $else
-                                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't kick this user!}{description:You cannot kick me, if you want me to leave please use
-\`\`\`
-a.pleaseleavemyserver
-\`\`\`}{footer:Only the server owner can use the above mentioned command.}}]
-                            $endif
-                        $else
-                            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Couldn't kick this user!}{description:The server owner can't be kick.}}]
-                        $endif
-                    $else
-                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Couldn't find this user!}{description:}}]
-                    $endif
-                $else
-                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ No permissions!}{description:You do not have the right permission to use this command}{footer:Required permission = KickMembers / Admin}}]
-                $endif
-            $else
-                $if[$checkContains[$userPerms;administrator]==true]
-                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Channel Ignored!}{description:An admin of this server choose to ignore this channel.
-You can stop ignoring this channel by using:
-\`\`\`
-a.listen
-\`\`\`}}]
-                $else
-                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Channel Ignored!}{description:An admin of this server choose to ignore this channel.}}]
-                $endif
-            $endif
+	usage: "$getServerVar[prefix]report <filter> <message>",
+	code: `
+	$if[$toLowercase[$message[1]]==bug]
+        $if[$message[2]!=]
+            $title[Thank you!]
+            $description[A report under the category "\`bug\`" has been send.
+Thanks to our awesome members like you we can keep Akira "almost" bug-free.]
+            $addField[Keep in mind:;Abusing this command could get you warned or even blacklisted from Akira.]
+            $footer[This is your "$getGlobalUserVar[bugNR]"th bug report]
+            $color[$getVar[color]]
+            $setVar[bugNR;$sum[$getVar[bugNR];1]]
+            $channelSendMessage[1085247933726867516;{newEmbed:{color:$getVar[color]}{title:Bug Report #$getServerVar[bugNR;738381353921544282]}{description:
+Reported By <@$authorID> - \`@$userTag\` ||$authorID||
+Reported On <t:$round[$divide[$djsEval[Date.now();yes];1000]]:t> - <t:$round[$divide[$djsEval[Date.now();yes];1000]]:D>}{field:Bug Explained:
+$replaceText[$message;$message[1] ;;1]}}]
+            $setServerVar[bugNR;$sum[$getServerVar[bugNR;738381353921544282];1];738381353921544282]
+            $setGlobalUserVar[bugNR;$sum[$getGlobalUserVar[bugNR];1]]
+            $globalCooldown[1m;{newEmbed:{title:❌ Your on cooldown!}{color:ff3333}{description:Your on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
         $else
-            $if[$checkContains[$userPerms;administrator]==true]
-                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Kick\` command.
-You can re-enable it by using:
+            $title[❌ Something went wrong!]
+            $color[ff3333] $description[Wrong usage of the \`report bug\` command:
+Try to use
 \`\`\`
-a.enable kick
-\`\`\`}}]
-            $else
-                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Kick\` command.}}]
-            $endif
+$getGlobalUserVar[prefix]report bug <bug>\`\`\`]
         $endif
     $else
-        $if[$checkContains[$userPerms;administrator]==true]
-            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Moderation\` module.
-You can re-enable it by using:
+        $if[$toLowercase[$message[1]]==user]
+            $if[$findUser[$message[2]]!=$authorID]
+                $if[$message[3]!=]
+                    $channelSendMessage[1085269953072070686;{newEmbed:{color:$getVar[color]}{title:Bug Report #$getServerVar[bugNR;738381353921544282]}{description:
+Reported By <@$authorID> - \`@$userTag\` ||$authorID||
+Reported On <t:$round[$divide[$djsEval[Date.now();yes];1000]]:t> - <t:$round[$divide[$djsEval[Date.now();yes];1000]]:D>}{field:Report Explained:
+$replaceText[$replaceText[$message;$message[1] ;;1];$message[2] ;;1]}}]
+                    $title[User Reported!]
+                    $thumbnail[$userAvatar[$findUser[$message[2]]]]
+                    $color[$getVar[color]]
+                    $description[A report under the category "\`user\`" has been send.
+Thanks to our awesome members like you we can keep Akira user friendly and safe for everyone.]                    
+                    $addField[Keep in mind:;Abusing this command could get you warned or even blacklisted from Akira.]
+                    $globalCooldown[1m;{newEmbed:{title:❌ Your on cooldown!}{color:ff3333}{description:Your on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+
+                $else
+                    $title[❌ Something went wrong!]
+                    $color[ff3333] $description[Wrong usage of the \`report user\` command:
+Try to use
 \`\`\`
-a.enable moderation
-\`\`\`}}]
+$getGlobalUserVar[prefix]report user <user> <reason>\`\`\`]
+
+                $endif
+            $else
+                $title[❌ Something went wrong!]
+                $color[ff3333] $description[Wrong usage of the \`report user\` command:
+Try to use
+\`\`\`
+$getGlobalUserVar[prefix]report user <user> <reason>\`\`\`]$footer[You can't report yourself.]
+            $endif
         $else
-            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Moderation\` module.}}]
+            $if[$toLowercase[$message[1]]==typo]
+                $if[$message[2]!=]
+                    $if[$message[3]!=]
+                        $if[$message[4]!=]
+                            $channelSendMessage[1085274969057017927;{newEmbed:{color:$getVar[color]}{title:Bug Report #$getServerVar[typoNR;738381353921544282]}{description:
+Reported By <@$authorID> - \`@$userTag\` ||$authorID||
+Reported On <t:$round[$divide[$djsEval[Date.now();yes];1000]]:t> - <t:$round[$divide[$djsEval[Date.now();yes];1000]]:D>
+Reported command \`$message[2]\`}{field:Typo:
+$replaceText[$replaceText[$message;$message[1] ;;1];$message[2] ;;1]}}]                            
+                            $title[Typo Reported!]
+                            $color[$getVar[color]]
+                            $description[A report under the category "\`typo\`" has been send.
+Thanks to our awesome members like you we can keep Akira easy to use and understandable for everyone.] 
+                            $footer[This is your "$getGlobalUserVar[typoNR]"th typo report]
+                            $addField[Keep in mind:;Abusing this command could get you warned or even blacklisted from Akira.]
+                            $setGlobalUserVar[typoNR;$sum[$getGlobalUserVar[typoNR];1]]
+                            $setServerVar[typoNR;$sum[$getServerVar[bugNR;738381353921544282];1];738381353921544282]
+                
+                            $globalCooldown[1m;{newEmbed:{title:❌ Your on cooldown!}{color:ff3333}{description:Your on a cooldown for another \`%time%\`.}{footer:Report has a cooldown of 1 hour.}}]
+                        $else
+                            $title[❌ Something went wrong!]
+                            $color[ff3333] $description[Wrong usage of the \`report typo\` command:
+Try to use
+\`\`\`
+$getGlobalUserVar[prefix]report typo $message[2] $message[3] <Exected Content>\`\`\`]
+
+                        $endif
+                    $else
+                        $title[❌ Something went wrong!]
+                        $color[ff3333] $description[Wrong usage of the \`report typo\` command:
+Try to use
+\`\`\`
+$getGlobalUserVar[prefix]report typo $message[2] <Current Content> <Exected Content>\`\`\`]
+
+                    $endif
+                $else
+                    $title[❌ Something went wrong!]
+                    $color[ff3333] $description[Wrong usage of the \`report typo\` command:
+Try to use
+\`\`\`
+$getGlobalUserVar[prefix]report typo <command> <Current Content> <Exected Content>\`\`\`]
+                $endif
+            $else
+                $if[$toLowercase[$message[1]]==server]
+                    $if[$isNumber[$message[2]]==true]
+                        $if[]
+                    $else
+                    $endif
+                $else
+                $endif
+            $endif
         $endif
     $endif
-
-    $textSplit[$findUser[$message[1]]-=OwO=-$authorID;-=OwO=-]
-
-    $onlyIf[$guildID!=;{newEmbed:{color:ff3333}{title:❌ Something went wrong!}{description:Please use this command in a server.}}]
-`})
-
-
-/*
-Text Split Map
-
-1 = User Found In Message 1
-2 = AuthorID
-*/
+	
+	$onlyIf[$message[1]!=;{newEmbed:{title:❌ No filter Found!}{description:Please use one of the following filters#COLON#
+\`\`\`
+$getGlobalUserVar[prefix]report user <userID> <reason>
+$getGlobalUserVar[prefix]report bug <bug>
+$getGlobalUserVar[prefix]report typo <command> <Current Content> <Exected Content>
+$getGlobalUserVar[prefix]report server <serverID> <reason>
+\`\`\`}{color:ff3333}}]
+`}]
