@@ -126,7 +126,7 @@ Thanks to our awesome members like you we can keep Akira easy to use and underst
                             $title[❌ Something went wrong!]
                             $color[ff3333]
                             $addField[Need help to copyIDs?; Check our [Windows/MacOS/Linux\](https://docs.lynnux.xyz/other-tutorials/findingids/windows-macos-linux) tutorials]
-                            $description[I can't find the \`$message[2]\` in my server lists, make sure to use an server ID]
+                            $description[I can't find \`$message[2]\` in my server lists, make sure to use an server ID]
                         $endif
                     $else
                         $title[❌ Something went wrong!]
