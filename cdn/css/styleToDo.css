@@ -292,12 +292,12 @@ body{
     padding:16px
 }
 .Section__title{
-    font-size:15px;
-    font-weight:700;
-    line-height:18px;
-    overflow:hidden;
-    text-overflow:ellipsis;
-    white-space:nowrap
+    font-size: 20px;
+    font-weight: 1000;
+    line-height: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .Section__content{
     display:flex;
