@@ -318,14 +318,12 @@ body{
     -webkit-box-orient:vertical;
     -webkit-line-clamp:3;
     display:-webkit-box;
+    font-size:14px;
     letter-spacing:-.3px;
-    word-break:break-word;
-    font-size: 20px;
-    font-weight: 1000;
-    line-height: 22px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    line-height:16px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-break:break-word
 }
 .Card__title a{
     color:var(--primary-color)
