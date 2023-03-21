@@ -1,205 +1,205 @@
 module.exports = ({
-    name: "commandinfo",
-    aliases: ['command-info','command'],
+    name: "ban",
+    description: "bans the user with the given reason",
     $if: "old",
-    description: "show info about akira",
-    usage: "$getServerVar[prefix]commandinfo",
+    usage: "$getServerVar[prefix]ban <user> {reason}",
     code: `
-        $title[Commandinfo: "$message[1]"]
-        $color[$getServerVar[color]]
-        $if[$checkContains[$toLowerCase[$message[1]];about;ping]==true]
-        $description[**Command:** \`about\`
-    **aliases:** [\`ping\`\] 
-    **description:**  \`Check the details about akira like latancy etc\`
-    **Usage:** \`akira about\`
-    
-    **Example:**
-    \`\`\`
-    akira about
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]
-        $else
-            $if[$checkContains[$toLowerCase[$message[1]];whois;who-is;user;userinfo;user-info]==true]
-            $description[**Command:** \`userinfo\`
-    **aliases:** [\`user-info\`,\`user\`,\`whois\`,\`who-is\`\] 
-    **description:**  \`Check the details about a user\`
-    **Usage:** \`akira userinfo [user]\`
-    
-    **Example:**
-    \`\`\`
-    akira userinfo @Dark-LYNN#6568
-    akira userinfo 705306248538488947
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]		
-            $else
-                $if[$checkContains[$toLowerCase[$message[1]];commandinfo;command-info;command]==true]
-                    $description[**Command:** \`commandinfo\`
-    **aliases:** [\`command-info\`,\`command\`\] 
-    **description:**  \`Check the details about a user\`
-    **Usage:** \`akira commandinfo [command]\`
-    
-    **Example:**
-    \`\`\`
-    akira commandinfo ping
-    \`\`\`
-    **Module\:** \`Help\`
-    ]		
-                $else
-                    $if[$checkContains[$toLowerCase[$message[1]];balance;bal;money;wallet]==true]
-                    $description[**Command:** \`balance\`
-    **aliases:** [\`bal\`,\`money\`,\`wallet\`\] 
-    **description:**  \`Check how much money is in your wallet and in your bank.\`
-    **Usage:** \`akira balance <user>\`
-    
-    **Example:**
-    \`\`\`
-    akira balance
-    akira balance @Dark-LYNN#6568
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]		
-                    $else
-                        $if[$checkContains[$toLowerCase[$message[1]];deposit;dep]==true]
-                        $description[**Command:** \`deposit\`
-    **aliases:** [\`dep\`\] 
-    **description:**  \`Deposit money from your wallet to your bank.\`
-    **Usage:** \`akira deposit [amount]\`
-    
-    **Example:**
-    \`\`\`
-    akira deposit 100
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]
-                        $else
-                            $if[$checkContains[$toLowerCase[$message[1]];withdraw;with]==true]
-                            $description[**Command:** \`withdraw\`
-    **aliases:** [\`with\`\] 
-    **description:**  \`Withdraw money from your bank to your wallet.\`
-    **Usage:** \`akira withdraw [amount]\`
-    
-    **Example:**
-    \`\`\`
-    akira withdraw 100
-    \`\`\`
-    **Module\:** \`Economy\`
-    ]
-                            $else
-                                $if[$checkContains[$toLowerCase[$message[1]];eval;ev;djs]==true]
-                                $description[**Command:** \`eval\`
-    **aliases:** [\`ev\`,\`djs\`\] 
-    **description:**  \`Run a d.js/javascript code.\`
-    **Usage:** \`akira eval [code]\`
-    
-    **Example:**
-    \`\`\`
-    akira eval message.channel.send('hello world')
-    \`\`\`
-    **Module\:** \`Dev\`
-    ]
-                                $else
-                                    $if[$checkContains[$toLowerCase[$message[1]];serverinfo;server-info;server;guildinfo;guild-info;guild]==true]
-                                        $description[**Command:** \`ServerInfo\`
-    **aliases:** [\`server-info\`,\`server\`,\`guildinfo\`,\`guild-info\`,\`guild\`\] 
-    **description:**  \`show info about the current server.\`
-    **Usage:** \`akira serverinfo\`
-    
-    **Example:**
-    \`\`\`
-    akira serverinfo
-    \`\`\`
-    **Module\:** \`Utility\`
-    ]
-                                    $else
-                                        $if[$checkContains[$toLowerCase[$message[1]];settings;setting]==true]
-                                            $description[**Command:** \`Settings\`
-    **aliases:** [\`setting\`\] 
-    **description:**  \`See your settings.\`
-    **Usage:** \`akira settings\`
-    
-    **Example:**
-    \`\`\`
-    akira settings
-    \`\`\`
-    **Note:** 
-    \`\`\`
-    to see the server setting you need "Admin" permission in discord or the "server-settings" permission in akira {akira perms add server-settings} 
-    \`\`\`
-    
-    **Module\:** \`Utility\`
-    ]
-                                        $else
-                                            $if[$checkContains[$toLowerCase[$message[1]];prefix;setprefix;set-prefix]==true]
-                                                $description[**Command:** \`prefix\`
-    **aliases:** [\`setprefix\`,\`set-prefix\`\] 
-    **description:**  \`Change your own or the server prefix.\`
-    **Usage:** \`akira prefix [newPrefix\] <user/server>\`
-    
-    **Example:**
-    \`\`\`
-    akira prefix ! user
-    akira prefix ?
-    \`\`\`
-    
-    **Module\:** \`Utility\`
-    ]
+    $if[$getServerVar[moderation]==enabled]
+        $if[$getServerVar[ban]==enabled]
+            $if[$getChannelVar[ignored]==false]
+                $if[$checkContains[$userPerms[$authorID];kickmembers;admin]==true]
+                    $if[$findUser[$message[1]]!=$authotID]
+                        $if[$findUser[$message[1]]!=$ownerID]
+                            $if[$findUser[$message[1]]!=738057910923296839]
+                                $if[$authorID==$ownerID]
+                                    $if[$message[2]==]
+                                        $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
+                                            $title[User Banned]
+                                            $thumbnail[$userAvatar[$splitText[1]]]
+                                            $color[$getServerVar[color]]
+                                            $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+No reason given.
+\`\`\`]
+                                            $footer[Banned by @$userTag]
+                                            $if[$getServerVar[botLogChannel]!=1083095711094149180]
+                                                $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+No reason given.
+\`\`\`}}]
                                             $else
-                                                $if[$checkContains[$toLowerCase[$message[1]];ban]==true]
-                                                    $description[**Command:** \`ban\`
-**aliases:** [\`None\`\] 
-**description:**  \`bans the user with the given reason.\`
-**Usage:** \`akira ban <user> {reason}\`
-**Bot Perms:** \`BanMembers or admin\`
-**User Perms:** \`BanMembers or Admin\`
-
-**Example:**\`\`\`
-akira ban @Dark-LYNN
-akira ban @Dark-LYNN spamming\`\`\`
-
-**Module\:** \`Moderation\`]
+                                            $endif
+                                            $ban[$guildID;$findUser[$message[1]];7;No Reason Given! ~ Banned By @$userTag]
+                                        $else
+                                            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't ban this user!}{description:This user has a higher or the same role as me,
+if you want me to ban them put my highest role above the user's highest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-Ban.png}}]                                            
+                                        $endif
+                                    $else   
+                                        $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
+                                            $title[User Banned]
+                                            $thumbnail[$userAvatar[$splitText[1]]]
+                                            $color[$getServerVar[color]]
+                                            $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`]
+                                            $footer[Banned by @$userTag]
+                                            $if[$getServerVar[botLogChannel]!=1083095711094149180]
+                                                $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`}}]
+                                            $else
+                                            $endif
+                                            $ban[$guildID;$findUser[$message[1]];7;$replaceText[$message;$message[1] ;;1] ~ Banned By @$userTag]
+                                        $else
+                                            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't ban this user!}{description:This user has a higher or the same role as me,
+if you want me to ban them put my highest role above the user's highest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-Ban.png}}]                                                                                        
+                                        $endif
+                                    $endif
+                                $else
+                                    $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$clientID;$guildID;id];$guildID]]
+                                        $if[$rolePosition[$highestRole[$findUser[$message[1]];$guildID;id];$guildID]>$rolePosition[$highestRole[$authorID;$guildID;id];$guildID]]
+                                            $if[$message[2]==]
+                                                $title[User Banned]
+                                                $thumbnail[$userAvatar[$splitText[1]]]
+                                                $color[$getServerVar[color]]
+                                                $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+No reason given.
+\`\`\`]
+                                                $footer[Banned by @$userTag]
+                                                $if[$getServerVar[botLogChannel]!=926203126116122625]
+                                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+No reason given.
+\`\`\`}}]
                                                 $else
-                                                    $if[$checkContains[$toLowerCase[$message[1]];ban]==true]
-                                                        $description[**Command:** \`kick\`
-**aliases:** [\`None\`\] 
-**description:**  \`kick a user from the server.\`
-**Usage:** \`akira kick <user> {reason}\`
-**Bot Perms:** \`KickMembers or admin\`
-**User Perms:** \`KickMembers or Admin\`
-
-**Example:**\`\`\`
-akira kick @Dark-LYNN
-akira kick @Dark-LYNN spamming\`\`\`
-
-**Module\:** \`Moderation\`]
+                                                $endif
+                                                $ban[$guildID;$findUser[$message[1]];7;No Reason Given! ~ Banned By @$userTag]
+                                            $else
+                                                $title[User Banned]
+                                                $thumbnail[$userAvatar[$splitText[1]]]
+                                                $color[$getServerVar[color]]
+                                                $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`]
+                                                $footer[Banned by @$userTag]
+                                                $if[$getServerVar[botLogChannel]!=926203126116122625]
+                                                    $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`}}]
+                                                $else
+                                                $endif
+                                                $ban[$guildID;$findUser[$message[1]];7;$replaceText[$message;$message[1] ;;1] ~ Banned By @$userTag]
+                                            $endif
+                                        $else
+                                            $if[$splitText[2]!=$ownerID]
+                                                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't ban this user!}{description:This user has a higher or the same role as you.}}]
+                                            $else
+                                                $if[$message[2]==]
+                                                    $title[User Banned]
+                                                    $thumbnail[$userAvatar[$splitText[1]]]
+                                                    $color[$getServerVar[color]]
+                                                    $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+No reason given.
+\`\`\`]
+                                                    $footer[Banned by @$userTag]
+                                                    $if[$getServerVar[botLogChannel]!=926203126116122625]
+                                                        $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+No reason given.
+\`\`\`}}]
                                                     $else
-                                                        $description[I couldn't found "$message" in my command list.]
                                                     $endif
+                                                    $ban[$guildID;$findUser[$message[1]];7;No Reason Given! ~ Banned By @$userTag]
+                                                $else
+                                                    $title[User Banned]
+                                                    $thumbnail[$userAvatar[$splitText[1]]]
+                                                    $color[$getServerVar[color]]
+                                                    $description[**User:** <@$splitText[1]> ||$splitText[1]||
+**Reason:** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`]
+                                                    $footer[Banned by @$userTag]
+                                                    $if[$getServerVar[botLogChannel]!=926203126116122625]
+                                                        $channelSendMessage[$getServerVar[botLogChannel];{newEmbed:{color:$getServerVar[color]}{title:User Banned}{thumbnail:$userAvatar[$findUser[$message[1]]]}{footer:Banned by @$userTag}{description:**User** <@$findUser[$message[1]]> ||$findUser[$message[1]]||
+**Reason** \`\`\`
+$replaceText[$message;$message[1] ;;1]
+\`\`\`}}]
+                                                    $else
+                                                    $endif
+                                                    $ban[$guildID;$findUser[$message[1]];7;$replaceText[$message;$message[1] ;;1] ~ Banned By @$userTag]
                                                 $endif
                                             $endif
                                         $endif
+                                    $else
+                                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't ban this user!}{description:This user has a higher or the same role as me,
+if you want me to ban them put my highest role above the user's highest role.}{image:https://cdn.lynnux.xyz/images/RolePossition-Ban.png}}]
                                     $endif
                                 $endif
+                            $else
+                                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Can't ban this user!}{description:You cannot ban me, if you want me to leave please use
+\`\`\`
+a.pleaseleavemyserver
+\`\`\`}{footer:Only the server owner can use the above mentioned command.}}]
                             $endif
+                        $else
+                            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Couldn't ban this user!}{description:The server owner can't be banned.}}]
                         $endif
+                    $else
+                        $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Couldn't find this user!}{description:}}]
                     $endif
+                $else
+                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ No permissions!}{description:You do not have the right permission to use this command}{footer:Required permission = BanMembers / Admin}}]
+                $endif
+            $else
+                $if[$checkContains[$userPerms;banmembers;administrator]==true]
+                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Channel Ignored!}{description:An admin of this server choose to ignore this channel.
+You can stop ignoring this channel by using:
+\`\`\`
+a.listen
+\`\`\`}}]
+                $else
+                    $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Channel Ignored!}{description:An admin of this server choose to ignore this channel.}}]
                 $endif
             $endif
-        $endif
-        $onlyIf[$message!=;{newEmbed:{color:ff3333}{title:❌ Something went wrong!}{description:Wrong usage of the command \`commandinfo\`
-please try:
+        $else
+            $if[$checkContains[$userPerms;banmembers;administrator]==true]
+                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Ban\` Command.
+You can re-enable it by using:
 \`\`\`
-$getGlobalUserVar[prefix] commandinfo <command>\`\`\`}}]
-    $addField[Extra links and information:;[[Invite akira\](https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=8&scope=bot%20applications.commands)\] | \[[Support Server](https://discord.com/invite/TUqZTutDUz)\] | \[[Vote](https://akira.lynnux.xyz/vote)\] | \[[Website](https://akira.lynnux.xyz)\] | [Premium\]]
-    
-    $textSplit[$message[1]1274,^-=-;1274,^-=-]
-    `})
-    /* 
-        name: "Userinfo",
-        aliases: ["User","user-info","whois","who-is"],
-        description: "show info about a user",
-    
-    $replaceText[$if[$replaceText[$if[$checkContains[$toLowerCase[owo];about;ping]==true];true;about]==true];false;$checkContains[$toLowerCase[owo];userinfo;whois;who-is;user-info;user];true;userinfo]
-    */
-    
+a.enable ban
+\`\`\`}}]
+            $else
+                $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Ban\` Command.}}]
+            $endif
+        $endif
+    $else
+        $if[$checkContains[$userPerms;banmembers;administrator]==true]
+            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Moderation\` module.
+You can re-enable it by using:
+\`\`\`
+a.enable moderation
+\`\`\`}}]
+        $else
+            $channelSendMessage[$channelID;{newEmbed:{color:ff3333}{title:❌ Module Disabled!}{description:An admin of this server chose to disable the \`Moderation\` module.}}]
+        $endif
+    $endif
+
+    $textSplit[$findUser[$message[1]]-=OwO=-$authorID;-=OwO=-]
+
+	$onlyIf[$checkContains[$toLowerCase[$userPerms[$clientID]];admin;banmem]==true;{newEmbed:{color:ff3333}{title:❌ Missing perms!}{description:I am missing the banMembers permissions in this server.}}]
+    $onlyIf[$guildID!=;{newEmbed:{color:ff3333}{title:❌ Something went wrong!}{description:Please use this command in a server.}}]
+`})
+
+
+/*
+Text Split Map
+
+1 = User Found In Message 1
+2 = AuthorID
+*/

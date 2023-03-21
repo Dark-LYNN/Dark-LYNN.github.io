@@ -14,7 +14,7 @@ module.exports = [{
 
                                 $color[$getServerVar[color]]
                                 $title[Channel Nuked]
-                                $description[The channel <#$splitText[1]> has been nuked.]
+                                $description[The channel \`#$channelName[$findServerChannel[$message[1];false];$guildID]\` has been nuked.]
                                 $footer[Nuked by @$usertag]
 
                                 $textSplit[$cloneChannel[$findServerChannel[$message[1];false];$channelName[$findServerChannel[$message[1];false]];true]==OwO==;==OwO==]
