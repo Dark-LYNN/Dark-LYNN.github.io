@@ -240,6 +240,6 @@ $getServerVar[blacklisted]\`\`\`]
             $description[Sorry but this server is on my blacklist.]
         $endif
     $endif
-    $suppressErrors[{newEmbed:{title:❌ Something went wrong!}{color:ff3333}{description:I can't change the color of that role, make sure my role is above the other role}}]
+    $suppressErrors[{newEmbed:{title:❌ Something went wrong!}{color:ff3333}{description:I can't change the color of that role, make sure my role is above the other role.}{image:https://cdn.lynnux.xyz/images/RolePossition-ReColor.png}}]
     $onlyIf[$guildID!=;{newEmbed:{color:ff3333}{title:❌ Something went wrong!}{description:Please use this command in a server.}}]
 `})
