@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lynnux - Portfolio</title>
+    <meta property="og:site_name" content="https://akira.lynnux.xyz/" />
+    <meta property="og:title" content="Lynnux - Portfolio" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Hi there i'm lynn and i am a passionate Discord bot developer and website developer with experience in various programming languages such as Python, JavaScript, and HTML/CSS. I love creating new projects and bringing ideas to life through code. I'm constantly learning and exploring new technologies to improve my skills and provide better solutions for my clients. I believe that good communication and attention to detail are essential in creating successful projects. Let's work together to create something amazing!" />
+    <meta property="og:image" content="https://cdn.lynnux.xyz/images/AkiraAvatar.png">
+    <meta property="og:image:secure_url" content="https://cdn.lynnux.xyz/images/AkiraAvatar.png">
+    <meta name="theme-color" content="#f47fff">
+    <!-- favicon -->
+    <link rel="shortcut icon" href="./assets/images/my-avatar.png" type="image/x-icon"/>
+    <!-- custom css link -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- google font link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+  </head>
+  <body>
+    <!-- #MAIN -->
+    <main>
+      <!-- #SIDEBAR -->
+      <aside class="sidebar" data-sidebar>
+        <div class="sidebar-info">
+          <figure class="avatar-box">
+            <img src="./assets/images/my-avatar.png" alt="Richard hanrick" width="80"/>
+          </figure>
+          <div class="info-content">
+            <h1 class="name" title="Richard hanrick">Lynnux</h1>
+            <p class="title">Developer / Artist</p>
+          </div>
+          <button class="info_more-btn" data-sidebar-btn>
+            <span>Show Contacts</span>
+            <ion-icon name="chevron-down"></ion-icon>
+          </button>
+        </div>
+        <div class="sidebar-info_more">
+          <div class="separator"></div>
+          <ul class="contacts-list">
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="mail-outline"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">Email</p>
+                <a href="mailto:botdevlynn@gmail.com" class="contact-link">botdevlynn@gmail.com</a>
+              </div>
+            </li>
+    <!--    <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="phone-portrait-outline"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">Phone</p>
+                <a href="tel:+12133522795" class="contact-link">+ None-public</a>
+              </div>
+            </li> -->
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="calendar-outline"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">Birthday</p>
+                <time datetime="1982-06-23">may 17, 2004</time>
+              </div>
+            </li>
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="location-outline"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">Location</p>
+                <address>Antwerpen, Belgium</address>
+              </div>
+            </li>
+          </ul>
+          <div class="separator"></div>
+          <ul class="social-list">
+            <li class="social-item">
+              <a href="https://discord.com/users/796295242000498738" class="social-link">
+                <ion-icon name="discord"></ion-icon>
+              </a>
+            </li>
+      <!--  <li class="social-item">
+              <a href="#" class="social-link">
+                <ion-icon name="logo-twitter"></ion-icon>
+              </a>
+            </li> 
+            <li class="social-item">
+              <a href="#" class="social-link">
+                <ion-icon name="logo-instagram"></ion-icon>
+              </a>
+            </li> -->
+          </ul>
+        </div>
+      </aside>
+      <!-- #main-content -->
+      <div class="main-content">
+        <!-- #NAVBAR -->
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+              <button class="navbar-link active" data-nav-link>About</button>
+            </li>
+            <li class="navbar-item">
+              <button class="navbar-link" data-nav-link>Resume</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" data-nav-link>Portfolio</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" data-nav-link>Blog</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" data-nav-link>Contact</button>
+            </li>
+          </ul>
+        </nav>
+        <!-- #PORTFOLIO -->
+        <article class="portfolio" data-page="portfolio">
+          <header>
+            <h2 class="h2 article-title">Portfolio</h2>
+          </header>
+          <section class="projects">
+            <ul class="filter-list">
+              <li class="filter-item">
+                <button class="active" data-filter-btn>All</button>
+              </li>
+              <li class="filter-item">
+                <button data-filter-btn>Art designs</button>
+              </li>
+              <li class="filter-item">
+                <button data-filter-btn>Applications</button>
+              </li>
+              <li class="filter-item">
+                <button data-filter-btn>Web development</button>
+              </li>
+            </ul>
+            <div class="filter-select-box">
+              <button class="filter-select" data-select>
+                <div class="select-value" data-selecct-value>Select category</div>
+                <div class="select-icon">
+                  <ion-icon name="chevron-down"></ion-icon>
+                </div>
+              </button>
+              <ul class="select-list">
+                <li class="select-item">
+                  <button data-select-item>All</button>
+                </li>
+                <li class="select-item">
+                  <button data-select-item>Art designs</button>
+                </li>
+                <li class="select-item">
+                  <button data-select-item>Applications</button>
+                </li>
+                <li class="select-item">
+                  <button data-select-item>Web development</button>
+                </li>
+              </ul>
+            </div>
+            <ul class="project-list">
+              <li class="project-item active" data-filter-item data-category="applications">
+                <a href="https://discord.com/application-directory/738057910923296839">
+                  <figure class="project-img">
+                    <div class="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img src="./assets/images/project-1.jpg" alt="Akira" loading="lazy"/>
+                  </figure>
+                  <h3 class="project-title">Akira</h3>
+                  <p class="project-category">Discord Bot Development</p>
+                </a>
+              </li>
+              <li class="project-item active" data-filter-item data-category="web development">
+                <a href="https://akira.lynnux.xyz">
+                  <figure class="project-img">
+                    <div class="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img src="./assets/images/project-2.jpg" alt="Akira Site" loading="lazy"/>
+                  </figure>
+                  <h3 class="project-title">Akira</h3>
+                  <p class="project-category">Web development</p>
+                </a>
+              </li>
+              <li class="project-item active" data-filter-item data-category="art designs">
+                <a href="https://lynnux.xyz/emotes">
+                  <figure class="project-img">
+                    <div class="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img src="./emotes/assets/images/toko.png" alt="Emoji's" loading="lazy"/>
+                  </figure>
+                  <h3 class="project-title">Akira</h3>
+                  <p class="project-category">Art designs</p>
+                </a>
+              </li>
+            </ul>
+          </section>
+        </article>
+      </div>
+    </main>
+    <script src="./assets/js/script.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>
