@@ -12987,7 +12987,16 @@
             if (a)
               return (
                 (this.tokens =
-                  a && a.value ? a.value.replace(/&/gm, '&').replace(/"/gm, '"').replace(/'/gm, ''').replace(/</gm, '<').replace(/>/gm, '>').split('\n') : ['']),
+                  a && a.value
+                    ? a.value
+                        .replace(/&/gm, '&')
+                        .replace(/"/gm, '"')
+                        .replace(/'/gm, "'") // Escaping the single quote character
+                        .replace(/</gm, '<')
+                        .replace(/>/gm, '>')
+                        .split('\n')
+                    : ['']
+                ),
                 this._constrain(this.tokens)
               );
           },
