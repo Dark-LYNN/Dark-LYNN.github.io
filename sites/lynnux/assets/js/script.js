@@ -119,7 +119,6 @@ const formBtn = document.querySelector("[data-form-btn]");
 
 // add event to the form element
 form.addEventListener("submit", function (event) {
-  // Prevent the default form submission behavior
   event.preventDefault();
 
   // check form validation
@@ -127,6 +126,10 @@ form.addEventListener("submit", function (event) {
     formBtn.removeAttribute("disabled");
     // Submit the form programmatically
     form.submit();
+
+    // Optionally, you can use Netlify Forms' built-in form submission handling
+    // Instead of form.submit(), you can use this if using Netlify Forms
+    // Netlify will handle the form submission and notify you via email.
   } else {
     formBtn.setAttribute("disabled", "");
   }
