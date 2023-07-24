@@ -114,45 +114,23 @@ for (let i = 0; i < filterBtn.length; i++) {
 }
 
 // contact form variables
-const form = document.getElementById("contact-form");
+const form = document.querySelector("[data-form]");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
-// Function to check if all form fields are valid
-function checkFormValidity() {
-  let isValidForm = true;
-  formInputs.forEach((input) => {
-    if (!input.checkValidity()) {
-      isValidForm = false;
-    }
-  });
-  return isValidForm;
-}
+// add event to all form input field
+for (let i = 0; i < formInputs.length; i++) {
+  formInputs[i].addEventListener("input", function () {
 
-// Add event to all form input fields
-formInputs.forEach((input) => {
-  input.addEventListener("input", function () {
-    // Enable or disable the "Send Message" button based on the form validity
-    if (checkFormValidity()) {
+    // check form validation
+    if (form.checkValidity()) {
       formBtn.removeAttribute("disabled");
     } else {
       formBtn.setAttribute("disabled", "");
     }
+
   });
-});
-
-// Add event to the form submit event
-form.addEventListener("submit", function (event) {
-  event.preventDefault();
-
-  // Submit the form programmatically
-  form.submit();
-
-  // Optionally, you can use Netlify Forms' built-in form submission handling
-  // Instead of form.submit(), you can use this if using Netlify Forms
-  // Netlify will handle the form submission and notify you via email.
-});
-
+}
 
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
