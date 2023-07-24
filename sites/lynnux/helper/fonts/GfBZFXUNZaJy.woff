@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!---->
+  <title>Applic</title>
+  <meta content="Made to be applicable –">
+  <!---->
+
+  <!---->
+  <link href="manifest-shortcut-icon-96.svg" rel="icon">
+  <link href="apple-icon-180.svg" rel="apple-touch-icon">
+  <!---->
+
+  <!---->
+  <link src="/assets/fonts/BreezeSans.css" rel="stylesheet">
+  <!---->
+
+  <!---->
+  <meta content="#202020" name="theme-color">
+  <link href="/page.webmanifest" rel="manifest">
+  <!---->
+
+  <!---->
+  <meta content="en-NL" property="og:locale">
+  <meta content="../images/manifest-screenshot-0-1152.png" property="og:image">
+  <meta content="Applic" property="og:title">
+  <meta content="/outline" property="og:url">
+  <meta content="Made to be applicable –">
+  <meta content="summary_large_image" property="twitter:card">
+  <!---->
+
+  <!---->
+  <script src="../js/main.gen.js" type="module"></script>
+  <script src="../js/page-fallback.gen.js" type="module" async></script>
+  <!---->
+</head>
+
+<body>
+  <applic-viewport>
+    <!---->
+    <!---->
+  </applic-viewport> 
+</body>
+
+</html>

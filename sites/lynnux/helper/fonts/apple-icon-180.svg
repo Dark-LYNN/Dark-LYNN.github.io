@@ -1,0 +1,8 @@
+<svg height="180px" width="180px" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <style>
+    svg { color: #fff; }
+  </style>
+  <path stroke="none" fill="#202020" d="M12,0.8C21,0.8,23.2,3,23.2,12S21,23.2,12,23.2S0.8,21,0.8,12S3,0.8,12,0.8z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9.2,14.8L6.5,12l2.8-2.8"/>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M14.8,9.2l2.8,2.8l-2.8,2.8"/>
+</svg>
