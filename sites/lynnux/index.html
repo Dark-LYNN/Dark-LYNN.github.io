@@ -441,21 +441,24 @@
           <header>
             <h2 class="h2 article-title">Contact</h2>
           </header>
-        <!--  <section class="contact-form">
+          <section class="contact-form">
             <h3 class="h3 form-title">Contact Form</h3>
-            <form action="#" class="form" data-form>
+            <form id="contact-form" action="#" class="form" data-netlify="true" data-netlify-honeypot="bot-field">
+              <!-- Hidden field to prevent spam -->
+              <input type="hidden" name="bot-field" />
+              <!-- Rest of your form elements -->
               <div class="input-wrapper">
-                <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input/>
-                <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input/>
+                <input type="text" name="fullname" class="form-input" placeholder="Your name or twitch" required />
+                <input type="email" name="email" class="form-input" placeholder="Your email address" required />
               </div>
-              <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
-              <button class="form-btn" type="submit" disabled data-form-btn>
+              <textarea name="message" class="form-input" placeholder="Your Message" required></textarea>
+              <button class="form-btn" type="submit">
                 <ion-icon name="paper-plane"></ion-icon>
                 <span>Send Message</span>
               </button>
             </form>
-          </section>-->
-        </article> 
+          </section>
+        </article>
       </div>
     </main>
     <script src="./assets/js/script.js"></script>
