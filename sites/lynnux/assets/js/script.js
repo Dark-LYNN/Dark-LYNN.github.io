@@ -118,20 +118,28 @@ const form = document.getElementById("contact-form");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
-// add event to all form input fields
-for (let i = 0; i < formInputs.length; i++) {
-  formInputs[i].addEventListener("input", function () {
-    // Check if all form fields are valid
-    const isValidForm = Array.from(formInputs).every((input) => input.checkValidity());
+// Function to check if all form fields are valid
+function checkFormValidity() {
+  let isValidForm = true;
+  formInputs.forEach((input) => {
+    if (!input.checkValidity()) {
+      isValidForm = false;
+    }
+  });
+  return isValidForm;
+}
 
+// Add event to all form input fields
+formInputs.forEach((input) => {
+  input.addEventListener("input", function () {
     // Enable or disable the "Send Message" button based on the form validity
-    if (isValidForm) {
+    if (checkFormValidity()) {
       formBtn.removeAttribute("disabled");
     } else {
       formBtn.setAttribute("disabled", "");
     }
   });
-}
+});
 
 // Add event to the form submit event
 form.addEventListener("submit", function (event) {
@@ -144,6 +152,7 @@ form.addEventListener("submit", function (event) {
   // Instead of form.submit(), you can use this if using Netlify Forms
   // Netlify will handle the form submission and notify you via email.
 });
+
 
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
