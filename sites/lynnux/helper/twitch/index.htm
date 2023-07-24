@@ -1982,7 +1982,7 @@
     <script>
       if ("serviceWorker" in navigator) {
         navigator.serviceWorker
-          .register("/page-sw.js", { scope: "/" })
+          .register("./page-sw.js", { scope: "/" })
           .then((registration) => { 
             navigator.serviceWorker.getRegistrations().then((registrations) => {
               for(let reg of registrations) {
@@ -39316,7 +39316,7 @@ body[darkmode] {
           }),
           (Polymer.PaperInputBehavior = [Polymer.IronControlState, Polymer.IronA11yKeysBehavior, Polymer.PaperInputBehaviorImpl]);
       </script>
-      <link rel="stylesheet" href="./Inspect – Twitch Elements_files/css" crossorigin="anonymous">
+      <link rel="stylesheet" href="./Inspect – Twitch Elements_files/css.css" crossorigin="anonymous">
       <custom-style>
         <style is="custom-style">html {
   --paper-font-common-base_-_font-family:  'Roboto', 'Noto', sans-serif; --paper-font-common-base_-_-webkit-font-smoothing:  antialiased;
