@@ -10,6 +10,7 @@
     --toggle-btn: #333;
     --tr-odd: #e6e6e6;
     --tr-even: #fff;
+    --href-color: #663300;
 }
 /* Dark Mode */
 #mode-toggle {
@@ -31,6 +32,7 @@
     --toggle-btn: #fff;
     --tr-odd: #353535;
     --tr-even: #4a4a4a;
+    --href-color: #d2d2d2;
 }
 /* Rest*/
 body {
