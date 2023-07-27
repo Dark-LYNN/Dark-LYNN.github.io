@@ -28,7 +28,9 @@
     --background-color: #333;
     --text-color: #fff;
     --text-2: #232323;
-    --toggle-btn: #fff
+    --toggle-btn: #fff;
+    --tr-odd: #222222;
+    --tr-even: #4a4a4a;
 }
 /* Rest*/
 body {
