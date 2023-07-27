@@ -6,6 +6,7 @@
 :root {
     --background-color: #eee;
     --text-color: #333;
+    --text-2: #fff
 }
 /* Dark Mode */
 #mode-toggle {
@@ -23,6 +24,7 @@
 .dark-mode {
     --background-color: #333;
     --text-color: #fff;
+    --text-2: #232323
 }
 /* Rest*/
 body {
@@ -37,6 +39,7 @@ h1 {
     text-align: center;
     padding: 20px 0 12px 0;
     margin: 0;
+    background-color: var(--text-2);
 }
 
 h2 {
