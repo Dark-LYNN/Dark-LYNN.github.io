@@ -157,3 +157,13 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+// Add event to the form submit event
+form.addEventListener("submit", function (event) {
+  event.preventDefault();
+  if (checkFormValidity()) {
+    window.alert("Your message has been sent successfully!");
+  } else {
+    console.log("Please fill out all the required fields.");
+  }
+});
