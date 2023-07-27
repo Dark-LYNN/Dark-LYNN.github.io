@@ -99,4 +99,12 @@
     </div>
     <button id="mode-toggle">Toggle Dark/Light Mode</button>
 </body>
+<script> 
+/* Dark Mode */
+const modeToggleBtn = document.getElementById('mode-toggle');
+
+modeToggleBtn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+});
+</script>
 </html>
