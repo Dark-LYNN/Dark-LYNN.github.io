@@ -6,13 +6,13 @@
     <link rel="shortcut icon" href="./.favicon.ico">
     <title>Directory Contents</title>
 
-    <link rel="stylesheet" href="https://dark-lynn.github.io/style.css">
-    <script src="https://dark-lynn.github.io/sorttable.js"></script>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/sorttable.js"></script>
 </head>
 
 <body>
     <div id="container">
-        <h1>cdn.lynnux.xyz/downloads/emotes/</h1>
+        <h1>downloads/emotes/</h1>
         <table class="sortable">
             <thead>
                 <tr>
@@ -26,29 +26,38 @@
                 <tr class='directory'>
                     <td><a href='../' class='name'>...</a></td>
                     <td><a href='../'>&lt;GO BACK&gt;</a></td>
-                    <td sorttable_customkey='2253'><a href='../'>N/A</a></td>
-                    <td sorttable_customkey='20190630184359'><a href='../'>N/A</a></td>
+                    <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+                    <td sorttable_customkey='1'><a href='../'>N/A</a></td>
                 </tr>
                 <tr class='directory'>
                     <td><a href='./doomfist/' class='name'>doomfist</a></td>
                     <td><a href='./doomfist/'>&lt;Directory&gt;</a></td>
-                    <td sorttable_customkey='2253'><a href='./Doomfist/'>N/A</a></td>
-                    <td sorttable_customkey='20190630184359'><a href='./Doomfist/'>Jul 21 2023 9:50 PM</a></td>
+                    <td sorttable_customkey='2'><a href='./Doomfist/'>N/A</a></td>
+                    <td sorttable_customkey='1689968998'><a href='./Doomfist/'>Jul 21 2023 9:50 PM</a></td>
                 </tr>
                 <tr class='directory'>
                     <td><a href='./mercy' class='name'>mercy</a></td>
                     <td><a href='./mercy'>&lt;Directory&gt;</a></td>
-                    <td sorttable_customkey='29460'><a href='./Mercy'>N/A</a></td>
-                    <td sorttable_customkey='20190630184359'><a href='./Mercy'>Jul 21 2023 9:50 PM</a></td>
+                    <td sorttable_customkey='3'><a href='./Mercy'>N/A</a></td>
+                    <td sorttable_customkey='1689969000'><a href='./Mercy'>Jul 21 2023 9:50 PM</a></td>
                 </tr>
                 <tr class='directory'>
                     <td><a href='./sombra' class='name'>sombra</a></td>
                     <td><a href='./sombra'>&lt;Directory&gt;</a></td>
-                    <td sorttable_customkey='29460'><a href='./sombra'>N/A</a></td>
-                    <td sorttable_customkey='20190630184359'><a href='./sombra'>Jul 27 2023 2:53 PM</a></td>
+                    <td sorttable_customkey='4'><a href='./sombra'>N/A</a></td>
+                    <td sorttable_customkey='1690462320'><a href='./sombra'>Jul 27 2023 2:53 PM</a></td>
                 </tr>
             </tbody>
         </table>
     </div>
+    <button id="mode-toggle">Toggle Dark/Light Mode</button>
 </body>
+<script> 
+/* Dark Mode */
+const modeToggleBtn = document.getElementById('mode-toggle');
+
+modeToggleBtn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+});
+</script>
 </html>
