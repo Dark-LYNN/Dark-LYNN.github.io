@@ -2,17 +2,29 @@
     padding: 0;
     margin: 0;
 }
-
+ /* vars */
 :root {
     --background-color: #eee;
     --text-color: #333;
+}
+/* Dark Mode */
+#mode-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .dark-mode {
     --background-color: #333;
     --text-color: #fff;
 }
-
+/* Rest*/
 body {
     color: #333;
     font: 14px Sans-Serif;
@@ -76,7 +88,7 @@ th a {
 }
 
 td:first-of-type a {
-    background: url(./.images/file.png) no-repeat 10px 50%;
+    background: url(./sites/lynnux/assets/images/my-avatar.png) no-repeat 10px 50%;
     padding-left: 35px;
 }
 
@@ -111,7 +123,7 @@ table tr td:first-of-type a[href$=".png"],
 table tr td:first-of-type a[href$=".gif"],
 table tr td:first-of-type a[href$=".svg"],
 table tr td:first-of-type a[href$=".jpeg"] {
-    background-image: url(./.images/image.png);
+    background-image: url(./.image/images.png);
 }
 
 
