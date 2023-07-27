@@ -124,7 +124,7 @@ table tr td:first-of-type a[href$=".png"],
 table tr td:first-of-type a[href$=".gif"],
 table tr td:first-of-type a[href$=".svg"],
 table tr td:first-of-type a[href$=".jpeg"] {
-    background-image: url(./assets/image.png);
+    background-image: url(./assets/folder.png);
 }
 
 
