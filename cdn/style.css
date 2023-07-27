@@ -26,10 +26,11 @@
 }
 /* Rest*/
 body {
-    color: #333;
     font: 14px Sans-Serif;
     padding: 50px;
-    background: var(--background-color);
+    background-color: var(--background-color);
+    color: var(--text-color);
+;
 }
 
 h1 {
