@@ -8,14 +8,19 @@ document.addEventListener('DOMContentLoaded', function() {
     // Apply the dark mode class if the preference is set or saved
     if (isDarkModeEnabled === 'true') {
         bodyElement.classList.add('dark-mode');
+        // Update the icon to sunny when dark mode is enabled
+        modeToggleBtn.innerHTML = '<ion-icon name="sunny-outline"></ion-icon>';
     }
 
     modeToggleBtn.addEventListener('click', function() {
         // Toggle the dark mode class on the body element
         bodyElement.classList.toggle('dark-mode');
 
-        // Save the dark mode preference in localStorage
+        // Update the icon based on the current mode
         const isCurrentlyDarkMode = bodyElement.classList.contains('dark-mode');
+        modeToggleBtn.innerHTML = isCurrentlyDarkMode ? '<ion-icon name="sunny-outline"></ion-icon>' : '<ion-icon name="moon-outline"></ion-icon>';
+
+        // Save the dark mode preference in localStorage
         localStorage.setItem('darkModeEnabled', isCurrentlyDarkMode.toString());
     });
 });
