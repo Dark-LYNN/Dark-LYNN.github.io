@@ -6,7 +6,8 @@
 :root {
     --background-color: #eee;
     --text-color: #333;
-    --text-2: #fff
+    --text-2: #fff;
+    --toggle-btn: #333
 }
 /* Dark Mode */
 #mode-toggle {
@@ -14,8 +15,8 @@
     bottom: 20px;
     right: 20px;
     padding: 10px;
-    background-color: #333;
-    color: white;
+    background-color: var(--toggle-btn);
+    color: var(--text-color);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -24,7 +25,8 @@
 .dark-mode {
     --background-color: #333;
     --text-color: #fff;
-    --text-2: #232323
+    --text-2: #232323;
+    --toggle-btn: #fff
 }
 /* Rest*/
 body {
