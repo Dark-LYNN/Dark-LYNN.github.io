@@ -124,7 +124,7 @@ th a {
 }
 
 td:first-of-type a {
-    background: var(--icon-file) no-repeat 10px 50%;
+    background: var(--icon-folder) no-repeat 10px 50%;
     background-size: 20px;
     padding-left: 35px;
 }
@@ -152,6 +152,11 @@ tr:hover td a {
 
 /* icons for file types (icons by famfamfam) */
 
+/* other files */
+
+table tr td:first-of-type a[href$=".txt"] {
+    background-image: var(--icon-file);
+}
 
 /* images */
 
