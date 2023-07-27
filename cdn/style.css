@@ -124,7 +124,7 @@ th a {
 }
 
 td:first-of-type a {
-    background: var(--icon-folder) no-repeat 10px 50%;
+    background: var(--icon-file) no-repeat 10px 50%;
     background-size: 20px;
     padding-left: 35px;
 }
