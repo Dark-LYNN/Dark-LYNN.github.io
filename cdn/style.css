@@ -7,7 +7,9 @@
     --background-color: #eee;
     --text-color: #333;
     --text-2: #fff;
-    --toggle-btn: #333
+    --toggle-btn: #333;
+    --tr-odd: #e6e6e6;
+    --tr-even: #333;
 }
 /* Dark Mode */
 #mode-toggle {
@@ -54,11 +56,11 @@ h2 {
 #container {
     box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.5);
     position: relative;
-    background: white;
+    background: var(--background-color);
 }
 
 table {
-    background-color: #F3F3F3;
+    background-color: var(--tr-even);
     border-collapse: collapse;
     width: 100%;
     margin: 15px 0;
@@ -109,7 +111,7 @@ td:not(:first-of-type) a {
 }
 
 tr:nth-of-type(odd) {
-    background-color: #E6E6E6;
+    background-color: var(--tr-odd);
 }
 
 tr:hover td {
