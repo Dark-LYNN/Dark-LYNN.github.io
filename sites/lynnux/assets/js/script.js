@@ -160,4 +160,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 if (window.location.href.includes("/?messageSuccess")) {
   alert("Your message has been sent successfully!");
+  
+  const newUrl = window.location.href.replace("?messageSuccess", "");
+  history.pushState({}, document.title, newUrl);
 }
