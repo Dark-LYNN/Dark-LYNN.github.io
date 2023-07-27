@@ -123,21 +123,21 @@ table tr td:first-of-type a[href$=".png"],
 table tr td:first-of-type a[href$=".gif"],
 table tr td:first-of-type a[href$=".svg"],
 table tr td:first-of-type a[href$=".jpeg"] {
-    background-image: url(./.images/images.png);
+    background-image: url(./images/images.png);
 }
 
 
 /* zips */
 
 table tr td:first-of-type a[href$=".zip"] {
-    background-image: url(./.images/zip.png);
+    background-image: url(./images/zip.png);
 }
 
 
 /* css */
 
 table tr td:first-of-type a[href$=".css"] {
-    background-image: url(./.images/css.png);
+    background-image: url(./images/css.png);
 }
 
 
@@ -151,7 +151,7 @@ table tr td:first-of-type a[href$=".pps"],
 table tr td:first-of-type a[href$=".ppsx"],
 table tr td:first-of-type a[href$=".xls"],
 table tr td:first-of-type a[href$=".xlsx"] {
-    background-image: url(./.images/office.png)
+    background-image: url(./images/office.png)
 }
 
 
@@ -162,7 +162,7 @@ table tr td:first-of-type a[href$=".wmv"],
 table tr td:first-of-type a[href$=".mp4"],
 table tr td:first-of-type a[href$=".mov"],
 table tr td:first-of-type a[href$=".m4a"] {
-    background-image: url(./.images/video.png);
+    background-image: url(./images/video.png);
 }
 
 
