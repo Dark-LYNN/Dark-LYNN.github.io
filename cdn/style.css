@@ -11,6 +11,17 @@
     --tr-odd: #e6e6e6;
     --tr-even: #fff;
     --href-color: #663300;
+    --icon-folder: url(./assets/folder.png);
+    --icon-image: url(./assets/image.png);
+    --icon-zip: url(./assets/zip.png);
+    --icon-audio: url(./assets/audio.png);
+    --icon-css: url(./assets/css.png);
+    --icon-file: url(./assets/file.png);
+    --icon-office: url(./assets/office.png);
+    --icon-video: url(./assets/video.png);
+    --icon-xml: url(./assets/xml.png);
+    --icon-script: url(./assets/script.png);
+    --icon-php: url(./assets/php.png);
 }
 /* Dark Mode */
 #mode-toggle {
@@ -33,6 +44,18 @@
     --tr-odd: #353535;
     --tr-even: #4a4a4a;
     --href-color: #d2d2d2;
+    --icon-folder: url(./assets/folder-white.png);
+    --icon-image: url(./assets/image-white.png);
+    --icon-zip: url(./assets/zip-white.png);
+    --icon-audio: url(./assets/audio-white.png);
+    --icon-css: url(./assets/css-white.png);
+    --icon-file: url(./assets/file-white.png);
+    --icon-office: url(./assets/office-white.png);
+    --icon-video: url(./assets/video-white.png);
+    --icon-xml: url(./assets/xml-white.png);
+    --icon-script: url(./assets/script-white.png);
+    --icon-php: url(./assets/php-white.png);
+
 }
 /* Rest*/
 body {
@@ -101,7 +124,7 @@ th a {
 }
 
 td:first-of-type a {
-    background: url(./assets/folder.png) no-repeat 10px 50%;
+    background: var(--icon-folder) no-repeat 10px 50%;
     background-size: 20px;
     padding-left: 35px;
 }
@@ -137,21 +160,21 @@ table tr td:first-of-type a[href$=".png"],
 table tr td:first-of-type a[href$=".gif"],
 table tr td:first-of-type a[href$=".svg"],
 table tr td:first-of-type a[href$=".jpeg"] {
-    background-image: url(./assets/image.png);
+    background-image: var(--icon-image);
 }
 
 
 /* zips */
 
 table tr td:first-of-type a[href$=".zip"] {
-    background-image: url(./assets/zip.png);
+    background-image: var(--icon-zip);
 }
 
 
 /* css */
 
 table tr td:first-of-type a[href$=".css"] {
-    background-image: url(./assets/css.png);
+    background-image: var(--icon-css);
 }
 
 
@@ -165,7 +188,7 @@ table tr td:first-of-type a[href$=".pps"],
 table tr td:first-of-type a[href$=".ppsx"],
 table tr td:first-of-type a[href$=".xls"],
 table tr td:first-of-type a[href$=".xlsx"] {
-    background-image: url(./assets/office.png)
+    background-image: var(--icon-office);
 }
 
 
@@ -176,7 +199,7 @@ table tr td:first-of-type a[href$=".wmv"],
 table tr td:first-of-type a[href$=".mp4"],
 table tr td:first-of-type a[href$=".mov"],
 table tr td:first-of-type a[href$=".m4a"] {
-    background-image: url(./assets/audio.png);
+    background-image: var(--icon-video);
 }
 
 
@@ -186,7 +209,7 @@ table tr td:first-of-type a[href$=".mp3"],
 table tr td:first-of-type a[href$=".ogg"],
 table tr td:first-of-type a[href$=".aac"],
 table tr td:first-of-type a[href$=".wma"] {
-    background-image: url(./assets/audio.png);
+    background-image: var(--icon-audio);
 }
 
 
@@ -195,15 +218,15 @@ table tr td:first-of-type a[href$=".wma"] {
 table tr td:first-of-type a[href$=".html"],
 table tr td:first-of-type a[href$=".htm"],
 table tr td:first-of-type a[href$=".xml"] {
-    background-image: url(./assets/xml.png);
+    background-image: var(--icon-xml);
 }
 
 table tr td:first-of-type a[href$=".php"] {
-    background-image: url(./.assets/php.png);
+    background-image: var(--icon-php);
 }
 
 table tr td:first-of-type a[href$=".js"] {
-    background-image: url(./.assets/script.png);
+    background-image: var(--icon-script);
 }
 
 
