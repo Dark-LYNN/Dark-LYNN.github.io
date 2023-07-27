@@ -88,7 +88,7 @@ th a {
 }
 
 td:first-of-type a {
-    background: url(./sites/lynnux/assets/images/my-avatar.png) no-repeat 10px 50%;
+    background: url(./images/file.png) no-repeat 10px 50%;
     padding-left: 35px;
 }
 
@@ -181,7 +181,7 @@ table tr td:first-of-type a[href$=".wma"] {
 table tr td:first-of-type a[href$=".html"],
 table tr td:first-of-type a[href$=".htm"],
 table tr td:first-of-type a[href$=".xml"] {
-    background-image: url(./.images/xml.png);
+    background-image: url(./images/xml.png);
 }
 
 table tr td:first-of-type a[href$=".php"] {
