@@ -170,6 +170,10 @@ function updateImageSource() {
   const imageElement = document.getElementById("responsive-image");
   const newImageSource = window.innerWidth <= 767 ? "./assets/images/toko.png" : "./assets/images/toko x.png";
   imageElement.src = newImageSource;
+
+  const imageElement2 = document.getElementById("responsive-image-1");
+  const newImageSource2 = window.innerWidth <= 767 ? "./assets/images/MyceliaBannerSmall.png" : "./assets/images/MyceliaBanner.png";
+  imageElement2.src = newImageSource2;
 }
 
 // Call the function on page load and whenever the window is resized
