@@ -164,3 +164,14 @@ if (window.location.href.includes("/?messageSuccess")) {
   const newUrl = window.location.href.replace("?messageSuccess", "");
   history.pushState({}, document.title, newUrl);
 }
+
+// Function to check viewport width and update image source
+function updateImageSource() {
+  const imageElement = document.getElementById("responsive-image");
+  const newImageSource = window.innerWidth <= 767 ? "./assets/images/toko.png" : "./assets/images/toko x.png";
+  imageElement.src = newImageSource;
+}
+
+// Call the function on page load and whenever the window is resized
+window.addEventListener("load", updateImageSource);
+window.addEventListener("resize", updateImageSource);
