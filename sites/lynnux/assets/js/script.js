@@ -168,11 +168,11 @@ if (window.location.href.includes("/?messageSuccess")) {
 // Function to check viewport width and update image source
 function updateImageSource() {
   const imageElement = document.getElementById("responsive-image");
-  const newImageSource = window.innerWidth <= 767 ? "./assets/images/toko.png" : "./assets/images/toko x.png";
+  const newImageSource = window.innerWidth <= 767 ? "./assets/images/tokoSmall.webp" : "./assets/images/toko.webp";
   imageElement.src = newImageSource;
 
   const imageElement2 = document.getElementById("MyceliaBanner");
-  const newImageSource2 = window.innerWidth <= 767 ? "./assets/images/MyceliaBannerSmall.png" : "./assets/images/MyceliaBanner.png";
+  const newImageSource2 = window.innerWidth <= 767 ? "./assets/images/MyceliaBannerSmall.webp" : "./assets/images/MyceliaBanner.webp";
   imageElement2.src = newImageSource2;
 }
 
