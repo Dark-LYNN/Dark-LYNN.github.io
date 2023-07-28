@@ -171,7 +171,7 @@ function updateImageSource() {
   const newImageSource = window.innerWidth <= 767 ? "./assets/images/toko.png" : "./assets/images/toko x.png";
   imageElement.src = newImageSource;
 
-  const imageElement2 = document.getElementById("responsive-image-1");
+  const imageElement2 = document.getElementById("MyceliaBanner");
   const newImageSource2 = window.innerWidth <= 767 ? "./assets/images/MyceliaBannerSmall.png" : "./assets/images/MyceliaBanner.png";
   imageElement2.src = newImageSource2;
 }
