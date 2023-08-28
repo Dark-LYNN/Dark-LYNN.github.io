@@ -1,2 +1,5 @@
 /*.ogg
   Content-Type: audio/ogg
+
+/*.tiff
+  Content-Type: image/tiff
