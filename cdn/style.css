@@ -22,6 +22,7 @@
     --icon-xml: url(./assets/xml.png);
     --icon-script: url(./assets/script.png);
     --icon-php: url(./assets/php.png);
+    --icon-overwatch: url(./assets/overwatch.png);
 }
 /* Dark Mode */
 #mode-toggle {
@@ -55,6 +56,7 @@
     --icon-xml: url(./assets/xml-white.png);
     --icon-script: url(./assets/script-white.png);
     --icon-php: url(./assets/php-white.png);
+    --icon-overwatch: url(./assets/overwatch-white.png);
 
 }
 /* Rest*/
@@ -217,7 +219,14 @@ table tr td:first-of-type a[href$=".wma"] {
     background-image: var(--icon-audio);
 }
 
-
+/* Overwatch Datamine Files*/
+table tr td:first-of-type a[href$=".owentity"],
+table tr td:first-of-type a[href$=".owanim"],
+table tr td:first-of-type a[href$=".owanimclip"],
+table tr td:first-of-type a[href$=".owmat"],
+table tr td:first-of-type a[href$=".owmdl"] {
+    background-image: var(--icon-overwatch);
+}
 /* web pages */
 
 table tr td:first-of-type a[href$=".html"],
@@ -233,6 +242,7 @@ table tr td:first-of-type a[href$=".php"] {
 table tr td:first-of-type a[href$=".js"] {
     background-image: var(--icon-script);
 }
+
 
 
 /* directories */
