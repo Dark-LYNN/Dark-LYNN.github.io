@@ -166,6 +166,8 @@ table tr td:first-of-type a[href$=".jpg"],
 table tr td:first-of-type a[href$=".png"],
 table tr td:first-of-type a[href$=".gif"],
 table tr td:first-of-type a[href$=".svg"],
+table tr td:first-of-type a[href$=".tiff"],
+table tr td:first-of-type a[href$=".tif"],
 table tr td:first-of-type a[href$=".jpeg"] {
     background-image: var(--icon-image);
 }
