@@ -3,3 +3,6 @@
 
 /*.tiff
   Content-Type: image/tiff
+
+/*.tif
+  Content-Type: image/tiff
