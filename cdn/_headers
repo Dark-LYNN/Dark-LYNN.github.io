@@ -10,5 +10,5 @@
 /*.webp*
   Content-Type: image/webp
 
-/*.zip
+/*.zip*
   Content-Type: application/zip
