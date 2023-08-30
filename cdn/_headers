@@ -7,3 +7,6 @@
 /*.tiff*
   Content-Type: image/tiff
 
+/*.webp*
+  Content-Type: image/webp
+
