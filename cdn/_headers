@@ -1,8 +1,9 @@
 /*.ogg
   Content-Type: audio/ogg
 
-/*.tiff
+/*.tif*
   Content-Type: image/tiff
 
-/*.tif
+/*.tiff*
   Content-Type: image/tiff
+
