@@ -5,20 +5,17 @@ function displayDirectoryListing() {
     fetch('output.json')
       .then(response => response.json())
       .then(data => {
-        const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json') && !item.name.endsWith('.py'));
+        const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json') && !item.name.endsWith('.json') && !item.name.endsWith('.py'));
     
         filteredFiles.forEach(item => {
           // Extract the filename or subdirectory name without path
           const itemName = item.name.split('/').pop();
-          
           // Function to convert size from KB to bytes and remove letters
           function convertSizeToBytes(size) {
             // Remove any non-numeric characters (letters, spaces, etc.)
             const numericString = size.replace(/[^0-9.]/g, '');
-            
             // Convert the numeric string to a floating-point number
             const numericValue = parseFloat(numericString);
-            
             // Check if the size string contains 'KB' and convert to bytes
             if (size.toLowerCase().includes('kb')) {
               return numericValue * 1024; // 1 KB = 1024 bytes
@@ -26,9 +23,9 @@ function displayDirectoryListing() {
               return numericValue; // Already in bytes or unknown format
             }
           }
-          
-          // Convert the size to bytes
-          const sizeInBytes = convertSizeToBytes(item.size);
+          // Check if it's a directory or a file
+          const isDirectory = item.type === "<DIRECTORY>";
+          const typeText = isDirectory ? "<DIRECTORY>" : `${item.type.toUpperCase()} file`;
 
           // Check if the item is not in a subdirectory
           const isFileInSubdirectory = item.name.split('/').length > 1;
@@ -37,7 +34,7 @@ function displayDirectoryListing() {
             const row = document.createElement('tr');
             row.innerHTML = `
               <td><a class="name">${itemName}</a></td>
-              <td><a>${item.type}</a></td>
+              <td><a>${typeText}</a></td>
               <td sorttable_customkey="${sizeInBytes}"><a>${item.size}</a></td>
               <td sorttable_customkey="${item.dateModified}"><a>${new Date(item.dateModified * 1000).toLocaleString()}</a></td>
             `;
