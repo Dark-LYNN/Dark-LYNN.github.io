@@ -11,13 +11,19 @@
     <div id="container">
         <table class="sortable">
             <thead>
-                <tr>
+                <tr >
                     <th>Filename</th>
                     <th>Type</th>
                     <th>Size</th>
                     <th>Date Modified</th>
                 </tr>
             </thead>
+            <tr class='directory'>
+                <td><a href='../' class='name'>...</a></td>
+                <td><a href='../'>&lt;GO BACK&gt;</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+            </tr>
             <tbody id="fileList"></tbody>
         </table>
     </div>
