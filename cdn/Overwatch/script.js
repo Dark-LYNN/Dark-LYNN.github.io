@@ -1,5 +1,5 @@
 // script.js
-function displayDirectoryListing() {
+/*function displayDirectoryListing() {
     console.log("Fetching JSON data...")
     fetch('output.json') // Replace with the path to your JSON file
         .then(response => response.json())
@@ -37,6 +37,40 @@ function displayDirectoryListing() {
         })
         .catch(error => console.error(error));
         
+}
+
+displayDirectoryListing(); */
+
+
+function displayDirectoryListing() {
+    console.log("Fetching JSON data...")
+    const fileList = document.getElementById('fileList');
+    fetch('output.js')
+      .then(response => response.json())
+      .then(data => {
+        const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json'));
+    
+        filteredFiles.forEach(item => {
+          // Extract the filename or subdirectory name without path
+          const itemName = item.name.split('/').pop();
+    
+          // Check if the item is not in a subdirectory
+          const isFileInSubdirectory = item.name.split('/').length > 1;
+    
+          if (!isFileInSubdirectory) {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+              <td>${itemName}</td>
+              <td>${item.type}</td>
+              <td>${item.size}</td>
+              <td>${new Date(item.dateModified * 1000).toLocaleString()}</td>
+            `;
+            fileList.appendChild(row);
+          }
+        });
+      })
+      .catch(error => console.error(error));
+            
 }
 
 displayDirectoryListing();
