@@ -3,6 +3,7 @@ function displayDirectoryListing() {
     fetch('output.json') // Replace with the path to your JSON file
         .then(response => response.json())
         .then(data => {
+            console.log(data); // Add this line to inspect the data
             const currentDirectory = window.location.pathname; // Get the current directory path from the URL
             const fileList = document.getElementById('fileList');
 
