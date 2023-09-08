@@ -22,6 +22,7 @@ function displayDirectoryListing() {
                 `;
                 fileList.appendChild(row);
             });
+            console.log('Current Directory:', currentDirectory);
         })
         .catch(error => console.error(error));
 }
