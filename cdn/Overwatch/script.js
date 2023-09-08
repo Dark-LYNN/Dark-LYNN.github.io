@@ -27,12 +27,13 @@ function displayDirectoryListing() {
             row.addEventListener('click', function () {
               // Get the filename from the first cell of the clicked row
               const fileName = row.querySelector('td:first-child').textContent;
+              // Get the current directory path from the URL
+              const currentDirectory = window.location.pathname;
 
-              // If it's not an HTML or JSON file, navigate to it (replace 'your_base_url' with your actual base URL)
-              if (!fileName.endsWith('.html') && !fileName.endsWith('.json')) {
-                const fileUrl = `your_base_url/${fileName}`; // Construct the URL
+              // Construct the URL based on the current directory
+              const fileUrl = `${currentDirectory}/${fileName}`;
+
                 window.location.href = fileUrl; // Navigate to the URL
-              }
             });
 
             fileList.appendChild(row);
