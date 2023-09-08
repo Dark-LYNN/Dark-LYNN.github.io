@@ -254,5 +254,5 @@ table tr td:first-of-type a[href$=".js"] {
 /* directories */
 
 table tr.dir td:first-of-type a {
-    background-image: url(./.assets/folder.png);
+    background-image: var(--icon-folder);
 }
