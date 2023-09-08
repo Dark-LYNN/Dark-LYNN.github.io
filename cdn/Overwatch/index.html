@@ -8,27 +8,26 @@
 <body>
     <h1>Directory Listing</h1>
     <ul id="fileList"></ul>
-
-    <script>
-        // Function to fetch and display directory listing
-        function displayDirectoryListing() {
-            fetch('output.json') // Replace with the path to your JSON file
-                .then(response => response.json())
-                .then(data => {
-                    const fileList = document.getElementById('fileList');
-                    data.forEach(item => {
-                        const listItem = document.createElement('li');
-                        listItem.textContent = `${item.name} (${item.type}) - ${item.size} - ${item.dateModified}`;
-                        fileList.appendChild(listItem);
-                    });
-                })
-                .catch(error => console.error(error));
-        }
-
-        // Call the function to display the directory listing
-        displayDirectoryListing();
-    </script>
+    <!-- The directory listing will be displayed here -->
 </body>
+<script>
+    function displayDirectoryListing() {
+        fetch('output.json') // Replace with the path to your JSON file
+            .then(response => response.json())
+            .then(data => {
+                const fileList = document.getElementById('fileList');
+                data.forEach(item => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = `${item.name} (${item.type}) - ${item.size} - ${new Date(item.dateModified * 1000).toLocaleString()}`;
+                    fileList.appendChild(listItem);
+                });
+            })
+            .catch(error => console.error(error));
+    }
+
+    displayDirectoryListing();
+</script>
+
 </html>
 
 <!--
