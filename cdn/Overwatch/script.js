@@ -19,7 +19,7 @@ function displayDirectoryListing() {
     fetch('output.json')
         .then(response => response.json())
         .then(data => {
-            const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json') && !item.name.endsWith('.py'));
+            const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json') && !item.name.endsWith('.py') && !item.name.endsWith('.js'));
 
             filteredFiles.forEach(item => {
                 // Extract the filename or subdirectory name without path
