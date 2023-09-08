@@ -1,6 +1,6 @@
 // script.js
 function displayDirectoryListing() {
-    fetch('output.json') // Replace with the path to your JSON file
+    fetch('./output.json') // 
         .then(response => response.json())
         .then(data => {
             const currentDirectory = window.location.pathname; // Get the current directory path from the URL
