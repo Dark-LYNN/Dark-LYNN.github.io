@@ -125,11 +125,13 @@ th a {
     padding-left: 0
 }
 
+/*
 td:first-of-type a {
     background: var(--icon-folder) no-repeat 10px 50%;
     background-size: 20px;
     padding-left: 35px;
 }
+*/
 
 th:first-of-type {
     padding-left: 35px;
