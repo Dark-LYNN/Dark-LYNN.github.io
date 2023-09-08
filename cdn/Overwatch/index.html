@@ -4,31 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Directory Listing</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body>
     <h1>Directory Listing</h1>
-    <ul id="fileList"></ul>
-    <!-- The directory listing will be displayed here -->
+    <table>
+        <thead>
+            <tr>
+                <th>Filename</th>
+                <th>Type</th>
+                <th>Size</th>
+                <th>Date Modified</th>
+            </tr>
+        </thead>
+        <tbody id="fileList"></tbody>
+    </table>
+
+    <script src="script.js"></script>
 </body>
-<script>
-    function displayDirectoryListing() {
-        fetch('output.json') // Replace with the path to your JSON file
-            .then(response => response.json())
-            .then(data => {
-                const fileList = document.getElementById('fileList');
-                data.forEach(item => {
-                    const listItem = document.createElement('li');
-                    listItem.textContent = `${item.name} (${item.type}) - ${item.size} - ${new Date(item.dateModified * 1000).toLocaleString()}`;
-                    fileList.appendChild(listItem);
-                });
-            })
-            .catch(error => console.error(error));
-    }
-
-    displayDirectoryListing();
-</script>
-
 </html>
+
 
 <!--
 <!doctype html>
