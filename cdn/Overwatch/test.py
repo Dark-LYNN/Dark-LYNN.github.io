@@ -12,8 +12,9 @@ def generate_directory_listing(directory):
         item_type = "Directory" if os.path.isdir(item_path) else "File"
         item_size = "N/A" if os.path.isdir(item_path) else f"{os.path.getsize(item_path) / 1024:.2f} KB"
         item_date_modified = os.path.getmtime(item_path)
+        relative_path = os.path.relpath(item_path, root_directory)  # Get relative path
         listing.append({
-            "name": item,
+            "name": relative_path.replace("\\", "/"),  # Use forward slashes in the path
             "type": item_type,
             "size": item_size,
             "dateModified": item_date_modified
