@@ -45,7 +45,7 @@ displayDirectoryListing(); */
 function displayDirectoryListing() {
     console.log("Fetching JSON data...")
     const fileList = document.getElementById('fileList');
-    fetch('output.js')
+    fetch('output.json')
       .then(response => response.json())
       .then(data => {
         const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json'));
