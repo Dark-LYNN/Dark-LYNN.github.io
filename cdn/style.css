@@ -246,6 +246,9 @@ table tr td:first-of-type a[href$=".js"] {
     background-image: var(--icon-script);
 }
 
+#fileList table tr td:first-of-type a[href$=".png"] {
+    background-image: var(--icon-image);
+}
 
 
 /* directories */
