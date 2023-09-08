@@ -1,5 +1,6 @@
 // script.js
 function displayDirectoryListing() {
+    console.log("Fetching JSON data...")
     fetch('output.json') // Replace with the path to your JSON file
         .then(response => response.json())
         .then(data => {
@@ -32,8 +33,10 @@ function displayDirectoryListing() {
                     fileList.appendChild(row);
                 }
             });
+            console.log("JSON data fetched")
         })
         .catch(error => console.error(error));
+        
 }
 
 displayDirectoryListing();
