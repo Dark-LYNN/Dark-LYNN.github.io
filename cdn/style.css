@@ -251,8 +251,14 @@ table tr td:first-of-type a[href$=".js"] {
 }
 
 
-/* directories */
+/* Style for folder links */
+table tr td:first-of-type a.folder {
+    background: var(--icon-folder) no-repeat 10px 50%;
+    background-size: 20px;
+    padding-left: 35px;
+}
 
-table tr.dir td:first-of-type a {
-    background-image: var(--icon-folder);
+/* Style for image links */
+table tr td:first-of-type a.image {
+    background-image: var(--icon-image);
 }
