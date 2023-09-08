@@ -10,17 +10,36 @@ function displayDirectoryListing() {
         filteredFiles.forEach(item => {
           // Extract the filename or subdirectory name without path
           const itemName = item.name.split('/').pop();
-    
+          
+          // Function to convert size from KB to bytes and remove letters
+          function convertSizeToBytes(size) {
+            // Remove any non-numeric characters (letters, spaces, etc.)
+            const numericString = size.replace(/[^0-9.]/g, '');
+            
+            // Convert the numeric string to a floating-point number
+            const numericValue = parseFloat(numericString);
+            
+            // Check if the size string contains 'KB' and convert to bytes
+            if (size.toLowerCase().includes('kb')) {
+              return numericValue * 1024; // 1 KB = 1024 bytes
+            } else {
+              return numericValue; // Already in bytes or unknown format
+            }
+          }
+          
+          // Convert the size to bytes
+          const sizeInBytes = convertSizeToBytes(item.size);
+
           // Check if the item is not in a subdirectory
           const isFileInSubdirectory = item.name.split('/').length > 1;
     
           if (!isFileInSubdirectory) {
             const row = document.createElement('tr');
             row.innerHTML = `
-              <td>${itemName}</td>
-              <td>${item.type}</td>
-              <td>${item.size}</td>
-              <td>${new Date(item.dateModified * 1000).toLocaleString()}</td>
+              <td><a class="name">${itemName}</a></td>
+              <td><a>${item.type}</a></td>
+              <td sorttable_customkey="${sizeInBytes}"><a>${item.size}</a></td>
+              <td sorttable_customkey="${item.dateModified}"><a>${new Date(item.dateModified * 1000).toLocaleString()}</a></td>
             `;
 
             // Add an event listener to the table row to make it clickable
@@ -43,48 +62,3 @@ function displayDirectoryListing() {
 }
 
 displayDirectoryListing();
-
-
-// script.js
-/*function displayDirectoryListing() {
-    console.log("Fetching JSON data...")
-    fetch('output.json') // Replace with the path to your JSON file
-        .then(response => response.json())
-        .then(data => {
-            console.log(data); // Add this line to inspect the data
-            const currentDirectory = window.location.pathname; // Get the current directory path from the URL
-            const fileList = document.getElementById('fileList');
-
-            data.filter(item => {
-                // Check if the item belongs to the current directory (based on the current path)
-                // and is not an HTML or JSON file
-                const itemName = item.name.split('/').pop(); // Extract the filename or subdirectory name
-                return item.name.startsWith(currentDirectory) &&
-                       !itemName.endsWith('.html') &&
-                       !itemName.endsWith('.json');
-            }).forEach(item => {
-                // Extract the filename or subdirectory name without path
-                const itemName = item.name.split('/').pop();
-
-                // Check if the item is not in a subdirectory
-                const isFileInSubdirectory = item.name.split('/').length > 1;
-
-                if (!isFileInSubdirectory) {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${itemName}</td>
-                        <td>${item.type}</td>
-                        <td>${item.size}</td>
-                        <td>${new Date(item.dateModified * 1000).toLocaleString()}</td>
-                    `;
-                    fileList.appendChild(row);
-                }
-            });
-            console.log("JSON data fetched")
-        })
-        .catch(error => console.error(error));
-        
-}
-
-displayDirectoryListing(); */
-
