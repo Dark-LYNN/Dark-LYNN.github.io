@@ -1,3 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directory Listing</title>
+</head>
+<body>
+    <h1>Directory Listing</h1>
+    <ul id="fileList"></ul>
+
+    <script>
+        // Function to fetch and display directory listing
+        function displayDirectoryListing() {
+            fetch('directory.json') // Replace with the path to your JSON file
+                .then(response => response.json())
+                .then(data => {
+                    const fileList = document.getElementById('fileList');
+                    data.forEach(item => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = `${item.name} (${item.type}) - ${item.size} - ${item.dateModified}`;
+                        fileList.appendChild(listItem);
+                    });
+                })
+                .catch(error => console.error(error));
+        }
+
+        // Call the function to display the directory listing
+        displayDirectoryListing();
+    </script>
+</body>
+</html>
+
+<!--
 <!doctype html>
 <html>
 
@@ -6,7 +40,6 @@
     <link rel="shortcut icon" href="/images/Overwatch_circle_logo.svg.png">
     <title>Directory Contents</title>
 
-    <!-- Discord Embed --> 
     <meta property="og:title" content="Overwatch files" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://cdn.lynnux.xyz/Overwatch" />
@@ -52,4 +85,4 @@
     </button>
 </body>
 <script src="/mode.js"></script>
-</html>
+</html> -->
