@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hero's",
+        "type": "<DIRECTORY>",
+        "size": "N/A",
+        "dateModified": 1694201321.2905772
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "3.63 KB",
+        "dateModified": 1694264825.8457189
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.22 KB",
+        "dateModified": 1694262683.1423516
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.57 KB",
+        "dateModified": 1694265036.234766
+    }
+]

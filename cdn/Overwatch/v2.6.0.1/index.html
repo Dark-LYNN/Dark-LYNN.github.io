@@ -1,12 +1,49 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directory Listing</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+    <h1>/overwatch/v2.6.0.1/</h1>
+    <div id="container">
+        <table class="sortable">
+            <thead>
+                <tr >
+                    <th>Filename</th>
+                    <th>Type</th>
+                    <th>Size</th>
+                    <th>Date Modified</th>
+                </tr>
+            </thead>
+            <tr class='directory'>
+                <td><a href='../' class='name'>...</a></td>
+                <td><a href='../'>&lt;GO BACK&gt;</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+            </tr>
+            <tbody id="fileList"></tbody>
+        </table>
+    </div>
+    <button id="mode-toggle">
+        <ion-icon name="moon-outline"></ion-icon>
+    </button>
+    <script src="script.js"></script>
+    <script src="/mode.js"></script>
+</body>
+
+</html>
+
+
+<!-- <!doctype html>
 <html>
 
 <head>
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="/images/Overwatch_circle_logo.svg.png">
     <title>Directory Contents</title>
-
-    <!-- Discord Embed -->
     <meta property="og:title" content="Overwatch files" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://cdn.lynnux.xyz/Overwatch" />
@@ -58,4 +95,4 @@
     </button>
 </body>
 <script src="/mode.js"></script>
-</html>
+</html> -->
