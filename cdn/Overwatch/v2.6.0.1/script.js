@@ -10,7 +10,7 @@ function convertSizeToBytes(size) {
     } else {
         return numericValue; // Already in bytes or unknown format
     }
-}
+} 
 
 // script.js
 function displayDirectoryListing() {
@@ -22,9 +22,7 @@ function displayDirectoryListing() {
             const filteredFiles = data.filter(item => !item.name.endsWith('.html') && !item.name.endsWith('.json') && !item.name.endsWith('.py') && !item.name.endsWith('.js'));
 
             filteredFiles.forEach(item => {
-                // Extract the filename or subdirectory name without path
                 const itemName = item.name.split('/').pop();
-                // Function to convert size from KB to bytes and remove letters
                 const sizeInBytes = convertSizeToBytes(item.size);
 
                 // Check if it's a directory or a file
