@@ -6,6 +6,24 @@
         "dateModified": 1694267091.1414013
     },
     {
+        "name": "Ashe",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694273424.4655674
+    },
+    {
+        "name": "Baptist",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694273561.3771603
+    },
+    {
+        "name": "Bastion",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694273699.473486
+    },
+    {
         "name": "Doomfist",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
@@ -27,13 +45,7 @@
         "name": "Kiriko",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694272081.702377
-    },
-    {
-        "name": "output.json",
-        "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694267580.9942012
+        "dateModified": 1694272117.1106906
     },
     {
         "name": "script.js",
