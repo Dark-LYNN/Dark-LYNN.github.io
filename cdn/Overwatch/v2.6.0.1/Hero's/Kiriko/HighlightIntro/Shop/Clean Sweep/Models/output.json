@@ -1,0 +1,62 @@
+[
+    {
+        "name": "000000000D06.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694282012.8968685
+    },
+    {
+        "name": "000000000F5B.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.566571
+    },
+    {
+        "name": "000000000F5F.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.56907
+    },
+    {
+        "name": "000000010ADC.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.6044974
+    },
+    {
+        "name": "000000010F4E.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.6120036
+    },
+    {
+        "name": "0000000118C9.00C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.632018
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694272682.9440422
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.35 KB",
+        "dateModified": 1694282011.623614
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.64 KB",
+        "dateModified": 1694272429.4606307
+    }
+]
