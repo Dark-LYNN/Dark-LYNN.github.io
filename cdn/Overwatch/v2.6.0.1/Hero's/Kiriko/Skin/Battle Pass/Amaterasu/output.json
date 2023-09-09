@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Effects",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.6715145
+    },
+    {
+        "name": "GUI",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.777025
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694272682.9440422
+    },
+    {
+        "name": "Models",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.2188535
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.64 KB",
+        "dateModified": 1694272429.4606307
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.4759824
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.5378501
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.5988758
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.6574676
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.7383747
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267271.864041
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.0261033
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.1894302
+    },
+    {
+        "name": "Weapon-0 Crown-0 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.2697802
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.3683183
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.4878538
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.6172426
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.6902838
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.753925
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.8182802
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.8818924
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267272.9449735
+    },
+    {
+        "name": "Weapon-0 Crown-1 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267273.0073018
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267274.1774068
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267274.3639472
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267274.5106783
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267274.6904328
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267274.875904
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267275.1286972
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267275.80573
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267276.14931
+    },
+    {
+        "name": "Weapon-0 Crown-2 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267276.7621229
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267276.9241278
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.0472648
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.1854005
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.2771084
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.3436024
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.4066436
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267277.4737132
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.0390291
+    },
+    {
+        "name": "Weapon-1 Crown-0 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.1066184
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.190555
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.2530305
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.3330085
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.5148387
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267278.622974
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267279.839566
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.0661733
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.15244
+    },
+    {
+        "name": "Weapon-1 Crown-1 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.2196195
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-0 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.2864132
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-0 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.8453662
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-0 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.921381
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-1 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267280.9935246
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-1 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267281.1706233
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-1 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267281.3718815
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-2 Color-0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267281.4468281
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-2 Color-1",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267281.5078304
+    },
+    {
+        "name": "Weapon-1 Crown-2 Hair-2 Color-2",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267281.625397
+    }
+]

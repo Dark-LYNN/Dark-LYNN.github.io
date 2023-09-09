@@ -1,0 +1,32 @@
+[
+    {
+        "name": "000000009D8F.02C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.8980198
+    },
+    {
+        "name": "000000009DAB.02C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.8990202
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694272682.9440422
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.64 KB",
+        "dateModified": 1694272429.4606307
+    }
+]
