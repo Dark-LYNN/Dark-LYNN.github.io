@@ -20,14 +20,20 @@
     {
         "name": "index.html",
         "type": ".HTML file",
-        "size": "1.50 KB",
-        "dateModified": 1694267573.9800627
+        "size": "1.57 KB",
+        "dateModified": 1694268160.0733902
     },
     {
         "name": "Kiriko",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267355.2564535
+        "dateModified": 1694272081.702377
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.01 KB",
+        "dateModified": 1694267580.9942012
     },
     {
         "name": "script.js",

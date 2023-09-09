@@ -15,7 +15,7 @@
     <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
-    <h1>/v2.6.0.1/Hero's/</h1>
+    <h1 id="fileLocation">/ParentDirectory/CurrentDirectory/</h1>
     <div id="container">
         <table class="sortable">
             <thead>
@@ -41,5 +41,17 @@
     <script src="script.js"></script>
     <script src="/mode.js"></script>
 </body>
+<script>
+    // Get the current URL of the page
+    var url = window.location.href;
+
+    // Extract the parent directory and directory names from it
+    var parent_directory = url.split("/").slice(-3, -2)[0];
+    var directory = url.split("/").slice(-2, -1)[0];
+
+    // Set the content of the h1 element to the desired value
+    var fileLocation = document.getElementById("fileLocation");
+    fileLocation.innerHTML = "/" + parent_directory + "/" + directory + "/";
+  </script>
 
 </html> 

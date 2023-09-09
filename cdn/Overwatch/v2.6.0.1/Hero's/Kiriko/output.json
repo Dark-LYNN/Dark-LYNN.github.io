@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Emote",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.00958
+    },
+    {
+        "name": "GUI",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.0185862
+    },
+    {
+        "name": "HighlightIntro",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.5605562
+    },
+    {
+        "name": "Icon",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.641034
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694268160.0733902
+    },
+    {
+        "name": "NameCard",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.6500225
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "Skin",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267336.857503
+    },
+    {
+        "name": "Spray",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267353.9498801
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.59 KB",
+        "dateModified": 1694272113.1437182
+    },
+    {
+        "name": "VictoryPose",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6099803
+    },
+    {
+        "name": "Voicelines",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267355.2559538
+    }
+]

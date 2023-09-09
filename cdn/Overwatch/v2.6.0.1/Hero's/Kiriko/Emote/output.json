@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Base",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267267.934549
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694272158.1454115
+    },
+    {
+        "name": "Overwatch",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.0070803
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "Shop",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267268.01008
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.64 KB",
+        "dateModified": 1694272429.4606307
+    }
+]
