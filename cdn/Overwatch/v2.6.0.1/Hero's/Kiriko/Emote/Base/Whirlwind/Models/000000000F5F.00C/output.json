@@ -1,9 +1,9 @@
 [
     {
-        "name": "Base",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694279918.3805218
+        "name": "000000000F5F.owmdl",
+        "type": ".OWMDL file",
+        "size": "86.09 KB",
+        "dateModified": 1694267267.944565
     },
     {
         "name": "index.html",
@@ -12,16 +12,10 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "output.json",
-        "type": ".JSON file",
-        "size": "0.86 KB",
-        "dateModified": 1694272434.159719
-    },
-    {
-        "name": "Overwatch",
+        "name": "Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694280106.9846423
+        "dateModified": 1694267267.9455678
     },
     {
         "name": "script.js",
@@ -30,15 +24,15 @@
         "dateModified": 1694267355.257453
     },
     {
-        "name": "Shop",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694280317.0890646
-    },
-    {
         "name": "test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
+    },
+    {
+        "name": "Textures",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267267.9475589
     }
 ]

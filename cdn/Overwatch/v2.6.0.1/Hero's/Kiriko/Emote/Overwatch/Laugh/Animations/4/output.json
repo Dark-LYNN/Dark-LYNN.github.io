@@ -1,9 +1,9 @@
 [
     {
-        "name": "Base",
+        "name": "6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694279918.3805218
+        "dateModified": 1694267268.00958
     },
     {
         "name": "index.html",
@@ -12,28 +12,10 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "output.json",
-        "type": ".JSON file",
-        "size": "0.86 KB",
-        "dateModified": 1694272434.159719
-    },
-    {
-        "name": "Overwatch",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694280106.9846423
-    },
-    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
-    },
-    {
-        "name": "Shop",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694280317.0890646
     },
     {
         "name": "test.py",
