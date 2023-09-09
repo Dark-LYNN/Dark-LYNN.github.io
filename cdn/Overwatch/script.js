@@ -39,7 +39,7 @@ function displayDirectoryListing() {
                     const typeClass = isDirectory ? "folder" : "image";
                     row.innerHTML = `
                         <td><a class="name">${itemName}</a></td>
-                        <td><a class="${typeClass}">${itemName}</a></td>
+                        <td><a class="${typeClass}">${item.type}</a></td>
                         <td sorttable_customkey="${sizeInBytes}"><a>${item.size}</a></td>
                         <td sorttable_customkey="${item.dateModified}"><a>${new Date(item.dateModified * 1000).toLocaleString()}</a></td>
                     `;
