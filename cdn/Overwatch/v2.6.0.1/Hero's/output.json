@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ana",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267091.1414013
+    },
+    {
+        "name": "Doomfist",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267106.0967157
+    },
+    {
+        "name": "Illari",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267267.934549
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.50 KB",
+        "dateModified": 1694267573.9800627
+    },
+    {
+        "name": "Kiriko",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267355.2564535
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.58 KB",
+        "dateModified": 1694267572.1012688
+    }
+]
