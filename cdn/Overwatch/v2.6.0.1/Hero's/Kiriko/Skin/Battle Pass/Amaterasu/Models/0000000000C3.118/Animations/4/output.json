@@ -1,0 +1,80 @@
+[
+    {
+        "name": "0",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9066234
+    },
+    {
+        "name": "20",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9076235
+    },
+    {
+        "name": "28",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9086237
+    },
+    {
+        "name": "30",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9086237
+    },
+    {
+        "name": "32",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9096236
+    },
+    {
+        "name": "36",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9126253
+    },
+    {
+        "name": "38",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.915127
+    },
+    {
+        "name": "4",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9306655
+    },
+    {
+        "name": "6",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.936181
+    },
+    {
+        "name": "60",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267269.9371822
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694272682.9440422
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "1.64 KB",
+        "dateModified": 1694272429.4606307
+    }
+]
