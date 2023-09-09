@@ -10,7 +10,7 @@ def generate_directory_listing(directory):
     for item in os.listdir(directory):
         item_path = os.path.join(directory, item)
         if os.path.isfile(item_path) or os.path.isdir(item_path):
-            item_type = "<DIRECTORY>" if os.path.isdir(item_path) else os.path.splitext(item)[1].upper() + " file"
+            item_type = "&lt;DIRECTORY&gt;" if os.path.isdir(item_path) else os.path.splitext(item)[1].upper() + " file"
             item_size = "N/A" if os.path.isdir(item_path) else f"{os.path.getsize(item_path) / 1024:.2f} KB"
             item_date_modified = os.path.getmtime(item_path)
             relative_path = os.path.relpath(item_path, root_directory)  # Get relative path
