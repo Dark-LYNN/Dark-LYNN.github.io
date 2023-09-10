@@ -1,57 +1,57 @@
 [
     {
-        "name": "0000000010A3.tif",
-        "type": ".TIF file",
+        "name": "0000000010A3.png",
+        "type": ".PNG file",
+        "size": "0.57 KB",
+        "dateModified": 1694340587.6364968
+    },
+    {
+        "name": "0000000020D0.png",
+        "type": ".PNG file",
+        "size": "1.07 KB",
+        "dateModified": 1694340543.4073167
+    },
+    {
+        "name": "000000009BDF.png",
+        "type": ".PNG file",
+        "size": "19.76 KB",
+        "dateModified": 1694340567.6869771
+    },
+    {
+        "name": "00000000A06C.png",
+        "type": ".PNG file",
+        "size": "0.80 KB",
+        "dateModified": 1694340595.5670607
+    },
+    {
+        "name": "00000000A4EC.png",
+        "type": ".PNG file",
+        "size": "60.28 KB",
+        "dateModified": 1694340549.0127354
+    },
+    {
+        "name": "00000000A4ED.png",
+        "type": ".PNG file",
+        "size": "107.61 KB",
+        "dateModified": 1694340560.038296
+    },
+    {
+        "name": "80003B0D88D1.png",
+        "type": ".PNG file",
+        "size": "0.80 KB",
+        "dateModified": 1694340537.0086412
+    },
+    {
+        "name": "8000C9719DA9.png",
+        "type": ".PNG file",
         "size": "0.71 KB",
-        "dateModified": 1694267268.2685442
+        "dateModified": 1694340553.7048008
     },
     {
-        "name": "0000000020D0.tif",
-        "type": ".TIF file",
-        "size": "1.86 KB",
-        "dateModified": 1694267268.2690442
-    },
-    {
-        "name": "000000009BDF.tif",
-        "type": ".TIF file",
-        "size": "54.59 KB",
-        "dateModified": 1694267268.2695446
-    },
-    {
-        "name": "00000000A06C.tif",
-        "type": ".TIF file",
-        "size": "1.80 KB",
-        "dateModified": 1694267268.2695446
-    },
-    {
-        "name": "00000000A4EC.tif",
-        "type": ".TIF file",
-        "size": "140.18 KB",
-        "dateModified": 1694267268.2705443
-    },
-    {
-        "name": "00000000A4ED.tif",
-        "type": ".TIF file",
-        "size": "292.18 KB",
-        "dateModified": 1694267268.2845514
-    },
-    {
-        "name": "80003B0D88D1.tif",
-        "type": ".TIF file",
-        "size": "3.51 KB",
-        "dateModified": 1694267268.2845514
-    },
-    {
-        "name": "8000C9719DA9.tif",
-        "type": ".TIF file",
-        "size": "3.34 KB",
-        "dateModified": 1694267268.2845514
-    },
-    {
-        "name": "8000F8754E95.tif",
-        "type": ".TIF file",
-        "size": "3.23 KB",
-        "dateModified": 1694267268.2845514
+        "name": "8000F8754E95.png",
+        "type": ".PNG file",
+        "size": "0.77 KB",
+        "dateModified": 1694340581.7036648
     },
     {
         "name": "index.html",
