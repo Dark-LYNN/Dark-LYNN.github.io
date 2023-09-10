@@ -179,26 +179,16 @@ with open(js_file_path, 'w', encoding='utf-8') as js_file:
 
 print(f'JavaScript file has been generated and saved to {js_file_path}')
 
-# Function to add a "contributing artist" metadata tag to an image file
-def add_contributing_artist_metadata(image_path, artist_name):
-    try:
-        image = Image.open(image_path)
-        image_info = image.info
 
-        # Check if the image format supports metadata tags
-        if 'png' in image.format.lower():  # Add more format checks if needed
-            image_info['contributing_artist'] = artist_name
-            image.save(image_path, pnginfo=image_info)
+# Function to rename .ogg files in a directory
+def rename_ogg_files(directory):
+    for filename in os.listdir(directory):
+        if filename.endswith('.ogg'):
+            new_filename = filename.split('-', 1)[-1].strip()  # Remove everything before the first hyphen
+            new_path = os.path.join(directory, new_filename)
+            os.rename(os.path.join(directory, filename), new_path)
+            print(f"Renamed {filename} to {new_filename}")
 
-    except Exception as e:
-        print(f"Failed to add metadata to {image_path}: {str(e)}")
-
-# Set the artist name
-artist_name = "Lynnux"
-
-# Iterate through files in the current directory
-for file in os.listdir('.'):
-    if file.endswith('.png'):  # Add more extensions as needed
-        image_path = file
-        add_contributing_artist_metadata(image_path, artist_name)
-        print(f"Added contributing artist '{artist_name}' to {image_path}")
+if __name__ == "__main__":
+    input_directory = os.path.join(current_directory)
+    rename_ogg_files(input_directory)
