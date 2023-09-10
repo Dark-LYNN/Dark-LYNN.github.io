@@ -1,0 +1,32 @@
+[
+    {
+        "name": "000000009962.02C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267262.824052
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694353808.2753444
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.30 KB",
+        "dateModified": 1694353808.2748437
+    },
+    {
+        "name": "run.py",
+        "type": ".PY file",
+        "size": "7.60 KB",
+        "dateModified": 1694352215.1006393
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694353808.2753444
+    }
+]

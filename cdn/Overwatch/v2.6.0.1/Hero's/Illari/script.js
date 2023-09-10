@@ -13,7 +13,6 @@ function convertSizeToBytes(size) {
     }
 } 
 
-// script.js
 function displayDirectoryListing() {
     console.log("Fetching JSON data...")
     const fileList = document.getElementById('fileList');
