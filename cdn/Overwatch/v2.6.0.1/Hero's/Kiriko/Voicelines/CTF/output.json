@@ -1,0 +1,68 @@
+[
+    {
+        "name": "CapturedFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6144924
+    },
+    {
+        "name": "CaptureFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6134923
+    },
+    {
+        "name": "DefendFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6149933
+    },
+    {
+        "name": "DroppedFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6154933
+    },
+    {
+        "name": "EnemyCapturedFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.616493
+    },
+    {
+        "name": "EnemyDroppedFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6169922
+    },
+    {
+        "name": "EnemyTakenFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6184926
+    },
+    {
+        "name": "FlagReturned",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6189928
+    },
+    {
+        "name": "PickedUpFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6209958
+    },
+    {
+        "name": "RecoverFlag",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.6220055
+    },
+    {
+        "name": "run.py",
+        "type": ".PY file",
+        "size": "7.10 KB",
+        "dateModified": 1694343159.4150858
+    }
+]
