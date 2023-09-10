@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Attack",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.959966
+    },
+    {
+        "name": "CaptureInProgress",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9614768
+    },
+    {
+        "name": "Defend",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9619782
+    },
+    {
+        "name": "EnemyCaptureInProgress",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.962978
+    },
+    {
+        "name": "EnemyMovingPayload",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9639785
+    },
+    {
+        "name": "EnemyRunningOutOfTime",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9664786
+    },
+    {
+        "name": "PayloadMoving",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9674778
+    },
+    {
+        "name": "PayloadNeedsToMove",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9674778
+    },
+    {
+        "name": "PayloadStop",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9694786
+    },
+    {
+        "name": "PayloadStopped",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9714909
+    },
+    {
+        "name": "run.py",
+        "type": ".PY file",
+        "size": "7.68 KB",
+        "dateModified": 1694347399.4866786
+    },
+    {
+        "name": "RunningOutOfTime",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267354.9744916
+    }
+]
