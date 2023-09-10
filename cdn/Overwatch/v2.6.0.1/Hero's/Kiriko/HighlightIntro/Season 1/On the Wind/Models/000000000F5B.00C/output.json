@@ -15,13 +15,25 @@
         "name": "Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5570555
+        "dateModified": 1694281960.3191803
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.88 KB",
+        "dateModified": 1694281958.2846687
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",
@@ -33,6 +45,6 @@
         "name": "Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5585556
+        "dateModified": 1694281963.4235814
     }
 ]

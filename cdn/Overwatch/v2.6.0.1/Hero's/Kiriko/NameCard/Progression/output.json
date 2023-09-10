@@ -6,46 +6,58 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Kiriko - Tier 1.tif",
-        "type": ".TIF file",
-        "size": "72.24 KB",
-        "dateModified": 1694267268.642534
+        "name": "Kiriko - Tier 1.png",
+        "type": ".PNG file",
+        "size": "22.37 KB",
+        "dateModified": 1694342858.180939
     },
     {
-        "name": "Kiriko - Tier 2.tif",
-        "type": ".TIF file",
-        "size": "82.06 KB",
-        "dateModified": 1694267268.643034
+        "name": "Kiriko - Tier 2.png",
+        "type": ".PNG file",
+        "size": "28.66 KB",
+        "dateModified": 1694342858.1996503
     },
     {
-        "name": "Kiriko - Tier 3.tif",
-        "type": ".TIF file",
-        "size": "77.73 KB",
-        "dateModified": 1694267268.6435895
+        "name": "Kiriko - Tier 3.png",
+        "type": ".PNG file",
+        "size": "30.66 KB",
+        "dateModified": 1694342858.2164376
     },
     {
-        "name": "Kiriko - Tier 4.tif",
-        "type": ".TIF file",
-        "size": "95.31 KB",
-        "dateModified": 1694267268.6440349
+        "name": "Kiriko - Tier 4.png",
+        "type": ".PNG file",
+        "size": "37.37 KB",
+        "dateModified": 1694342858.2339554
     },
     {
-        "name": "Kiriko - Tier 5.tif",
-        "type": ".TIF file",
-        "size": "136.90 KB",
-        "dateModified": 1694267268.6450355
+        "name": "Kiriko - Tier 5.png",
+        "type": ".PNG file",
+        "size": "48.51 KB",
+        "dateModified": 1694342858.2544549
     },
     {
-        "name": "Kiriko - Tier 6.tif",
-        "type": ".TIF file",
-        "size": "565.75 KB",
-        "dateModified": 1694267268.6500225
+        "name": "Kiriko - Tier 6.png",
+        "type": ".PNG file",
+        "size": "495.98 KB",
+        "dateModified": 1694342858.3823528
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.36 KB",
+        "dateModified": 1694282272.1782925
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

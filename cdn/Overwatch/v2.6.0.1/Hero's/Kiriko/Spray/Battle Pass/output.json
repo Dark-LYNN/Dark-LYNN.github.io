@@ -1,9 +1,9 @@
 [
     {
-        "name": "Cyber Phoenix.tif",
-        "type": ".TIF file",
-        "size": "137.89 KB",
-        "dateModified": 1694267353.4500308
+        "name": "Cyber Phoenix.png",
+        "type": ".PNG file",
+        "size": "96.53 KB",
+        "dateModified": 1694342876.6589315
     },
     {
         "name": "index.html",
@@ -12,10 +12,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.90 KB",
+        "dateModified": 1694282292.4256933
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",
@@ -24,15 +36,15 @@
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Woodblock Amaterasu.tif",
-        "type": ".TIF file",
-        "size": "186.66 KB",
-        "dateModified": 1694267353.5107346
+        "name": "Woodblock Amaterasu.png",
+        "type": ".PNG file",
+        "size": "156.14 KB",
+        "dateModified": 1694342876.6860242
     },
     {
-        "name": "Woodblock Fox.tif",
-        "type": ".TIF file",
-        "size": "163.26 KB",
-        "dateModified": 1694267353.852807
+        "name": "Woodblock Fox.png",
+        "type": ".PNG file",
+        "size": "131.29 KB",
+        "dateModified": 1694342876.7386117
     }
 ]

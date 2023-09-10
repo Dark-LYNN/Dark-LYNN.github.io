@@ -1,33 +1,33 @@
 [
     {
-        "name": "Cha.tif",
-        "type": ".TIF file",
-        "size": "105.15 KB",
-        "dateModified": 1694267353.8575537
+        "name": "Cha.png",
+        "type": ".PNG file",
+        "size": "78.67 KB",
+        "dateModified": 1694342883.3884873
     },
     {
-        "name": "Cozy.tif",
-        "type": ".TIF file",
-        "size": "175.51 KB",
-        "dateModified": 1694267353.8630514
+        "name": "Cozy.png",
+        "type": ".PNG file",
+        "size": "137.91 KB",
+        "dateModified": 1694342883.4095488
     },
     {
-        "name": "Guardians.tif",
-        "type": ".TIF file",
-        "size": "190.49 KB",
-        "dateModified": 1694267353.8715644
+        "name": "Guardians.png",
+        "type": ".PNG file",
+        "size": "148.12 KB",
+        "dateModified": 1694342883.4330304
     },
     {
-        "name": "Hanafuda.tif",
-        "type": ".TIF file",
-        "size": "127.34 KB",
-        "dateModified": 1694267353.8779347
+        "name": "Hanafuda.png",
+        "type": ".PNG file",
+        "size": "89.99 KB",
+        "dateModified": 1694342883.4510186
     },
     {
-        "name": "Icon.tif",
-        "type": ".TIF file",
-        "size": "58.36 KB",
-        "dateModified": 1694267353.8800576
+        "name": "Icon.png",
+        "type": ".PNG file",
+        "size": "36.52 KB",
+        "dateModified": 1694342883.466562
     },
     {
         "name": "index.html",
@@ -36,10 +36,10 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Late.tif",
-        "type": ".TIF file",
-        "size": "187.69 KB",
-        "dateModified": 1694267353.8881147
+        "name": "Late.png",
+        "type": ".PNG file",
+        "size": "146.27 KB",
+        "dateModified": 1694342883.4879546
     },
     {
         "name": "Lo-fi .png",
@@ -48,28 +48,34 @@
         "dateModified": 1694267353.8965714
     },
     {
-        "name": "Lo-fi.tif",
-        "type": ".TIF file",
-        "size": "195.54 KB",
-        "dateModified": 1694267353.898072
+        "name": "Lo-fi.png",
+        "type": ".PNG file",
+        "size": "134.37 KB",
+        "dateModified": 1694342883.5098984
     },
     {
-        "name": "Onigiri.tif",
-        "type": ".TIF file",
-        "size": "173.53 KB",
-        "dateModified": 1694267353.9050014
+        "name": "Onigiri.png",
+        "type": ".PNG file",
+        "size": "135.89 KB",
+        "dateModified": 1694342883.5326471
     },
     {
-        "name": "Playtime.tif",
-        "type": ".TIF file",
-        "size": "129.53 KB",
-        "dateModified": 1694267353.9129946
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "2.19 KB",
+        "dateModified": 1694282296.9139044
     },
     {
-        "name": "Razor Sharp.tif",
-        "type": ".TIF file",
-        "size": "154.78 KB",
-        "dateModified": 1694267353.9179962
+        "name": "Playtime.png",
+        "type": ".PNG file",
+        "size": "95.91 KB",
+        "dateModified": 1694342883.5508854
+    },
+    {
+        "name": "Razor Sharp.png",
+        "type": ".PNG file",
+        "size": "119.68 KB",
+        "dateModified": 1694342883.5694273
     },
     {
         "name": "script.js",
@@ -78,10 +84,16 @@
         "dateModified": 1694267355.257453
     },
     {
-        "name": "Shaved Ice.tif",
-        "type": ".TIF file",
-        "size": "136.66 KB",
-        "dateModified": 1694267353.9234848
+        "name": "Shaved Ice.png",
+        "type": ".PNG file",
+        "size": "97.20 KB",
+        "dateModified": 1694342883.5877273
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

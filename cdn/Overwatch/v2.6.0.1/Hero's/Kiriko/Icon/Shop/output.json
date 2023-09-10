@@ -6,10 +6,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694282248.4586332
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",
@@ -18,9 +30,9 @@
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Witch.tif",
-        "type": ".TIF file",
-        "size": "46.69 KB",
-        "dateModified": 1694267268.641034
+        "name": "Witch.png",
+        "type": ".PNG file",
+        "size": "27.54 KB",
+        "dateModified": 1694342844.7929993
     }
 ]

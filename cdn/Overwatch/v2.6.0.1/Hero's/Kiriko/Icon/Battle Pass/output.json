@@ -1,21 +1,21 @@
 [
     {
-        "name": "Amaterasu.tif",
-        "type": ".TIF file",
-        "size": "164.64 KB",
-        "dateModified": 1694267268.6355217
+        "name": "Amaterasu.png",
+        "type": ".PNG file",
+        "size": "124.46 KB",
+        "dateModified": 1694342827.9379714
     },
     {
-        "name": "Divine Kunai.tif",
-        "type": ".TIF file",
-        "size": "76.42 KB",
-        "dateModified": 1694267268.6365335
+        "name": "Divine Kunai.png",
+        "type": ".PNG file",
+        "size": "48.10 KB",
+        "dateModified": 1694342827.9646966
     },
     {
-        "name": "Hinotori.tif",
-        "type": ".TIF file",
-        "size": "70.85 KB",
-        "dateModified": 1694267268.637033
+        "name": "Hinotori.png",
+        "type": ".PNG file",
+        "size": "44.74 KB",
+        "dateModified": 1694342827.9909265
     },
     {
         "name": "index.html",
@@ -24,16 +24,28 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Kitsune.tif",
-        "type": ".TIF file",
-        "size": "107.45 KB",
-        "dateModified": 1694267268.6375332
+        "name": "Kitsune.png",
+        "type": ".PNG file",
+        "size": "61.85 KB",
+        "dateModified": 1694342828.0143971
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.03 KB",
+        "dateModified": 1694282234.7966332
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

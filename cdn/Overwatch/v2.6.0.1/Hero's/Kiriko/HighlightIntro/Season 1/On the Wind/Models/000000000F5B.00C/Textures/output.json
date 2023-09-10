@@ -1,27 +1,27 @@
 [
     {
-        "name": "000000004C09.tif",
-        "type": ".TIF file",
-        "size": "32.13 KB",
-        "dateModified": 1694267268.5575554
+        "name": "000000004C09.png",
+        "type": ".PNG file",
+        "size": "15.33 KB",
+        "dateModified": 1694342713.9885156
     },
     {
-        "name": "0000000299E9.tif",
-        "type": ".TIF file",
-        "size": "185.63 KB",
-        "dateModified": 1694267268.5585556
+        "name": "0000000299E9.png",
+        "type": ".PNG file",
+        "size": "110.59 KB",
+        "dateModified": 1694342714.0324833
     },
     {
-        "name": "8000122BE5BA.tif",
-        "type": ".TIF file",
-        "size": "3.00 KB",
-        "dateModified": 1694267268.5585556
+        "name": "8000122BE5BA.png",
+        "type": ".PNG file",
+        "size": "0.24 KB",
+        "dateModified": 1694342714.0379987
     },
     {
-        "name": "80007259DD30.tif",
-        "type": ".TIF file",
-        "size": "1.84 KB",
-        "dateModified": 1694267268.5590558
+        "name": "80007259DD30.png",
+        "type": ".PNG file",
+        "size": "0.15 KB",
+        "dateModified": 1694342714.0424995
     },
     {
         "name": "index.html",
@@ -30,10 +30,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.04 KB",
+        "dateModified": 1694281963.4240832
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

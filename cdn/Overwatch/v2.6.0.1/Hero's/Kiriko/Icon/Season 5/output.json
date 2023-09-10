@@ -6,16 +6,28 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Questwatch Kiriko.tif",
-        "type": ".TIF file",
-        "size": "69.60 KB",
-        "dateModified": 1694267268.6405337
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694282243.751101
+    },
+    {
+        "name": "Questwatch Kiriko.png",
+        "type": ".PNG file",
+        "size": "16.49 KB",
+        "dateModified": 1694342838.7633584
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

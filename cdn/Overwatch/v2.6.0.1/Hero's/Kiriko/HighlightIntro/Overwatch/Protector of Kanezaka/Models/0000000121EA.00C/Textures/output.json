@@ -1,33 +1,33 @@
 [
     {
-        "name": "0000000004DB.tif",
-        "type": ".TIF file",
-        "size": "57.25 KB",
-        "dateModified": 1694267268.5535438
+        "name": "0000000004DB.png",
+        "type": ".PNG file",
+        "size": "36.27 KB",
+        "dateModified": 1694342613.267723
     },
     {
-        "name": "00000001CB5D.tif",
-        "type": ".TIF file",
-        "size": "195.29 KB",
-        "dateModified": 1694267268.5545435
+        "name": "00000001CB5D.png",
+        "type": ".PNG file",
+        "size": "125.08 KB",
+        "dateModified": 1694342613.3071508
     },
     {
-        "name": "00000003AEFD.tif",
-        "type": ".TIF file",
-        "size": "14.90 KB",
-        "dateModified": 1694267268.5545435
+        "name": "00000003AEFD.png",
+        "type": ".PNG file",
+        "size": "8.97 KB",
+        "dateModified": 1694342613.3139129
     },
     {
-        "name": "8000B87F6F52.tif",
-        "type": ".TIF file",
-        "size": "3.63 KB",
-        "dateModified": 1694267268.5545435
+        "name": "8000B87F6F52.png",
+        "type": ".PNG file",
+        "size": "0.25 KB",
+        "dateModified": 1694342613.315914
     },
     {
-        "name": "8000FFF5F126.tif",
-        "type": ".TIF file",
-        "size": "0.94 KB",
-        "dateModified": 1694267268.5545435
+        "name": "8000FFF5F126.png",
+        "type": ".PNG file",
+        "size": "0.09 KB",
+        "dateModified": 1694342613.3169143
     },
     {
         "name": "index.html",
@@ -36,10 +36,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.19 KB",
+        "dateModified": 1694281879.410376
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

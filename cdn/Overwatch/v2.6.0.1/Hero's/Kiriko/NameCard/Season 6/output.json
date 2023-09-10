@@ -6,10 +6,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694282268.1413934
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",
@@ -18,9 +30,9 @@
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Time Keeper.tif",
-        "type": ".TIF file",
-        "size": "236.29 KB",
-        "dateModified": 1694267268.6515226
+        "name": "Time Keeper.png",
+        "type": ".PNG file",
+        "size": "132.23 KB",
+        "dateModified": 1694342863.0020242
     }
 ]

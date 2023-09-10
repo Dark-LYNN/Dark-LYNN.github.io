@@ -1,9 +1,9 @@
 [
     {
-        "name": "Cute.tif",
-        "type": ".TIF file",
-        "size": "179.42 KB",
-        "dateModified": 1694267353.44853
+        "name": "Cute.png",
+        "type": ".PNG file",
+        "size": "138.92 KB",
+        "dateModified": 1694342872.7011592
     },
     {
         "name": "index.html",
@@ -12,16 +12,28 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Pixel.tif",
-        "type": ".TIF file",
-        "size": "41.75 KB",
-        "dateModified": 1694267353.4490302
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.72 KB",
+        "dateModified": 1694282288.5953307
+    },
+    {
+        "name": "Pixel.png",
+        "type": ".PNG file",
+        "size": "11.13 KB",
+        "dateModified": 1694342872.7286656
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

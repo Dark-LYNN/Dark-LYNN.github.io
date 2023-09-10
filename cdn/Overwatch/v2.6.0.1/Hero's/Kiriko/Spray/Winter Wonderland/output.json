@@ -6,16 +6,28 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Ornament.tif",
-        "type": ".TIF file",
-        "size": "54.87 KB",
-        "dateModified": 1694267353.9550428
+        "name": "Ornament.png",
+        "type": ".PNG file",
+        "size": "32.41 KB",
+        "dateModified": 1694342896.650886
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694282318.3854246
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

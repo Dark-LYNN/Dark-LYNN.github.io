@@ -6,16 +6,28 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Mountain Bike.tif",
-        "type": ".TIF file",
-        "size": "145.62 KB",
-        "dateModified": 1694267353.9488811
+        "name": "Mountain Bike.png",
+        "type": ".PNG file",
+        "size": "109.23 KB",
+        "dateModified": 1694342893.604046
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694282312.5285048
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

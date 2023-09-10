@@ -1,9 +1,9 @@
 [
     {
-        "name": "Fox Spirit.tif",
-        "type": ".TIF file",
-        "size": "52.73 KB",
-        "dateModified": 1694267268.6380336
+        "name": "Fox Spirit.png",
+        "type": ".PNG file",
+        "size": "34.47 KB",
+        "dateModified": 1694342833.6227944
     },
     {
         "name": "index.html",
@@ -12,28 +12,40 @@
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Kiriko Silhouette.tif",
-        "type": ".TIF file",
-        "size": "70.85 KB",
-        "dateModified": 1694267268.638533
+        "name": "Kiriko Silhouette.png",
+        "type": ".PNG file",
+        "size": "45.70 KB",
+        "dateModified": 1694342833.6456892
     },
     {
-        "name": "Kiriko.tif",
-        "type": ".TIF file",
-        "size": "73.85 KB",
-        "dateModified": 1694267268.639033
+        "name": "Kiriko.png",
+        "type": ".PNG file",
+        "size": "46.59 KB",
+        "dateModified": 1694342833.6647527
     },
     {
-        "name": "Nine Tails.tif",
-        "type": ".TIF file",
-        "size": "94.97 KB",
-        "dateModified": 1694267268.6400335
+        "name": "Nine Tails.png",
+        "type": ".PNG file",
+        "size": "82.68 KB",
+        "dateModified": 1694342833.6963117
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.03 KB",
+        "dateModified": 1694282239.2614143
     },
     {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",

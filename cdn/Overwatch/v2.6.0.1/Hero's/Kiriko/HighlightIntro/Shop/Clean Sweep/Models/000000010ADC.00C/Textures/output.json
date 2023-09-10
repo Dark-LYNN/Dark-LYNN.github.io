@@ -1,51 +1,51 @@
 [
     {
-        "name": "000000018B18.tif",
-        "type": ".TIF file",
-        "size": "29.12 KB",
-        "dateModified": 1694267268.6055002
+        "name": "000000018B18.png",
+        "type": ".PNG file",
+        "size": "12.91 KB",
+        "dateModified": 1694342768.1661725
     },
     {
-        "name": "0000000299E3.tif",
-        "type": ".TIF file",
-        "size": "176.02 KB",
-        "dateModified": 1694267268.6060123
+        "name": "0000000299E3.png",
+        "type": ".PNG file",
+        "size": "97.98 KB",
+        "dateModified": 1694342768.1997435
     },
     {
-        "name": "00000002FF91.tif",
-        "type": ".TIF file",
-        "size": "188.32 KB",
-        "dateModified": 1694267268.6070135
+        "name": "00000002FF91.png",
+        "type": ".PNG file",
+        "size": "109.83 KB",
+        "dateModified": 1694342768.2347667
     },
     {
-        "name": "00000002FFA3.tif",
-        "type": ".TIF file",
-        "size": "157.59 KB",
-        "dateModified": 1694267268.608013
+        "name": "00000002FFA3.png",
+        "type": ".PNG file",
+        "size": "84.85 KB",
+        "dateModified": 1694342768.2672074
     },
     {
-        "name": "800012FB5BC5.tif",
-        "type": ".TIF file",
-        "size": "2.59 KB",
-        "dateModified": 1694267268.608013
+        "name": "800012FB5BC5.png",
+        "type": ".PNG file",
+        "size": "0.20 KB",
+        "dateModified": 1694342768.2687078
     },
     {
-        "name": "80003EAAC31C.tif",
-        "type": ".TIF file",
-        "size": "2.93 KB",
-        "dateModified": 1694267268.6109772
+        "name": "80003EAAC31C.png",
+        "type": ".PNG file",
+        "size": "0.24 KB",
+        "dateModified": 1694342768.2697089
     },
     {
-        "name": "8000B677BFBD.tif",
-        "type": ".TIF file",
-        "size": "2.69 KB",
-        "dateModified": 1694267268.6109772
+        "name": "8000B677BFBD.png",
+        "type": ".PNG file",
+        "size": "0.24 KB",
+        "dateModified": 1694342768.270773
     },
     {
-        "name": "8000BC4E30CB.tif",
-        "type": ".TIF file",
-        "size": "1.45 KB",
-        "dateModified": 1694267268.611503
+        "name": "8000BC4E30CB.png",
+        "type": ".PNG file",
+        "size": "0.13 KB",
+        "dateModified": 1694342768.2722743
     },
     {
         "name": "index.html",
@@ -54,10 +54,22 @@
         "dateModified": 1694272682.9440422
     },
     {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.64 KB",
+        "dateModified": 1694282063.8512096
+    },
+    {
         "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
+    },
+    {
+        "name": "test copy.py",
+        "type": ".PY file",
+        "size": "1.83 KB",
+        "dateModified": 1694342282.2140372
     },
     {
         "name": "test.py",
