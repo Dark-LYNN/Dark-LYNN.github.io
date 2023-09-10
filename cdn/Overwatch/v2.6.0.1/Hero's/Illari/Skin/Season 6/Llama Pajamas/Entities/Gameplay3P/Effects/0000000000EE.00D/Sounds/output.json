@@ -3,12 +3,30 @@
         "name": "0000000060A9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267263.4239116
+        "dateModified": 1694354484.1583347
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694354481.6305616
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.30 KB",
+        "dateModified": 1694354481.6300614
     },
     {
         "name": "run.py",
         "type": ".PY file",
-        "size": "7.60 KB",
-        "dateModified": 1694352215.1006393
+        "size": "8.11 KB",
+        "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694354481.6305616
     }
 ]

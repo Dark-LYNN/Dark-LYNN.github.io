@@ -1,0 +1,32 @@
+[
+    {
+        "name": "000000003ADB.02C",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694359040.8928108
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694359037.9163373
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.30 KB",
+        "dateModified": 1694359037.9163373
+    },
+    {
+        "name": "run.py",
+        "type": ".PY file",
+        "size": "8.11 KB",
+        "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694359037.9173405
+    }
+]
