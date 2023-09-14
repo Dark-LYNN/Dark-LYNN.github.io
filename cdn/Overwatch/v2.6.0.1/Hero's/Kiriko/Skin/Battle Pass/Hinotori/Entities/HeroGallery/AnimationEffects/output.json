@@ -4,5 +4,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267282.1483636
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710333.5080552
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694710333.5080552
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710333.5085561
     }
 ]

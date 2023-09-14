@@ -6,15 +6,33 @@
         "dateModified": 1694267290.5278726
     },
     {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000310C.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710570.47287
+    },
+    {
         "name": "Skin/Overwatch/Athleisure/Models/00000000310C.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267290.5283754
+        "dateModified": 1694710570.47387
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000310C.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.60 KB",
+        "dateModified": 1694710570.47287
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000310C.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710570.4733703
     },
     {
         "name": "Skin/Overwatch/Athleisure/Models/00000000310C.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267290.5588918
+        "dateModified": 1694710571.0206656
     }
 ]

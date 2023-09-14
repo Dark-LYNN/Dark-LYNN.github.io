@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Matsuri/Entities/Protection Suzu-18365/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710721.5326977
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Protection Suzu-18365/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694710721.4833803
+    },
+    {
         "name": "Skin/Overwatch/Matsuri/Entities/Protection Suzu-18365/Protection Suzu-18365.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267298.584288
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Protection Suzu-18365/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710721.533197
     }
 ]

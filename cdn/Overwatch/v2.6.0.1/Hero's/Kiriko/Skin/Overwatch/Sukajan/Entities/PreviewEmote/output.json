@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Sukajan/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267316.8750193
+        "dateModified": 1694710902.6270473
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710902.5860782
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/PreviewEmote/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710902.5860782
     },
     {
         "name": "Skin/Overwatch/Sukajan/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267316.8750193
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710902.5860782
     }
 ]

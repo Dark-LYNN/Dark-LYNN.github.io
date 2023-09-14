@@ -22,5 +22,23 @@
         "type": ".OGG file",
         "size": "13.39 KB",
         "dateModified": 1694267283.773728
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/Effects/000000001B2F.00D/Sounds/000000003ADB.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710431.4681866
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/Effects/000000001B2F.00D/Sounds/000000003ADB.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.98 KB",
+        "dateModified": 1694710431.4676862
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/Effects/000000001B2F.00D/Sounds/000000003ADB.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710431.4686863
     }
 ]

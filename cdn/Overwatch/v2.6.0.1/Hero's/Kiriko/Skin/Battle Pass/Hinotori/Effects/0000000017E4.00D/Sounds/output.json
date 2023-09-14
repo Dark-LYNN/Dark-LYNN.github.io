@@ -3,12 +3,30 @@
         "name": "Skin/Battle Pass/Hinotori/Effects/0000000017E4.00D/Sounds/000000002D8E.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267281.64043
+        "dateModified": 1694710330.3862317
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Effects/0000000017E4.00D/Sounds/0000000032ED.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267281.6414306
+        "dateModified": 1694710330.4020972
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/0000000017E4.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710330.347708
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/0000000017E4.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694710330.347708
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/0000000017E4.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710330.3482082
     }
 ]

@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Ajisai/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267283.6547616
+        "dateModified": 1694710425.8821824
     },
     {
         "name": "Skin/Overwatch/Ajisai/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267286.697066
+        "dateModified": 1694710430.1233525
     },
     {
         "name": "Skin/Overwatch/Ajisai/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267286.7030673
+        "dateModified": 1694710434.6606784
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710425.8631387
     },
     {
         "name": "Skin/Overwatch/Ajisai/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267288.40019
+        "dateModified": 1694710434.667693
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694710425.8626382
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710425.870167
     }
 ]

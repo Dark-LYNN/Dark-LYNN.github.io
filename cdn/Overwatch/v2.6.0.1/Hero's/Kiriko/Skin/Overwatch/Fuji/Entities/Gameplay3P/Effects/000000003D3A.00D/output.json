@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000003D3A.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710612.5350158
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000003D3A.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694710612.5345154
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000003D3A.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710612.5355163
+    },
+    {
         "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000003D3A.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267293.5025444
+        "dateModified": 1694710612.536516
     }
 ]

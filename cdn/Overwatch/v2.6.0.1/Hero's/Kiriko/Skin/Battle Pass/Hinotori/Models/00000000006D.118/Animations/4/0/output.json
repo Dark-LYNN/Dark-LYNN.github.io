@@ -40,5 +40,23 @@
         "type": ".OWANIMCLIP file",
         "size": "199.52 KB",
         "dateModified": 1694267282.5288503
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/4/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710334.0549984
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/4/0/output.json",
+        "type": ".JSON file",
+        "size": "1.60 KB",
+        "dateModified": 1694710334.0544982
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/4/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710334.0549984
     }
 ]

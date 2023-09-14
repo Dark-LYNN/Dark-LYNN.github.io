@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Overwatch 2/Effects/000000003E0D.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710798.6194608
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Effects/000000003E0D.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694710798.6189601
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Effects/000000003E0D.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710798.6194608
+    },
+    {
         "name": "Skin/Overwatch/Overwatch 2/Effects/000000003E0D.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267304.3558464
+        "dateModified": 1694710798.6209624
     }
 ]

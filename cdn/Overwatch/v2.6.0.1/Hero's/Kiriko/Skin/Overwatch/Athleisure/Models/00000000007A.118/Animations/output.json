@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267289.1879723
+        "dateModified": 1694710518.5473573
     },
     {
         "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267289.1889725
+        "dateModified": 1694710518.84072
     },
     {
         "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267289.2391646
+        "dateModified": 1694710518.8842125
     },
     {
         "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267289.2396648
+        "dateModified": 1694710519.4664314
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710518.5353525
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.80 KB",
+        "dateModified": 1694710518.5348518
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Models/00000000007A.118/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710518.5353525
     }
 ]

@@ -3,12 +3,30 @@
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-0 Color-0/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267274.1713965
+        "dateModified": 1694710272.5221696
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-0 Color-0/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267274.171895
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-0 Color-0/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710272.5211685
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-0 Color-0/Entities/HeroGallery/output.json",
+        "type": ".JSON file",
+        "size": "0.47 KB",
+        "dateModified": 1694710272.5206585
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-0 Color-0/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710272.5211685
     }
 ]

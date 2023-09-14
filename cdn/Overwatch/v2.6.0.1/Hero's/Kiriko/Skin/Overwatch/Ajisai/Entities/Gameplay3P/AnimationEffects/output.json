@@ -1066,5 +1066,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267283.721345
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710430.809713
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "38.03 KB",
+        "dateModified": 1694710430.809713
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710430.8102133
     }
 ]

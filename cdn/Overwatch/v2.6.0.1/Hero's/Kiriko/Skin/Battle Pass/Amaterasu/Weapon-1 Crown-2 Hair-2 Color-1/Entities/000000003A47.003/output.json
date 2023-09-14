@@ -9,6 +9,24 @@
         "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-2 Hair-2 Color-1/Entities/000000003A47.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267281.4654279
+        "dateModified": 1694710328.2814176
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-2 Hair-2 Color-1/Entities/000000003A47.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710328.232792
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-2 Hair-2 Color-1/Entities/000000003A47.003/output.json",
+        "type": ".JSON file",
+        "size": "0.49 KB",
+        "dateModified": 1694710328.2322905
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-2 Hair-2 Color-1/Entities/000000003A47.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710328.232792
     }
 ]

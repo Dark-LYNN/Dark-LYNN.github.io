@@ -4,5 +4,23 @@
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267312.919264
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000327C.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710858.0383785
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000327C.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694710858.001314
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000327C.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710858.0383785
     }
 ]

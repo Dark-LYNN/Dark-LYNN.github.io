@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Take/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.8574517
+        "dateModified": 1694710975.7154326
     },
     {
         "name": "Skin/Overwatch/Take/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267320.8579519
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710975.712653
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HeroGallery/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694710975.712653
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710975.7136562
     }
 ]

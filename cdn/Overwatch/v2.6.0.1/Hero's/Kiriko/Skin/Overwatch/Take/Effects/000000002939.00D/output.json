@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Take/Effects/000000002939.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710967.0193686
+    },
+    {
+        "name": "Skin/Overwatch/Take/Effects/000000002939.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694710967.0185788
+    },
+    {
+        "name": "Skin/Overwatch/Take/Effects/000000002939.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710967.0198693
+    },
+    {
         "name": "Skin/Overwatch/Take/Effects/000000002939.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267319.801307
+        "dateModified": 1694710967.0213702
     }
 ]

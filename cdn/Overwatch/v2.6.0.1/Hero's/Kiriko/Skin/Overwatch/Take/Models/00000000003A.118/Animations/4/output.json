@@ -3,60 +3,78 @@
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4797928
+        "dateModified": 1694710982.587794
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/20",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.480796
+        "dateModified": 1694710982.6073542
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4817932
+        "dateModified": 1694710982.610355
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/30",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4817932
+        "dateModified": 1694710982.6118553
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4827952
+        "dateModified": 1694710982.6555777
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4933436
+        "dateModified": 1694710982.6595798
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/38",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4972897
+        "dateModified": 1694710982.6790557
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.515839
+        "dateModified": 1694710982.7436526
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.5228536
+        "dateModified": 1694710982.785732
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.5238554
+        "dateModified": 1694710982.8227966
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710982.574804
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/output.json",
+        "type": ".JSON file",
+        "size": "1.96 KB",
+        "dateModified": 1694710982.5743043
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/4/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710982.574804
     }
 ]

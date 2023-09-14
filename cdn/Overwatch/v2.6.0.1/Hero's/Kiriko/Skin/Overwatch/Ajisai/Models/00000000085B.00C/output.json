@@ -6,15 +6,33 @@
         "dateModified": 1694267287.7980072
     },
     {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000085B.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710466.7607348
+    },
+    {
         "name": "Skin/Overwatch/Ajisai/Models/00000000085B.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267287.7990074
+        "dateModified": 1694710466.7634614
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000085B.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694710466.7607348
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000085B.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710466.761235
     },
     {
         "name": "Skin/Overwatch/Ajisai/Models/00000000085B.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267287.8010087
+        "dateModified": 1694710466.9276667
     }
 ]

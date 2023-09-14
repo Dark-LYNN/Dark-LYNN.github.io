@@ -6,21 +6,39 @@
         "dateModified": 1694267317.6054034
     },
     {
+        "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710939.472013
+    },
+    {
         "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267317.6054034
+        "dateModified": 1694710939.4740126
     },
     {
         "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267317.6059036
+        "dateModified": 1694710939.4755151
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.79 KB",
+        "dateModified": 1694710939.4715128
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710939.4725127
     },
     {
         "name": "Skin/Overwatch/Sukajan/Models/00000001048D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267317.6094043
+        "dateModified": 1694710939.6732185
     }
 ]

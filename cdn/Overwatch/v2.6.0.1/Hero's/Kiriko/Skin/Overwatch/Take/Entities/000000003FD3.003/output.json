@@ -9,6 +9,24 @@
         "name": "Skin/Overwatch/Take/Entities/000000003FD3.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.3533103
+        "dateModified": 1694710970.9388447
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/000000003FD3.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710970.9197936
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/000000003FD3.003/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710970.9192934
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/000000003FD3.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710970.9373446
     }
 ]

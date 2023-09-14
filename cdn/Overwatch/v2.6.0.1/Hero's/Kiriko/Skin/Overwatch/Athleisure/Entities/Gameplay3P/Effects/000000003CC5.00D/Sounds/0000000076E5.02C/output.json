@@ -16,5 +16,23 @@
         "type": ".OGG file",
         "size": "34.78 KB",
         "dateModified": 1694267288.8040965
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/Effects/000000003CC5.00D/Sounds/0000000076E5.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710512.5580642
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/Effects/000000003CC5.00D/Sounds/0000000076E5.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.75 KB",
+        "dateModified": 1694710512.557555
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/Effects/000000003CC5.00D/Sounds/0000000076E5.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710512.600609
     }
 ]

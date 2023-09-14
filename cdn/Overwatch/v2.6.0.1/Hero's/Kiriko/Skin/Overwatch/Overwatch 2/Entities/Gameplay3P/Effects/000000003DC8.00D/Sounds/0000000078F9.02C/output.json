@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "42.59 KB",
         "dateModified": 1694267305.5826025
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DC8.00D/Sounds/0000000078F9.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710812.1031551
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DC8.00D/Sounds/0000000078F9.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694710812.0666738
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DC8.00D/Sounds/0000000078F9.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710812.1202178
     }
 ]

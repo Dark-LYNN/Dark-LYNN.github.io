@@ -3,18 +3,36 @@
         "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003ADB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267297.8074975
+        "dateModified": 1694710713.8453057
     },
     {
         "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003B3B.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267297.8079984
+        "dateModified": 1694710713.847824
     },
     {
         "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/0000000096E9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267297.8464892
+        "dateModified": 1694710713.8503244
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710713.7578554
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.69 KB",
+        "dateModified": 1694710713.7573545
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710713.7578554
     }
 ]

@@ -4,5 +4,23 @@
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267301.3223085
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/00000000ED1C.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710768.631927
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/00000000ED1C.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694710768.6314301
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/00000000ED1C.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710768.6324267
     }
 ]

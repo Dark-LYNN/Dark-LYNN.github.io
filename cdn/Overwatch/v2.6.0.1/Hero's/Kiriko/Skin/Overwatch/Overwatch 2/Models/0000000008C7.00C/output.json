@@ -6,15 +6,33 @@
         "dateModified": 1694267312.6303284
     },
     {
+        "name": "Skin/Overwatch/Overwatch 2/Models/0000000008C7.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710847.9337485
+    },
+    {
         "name": "Skin/Overwatch/Overwatch 2/Models/0000000008C7.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267312.6303284
+        "dateModified": 1694710847.935248
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/0000000008C7.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.60 KB",
+        "dateModified": 1694710847.933248
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/0000000008C7.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710847.9337485
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Models/0000000008C7.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267312.6313286
+        "dateModified": 1694710848.02933
     }
 ]

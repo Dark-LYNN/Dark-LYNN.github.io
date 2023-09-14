@@ -34,5 +34,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267316.8735192
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/HighlightIntro/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710902.5820775
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/HighlightIntro/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.31 KB",
+        "dateModified": 1694710902.5605264
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/HighlightIntro/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710902.5825775
     }
 ]

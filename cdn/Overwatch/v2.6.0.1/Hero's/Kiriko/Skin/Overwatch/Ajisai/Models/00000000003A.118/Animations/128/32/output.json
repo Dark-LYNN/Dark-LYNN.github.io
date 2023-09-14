@@ -28,5 +28,23 @@
         "type": ".OWANIMCLIP file",
         "size": "137.75 KB",
         "dateModified": 1694267287.3844688
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/Animations/128/32/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710436.8146315
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/Animations/128/32/output.json",
+        "type": ".JSON file",
+        "size": "1.14 KB",
+        "dateModified": 1694710436.8146315
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/Animations/128/32/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710436.8151324
     }
 ]

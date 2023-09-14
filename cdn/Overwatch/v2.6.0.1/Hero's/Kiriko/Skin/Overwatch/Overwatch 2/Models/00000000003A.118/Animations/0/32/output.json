@@ -634,5 +634,23 @@
         "type": ".OWANIMCLIP file",
         "size": "174.53 KB",
         "dateModified": 1694267311.7533414
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/0/32/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710818.0759084
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "24.41 KB",
+        "dateModified": 1694710818.0306704
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/0/32/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710818.0764093
     }
 ]

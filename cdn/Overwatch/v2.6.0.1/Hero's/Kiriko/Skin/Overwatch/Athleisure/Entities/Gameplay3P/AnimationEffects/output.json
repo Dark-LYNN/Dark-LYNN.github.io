@@ -1066,5 +1066,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267288.7130363
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710508.567198
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "38.74 KB",
+        "dateModified": 1694710508.567198
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710508.5682
     }
 ]

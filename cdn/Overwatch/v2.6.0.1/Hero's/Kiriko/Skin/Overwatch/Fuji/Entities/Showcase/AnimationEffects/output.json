@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267293.76584
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Showcase/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710615.0557554
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Showcase/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.05 KB",
+        "dateModified": 1694710615.055255
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Showcase/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710615.0562553
     }
 ]

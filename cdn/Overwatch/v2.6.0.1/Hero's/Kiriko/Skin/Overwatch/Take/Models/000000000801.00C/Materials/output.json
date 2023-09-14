@@ -202,5 +202,23 @@
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267321.9072742
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000000801.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694711004.4585087
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000000801.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "7.03 KB",
+        "dateModified": 1694711004.4580095
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000000801.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694711004.4590094
     }
 ]

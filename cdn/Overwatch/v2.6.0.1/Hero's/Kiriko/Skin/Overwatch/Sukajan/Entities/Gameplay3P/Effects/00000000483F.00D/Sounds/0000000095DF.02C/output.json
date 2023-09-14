@@ -10,5 +10,23 @@
         "type": ".OGG file",
         "size": "56.62 KB",
         "dateModified": 1694267316.8695056
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/Effects/00000000483F.00D/Sounds/0000000095DF.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710902.44452
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/Effects/00000000483F.00D/Sounds/0000000095DF.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.49 KB",
+        "dateModified": 1694710902.4440184
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/Effects/00000000483F.00D/Sounds/0000000095DF.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710902.44452
     }
 ]

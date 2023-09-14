@@ -3,42 +3,60 @@
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.3283792
+        "dateModified": 1694710334.0004904
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.3293896
+        "dateModified": 1694710334.0019913
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.408951
+        "dateModified": 1694710334.027036
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.4725432
+        "dateModified": 1694710334.0395646
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/44",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.4735441
+        "dateModified": 1694710334.0425646
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/52",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.4750574
+        "dateModified": 1694710334.044065
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.4755576
+        "dateModified": 1694710334.0455685
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710333.9989898
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "1.42 KB",
+        "dateModified": 1694710333.9989898
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710333.99949
     }
 ]

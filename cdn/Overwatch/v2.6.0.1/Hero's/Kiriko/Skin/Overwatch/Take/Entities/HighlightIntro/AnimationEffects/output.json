@@ -34,5 +34,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267320.8877246
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710975.8043613
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.30 KB",
+        "dateModified": 1694710975.8043613
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710975.804861
     }
 ]

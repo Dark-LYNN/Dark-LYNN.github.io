@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "24.14 KB",
         "dateModified": 1694267320.6267872
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000002939.00D/Sounds/000000003F27.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710972.627815
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000002939.00D/Sounds/000000003F27.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694710972.626812
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000002939.00D/Sounds/000000003F27.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710972.648218
     }
 ]

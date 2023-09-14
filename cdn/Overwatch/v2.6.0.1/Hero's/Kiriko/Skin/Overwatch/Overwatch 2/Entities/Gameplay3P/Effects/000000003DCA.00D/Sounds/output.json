@@ -3,6 +3,24 @@
         "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DCA.00D/Sounds/000000007900.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267305.6285474
+        "dateModified": 1694710812.165541
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DCA.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710812.1630921
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DCA.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.23 KB",
+        "dateModified": 1694710812.1630921
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/000000003DCA.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710812.1640403
     }
 ]

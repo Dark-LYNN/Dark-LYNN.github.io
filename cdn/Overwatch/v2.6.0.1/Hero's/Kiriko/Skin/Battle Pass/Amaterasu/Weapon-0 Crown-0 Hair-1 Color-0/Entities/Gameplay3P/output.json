@@ -3,12 +3,30 @@
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-1 Color-0/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267271.652453
+        "dateModified": 1694710224.618754
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-1 Color-0/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.24 KB",
         "dateModified": 1694267271.6529522
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-1 Color-0/Entities/Gameplay3P/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710223.0951595
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-1 Color-0/Entities/Gameplay3P/output.json",
+        "type": ".JSON file",
+        "size": "0.47 KB",
+        "dateModified": 1694710223.0946586
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-1 Color-0/Entities/Gameplay3P/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710223.0951595
     }
 ]

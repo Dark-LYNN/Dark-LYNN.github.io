@@ -3,12 +3,30 @@
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-1 Hair-2 Color-2/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267273.005801
+        "dateModified": 1694710269.1923523
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-1 Hair-2 Color-2/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710269.1893418
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-1 Hair-2 Color-2/Info.png",
         "type": ".PNG file",
         "size": "50.47 KB",
         "dateModified": 1694267273.0073018
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-1 Hair-2 Color-2/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710269.1893418
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-1 Hair-2 Color-2/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710269.1898413
     }
 ]

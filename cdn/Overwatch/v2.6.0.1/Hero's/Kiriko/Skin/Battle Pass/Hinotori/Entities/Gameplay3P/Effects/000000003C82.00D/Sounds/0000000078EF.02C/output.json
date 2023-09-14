@@ -16,5 +16,23 @@
         "type": ".OGG file",
         "size": "99.53 KB",
         "dateModified": 1694267282.0107667
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/Gameplay3P/Effects/000000003C82.00D/Sounds/0000000078EF.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710333.2116277
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/Gameplay3P/Effects/000000003C82.00D/Sounds/0000000078EF.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.75 KB",
+        "dateModified": 1694710333.2111282
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/Gameplay3P/Effects/000000003C82.00D/Sounds/0000000078EF.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710333.2121274
     }
 ]

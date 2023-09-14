@@ -3,60 +3,78 @@
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.1296976
+        "dateModified": 1694710287.5783403
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.1296976
+        "dateModified": 1694710287.578841
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.1301978
+        "dateModified": 1694710287.580854
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/000000003A47.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.1306982
+        "dateModified": 1694710287.581354
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/000000003EF0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.1857307
+        "dateModified": 1694710288.6539648
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.7925353
+        "dateModified": 1694710288.7157815
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.7935355
+        "dateModified": 1694710290.0497577
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.8027167
+        "dateModified": 1694710290.052768
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710287.5768406
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/output.json",
+        "type": ".JSON file",
+        "size": "2.18 KB",
+        "dateModified": 1694710287.5768406
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.803717
+        "dateModified": 1694710290.1772814
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710287.5773413
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-2 Hair-2 Color-0/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267275.80573
+        "dateModified": 1694710290.2340224
     }
 ]

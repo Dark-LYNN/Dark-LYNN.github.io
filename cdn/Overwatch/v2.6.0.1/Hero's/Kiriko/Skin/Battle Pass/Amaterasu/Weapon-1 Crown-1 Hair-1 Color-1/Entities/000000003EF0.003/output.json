@@ -4,5 +4,23 @@
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267278.579658
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-1 Hair-1 Color-1/Entities/000000003EF0.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710326.9304955
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-1 Hair-1 Color-1/Entities/000000003EF0.003/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694710326.9304955
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-1 Crown-1 Hair-1 Color-1/Entities/000000003EF0.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710326.9309957
     }
 ]

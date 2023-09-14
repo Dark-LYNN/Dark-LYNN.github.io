@@ -6,15 +6,33 @@
         "dateModified": 1694267283.1349669
     },
     {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000F65D.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710382.0369844
+    },
+    {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000F65D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267283.1349669
+        "dateModified": 1694710382.038984
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000F65D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.60 KB",
+        "dateModified": 1694710382.036484
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000F65D.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710382.037484
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000F65D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267283.1362402
+        "dateModified": 1694710382.3690188
     }
 ]

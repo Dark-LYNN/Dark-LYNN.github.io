@@ -9,30 +9,48 @@
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.3248754
+        "dateModified": 1694710333.6291559
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.6826315
+        "dateModified": 1694710333.996441
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710333.6230845
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.688647
+        "dateModified": 1694710334.1280246
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.688647
+        "dateModified": 1694710334.130466
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/output.json",
+        "type": ".JSON file",
+        "size": "1.20 KB",
+        "dateModified": 1694710333.6230845
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710333.6235855
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Models/00000000006D.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.9713957
+        "dateModified": 1694710356.6077733
     }
 ]

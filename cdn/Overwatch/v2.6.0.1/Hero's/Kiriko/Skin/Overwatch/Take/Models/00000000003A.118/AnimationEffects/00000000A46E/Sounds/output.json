@@ -3,6 +3,24 @@
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/0000000078BE.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.959529
+        "dateModified": 1694710976.4494042
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710976.3798857
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.24 KB",
+        "dateModified": 1694710976.3793857
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710976.3803864
     }
 ]

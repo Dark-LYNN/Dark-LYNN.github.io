@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Take/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.8872252
+        "dateModified": 1694710975.8043613
     },
     {
         "name": "Skin/Overwatch/Take/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267320.8877246
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710975.7669406
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710975.7669406
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710975.8018441
     }
 ]

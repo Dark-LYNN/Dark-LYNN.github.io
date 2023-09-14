@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Take/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.2510488
+        "dateModified": 1694710962.5230825
     },
     {
         "name": "Skin/Overwatch/Take/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.8897252
+        "dateModified": 1694710970.6507578
     },
     {
         "name": "Skin/Overwatch/Take/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.9059615
+        "dateModified": 1694710976.2109725
+    },
+    {
+        "name": "Skin/Overwatch/Take/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710962.4916453
     },
     {
         "name": "Skin/Overwatch/Take/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267322.333207
+        "dateModified": 1694710976.246175
+    },
+    {
+        "name": "Skin/Overwatch/Take/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694710962.4911451
+    },
+    {
+        "name": "Skin/Overwatch/Take/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710962.4921455
     }
 ]

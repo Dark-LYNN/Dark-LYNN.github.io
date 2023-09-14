@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Fuji/Effects/000000001AF8.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710599.6404674
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Effects/000000001AF8.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694710599.6399667
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Effects/000000001AF8.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710599.6404674
+    },
+    {
         "name": "Skin/Overwatch/Fuji/Effects/000000001AF8.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267291.0069988
+        "dateModified": 1694710599.7150004
     }
 ]

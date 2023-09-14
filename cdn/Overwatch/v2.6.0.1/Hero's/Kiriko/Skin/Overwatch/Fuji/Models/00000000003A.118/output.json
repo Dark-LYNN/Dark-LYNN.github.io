@@ -9,30 +9,48 @@
         "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.2612767
+        "dateModified": 1694710615.477146
     },
     {
         "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.383206
+        "dateModified": 1694710618.1725154
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710615.443438
     },
     {
         "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.3998425
+        "dateModified": 1694710619.2361653
     },
     {
         "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.400342
+        "dateModified": 1694710619.2704806
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/output.json",
+        "type": ".JSON file",
+        "size": "1.17 KB",
+        "dateModified": 1694710615.443438
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710615.443438
     },
     {
         "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.6818235
+        "dateModified": 1694710640.762416
     }
 ]

@@ -3,30 +3,48 @@
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/0000000093C8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.2935183
+        "dateModified": 1694710979.291572
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/0000000093CB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.2940192
+        "dateModified": 1694710979.293932
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/0000000093CC.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.2940192
+        "dateModified": 1694710979.955324
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/0000000093CD.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.294519
+        "dateModified": 1694710979.9583247
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/0000000093CE.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.295019
+        "dateModified": 1694710980.355914
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710979.0642648
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "1.17 KB",
+        "dateModified": 1694710978.778729
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/AnimationEffects/00000000B9E3/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710979.0642648
     }
 ]

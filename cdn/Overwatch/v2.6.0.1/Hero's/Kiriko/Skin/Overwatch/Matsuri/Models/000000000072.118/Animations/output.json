@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267300.0254662
+        "dateModified": 1694710726.1904707
     },
     {
         "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267300.025967
+        "dateModified": 1694710726.5675397
     },
     {
         "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267300.1224267
+        "dateModified": 1694710726.5735416
     },
     {
         "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267300.1234293
+        "dateModified": 1694710727.2269204
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710726.1510718
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.79 KB",
+        "dateModified": 1694710726.1505718
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710726.1510718
     }
 ]

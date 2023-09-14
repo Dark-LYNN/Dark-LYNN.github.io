@@ -4,5 +4,23 @@
         "type": ".OWENTITY file",
         "size": "0.13 KB",
         "dateModified": 1694267291.2042887
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/0000000034EA.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710604.375166
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/0000000034EA.003/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694710604.3571591
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/0000000034EA.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710604.375166
     }
 ]

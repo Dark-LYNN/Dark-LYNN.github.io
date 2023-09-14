@@ -4,5 +4,23 @@
         "type": ".OWENTITY file",
         "size": "0.08 KB",
         "dateModified": 1694267320.355311
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/0000000042BA.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710970.9923356
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/0000000042BA.003/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694710970.9923356
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/0000000042BA.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710970.9928348
     }
 ]

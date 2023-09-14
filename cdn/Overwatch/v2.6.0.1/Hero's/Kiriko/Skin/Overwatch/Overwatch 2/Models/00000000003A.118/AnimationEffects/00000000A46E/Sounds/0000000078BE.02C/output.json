@@ -130,5 +130,23 @@
         "type": ".OGG file",
         "size": "10.59 KB",
         "dateModified": 1694267310.7508492
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/0000000078BE.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710814.4355118
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/0000000078BE.02C/output.json",
+        "type": ".JSON file",
+        "size": "5.66 KB",
+        "dateModified": 1694710814.4350116
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/AnimationEffects/00000000A46E/Sounds/0000000078BE.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710814.461069
     }
 ]

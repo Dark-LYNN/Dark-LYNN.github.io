@@ -28,5 +28,23 @@
         "type": ".OWANIMCLIP file",
         "size": "26.72 KB",
         "dateModified": 1694267271.1889107
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000122DD.00C/Animations/0/32/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710200.750722
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000122DD.00C/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "1.15 KB",
+        "dateModified": 1694710200.7502213
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000122DD.00C/Animations/0/32/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710200.7512217
     }
 ]

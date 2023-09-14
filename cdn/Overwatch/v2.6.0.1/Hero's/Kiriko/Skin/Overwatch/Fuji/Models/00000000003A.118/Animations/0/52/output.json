@@ -10,5 +10,23 @@
         "type": ".OWANIMCLIP file",
         "size": "29.53 KB",
         "dateModified": 1694267294.338727
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Animations/0/52/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710618.624002
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Animations/0/52/output.json",
+        "type": ".JSON file",
+        "size": "0.45 KB",
+        "dateModified": 1694710618.623135
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/Animations/0/52/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710618.6245017
     }
 ]

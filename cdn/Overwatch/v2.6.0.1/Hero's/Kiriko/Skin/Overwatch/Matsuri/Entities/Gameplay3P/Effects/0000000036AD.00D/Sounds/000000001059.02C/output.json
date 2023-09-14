@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "24.14 KB",
         "dateModified": 1694267297.9169888
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/0000000036AD.00D/Sounds/000000001059.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710714.5087736
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/0000000036AD.00D/Sounds/000000001059.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694710714.5072594
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/Gameplay3P/Effects/0000000036AD.00D/Sounds/000000001059.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710714.5092728
     }
 ]

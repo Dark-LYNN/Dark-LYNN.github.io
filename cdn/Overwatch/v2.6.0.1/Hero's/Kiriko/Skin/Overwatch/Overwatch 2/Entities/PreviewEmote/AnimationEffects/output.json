@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267310.703357
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/PreviewEmote/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710813.6659036
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/PreviewEmote/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.10 KB",
+        "dateModified": 1694710813.6654043
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/PreviewEmote/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710813.6664033
     }
 ]

@@ -6,15 +6,33 @@
         "dateModified": 1694267301.6452663
     },
     {
+        "name": "Skin/Overwatch/Matsuri/Models/000000010942.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710774.698886
+    },
+    {
         "name": "Skin/Overwatch/Matsuri/Models/000000010942.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267301.6457665
+        "dateModified": 1694710774.700887
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000010942.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694710774.6983857
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000010942.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710774.698886
     },
     {
         "name": "Skin/Overwatch/Matsuri/Models/000000010942.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267301.6782787
+        "dateModified": 1694710775.0964878
     }
 ]

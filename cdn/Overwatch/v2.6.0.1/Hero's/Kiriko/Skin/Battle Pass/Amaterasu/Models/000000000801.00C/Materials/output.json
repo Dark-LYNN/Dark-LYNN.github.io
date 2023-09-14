@@ -232,5 +232,23 @@
         "type": ".OWMAT file",
         "size": "0.21 KB",
         "dateModified": 1694267271.0108547
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000801.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710151.5590632
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000801.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "8.33 KB",
+        "dateModified": 1694710151.5585625
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000801.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710151.5590632
     }
 ]

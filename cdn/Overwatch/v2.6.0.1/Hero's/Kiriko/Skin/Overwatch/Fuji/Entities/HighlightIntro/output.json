@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Fuji/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267293.7623272
+        "dateModified": 1694710614.9351187
     },
     {
         "name": "Skin/Overwatch/Fuji/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267293.7623272
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710614.9142563
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/HighlightIntro/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710614.9137568
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710614.9142563
     }
 ]

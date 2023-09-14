@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/AnimationEffects/00000000B5DE/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710436.3172147
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/AnimationEffects/00000000B5DE/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694710436.3172147
+    },
+    {
+        "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/AnimationEffects/00000000B5DE/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710436.3177142
+    },
+    {
         "name": "Skin/Overwatch/Ajisai/Models/00000000003A.118/AnimationEffects/00000000B5DE/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267287.2787826
+        "dateModified": 1694710436.3422692
     }
 ]

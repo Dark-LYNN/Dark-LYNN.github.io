@@ -9,6 +9,24 @@
         "name": "Skin/Battle Pass/Hinotori/Entities/000000003F54.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267281.8933923
+        "dateModified": 1694710332.915491
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/000000003F54.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710332.9129393
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/000000003F54.003/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694710332.912439
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/000000003F54.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710332.9129393
     }
 ]

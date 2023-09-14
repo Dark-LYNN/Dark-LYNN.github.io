@@ -3,12 +3,30 @@
         "name": "Skin/Battle Pass/Hinotori/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267282.150876
+        "dateModified": 1694710333.5120564
     },
     {
         "name": "Skin/Battle Pass/Hinotori/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267282.150876
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710333.510056
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HighlightIntro/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694710333.5095549
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710333.510056
     }
 ]

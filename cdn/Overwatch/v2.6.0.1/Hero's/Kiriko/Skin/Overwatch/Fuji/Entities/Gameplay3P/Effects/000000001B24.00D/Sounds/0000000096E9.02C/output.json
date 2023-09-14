@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "27.37 KB",
         "dateModified": 1694267293.253878
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000001B24.00D/Sounds/0000000096E9.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710610.5186813
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000001B24.00D/Sounds/0000000096E9.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.24 KB",
+        "dateModified": 1694710610.518181
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/Gameplay3P/Effects/000000001B24.00D/Sounds/0000000096E9.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710610.5186813
     }
 ]

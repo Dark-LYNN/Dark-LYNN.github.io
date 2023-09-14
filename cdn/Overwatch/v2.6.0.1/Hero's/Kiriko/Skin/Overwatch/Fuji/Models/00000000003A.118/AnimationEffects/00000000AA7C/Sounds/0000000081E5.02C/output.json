@@ -40,5 +40,23 @@
         "type": ".OGG file",
         "size": "11.06 KB",
         "dateModified": 1694267293.8932037
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/AnimationEffects/00000000AA7C/Sounds/0000000081E5.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710616.1606708
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/AnimationEffects/00000000AA7C/Sounds/0000000081E5.02C/output.json",
+        "type": ".JSON file",
+        "size": "1.76 KB",
+        "dateModified": 1694710616.1601708
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000003A.118/AnimationEffects/00000000AA7C/Sounds/0000000081E5.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710616.161171
     }
 ]

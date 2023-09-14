@@ -34,5 +34,23 @@
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694710857.218614
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/000000001BAC.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710857.2216387
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/000000001BAC.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.25 KB",
+        "dateModified": 1694710857.2211373
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/000000001BAC.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710857.2216387
     }
 ]

@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Sukajan/Models/0000000105FB.00C/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267317.613917
+        "dateModified": 1694710939.7488852
     },
     {
         "name": "Skin/Overwatch/Sukajan/Models/0000000105FB.00C/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267317.6149182
+        "dateModified": 1694710939.7769482
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Models/0000000105FB.00C/Animations/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710939.7304473
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Models/0000000105FB.00C/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694710939.7304473
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Models/0000000105FB.00C/Animations/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710939.7309475
     }
 ]

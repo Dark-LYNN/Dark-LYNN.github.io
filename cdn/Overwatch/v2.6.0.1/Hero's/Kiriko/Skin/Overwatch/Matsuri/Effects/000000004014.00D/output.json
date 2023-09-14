@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Matsuri/Effects/000000004014.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710705.9260497
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Effects/000000004014.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694710705.9250503
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Effects/000000004014.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710705.964612
+    },
+    {
         "name": "Skin/Overwatch/Matsuri/Effects/000000004014.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267296.5976677
+        "dateModified": 1694710705.9811401
     }
 ]

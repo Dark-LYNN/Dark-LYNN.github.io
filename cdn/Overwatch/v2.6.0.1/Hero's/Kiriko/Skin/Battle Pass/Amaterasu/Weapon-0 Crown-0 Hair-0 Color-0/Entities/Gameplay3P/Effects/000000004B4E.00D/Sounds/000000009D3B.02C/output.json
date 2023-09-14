@@ -16,5 +16,23 @@
         "type": ".OGG file",
         "size": "30.13 KB",
         "dateModified": 1694267271.4624484
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-0 Color-0/Entities/Gameplay3P/Effects/000000004B4E.00D/Sounds/000000009D3B.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710214.8408382
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-0 Color-0/Entities/Gameplay3P/Effects/000000004B4E.00D/Sounds/000000009D3B.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.84 KB",
+        "dateModified": 1694710214.8403366
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Weapon-0 Crown-0 Hair-0 Color-0/Entities/Gameplay3P/Effects/000000004B4E.00D/Sounds/000000009D3B.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710214.9507105
     }
 ]

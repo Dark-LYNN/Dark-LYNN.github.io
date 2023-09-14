@@ -3,18 +3,36 @@
         "name": "Skin/Overwatch/Take/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.5274882
+        "dateModified": 1694710971.1868167
     },
     {
         "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.8554516
+        "dateModified": 1694710971.2053711
     },
     {
         "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.24 KB",
         "dateModified": 1694267320.8564515
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710970.995857
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694710970.9953563
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710970.996356
     }
 ]

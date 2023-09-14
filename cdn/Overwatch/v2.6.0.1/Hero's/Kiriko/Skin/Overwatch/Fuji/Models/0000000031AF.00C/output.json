@@ -6,15 +6,33 @@
         "dateModified": 1694267294.8008292
     },
     {
+        "name": "Skin/Overwatch/Fuji/Models/0000000031AF.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710655.5992603
+    },
+    {
         "name": "Skin/Overwatch/Fuji/Models/0000000031AF.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.8013291
+        "dateModified": 1694710655.6012805
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/0000000031AF.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694710655.5992603
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/0000000031AF.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710655.6002629
     },
     {
         "name": "Skin/Overwatch/Fuji/Models/0000000031AF.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267294.802329
+        "dateModified": 1694710655.8146243
     }
 ]

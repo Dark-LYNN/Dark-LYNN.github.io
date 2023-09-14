@@ -4,5 +4,23 @@
         "type": ".OWANIMCLIP file",
         "size": "1.34 KB",
         "dateModified": 1694267311.7952695
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/4/30/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710818.3439822
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/4/30/output.json",
+        "type": ".JSON file",
+        "size": "0.23 KB",
+        "dateModified": 1694710818.3439822
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/4/30/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710818.344482
     }
 ]

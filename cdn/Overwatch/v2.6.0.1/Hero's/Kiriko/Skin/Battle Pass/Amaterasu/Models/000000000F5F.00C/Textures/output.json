@@ -214,5 +214,23 @@
         "type": ".PNG file",
         "size": "0.20 KB",
         "dateModified": 1694710177.4728954
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000F5F.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710177.7863595
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000F5F.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "7.51 KB",
+        "dateModified": 1694710177.7813365
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/000000000F5F.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710177.78736
     }
 ]

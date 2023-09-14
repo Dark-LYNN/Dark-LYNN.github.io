@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Athleisure/Effects/000000003DCA.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710505.574524
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Effects/000000003DCA.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694710505.574524
+    },
+    {
+        "name": "Skin/Overwatch/Athleisure/Effects/000000003DCA.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710505.5750241
+    },
+    {
         "name": "Skin/Overwatch/Athleisure/Effects/000000003DCA.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267288.5306485
+        "dateModified": 1694710505.5760233
     }
 ]

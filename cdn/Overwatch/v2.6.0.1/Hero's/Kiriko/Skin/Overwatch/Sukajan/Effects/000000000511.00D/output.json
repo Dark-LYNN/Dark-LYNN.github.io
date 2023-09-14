@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Overwatch/Sukajan/Effects/000000000511.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710886.3061185
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Effects/000000000511.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694710886.3061185
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Effects/000000000511.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710886.3066185
+    },
+    {
         "name": "Skin/Overwatch/Sukajan/Effects/000000000511.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267315.9316998
+        "dateModified": 1694710886.308122
     }
 ]

@@ -6,15 +6,33 @@
         "dateModified": 1694267271.1139593
     },
     {
+        "name": "Skin/Battle Pass/Amaterasu/Models/00000000310C.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710178.5282972
+    },
+    {
         "name": "Skin/Battle Pass/Amaterasu/Models/00000000310C.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267271.1139593
+        "dateModified": 1694710178.5297978
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/00000000310C.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.60 KB",
+        "dateModified": 1694710178.5282972
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/00000000310C.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710178.5287988
     },
     {
         "name": "Skin/Battle Pass/Amaterasu/Models/00000000310C.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267271.1164708
+        "dateModified": 1694710179.6242359
     }
 ]

@@ -16,5 +16,23 @@
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267294.819172
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000E0AA.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710661.614097
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000E0AA.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.62 KB",
+        "dateModified": 1694710661.6135972
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/00000000E0AA.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710661.614097
     }
 ]

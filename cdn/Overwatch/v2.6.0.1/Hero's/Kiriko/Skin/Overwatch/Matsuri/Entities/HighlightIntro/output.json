@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Matsuri/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267298.5817738
+        "dateModified": 1694710721.2214425
     },
     {
         "name": "Skin/Overwatch/Matsuri/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.18 KB",
         "dateModified": 1694267298.5822742
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710721.2012177
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/HighlightIntro/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694710721.2012177
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710721.218441
     }
 ]

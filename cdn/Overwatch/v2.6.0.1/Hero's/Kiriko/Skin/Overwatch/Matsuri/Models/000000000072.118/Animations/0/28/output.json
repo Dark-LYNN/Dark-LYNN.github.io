@@ -10,5 +10,23 @@
         "type": ".OWANIMCLIP file",
         "size": "9.78 KB",
         "dateModified": 1694267299.9011757
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/0/28/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710726.193972
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/0/28/output.json",
+        "type": ".JSON file",
+        "size": "0.45 KB",
+        "dateModified": 1694710726.1934707
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Models/000000000072.118/Animations/0/28/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710726.1944723
     }
 ]

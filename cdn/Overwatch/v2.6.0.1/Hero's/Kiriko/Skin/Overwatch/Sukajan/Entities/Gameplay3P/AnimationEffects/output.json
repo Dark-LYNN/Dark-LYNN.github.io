@@ -1066,5 +1066,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267316.6447651
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710891.999008
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "38.20 KB",
+        "dateModified": 1694710891.9985077
+    },
+    {
+        "name": "Skin/Overwatch/Sukajan/Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710891.999508
     }
 ]

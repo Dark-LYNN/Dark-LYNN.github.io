@@ -4,5 +4,23 @@
         "type": ".OWENTITY file",
         "size": "0.08 KB",
         "dateModified": 1694267304.882023
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/0000000042BA.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710805.9601822
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/0000000042BA.003/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694710805.9596827
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/0000000042BA.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710805.9606822
     }
 ]

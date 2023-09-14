@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000000289.00D/Sounds/0000000011F9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.5797982
+        "dateModified": 1694710971.658588
     },
     {
         "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000000289.00D/Sounds/0000000011FA.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267320.5807972
+        "dateModified": 1694710971.6620889
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000000289.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710971.654085
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000000289.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.45 KB",
+        "dateModified": 1694710971.653571
+    },
+    {
+        "name": "Skin/Overwatch/Take/Entities/Gameplay3P/Effects/000000000289.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710971.6550853
     }
 ]

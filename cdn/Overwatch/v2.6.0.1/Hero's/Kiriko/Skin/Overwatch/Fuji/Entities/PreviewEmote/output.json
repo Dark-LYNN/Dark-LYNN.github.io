@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Fuji/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267293.7643397
+        "dateModified": 1694710615.0261796
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710614.959158
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/PreviewEmote/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694710614.9586575
     },
     {
         "name": "Skin/Overwatch/Fuji/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267293.7643397
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710614.959158
     }
 ]

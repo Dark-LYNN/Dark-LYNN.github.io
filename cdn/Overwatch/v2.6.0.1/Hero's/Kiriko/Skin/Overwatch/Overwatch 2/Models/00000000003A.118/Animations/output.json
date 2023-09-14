@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267311.7793956
+        "dateModified": 1694710817.8677914
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267311.7803955
+        "dateModified": 1694710818.1883879
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267311.8883722
+        "dateModified": 1694710818.2127223
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267311.8893733
+        "dateModified": 1694710818.7398937
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710817.8473394
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.81 KB",
+        "dateModified": 1694710817.8473394
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Models/00000000003A.118/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710817.8483417
     }
 ]

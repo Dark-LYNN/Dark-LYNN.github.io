@@ -28,5 +28,23 @@
         "type": ".OGG file",
         "size": "41.12 KB",
         "dateModified": 1694267281.66153
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/000000001BAE.00D/Sounds/00000000386D.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710330.5376656
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/000000001BAE.00D/Sounds/00000000386D.02C/output.json",
+        "type": ".JSON file",
+        "size": "1.14 KB",
+        "dateModified": 1694710330.5366626
+    },
+    {
+        "name": "Skin/Battle Pass/Hinotori/Effects/000000001BAE.00D/Sounds/00000000386D.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710330.5381768
     }
 ]

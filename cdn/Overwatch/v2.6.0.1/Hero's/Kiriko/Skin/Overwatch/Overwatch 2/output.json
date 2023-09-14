@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Overwatch 2/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267304.6787548
+        "dateModified": 1694710794.167403
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267310.7038677
+        "dateModified": 1694710805.3953345
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267310.7208877
+        "dateModified": 1694710814.1709316
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710794.0840445
     },
     {
         "name": "Skin/Overwatch/Overwatch 2/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267315.874694
+        "dateModified": 1694710814.2045498
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/output.json",
+        "type": ".JSON file",
+        "size": "0.69 KB",
+        "dateModified": 1694710794.0835452
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710794.0845456
     }
 ]

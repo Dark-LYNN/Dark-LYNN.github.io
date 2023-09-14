@@ -3,42 +3,60 @@
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.3198197
+        "dateModified": 1694710982.2696278
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.32032
+        "dateModified": 1694710982.272128
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.434204
+        "dateModified": 1694710982.4550111
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.467777
+        "dateModified": 1694710982.505139
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/44",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4692774
+        "dateModified": 1694710982.5092282
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/52",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4697778
+        "dateModified": 1694710982.5112598
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267321.4702775
+        "dateModified": 1694710982.512978
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710982.2671268
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "1.37 KB",
+        "dateModified": 1694710982.2666268
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000003A.118/Animations/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710982.2676272
     }
 ]

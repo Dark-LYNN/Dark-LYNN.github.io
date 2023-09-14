@@ -9,6 +9,24 @@
         "name": "Skin/Overwatch/Matsuri/Entities/000000003FD3.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267296.8805103
+        "dateModified": 1694710709.155171
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/000000003FD3.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710709.152671
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/000000003FD3.003/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694710709.152671
+    },
+    {
+        "name": "Skin/Overwatch/Matsuri/Entities/000000003FD3.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710709.1531713
     }
 ]

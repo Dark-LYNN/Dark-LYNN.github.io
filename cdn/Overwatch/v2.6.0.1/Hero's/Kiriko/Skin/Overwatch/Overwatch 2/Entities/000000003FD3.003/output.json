@@ -9,6 +9,24 @@
         "name": "Skin/Overwatch/Overwatch 2/Entities/000000003FD3.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267304.8800228
+        "dateModified": 1694710805.8815465
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/000000003FD3.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710805.859033
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/000000003FD3.003/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694710805.8359885
+    },
+    {
+        "name": "Skin/Overwatch/Overwatch 2/Entities/000000003FD3.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710805.8600335
     }
 ]

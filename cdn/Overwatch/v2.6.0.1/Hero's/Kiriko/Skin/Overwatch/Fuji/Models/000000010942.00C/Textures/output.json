@@ -52,5 +52,23 @@
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694710678.3048127
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/000000010942.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710678.3073127
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/000000010942.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.83 KB",
+        "dateModified": 1694710678.3068123
+    },
+    {
+        "name": "Skin/Overwatch/Fuji/Models/000000010942.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710678.3173308
     }
 ]

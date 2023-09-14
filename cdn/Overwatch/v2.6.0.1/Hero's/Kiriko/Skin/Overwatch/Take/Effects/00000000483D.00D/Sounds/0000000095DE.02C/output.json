@@ -10,5 +10,23 @@
         "type": ".OGG file",
         "size": "41.90 KB",
         "dateModified": 1694267320.2500484
+    },
+    {
+        "name": "Skin/Overwatch/Take/Effects/00000000483D.00D/Sounds/0000000095DE.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694710970.5822349
+    },
+    {
+        "name": "Skin/Overwatch/Take/Effects/00000000483D.00D/Sounds/0000000095DE.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.45 KB",
+        "dateModified": 1694710970.5817351
+    },
+    {
+        "name": "Skin/Overwatch/Take/Effects/00000000483D.00D/Sounds/0000000095DE.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694710970.5822349
     }
 ]
