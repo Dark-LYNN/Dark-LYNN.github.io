@@ -1,42 +1,42 @@
 [
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003ADB.02C",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003ADB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694360094.051415
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003B3B.02C",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/000000003B3B.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694360096.325308
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/0000000096E9.02C",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/0000000096E9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694360098.703117
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/index.html",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694360091.470472
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/output.json",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "1.55 KB",
-        "dateModified": 1694697503.3076985
+        "size": "1.49 KB",
+        "dateModified": 1694697651.2733347
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/run.py",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000002777.00D/Sounds/script.js",
+        "name": "Entities/Gameplay3P/Effects/000000002777.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694360091.470472

@@ -1,84 +1,84 @@
 [
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004B50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354165.50584
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004D50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354172.925704
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004D81.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354186.1049352
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E14.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354195.330185
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E16.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354202.9102702
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E17.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354217.142577
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E27.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354247.7247276
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E90.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354263.4894977
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004E92.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354275.1919608
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/000000004EC3.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694354288.705273
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/index.html",
+        "name": "Entities/000000004AC0.003/Effects/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
         "dateModified": 1694354163.1982424
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/output.json",
+        "name": "Entities/000000004AC0.003/Effects/output.json",
         "type": ".JSON file",
-        "size": "2.89 KB",
-        "dateModified": 1694697502.7898085
+        "size": "2.77 KB",
+        "dateModified": 1694697650.8313448
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/run.py",
+        "name": "Entities/000000004AC0.003/Effects/run.py",
         "type": ".PY file",
         "size": "7.60 KB",
         "dateModified": 1694352215.1006393
     },
     {
-        "name": "Llama Pajamas/Entities/000000004AC0.003/Effects/script.js",
+        "name": "Entities/000000004AC0.003/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694354163.1982424

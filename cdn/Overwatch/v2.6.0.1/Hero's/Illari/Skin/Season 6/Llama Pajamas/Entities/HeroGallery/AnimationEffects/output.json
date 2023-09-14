@@ -1,32 +1,32 @@
 [
     {
-        "name": "Llama Pajamas/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Season 6/Llama Pajamas/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267263.7343802
     },
     {
-        "name": "Llama Pajamas/Entities/HeroGallery/AnimationEffects/index.html",
+        "name": "Season 6/Llama Pajamas/Entities/HeroGallery/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694360615.2484121
+        "size": "2.06 KB",
+        "dateModified": 1694706330.3807404
     },
     {
-        "name": "Llama Pajamas/Entities/HeroGallery/AnimationEffects/output.json",
+        "name": "Season 6/Llama Pajamas/Entities/HeroGallery/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.03 KB",
-        "dateModified": 1694697503.7652478
+        "size": "0.92 KB",
+        "dateModified": 1694706330.3802402
     },
     {
-        "name": "Llama Pajamas/Entities/HeroGallery/AnimationEffects/run.py",
+        "name": "Season 6/Llama Pajamas/Entities/HeroGallery/AnimationEffects/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Llama Pajamas/Entities/HeroGallery/AnimationEffects/script.js",
+        "name": "Season 6/Llama Pajamas/Entities/HeroGallery/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694360615.2484121
+        "dateModified": 1694706330.3807404
     }
 ]
