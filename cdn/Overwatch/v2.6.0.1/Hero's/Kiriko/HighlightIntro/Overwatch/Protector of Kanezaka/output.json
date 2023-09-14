@@ -1,36 +1,42 @@
 [
     {
-        "name": "Animations",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.4102514
+        "dateModified": 1694281780.7271621
     },
     {
-        "name": "Effects",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.4122515
+        "dateModified": 1694281798.9352276
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Models",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5525434
+        "dateModified": 1694281821.7583659
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/output.json",
+        "type": ".JSON file",
+        "size": "0.87 KB",
+        "dateModified": 1694281775.037433
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

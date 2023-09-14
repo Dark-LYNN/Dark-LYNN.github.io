@@ -33,7 +33,7 @@
         "name": "Illari",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.934549
+        "dateModified": 1694706781.436332
     },
     {
         "name": "index.html",
@@ -45,7 +45,13 @@
         "name": "Kiriko",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694272117.1106906
+        "dateModified": 1694351350.0122986
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.44 KB",
+        "dateModified": 1694273714.965507
     },
     {
         "name": "script.js",

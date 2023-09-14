@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.868073
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A925.02C",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A925.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.8705733
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A926.02C",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A926.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.873076
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/index.html",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.8655734
+        "size": "2.06 KB",
+        "dateModified": 1694706550.9445353
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/output.json",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.85 KB",
-        "dateModified": 1694703966.8650725
+        "size": "1.35 KB",
+        "dateModified": 1694706550.9445353
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/script.js",
+        "name": "Kulli/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.8655734
+        "dateModified": 1694706550.9445353
     }
 ]

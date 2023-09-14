@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/0",
+        "name": "Amethyst/Models/000000000147.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702906.388633
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128",
+        "name": "Amethyst/Models/000000000147.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702906.4218972
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/16",
+        "name": "Amethyst/Models/000000000147.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702906.4656725
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4",
+        "name": "Amethyst/Models/000000000147.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702906.4692445
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/index.html",
+        "name": "Amethyst/Models/000000000147.118/Animations/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702906.386633
+        "size": "2.06 KB",
+        "dateModified": 1694706530.4963167
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/output.json",
+        "name": "Amethyst/Models/000000000147.118/Animations/output.json",
         "type": ".JSON file",
-        "size": "0.88 KB",
-        "dateModified": 1694702906.3861332
+        "size": "1.37 KB",
+        "dateModified": 1694706530.4958177
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/script.js",
+        "name": "Amethyst/Models/000000000147.118/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702906.387133
+        "dateModified": 1694706530.4963167
     }
 ]

@@ -1,54 +1,60 @@
 [
     {
-        "name": "0000000299E0.tif",
-        "type": ".TIF file",
-        "size": "68.12 KB",
-        "dateModified": 1694267268.5695705
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/0000000299E0.png",
+        "type": ".PNG file",
+        "size": "44.00 KB",
+        "dateModified": 1694709972.02869
     },
     {
-        "name": "00000002E59A.tif",
-        "type": ".TIF file",
-        "size": "117.77 KB",
-        "dateModified": 1694267268.570071
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/00000002E59A.png",
+        "type": ".PNG file",
+        "size": "81.22 KB",
+        "dateModified": 1694709972.1266382
     },
     {
-        "name": "80004514F9A7.tif",
-        "type": ".TIF file",
-        "size": "1.45 KB",
-        "dateModified": 1694267268.570071
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/80004514F9A7.png",
+        "type": ".PNG file",
+        "size": "0.12 KB",
+        "dateModified": 1694709972.1705446
     },
     {
-        "name": "8000EFEDEFAB.tif",
-        "type": ".TIF file",
-        "size": "1.75 KB",
-        "dateModified": 1694267268.5705702
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/8000EFEDEFAB.png",
+        "type": ".PNG file",
+        "size": "0.16 KB",
+        "dateModified": 1694709972.2041376
     },
     {
-        "name": "8000FA9FC70C.tif",
-        "type": ".TIF file",
-        "size": "1.30 KB",
-        "dateModified": 1694267268.5705702
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/8000FA9FC70C.png",
+        "type": ".PNG file",
+        "size": "0.11 KB",
+        "dateModified": 1694709972.2627444
     },
     {
-        "name": "8000FD4A3EF8.tif",
-        "type": ".TIF file",
-        "size": "2.12 KB",
-        "dateModified": 1694267268.603997
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/8000FD4A3EF8.png",
+        "type": ".PNG file",
+        "size": "0.20 KB",
+        "dateModified": 1694709972.2876635
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.33 KB",
+        "dateModified": 1694282047.2554727
+    },
+    {
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000000F5F.00C/Textures/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

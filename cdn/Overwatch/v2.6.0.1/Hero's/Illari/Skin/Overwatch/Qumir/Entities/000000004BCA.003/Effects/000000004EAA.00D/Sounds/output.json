@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.2857168
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A150.02C",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A150.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.3921063
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.4011195
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/index.html",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704215.2463377
+        "dateModified": 1694706563.059468
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/output.json",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.84 KB",
-        "dateModified": 1694704215.2463377
+        "size": "1.33 KB",
+        "dateModified": 1694706563.0589676
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/script.js",
+        "name": "Qumir/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704215.2468388
+        "dateModified": 1694706563.059468
     }
 ]

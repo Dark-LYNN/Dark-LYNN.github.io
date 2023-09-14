@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/(Angry).ogg",
+        "name": "Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/(Angry).ogg",
         "type": ".OGG file",
         "size": "10.08 KB",
         "dateModified": 1694661402.4375775
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/index.html",
+        "name": "Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702906.1969008
+        "size": "2.06 KB",
+        "dateModified": 1694706530.420829
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/output.json",
+        "name": "Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/output.json",
         "type": ".JSON file",
-        "size": "0.45 KB",
-        "dateModified": 1694702906.1964006
+        "size": "0.96 KB",
+        "dateModified": 1694706530.420829
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/script.js",
+        "name": "Amethyst/Models/000000000147.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702906.1969008
+        "dateModified": 1694706530.421329
     }
 ]

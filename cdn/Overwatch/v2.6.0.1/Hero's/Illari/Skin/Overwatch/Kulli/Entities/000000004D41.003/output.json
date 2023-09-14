@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/000000004D41.003/000000004D41.003.owentity",
+        "name": "Kulli/Entities/000000004D41.003/000000004D41.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694267239.2620895
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004D41.003/index.html",
+        "name": "Kulli/Entities/000000004D41.003/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.1241992
+        "size": "2.06 KB",
+        "dateModified": 1694706550.1449733
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004D41.003/output.json",
+        "name": "Kulli/Entities/000000004D41.003/output.json",
         "type": ".JSON file",
-        "size": "0.36 KB",
-        "dateModified": 1694703966.1231854
+        "size": "0.77 KB",
+        "dateModified": 1694706550.1439705
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004D41.003/script.js",
+        "name": "Kulli/Entities/000000004D41.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.1247077
+        "dateModified": 1694706550.1449733
     }
 ]

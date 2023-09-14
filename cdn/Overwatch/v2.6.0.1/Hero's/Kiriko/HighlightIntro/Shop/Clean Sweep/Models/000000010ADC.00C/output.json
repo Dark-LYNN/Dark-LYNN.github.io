@@ -1,38 +1,44 @@
 [
     {
-        "name": "000000010ADC.owmdl",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/000000010ADC.owmdl",
         "type": ".OWMDL file",
         "size": "3.27 KB",
         "dateModified": 1694267268.6044974
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694282058.1084898
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.88 KB",
+        "dateModified": 1694282061.1575615
+    },
+    {
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/000000010ADC.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.611503
+        "dateModified": 1694342768.2722743
     }
 ]

@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/AnimationEffects",
+        "name": "Anqas/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694613766.5418494
     },
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Anqas/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267227.0472744
     },
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/index.html",
+        "name": "Anqas/Entities/HighlightIntro/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694613764.8448272
+        "size": "2.06 KB",
+        "dateModified": 1694706540.7681968
     },
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/output.json",
+        "name": "Anqas/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
         "size": "1.13 KB",
-        "dateModified": 1694697045.6123104
+        "dateModified": 1694706540.7676964
     },
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/run.py",
+        "name": "Anqas/Entities/HighlightIntro/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
     },
     {
-        "name": "Overwatch/Anqas/Entities/HighlightIntro/script.js",
+        "name": "Anqas/Entities/HighlightIntro/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694613764.8458269
+        "dateModified": 1694706540.7681968
     }
 ]

@@ -1,30 +1,36 @@
 [
     {
-        "name": "Animations",
+        "name": "HighlightIntro/Shop/Clean Sweep/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5610561
+        "dateModified": 1694281988.584182
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Shop/Clean Sweep/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Models",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6295183
+        "dateModified": 1694282011.622614
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Shop/Clean Sweep/output.json",
+        "type": ".JSON file",
+        "size": "0.72 KB",
+        "dateModified": 1694281976.0703247
+    },
+    {
+        "name": "HighlightIntro/Shop/Clean Sweep/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Shop/Clean Sweep/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

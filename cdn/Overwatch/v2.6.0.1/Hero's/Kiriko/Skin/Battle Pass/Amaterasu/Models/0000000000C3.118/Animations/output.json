@@ -1,48 +1,54 @@
 [
     {
-        "name": "0",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267269.8959868
+        "dateModified": 1694283112.4675546
     },
     {
-        "name": "128",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267269.896986
+        "dateModified": 1694283302.53871
     },
     {
-        "name": "16",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267269.9004874
+        "dateModified": 1694283292.9799807
     },
     {
-        "name": "4",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267269.936181
+        "dateModified": 1694283170.0207076
     },
     {
-        "name": "6",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267269.9376817
+        "dateModified": 1694283264.4292243
     },
     {
-        "name": "index.html",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "1.13 KB",
+        "dateModified": 1694283109.1281545
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Animations/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

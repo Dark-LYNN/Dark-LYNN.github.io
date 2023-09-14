@@ -1,24 +1,30 @@
 [
     {
-        "name": "6",
+        "name": "Emote/Overwatch/Cheer/Animations/4/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9995677
+        "dateModified": 1694280199.7754912
     },
     {
-        "name": "index.html",
+        "name": "Emote/Overwatch/Cheer/Animations/4/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Emote/Overwatch/Cheer/Animations/4/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694280196.9688458
+    },
+    {
+        "name": "Emote/Overwatch/Cheer/Animations/4/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Overwatch/Cheer/Animations/4/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

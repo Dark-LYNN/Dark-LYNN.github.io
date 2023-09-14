@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.58762
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.58762
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.58812
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.58812
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.58812
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/index.html",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.7494419
+        "size": "2.06 KB",
+        "dateModified": 1694706550.8145757
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/output.json",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.15 KB",
-        "dateModified": 1694703966.7484388
+        "size": "1.64 KB",
+        "dateModified": 1694706550.8145757
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects/script.js",
+        "name": "Kulli/Entities/PreviewEmote/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.7494419
+        "dateModified": 1694706550.815076
     }
 ]

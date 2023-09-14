@@ -1,24 +1,30 @@
 [
     {
-        "name": "000000002F95.owmat",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/0000000118C9.00C/Materials/000000002F95.owmat",
         "type": ".OWMAT file",
         "size": "0.28 KB",
         "dateModified": 1694267268.632018
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/0000000118C9.00C/Materials/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/0000000118C9.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694282157.765223
+    },
+    {
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/0000000118C9.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Shop/Clean Sweep/Models/0000000118C9.00C/Materials/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

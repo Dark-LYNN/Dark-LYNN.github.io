@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C29.003/000000004C29.003.owentity",
+        "name": "Overwatch 2/Entities/000000004C29.003/000000004C29.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694267245.0597851
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C29.003/index.html",
+        "name": "Overwatch 2/Entities/000000004C29.003/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704185.9644902
+        "dateModified": 1694706552.91455
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C29.003/output.json",
+        "name": "Overwatch 2/Entities/000000004C29.003/output.json",
         "type": ".JSON file",
-        "size": "0.36 KB",
-        "dateModified": 1694704185.9644902
+        "size": "0.79 KB",
+        "dateModified": 1694706552.91405
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C29.003/script.js",
+        "name": "Overwatch 2/Entities/000000004C29.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704185.9649894
+        "dateModified": 1694706552.91455
     }
 ]

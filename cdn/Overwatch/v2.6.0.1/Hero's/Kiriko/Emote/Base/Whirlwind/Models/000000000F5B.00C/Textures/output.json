@@ -1,36 +1,42 @@
 [
     {
-        "name": "00000000A7B6.png",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/00000000A7B6.png",
         "type": ".PNG file",
         "size": "13.93 KB",
         "dateModified": 1694338816.563413
     },
     {
-        "name": "0000000299E9.png",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/0000000299E9.png",
         "type": ".PNG file",
         "size": "126.25 KB",
         "dateModified": 1694338808.1373038
     },
     {
-        "name": "800049053AB0.png",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/800049053AB0.png",
         "type": ".PNG file",
         "size": "0.72 KB",
         "dateModified": 1694338796.9708366
     },
     {
-        "name": "index.html",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "0.88 KB",
+        "dateModified": 1694338834.1860597
+    },
+    {
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Base/Whirlwind/Models/000000000F5B.00C/Textures/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

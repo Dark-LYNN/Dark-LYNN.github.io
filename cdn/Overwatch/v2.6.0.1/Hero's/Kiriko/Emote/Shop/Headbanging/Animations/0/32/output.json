@@ -1,36 +1,42 @@
 [
     {
-        "name": "00000000C854.owanimclip",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/00000000C854.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "277.25 KB",
         "dateModified": 1694267268.0145094
     },
     {
-        "name": "00000000C855.owanimclip",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/00000000C855.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "170.00 KB",
         "dateModified": 1694267268.0160222
     },
     {
-        "name": "00000000CA3A.owanimclip",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/00000000CA3A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "72.10 KB",
         "dateModified": 1694267268.0165217
     },
     {
-        "name": "index.html",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "0.93 KB",
+        "dateModified": 1694280343.7594297
+    },
+    {
+        "name": "Emote/Shop/Headbanging/Animations/0/32/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Shop/Headbanging/Animations/0/32/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

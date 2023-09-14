@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0",
+        "name": "Chumpi/Models/000000000117.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.5318112
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/128",
+        "name": "Chumpi/Models/000000000117.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.5714889
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/16",
+        "name": "Chumpi/Models/000000000117.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.652236
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/4",
+        "name": "Chumpi/Models/000000000117.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.6562538
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/index.html",
+        "name": "Chumpi/Models/000000000117.118/Animations/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703562.529811
+        "size": "2.06 KB",
+        "dateModified": 1694706545.3761604
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/output.json",
+        "name": "Chumpi/Models/000000000117.118/Animations/output.json",
         "type": ".JSON file",
-        "size": "0.88 KB",
-        "dateModified": 1694703562.5293107
+        "size": "1.35 KB",
+        "dateModified": 1694706545.3761604
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/script.js",
+        "name": "Chumpi/Models/000000000117.118/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703562.529811
+        "dateModified": 1694706545.3771634
     }
 ]

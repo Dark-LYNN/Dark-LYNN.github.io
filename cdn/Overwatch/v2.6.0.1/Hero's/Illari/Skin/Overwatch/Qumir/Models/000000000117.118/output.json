@@ -1,54 +1,54 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/000000000117.118.owmdl",
+        "name": "Qumir/Models/000000000117.118/000000000117.118.owmdl",
         "type": ".OWMDL file",
         "size": "7588.35 KB",
         "dateModified": 1694267250.2863085
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects",
+        "name": "Qumir/Models/000000000117.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.1609914
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/Animations",
+        "name": "Qumir/Models/000000000117.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.4827318
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/index.html",
+        "name": "Qumir/Models/000000000117.118/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704222.1160655
+        "dateModified": 1694706563.832383
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/Materials",
+        "name": "Qumir/Models/000000000117.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.7139666
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/ModelLooks",
+        "name": "Qumir/Models/000000000117.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.7189674
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/output.json",
+        "name": "Qumir/Models/000000000117.118/output.json",
         "type": ".JSON file",
-        "size": "1.22 KB",
-        "dateModified": 1694704222.115565
+        "size": "1.69 KB",
+        "dateModified": 1694706563.832383
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/script.js",
+        "name": "Qumir/Models/000000000117.118/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704222.1160655
+        "dateModified": 1694706563.8328836
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/Textures",
+        "name": "Qumir/Models/000000000117.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.741034

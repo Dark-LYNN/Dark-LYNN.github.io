@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.0516057
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A150.02C",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A150.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.0841112
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.093587
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/index.html",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.0485916
+        "size": "2.06 KB",
+        "dateModified": 1694706550.06224
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/output.json",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.84 KB",
-        "dateModified": 1694703966.0480912
+        "size": "1.33 KB",
+        "dateModified": 1694706550.06224
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/script.js",
+        "name": "Kulli/Entities/000000004BCA.003/Effects/000000004EAA.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.0485916
+        "dateModified": 1694706550.0627398
     }
 ]

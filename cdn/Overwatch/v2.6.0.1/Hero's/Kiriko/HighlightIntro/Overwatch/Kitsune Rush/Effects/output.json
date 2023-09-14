@@ -1,78 +1,84 @@
 [
     {
-        "name": "0000000017CB.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/0000000017CB.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.046299
+        "dateModified": 1694281505.249243
     },
     {
-        "name": "000000001A32.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001A32.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0487068
+        "dateModified": 1694281333.7721217
     },
     {
-        "name": "000000001AF8.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001AF8.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0522075
+        "dateModified": 1694281342.1010091
     },
     {
-        "name": "000000001B24.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B24.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0880802
+        "dateModified": 1694281422.501894
     },
     {
-        "name": "000000001B2F.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B2F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0890806
+        "dateModified": 1694281380.982632
     },
     {
-        "name": "000000001B8E.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0951016
+        "dateModified": 1694281395.651392
     },
     {
-        "name": "000000001BAE.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001BAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0981214
+        "dateModified": 1694281486.000553
     },
     {
-        "name": "0000000025C4.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/0000000025C4.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.1006222
+        "dateModified": 1694281531.2406716
     },
     {
-        "name": "000000002777.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000002777.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.105639
+        "dateModified": 1694281547.1244614
     },
     {
-        "name": "000000005174.00D",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000005174.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.1081398
+        "dateModified": 1694281575.7519083
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/output.json",
+        "type": ".JSON file",
+        "size": "1.97 KB",
+        "dateModified": 1694281298.3364043
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

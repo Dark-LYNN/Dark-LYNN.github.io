@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/0000000012A7.02C",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/0000000012A7.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694364060.8707106
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/0000000012A8.02C",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/0000000012A8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694364057.773172
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/0000000037E5.02C",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/0000000037E5.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694364054.9705498
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/index.html",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694364052.5586166
+        "size": "2.06 KB",
+        "dateModified": 1694706531.175922
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/output.json",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/output.json",
         "type": ".JSON file",
         "size": "1.37 KB",
-        "dateModified": 1694697000.4221416
+        "dateModified": 1694706531.1754222
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/run.py",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000019E.00D/Sounds/script.js",
+        "name": "Anqas/Effects/00000000019E.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694364052.5591166
+        "dateModified": 1694706531.175922
     }
 ]

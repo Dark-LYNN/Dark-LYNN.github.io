@@ -1,48 +1,48 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Amethyst/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.32 KB",
         "dateModified": 1694661402.855647
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.3819842
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/index.html",
+        "name": "Amethyst/Models/0000000134D8.00C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702908.380047
+        "size": "2.06 KB",
+        "dateModified": 1694706531.0712917
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Materials",
+        "name": "Amethyst/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.4731283
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/ModelLooks",
+        "name": "Amethyst/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.4746282
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/output.json",
+        "name": "Amethyst/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "1.04 KB",
-        "dateModified": 1694702908.1631825
+        "size": "1.52 KB",
+        "dateModified": 1694706531.0712917
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/script.js",
+        "name": "Amethyst/Models/0000000134D8.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702908.380047
+        "dateModified": 1694706531.0717921
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Textures",
+        "name": "Amethyst/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.4781284

@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/AnimationEffects",
+        "name": "Sundown/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.8041918
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects",
+        "name": "Sundown/Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.8167074
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Gameplay3P.owentity",
+        "name": "Sundown/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267261.067424
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/index.html",
+        "name": "Sundown/Entities/Gameplay3P/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704240.2060435
+        "dateModified": 1694706567.8768675
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/output.json",
+        "name": "Sundown/Entities/Gameplay3P/output.json",
         "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694704240.2055426
+        "size": "1.12 KB",
+        "dateModified": 1694706567.8763673
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/script.js",
+        "name": "Sundown/Entities/Gameplay3P/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704240.2060435
+        "dateModified": 1694706567.8768675
     }
 ]

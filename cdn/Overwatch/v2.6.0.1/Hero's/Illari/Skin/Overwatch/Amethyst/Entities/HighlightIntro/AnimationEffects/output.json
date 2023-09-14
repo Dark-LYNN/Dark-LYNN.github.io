@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3568847
     },
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB78.owanim",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB78.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3568847
     },
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3573847
     },
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/index.html",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702905.437711
+        "size": "2.06 KB",
+        "dateModified": 1694706530.238262
     },
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/output.json",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "0.78 KB",
-        "dateModified": 1694702905.437711
+        "size": "1.26 KB",
+        "dateModified": 1694706530.238262
     },
     {
-        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects/script.js",
+        "name": "Amethyst/Entities/HighlightIntro/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702905.4778414
+        "dateModified": 1694706530.238262
     }
 ]

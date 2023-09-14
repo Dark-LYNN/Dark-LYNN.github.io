@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/000000233A65.03F.ogg",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/000000233A65.03F.ogg",
         "type": ".OGG file",
         "size": "15.47 KB",
         "dateModified": 1694267231.1470547
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/index.html",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703562.4001117
+        "size": "2.06 KB",
+        "dateModified": 1694706545.3234816
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/output.json",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/output.json",
         "type": ".JSON file",
-        "size": "0.46 KB",
-        "dateModified": 1694703562.3996117
+        "size": "0.96 KB",
+        "dateModified": 1694706545.3229809
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/script.js",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000DB7D/Sounds/00000000A92B.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703562.4001117
+        "dateModified": 1694706545.3234816
     }
 ]

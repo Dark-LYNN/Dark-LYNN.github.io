@@ -1,36 +1,36 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/000000010F4E.owmdl",
+        "name": "Amethyst/Models/000000010F4E.00C/000000010F4E.owmdl",
         "type": ".OWMDL file",
         "size": "0.75 KB",
         "dateModified": 1694661402.6780353
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/index.html",
+        "name": "Amethyst/Models/000000010F4E.00C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702908.0800624
+        "size": "2.06 KB",
+        "dateModified": 1694706531.0532658
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/Materials",
+        "name": "Amethyst/Models/000000010F4E.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.083636
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/output.json",
+        "name": "Amethyst/Models/000000010F4E.00C/output.json",
         "type": ".JSON file",
-        "size": "0.69 KB",
-        "dateModified": 1694702908.0795546
+        "size": "1.14 KB",
+        "dateModified": 1694706531.0532658
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/script.js",
+        "name": "Amethyst/Models/000000010F4E.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702908.0805626
+        "dateModified": 1694706531.0532658
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000010F4E.00C/Textures",
+        "name": "Amethyst/Models/000000010F4E.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702908.1107419

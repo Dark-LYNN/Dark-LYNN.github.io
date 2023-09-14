@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/92C5A465A202.owmat",
+        "name": "Anqas/Models/00000000656E.00C/Materials/92C5A465A202.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.9908705
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/A3F2C8A00ECA.owmat",
+        "name": "Anqas/Models/00000000656E.00C/Materials/A3F2C8A00ECA.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.9908705
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/EA9DA21E3B6C.owmat",
+        "name": "Anqas/Models/00000000656E.00C/Materials/EA9DA21E3B6C.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.9913704
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/index.html",
+        "name": "Anqas/Models/00000000656E.00C/Materials/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694621450.9174209
+        "size": "2.06 KB",
+        "dateModified": 1694706541.5935547
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/output.json",
+        "name": "Anqas/Models/00000000656E.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "1.38 KB",
-        "dateModified": 1694697074.4476304
+        "dateModified": 1694706541.5935547
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/run.py",
+        "name": "Anqas/Models/00000000656E.00C/Materials/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Models/00000000656E.00C/Materials/script.js",
+        "name": "Anqas/Models/00000000656E.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694621450.9174209
+        "dateModified": 1694706541.5935547
     }
 ]

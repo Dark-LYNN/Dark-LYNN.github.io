@@ -1,24 +1,30 @@
 [
     {
-        "name": "0000001DCB5B.03F.ogg",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D/Sounds/0000000096E9.02C/0000001DCB5B.03F.ogg",
         "type": ".OGG file",
         "size": "27.37 KB",
         "dateModified": 1694267268.0981214
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D/Sounds/0000000096E9.02C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D/Sounds/0000000096E9.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694281413.5568697
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D/Sounds/0000000096E9.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Effects/000000001B8E.00D/Sounds/0000000096E9.02C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

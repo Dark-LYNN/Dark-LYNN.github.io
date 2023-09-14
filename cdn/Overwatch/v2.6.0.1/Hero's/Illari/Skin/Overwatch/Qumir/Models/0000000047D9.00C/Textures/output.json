@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/00000000E7C0.png",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/00000000E7C0.png",
         "type": ".PNG file",
         "size": "0.39 KB",
         "dateModified": 1694697497.082878
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/00000000EE4A.png",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/00000000EE4A.png",
         "type": ".PNG file",
         "size": "9.99 KB",
         "dateModified": 1694697497.0918815
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/80002B942196.png",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/80002B942196.png",
         "type": ".PNG file",
         "size": "0.26 KB",
         "dateModified": 1694697497.0933814
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/8000459783E9.png",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/8000459783E9.png",
         "type": ".PNG file",
         "size": "0.27 KB",
         "dateModified": 1694697497.0943818
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/index.html",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704223.5013855
+        "dateModified": 1694706566.2782829
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/output.json",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "0.91 KB",
-        "dateModified": 1694704223.3289132
+        "size": "1.37 KB",
+        "dateModified": 1694706566.2777832
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000047D9.00C/Textures/script.js",
+        "name": "Qumir/Models/0000000047D9.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704223.5018876
+        "dateModified": 1694706566.2782829
     }
 ]

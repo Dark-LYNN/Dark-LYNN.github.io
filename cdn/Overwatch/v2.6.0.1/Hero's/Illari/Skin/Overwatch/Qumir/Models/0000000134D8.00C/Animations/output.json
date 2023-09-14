@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/0",
+        "name": "Qumir/Models/0000000134D8.00C/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704224.0584598
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/4",
+        "name": "Qumir/Models/0000000134D8.00C/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704224.2218802
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/index.html",
+        "name": "Qumir/Models/0000000134D8.00C/Animations/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704224.056959
+        "dateModified": 1694706566.406225
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/output.json",
+        "name": "Qumir/Models/0000000134D8.00C/Animations/output.json",
         "type": ".JSON file",
-        "size": "0.53 KB",
-        "dateModified": 1694704224.0564604
+        "size": "0.96 KB",
+        "dateModified": 1694706566.4052224
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/script.js",
+        "name": "Qumir/Models/0000000134D8.00C/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704224.056959
+        "dateModified": 1694706566.406225
     }
 ]

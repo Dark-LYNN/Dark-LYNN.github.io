@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/00000009477A.03F.ogg",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/00000009477A.03F.ogg",
         "type": ".OGG file",
         "size": "38.39 KB",
         "dateModified": 1694267245.1107423
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/00000020F52F.03F.ogg",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/00000020F52F.03F.ogg",
         "type": ".OGG file",
         "size": "84.82 KB",
         "dateModified": 1694267245.1112425
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/index.html",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704186.0796196
+        "dateModified": 1694706553.022106
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/output.json",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/output.json",
         "type": ".JSON file",
-        "size": "0.66 KB",
-        "dateModified": 1694704186.0796196
+        "size": "1.19 KB",
+        "dateModified": 1694706553.0216053
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/script.js",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704186.0801196
+        "dateModified": 1694706553.023106
     }
 ]

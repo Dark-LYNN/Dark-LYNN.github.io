@@ -1,42 +1,48 @@
 [
     {
-        "name": "00000003267E.tif",
-        "type": ".TIF file",
-        "size": "3.08 KB",
-        "dateModified": 1694267268.1712017
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/00000003267E.png",
+        "type": ".PNG file",
+        "size": "2.06 KB",
+        "dateModified": 1694339752.6234417
     },
     {
-        "name": "800025B0333F.tif",
-        "type": ".TIF file",
-        "size": "1.53 KB",
-        "dateModified": 1694267268.1712017
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/800025B0333F.png",
+        "type": ".PNG file",
+        "size": "0.58 KB",
+        "dateModified": 1694339747.1466558
     },
     {
-        "name": "800074502130.tif",
-        "type": ".TIF file",
-        "size": "1.70 KB",
-        "dateModified": 1694267268.1712017
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/800074502130.png",
+        "type": ".PNG file",
+        "size": "0.67 KB",
+        "dateModified": 1694339757.1721842
     },
     {
-        "name": "8000F54A7D15.tif",
-        "type": ".TIF file",
-        "size": "2.58 KB",
-        "dateModified": 1694267268.1717021
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/8000F54A7D15.png",
+        "type": ".PNG file",
+        "size": "0.75 KB",
+        "dateModified": 1694339743.1389995
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.03 KB",
+        "dateModified": 1694281616.5008464
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000000D06.00C/Textures/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

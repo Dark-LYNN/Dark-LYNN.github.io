@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/Animations/0/37/00000000D04E.owanimclip",
+        "name": "Sundown/Models/000000000119.118/Animations/0/37/00000000D04E.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "33.23 KB",
         "dateModified": 1694267261.2199337
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/Animations/0/37/00000000D595.owanimclip",
+        "name": "Sundown/Models/000000000119.118/Animations/0/37/00000000D595.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "197.35 KB",
         "dateModified": 1694267261.2214339
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/Animations/0/37/index.html",
+        "name": "Sundown/Models/000000000119.118/Animations/0/37/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704242.9095864
+        "dateModified": 1694706568.8638096
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/Animations/0/37/output.json",
+        "name": "Sundown/Models/000000000119.118/Animations/0/37/output.json",
         "type": ".JSON file",
-        "size": "0.96 KB",
-        "dateModified": 1694704242.9090855
+        "size": "1.05 KB",
+        "dateModified": 1694706568.8638096
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/Animations/0/37/script.js",
+        "name": "Sundown/Models/000000000119.118/Animations/0/37/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704242.9095864
+        "dateModified": 1694706568.8638096
     }
 ]

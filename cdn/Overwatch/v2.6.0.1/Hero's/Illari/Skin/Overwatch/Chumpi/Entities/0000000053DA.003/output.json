@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/0000000053DA.003/0000000053DA.003.owentity",
+        "name": "Chumpi/Entities/0000000053DA.003/0000000053DA.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694267230.5163193
     },
     {
-        "name": "Overwatch/Chumpi/Entities/0000000053DA.003/index.html",
+        "name": "Chumpi/Entities/0000000053DA.003/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703557.3906674
+        "size": "2.06 KB",
+        "dateModified": 1694706544.4323604
     },
     {
-        "name": "Overwatch/Chumpi/Entities/0000000053DA.003/output.json",
+        "name": "Chumpi/Entities/0000000053DA.003/output.json",
         "type": ".JSON file",
-        "size": "0.36 KB",
-        "dateModified": 1694703557.3906674
+        "size": "0.77 KB",
+        "dateModified": 1694706544.4318604
     },
     {
-        "name": "Overwatch/Chumpi/Entities/0000000053DA.003/script.js",
+        "name": "Chumpi/Entities/0000000053DA.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703557.3911676
+        "dateModified": 1694706544.4323604
     }
 ]

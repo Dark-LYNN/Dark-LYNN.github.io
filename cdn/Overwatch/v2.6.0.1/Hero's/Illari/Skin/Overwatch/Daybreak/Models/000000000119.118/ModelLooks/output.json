@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks/DEFAULT-80E.owmat",
+        "name": "Daybreak/Models/000000000119.118/ModelLooks/DEFAULT-80E.owmat",
         "type": ".OWMAT file",
         "size": "0.44 KB",
         "dateModified": 1694267234.36397
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks/DEFAULT-80F.owmat",
+        "name": "Daybreak/Models/000000000119.118/ModelLooks/DEFAULT-80F.owmat",
         "type": ".OWMAT file",
         "size": "1.02 KB",
         "dateModified": 1694267234.3644702
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks/index.html",
+        "name": "Daybreak/Models/000000000119.118/ModelLooks/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703609.1640048
+        "size": "2.06 KB",
+        "dateModified": 1694706548.32373
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks/output.json",
+        "name": "Daybreak/Models/000000000119.118/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.56 KB",
-        "dateModified": 1694703609.1640048
+        "size": "1.01 KB",
+        "dateModified": 1694706548.3232296
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks/script.js",
+        "name": "Daybreak/Models/000000000119.118/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703609.1645033
+        "dateModified": 1694706548.32373
     }
 ]

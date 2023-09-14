@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/128/32",
+        "name": "Kulli/Models/000000000117.118/Animations/128/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.027523
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/128/33",
+        "name": "Kulli/Models/000000000117.118/Animations/128/33",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.0290234
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/128/index.html",
+        "name": "Kulli/Models/000000000117.118/Animations/128/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.0255227
+        "size": "2.06 KB",
+        "dateModified": 1694706551.1156495
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/128/output.json",
+        "name": "Kulli/Models/000000000117.118/Animations/128/output.json",
         "type": ".JSON file",
-        "size": "0.54 KB",
-        "dateModified": 1694703967.0250225
+        "size": "0.99 KB",
+        "dateModified": 1694706551.1156495
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/128/script.js",
+        "name": "Kulli/Models/000000000117.118/Animations/128/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.0255227
+        "dateModified": 1694706551.1156495
     }
 ]

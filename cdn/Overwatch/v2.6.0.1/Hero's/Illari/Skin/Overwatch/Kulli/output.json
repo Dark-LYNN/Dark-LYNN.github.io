@@ -1,54 +1,54 @@
 [
     {
-        "name": "Overwatch/Kulli/3D Model",
+        "name": "Kulli/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703964.8932958
     },
     {
-        "name": "Overwatch/Kulli/Effects",
+        "name": "Kulli/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703964.905193
     },
     {
-        "name": "Overwatch/Kulli/Entities",
+        "name": "Kulli/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703965.813241
     },
     {
-        "name": "Overwatch/Kulli/GUI",
+        "name": "Kulli/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.7604356
     },
     {
-        "name": "Overwatch/Kulli/index.html",
+        "name": "Kulli/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703964.8922925
+        "size": "2.06 KB",
+        "dateModified": 1694706548.920649
     },
     {
-        "name": "Overwatch/Kulli/Models",
+        "name": "Kulli/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.7679503
     },
     {
-        "name": "Overwatch/Kulli/output.json",
+        "name": "Kulli/output.json",
         "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694703964.8917923
+        "size": "1.44 KB",
+        "dateModified": 1694706548.920149
     },
     {
-        "name": "Overwatch/Kulli/script.js",
+        "name": "Kulli/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703964.8922925
+        "dateModified": 1694706548.920649
     },
     {
-        "name": "Overwatch/Kulli/test.py",
+        "name": "Kulli/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696842.5307052

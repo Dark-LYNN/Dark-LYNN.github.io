@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267250.2576618
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267250.2581625
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/00000000E1AE.owanim",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/00000000E1AE.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267250.2581625
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/index.html",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704221.9744284
+        "dateModified": 1694706563.8080935
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/output.json",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "0.78 KB",
-        "dateModified": 1694704221.9744284
+        "size": "1.24 KB",
+        "dateModified": 1694706563.8080935
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro/AnimationEffects/script.js",
+        "name": "Qumir/Entities/HighlightIntro/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704221.984035
+        "dateModified": 1694706563.8085938
     }
 ]

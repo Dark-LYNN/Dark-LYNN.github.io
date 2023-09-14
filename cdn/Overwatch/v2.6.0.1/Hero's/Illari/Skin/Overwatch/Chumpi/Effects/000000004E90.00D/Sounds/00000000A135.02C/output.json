@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233A99.03F.ogg",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233A99.03F.ogg",
         "type": ".OGG file",
         "size": "32.03 KB",
         "dateModified": 1694267228.3935802
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233A9B.03F.ogg",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233A9B.03F.ogg",
         "type": ".OGG file",
         "size": "32.03 KB",
         "dateModified": 1694267228.3935802
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233AA2.03F.ogg",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/000000233AA2.03F.ogg",
         "type": ".OGG file",
         "size": "32.79 KB",
         "dateModified": 1694267228.3940804
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/index.html",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703551.6495404
+        "size": "2.06 KB",
+        "dateModified": 1694706542.456208
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/output.json",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/output.json",
         "type": ".JSON file",
-        "size": "1.38 KB",
-        "dateModified": 1694703551.6490414
+        "size": "1.49 KB",
+        "dateModified": 1694706542.456208
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/run.py",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/script.js",
+        "name": "Chumpi/Effects/000000004E90.00D/Sounds/00000000A135.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703551.6500418
+        "dateModified": 1694706542.4572105
     }
 ]

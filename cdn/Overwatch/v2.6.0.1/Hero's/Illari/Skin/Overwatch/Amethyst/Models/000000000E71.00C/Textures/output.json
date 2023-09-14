@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/000000037041.png",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/000000037041.png",
         "type": ".PNG file",
         "size": "3.56 KB",
         "dateModified": 1694699497.79518
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/00000003E45B.png",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694699497.8252757
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/80001D9E281C.png",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/80001D9E281C.png",
         "type": ".PNG file",
         "size": "0.33 KB",
         "dateModified": 1694699497.8296702
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/index.html",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702907.2226353
+        "size": "2.06 KB",
+        "dateModified": 1694706530.7731402
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/output.json",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "0.73 KB",
-        "dateModified": 1694702907.2221348
+        "size": "1.19 KB",
+        "dateModified": 1694706530.7731402
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000E71.00C/Textures/script.js",
+        "name": "Amethyst/Models/000000000E71.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702907.2226353
+        "dateModified": 1694706530.7736404
     }
 ]

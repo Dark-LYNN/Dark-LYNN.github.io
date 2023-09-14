@@ -1,56 +1,56 @@
 [
     {
-        "name": "0000000118F1.owmdl",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/0000000118F1.owmdl",
         "type": ".OWMDL file",
         "size": "203.12 KB",
         "dateModified": 1694267267.957065
     },
     {
-        "name": "Animations",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.957565
+        "dateModified": 1694280047.911343
     },
     {
-        "name": "index.html",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.958565
+        "dateModified": 1694280063.3980455
     },
     {
-        "name": "ModelLooks",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9590652
+        "dateModified": 1694280068.1114452
     },
     {
-        "name": "output.json",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/output.json",
         "type": ".JSON file",
-        "size": "1.17 KB",
-        "dateModified": 1694280038.2394457
+        "size": "1.32 KB",
+        "dateModified": 1694280042.9820273
     },
     {
-        "name": "script.js",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "Emote/Base/Whirlwind/Models/0000000118F1.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9745803
+        "dateModified": 1694339216.769868
     }
 ]

@@ -1,74 +1,80 @@
 [
     {
-        "name": "Overwatch/Amethyst",
+        "name": "Amethyst",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694699798.6321826
     },
     {
-        "name": "Overwatch/Anqas",
+        "name": "Anqas",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694622747.6695278
     },
     {
-        "name": "Overwatch/Chumpi",
+        "name": "Chumpi",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703547.6978679
     },
     {
-        "name": "Overwatch/Daybreak",
+        "name": "Daybreak",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703599.3130531
     },
     {
-        "name": "Overwatch/index.html",
+        "name": "index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694362175.9332232
+        "size": "2.06 KB",
+        "dateModified": 1694706528.34916
     },
     {
-        "name": "Overwatch/Kulli",
+        "name": "Kulli",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703964.8922925
     },
     {
-        "name": "Overwatch/output.json",
+        "name": "output.json",
         "type": ".JSON file",
-        "size": "1.70 KB",
-        "dateModified": 1694696999.8292308
+        "size": "1.86 KB",
+        "dateModified": 1694706528.348661
     },
     {
-        "name": "Overwatch/Overwatch 2",
+        "name": "Overwatch 2",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704184.5630589
     },
     {
-        "name": "Overwatch/Qumir",
+        "name": "Qumir",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704210.9051223
     },
     {
-        "name": "Overwatch/run.py",
+        "name": "run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/script.js",
+        "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694362175.9337234
+        "dateModified": 1694706528.34916
     },
     {
-        "name": "Overwatch/Sundown",
+        "name": "Sundown",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694699759.9162786
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "8.91 KB",
+        "dateModified": 1694704177.2403872
     }
 ]

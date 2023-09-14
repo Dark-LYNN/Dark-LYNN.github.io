@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337D8.03F.ogg",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337D8.03F.ogg",
         "type": ".OGG file",
         "size": "16.62 KB",
         "dateModified": 1694267239.0566475
     },
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337D9.03F.ogg",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337D9.03F.ogg",
         "type": ".OGG file",
         "size": "17.22 KB",
         "dateModified": 1694267239.0573895
     },
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337DA.03F.ogg",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/0000002337DA.03F.ogg",
         "type": ".OGG file",
         "size": "17.52 KB",
         "dateModified": 1694267239.0573895
     },
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/index.html",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703965.799721
+        "size": "2.06 KB",
+        "dateModified": 1694706549.812207
     },
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/output.json",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/output.json",
         "type": ".JSON file",
-        "size": "0.81 KB",
-        "dateModified": 1694703965.799721
+        "size": "1.28 KB",
+        "dateModified": 1694706549.812207
     },
     {
-        "name": "Overwatch/Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/script.js",
+        "name": "Kulli/Effects/0000000053F4.00D/Sounds/00000000A921.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703965.8007216
+        "dateModified": 1694706549.8127072
     }
 ]

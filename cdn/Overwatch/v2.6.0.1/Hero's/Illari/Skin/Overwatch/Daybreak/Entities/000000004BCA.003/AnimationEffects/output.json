@@ -1,68 +1,68 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4729161
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4729161
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4734168
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4734168
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4734168
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4739168
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.4744167
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.475417
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/index.html",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703603.1940382
+        "size": "2.06 KB",
+        "dateModified": 1694706547.1498346
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/output.json",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.78 KB",
-        "dateModified": 1694703603.1930385
+        "size": "2.35 KB",
+        "dateModified": 1694706547.1498346
     },
     {
-        "name": "Overwatch/Daybreak/Entities/000000004BCA.003/AnimationEffects/script.js",
+        "name": "Daybreak/Entities/000000004BCA.003/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703603.1945395
+        "dateModified": 1694706547.150335
     }
 ]

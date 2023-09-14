@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/AnimationEffects",
+        "name": "Kulli/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.1622589
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects",
+        "name": "Kulli/Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.1760166
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/Gameplay3P.owentity",
+        "name": "Kulli/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267239.584521
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/index.html",
+        "name": "Kulli/Entities/Gameplay3P/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.1312082
+        "size": "2.06 KB",
+        "dateModified": 1694706550.1529539
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/output.json",
+        "name": "Kulli/Entities/Gameplay3P/output.json",
         "type": ".JSON file",
-        "size": "0.68 KB",
-        "dateModified": 1694703966.1307075
+        "size": "1.11 KB",
+        "dateModified": 1694706550.152454
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/script.js",
+        "name": "Kulli/Entities/Gameplay3P/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.1312082
+        "dateModified": 1694706550.1529539
     }
 ]

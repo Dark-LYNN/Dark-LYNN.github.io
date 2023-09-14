@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/00000000EBEF.00C/Materials/A3EB60A95DF9.owmat",
+        "name": "Qumir/Models/00000000EBEF.00C/Materials/A3EB60A95DF9.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267255.4645903
     },
     {
-        "name": "Overwatch/Qumir/Models/00000000EBEF.00C/Materials/D234291BA16A.owmat",
+        "name": "Qumir/Models/00000000EBEF.00C/Materials/D234291BA16A.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267255.4645903
     },
     {
-        "name": "Overwatch/Qumir/Models/00000000EBEF.00C/Materials/index.html",
+        "name": "Qumir/Models/00000000EBEF.00C/Materials/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704223.5684087
+        "dateModified": 1694706566.3507824
     },
     {
-        "name": "Overwatch/Qumir/Models/00000000EBEF.00C/Materials/output.json",
+        "name": "Qumir/Models/00000000EBEF.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.56 KB",
-        "dateModified": 1694704223.5679092
+        "size": "0.99 KB",
+        "dateModified": 1694706566.3507824
     },
     {
-        "name": "Overwatch/Qumir/Models/00000000EBEF.00C/Materials/script.js",
+        "name": "Qumir/Models/00000000EBEF.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704223.5684087
+        "dateModified": 1694706566.3507824
     }
 ]

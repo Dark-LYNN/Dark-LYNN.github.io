@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000003FAE.00C/Materials/8EC0397B1737.owmat",
+        "name": "Kulli/Models/000000003FAE.00C/Materials/8EC0397B1737.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267243.1165726
     },
     {
-        "name": "Overwatch/Kulli/Models/000000003FAE.00C/Materials/index.html",
+        "name": "Kulli/Models/000000003FAE.00C/Materials/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.4209335
+        "size": "2.06 KB",
+        "dateModified": 1694706551.5135877
     },
     {
-        "name": "Overwatch/Kulli/Models/000000003FAE.00C/Materials/output.json",
+        "name": "Kulli/Models/000000003FAE.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.37 KB",
-        "dateModified": 1694703967.4209335
+        "size": "0.79 KB",
+        "dateModified": 1694706551.5135877
     },
     {
-        "name": "Overwatch/Kulli/Models/000000003FAE.00C/Materials/script.js",
+        "name": "Kulli/Models/000000003FAE.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.4218216
+        "dateModified": 1694706551.5140882
     }
 ]

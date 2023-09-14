@@ -1,56 +1,56 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004C03.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.682529
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004D7F.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.6880116
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004D80.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.8174133
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAA.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.8259351
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAE.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.8754542
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/0000000051EF.00D",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704185.9089742
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/index.html",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704185.681521
+        "dateModified": 1694706552.8032115
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/output.json",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/output.json",
         "type": ".JSON file",
-        "size": "1.31 KB",
-        "dateModified": 1694704185.681521
+        "size": "1.85 KB",
+        "dateModified": 1694706552.8032115
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/script.js",
+        "name": "Overwatch 2/Entities/000000004BCA.003/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704185.6820292
+        "dateModified": 1694706552.803712
     }
 ]

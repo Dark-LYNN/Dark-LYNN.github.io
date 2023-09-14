@@ -1,3 +1,4 @@
+
 // Function to convert size from KB to bytes and remove letters
 function convertSizeToBytes(size) {
     // Remove any non-numeric characters (letters, spaces, etc.)

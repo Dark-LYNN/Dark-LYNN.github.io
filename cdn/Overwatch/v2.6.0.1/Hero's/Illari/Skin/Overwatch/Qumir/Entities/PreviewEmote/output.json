@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote/AnimationEffects",
+        "name": "Qumir/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.9875357
     },
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote/index.html",
+        "name": "Qumir/Entities/PreviewEmote/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704221.9855359
+        "dateModified": 1694706563.810094
     },
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote/output.json",
+        "name": "Qumir/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
-        "size": "0.53 KB",
-        "dateModified": 1694704221.9850357
+        "size": "0.94 KB",
+        "dateModified": 1694706563.810094
     },
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Qumir/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267250.2596636
     },
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote/script.js",
+        "name": "Qumir/Entities/PreviewEmote/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704221.9860346
+        "dateModified": 1694706563.8105948
     }
 ]

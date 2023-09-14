@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5B2.owanimclip",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5B2.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.61 KB",
         "dateModified": 1694661403.135517
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5B3.owanimclip",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5B3.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.24 KB",
         "dateModified": 1694661403.1335166
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5FA.owanimclip",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000D5FA.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.51 KB",
         "dateModified": 1694661403.1365201
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000DBCF.owanimclip",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/00000000DBCF.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.37 KB",
         "dateModified": 1694661403.1320162
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/index.html",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702908.4645948
+        "size": "2.06 KB",
+        "dateModified": 1694706531.077795
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/output.json",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/output.json",
         "type": ".JSON file",
-        "size": "1.00 KB",
-        "dateModified": 1694702908.3864849
+        "size": "1.50 KB",
+        "dateModified": 1694706531.077795
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000134D8.00C/Animations/0/36/script.js",
+        "name": "Amethyst/Models/0000000134D8.00C/Animations/0/36/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702908.4650943
+        "dateModified": 1694706531.078303
     }
 ]

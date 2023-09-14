@@ -1,24 +1,30 @@
 [
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects/0000000047CA.00D/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects/0000000047CA.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694281807.7432654
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects/0000000047CA.00D/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "Sounds",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects/0000000047CA.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.412752
+        "dateModified": 1694281812.9174058
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Protector of Kanezaka/Effects/0000000047CA.00D/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

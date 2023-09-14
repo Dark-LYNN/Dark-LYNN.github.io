@@ -1,48 +1,54 @@
 [
     {
-        "name": "Challenge",
+        "name": "Emote/Overwatch/Challenge",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9790933
+        "dateModified": 1694280110.6913452
     },
     {
-        "name": "Cheer",
+        "name": "Emote/Overwatch/Cheer",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9962437
+        "dateModified": 1694280164.9897025
     },
     {
-        "name": "Heroic",
+        "name": "Emote/Overwatch/Heroic",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0000687
+        "dateModified": 1694280207.9655378
     },
     {
-        "name": "index.html",
+        "name": "Emote/Overwatch/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Kneeling",
+        "name": "Emote/Overwatch/Kneeling",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.004069
+        "dateModified": 1694280253.1575797
     },
     {
-        "name": "Laugh",
+        "name": "Emote/Overwatch/Laugh",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0070803
+        "dateModified": 1694280290.5599186
     },
     {
-        "name": "script.js",
+        "name": "Emote/Overwatch/output.json",
+        "type": ".JSON file",
+        "size": "1.16 KB",
+        "dateModified": 1694280106.9856422
+    },
+    {
+        "name": "Emote/Overwatch/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Overwatch/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Anqas/3D Model",
+        "name": "Anqas/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694622750.238591
     },
     {
-        "name": "Overwatch/Anqas/Effects",
+        "name": "Anqas/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694362203.692726
     },
     {
-        "name": "Overwatch/Anqas/Entities",
+        "name": "Anqas/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694449919.3937666
     },
     {
-        "name": "Overwatch/Anqas/GUI",
+        "name": "Anqas/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694449755.4871404
     },
     {
-        "name": "Overwatch/Anqas/index.html",
+        "name": "Anqas/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694362201.1364062
+        "size": "2.06 KB",
+        "dateModified": 1694706531.1306317
     },
     {
-        "name": "Overwatch/Anqas/Models",
+        "name": "Anqas/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694613794.3577976
     },
     {
-        "name": "Overwatch/Anqas/output.json",
+        "name": "Anqas/output.json",
         "type": ".JSON file",
         "size": "1.29 KB",
-        "dateModified": 1694696999.8717537
+        "dateModified": 1694706531.1306317
     },
     {
-        "name": "Overwatch/Anqas/script.js",
+        "name": "Anqas/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694362201.1369052
+        "dateModified": 1694706531.1311324
     }
 ]

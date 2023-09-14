@@ -1,60 +1,60 @@
 [
     {
-        "name": "Overwatch/Chumpi/3D Model",
+        "name": "Chumpi/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703548.6110978
     },
     {
-        "name": "Overwatch/Chumpi/Effects",
+        "name": "Chumpi/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694621521.3349438
     },
     {
-        "name": "Overwatch/Chumpi/Entities",
+        "name": "Chumpi/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703555.7373261
     },
     {
-        "name": "Overwatch/Chumpi/GUI",
+        "name": "Chumpi/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703561.80142
     },
     {
-        "name": "Overwatch/Chumpi/index.html",
+        "name": "Chumpi/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703548.609597
+        "size": "2.06 KB",
+        "dateModified": 1694706541.7845032
     },
     {
-        "name": "Overwatch/Chumpi/Models",
+        "name": "Chumpi/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703561.887454
     },
     {
-        "name": "Overwatch/Chumpi/output.json",
+        "name": "Chumpi/output.json",
         "type": ".JSON file",
-        "size": "1.44 KB",
-        "dateModified": 1694703548.6090963
+        "size": "1.60 KB",
+        "dateModified": 1694706541.7845032
     },
     {
-        "name": "Overwatch/Chumpi/run.py",
+        "name": "Chumpi/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Chumpi/script.js",
+        "name": "Chumpi/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703548.610102
+        "dateModified": 1694706541.7850041
     },
     {
-        "name": "Overwatch/Chumpi/test.py",
+        "name": "Chumpi/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696842.5307052

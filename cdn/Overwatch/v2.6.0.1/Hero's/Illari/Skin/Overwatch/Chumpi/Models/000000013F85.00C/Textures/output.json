@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/00000002A7E9.png",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/00000002A7E9.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694697128.7537858
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/00000003FAA8.png",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694697128.8856096
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/800044DDA4E3.png",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/800044DDA4E3.png",
         "type": ".PNG file",
         "size": "0.33 KB",
         "dateModified": 1694697128.9248505
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/8000A72002C7.png",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/8000A72002C7.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697129.0078113
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697129.0991924
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/index.html",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703573.6572838
+        "size": "2.06 KB",
+        "dateModified": 1694706546.023383
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/output.json",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.10 KB",
-        "dateModified": 1694703573.6572838
+        "size": "1.58 KB",
+        "dateModified": 1694706546.023383
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000013F85.00C/Textures/script.js",
+        "name": "Chumpi/Models/000000013F85.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703573.657784
+        "dateModified": 1694706546.0238822
     }
 ]

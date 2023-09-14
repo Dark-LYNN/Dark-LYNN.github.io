@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/00000009574E.03F.ogg",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/00000009574E.03F.ogg",
         "type": ".OGG file",
         "size": "24.26 KB",
         "dateModified": 1694267223.2160823
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/00000009574F.03F.ogg",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/00000009574F.03F.ogg",
         "type": ".OGG file",
         "size": "25.25 KB",
         "dateModified": 1694267223.2165825
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/000000095750.03F.ogg",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/000000095750.03F.ogg",
         "type": ".OGG file",
         "size": "23.02 KB",
         "dateModified": 1694267223.2165825
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/index.html",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694366558.943866
+        "size": "2.06 KB",
+        "dateModified": 1694706531.1947052
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/output.json",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/output.json",
         "type": ".JSON file",
         "size": "1.49 KB",
-        "dateModified": 1694697000.6721504
+        "dateModified": 1694706531.1947052
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/run.py",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/script.js",
+        "name": "Anqas/Effects/000000000510.00D/Sounds/000000001B32.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694366558.9443657
+        "dateModified": 1694706531.195717
     }
 ]

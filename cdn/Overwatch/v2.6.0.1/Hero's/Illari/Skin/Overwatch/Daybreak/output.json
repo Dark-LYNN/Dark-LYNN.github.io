@@ -1,54 +1,54 @@
 [
     {
-        "name": "Overwatch/Daybreak/3D Model",
+        "name": "Daybreak/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703599.3145542
     },
     {
-        "name": "Overwatch/Daybreak/Effects",
+        "name": "Daybreak/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703599.325977
     },
     {
-        "name": "Overwatch/Daybreak/Entities",
+        "name": "Daybreak/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703602.6717522
     },
     {
-        "name": "Overwatch/Daybreak/GUI",
+        "name": "Daybreak/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703608.2368736
     },
     {
-        "name": "Overwatch/Daybreak/index.html",
+        "name": "Daybreak/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703599.3130531
+        "size": "2.06 KB",
+        "dateModified": 1694706546.025883
     },
     {
-        "name": "Overwatch/Daybreak/Models",
+        "name": "Daybreak/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703608.3588738
     },
     {
-        "name": "Overwatch/Daybreak/output.json",
+        "name": "Daybreak/output.json",
         "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694703599.3130531
+        "size": "1.47 KB",
+        "dateModified": 1694706546.025883
     },
     {
-        "name": "Overwatch/Daybreak/script.js",
+        "name": "Daybreak/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703599.313554
+        "dateModified": 1694706546.025883
     },
     {
-        "name": "Overwatch/Daybreak/test.py",
+        "name": "Daybreak/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696842.5307052

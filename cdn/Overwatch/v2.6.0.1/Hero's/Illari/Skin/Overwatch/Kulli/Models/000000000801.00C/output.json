@@ -1,36 +1,36 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/000000000801.owmdl",
+        "name": "Kulli/Models/000000000801.00C/000000000801.owmdl",
         "type": ".OWMDL file",
         "size": "0.75 KB",
         "dateModified": 1694267240.718091
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/index.html",
+        "name": "Kulli/Models/000000000801.00C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.1474857
+        "size": "2.06 KB",
+        "dateModified": 1694706551.245606
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/Materials",
+        "name": "Kulli/Models/000000000801.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.1595197
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/output.json",
+        "name": "Kulli/Models/000000000801.00C/output.json",
         "type": ".JSON file",
-        "size": "0.69 KB",
-        "dateModified": 1694703967.1469853
+        "size": "1.12 KB",
+        "dateModified": 1694706551.245606
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/script.js",
+        "name": "Kulli/Models/000000000801.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.1474857
+        "dateModified": 1694706551.245606
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000801.00C/Textures",
+        "name": "Kulli/Models/000000000801.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.1895742

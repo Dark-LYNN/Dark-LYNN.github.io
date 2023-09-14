@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D8.03F.ogg",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D8.03F.ogg",
         "type": ".OGG file",
         "size": "16.62 KB",
         "dateModified": 1694267231.1271634
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D9.03F.ogg",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D9.03F.ogg",
         "type": ".OGG file",
         "size": "17.22 KB",
         "dateModified": 1694267231.1276817
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337DA.03F.ogg",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337DA.03F.ogg",
         "type": ".OGG file",
         "size": "17.52 KB",
         "dateModified": 1694267231.1281824
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/index.html",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703562.053908
+        "size": "2.06 KB",
+        "dateModified": 1694706545.24991
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/output.json",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/output.json",
         "type": ".JSON file",
-        "size": "0.92 KB",
-        "dateModified": 1694703562.053908
+        "size": "1.46 KB",
+        "dateModified": 1694706545.24941
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/script.js",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703562.2009149
+        "dateModified": 1694706545.24991
     }
 ]

@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000996C.02C",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000996C.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703606.1877406
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/0000000099AD.02C",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/0000000099AD.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703606.3111424
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000A6A2.02C",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000A6A2.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703606.3136551
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/index.html",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703606.108659
+        "size": "2.06 KB",
+        "dateModified": 1694706547.6492834
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/output.json",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.81 KB",
-        "dateModified": 1694703606.108659
+        "size": "1.31 KB",
+        "dateModified": 1694706547.6492834
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/script.js",
+        "name": "Daybreak/Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703606.1091588
+        "dateModified": 1694706547.649783
     }
 ]

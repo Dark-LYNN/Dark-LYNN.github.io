@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/000000009963.02C",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/000000009963.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704217.1869125
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704217.1924267
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/00000000A6E4.02C",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/00000000A6E4.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704217.1974263
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/index.html",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704217.1788971
+        "dateModified": 1694706563.5239065
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/output.json",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.81 KB",
-        "dateModified": 1694704217.1788971
+        "size": "1.30 KB",
+        "dateModified": 1694706563.5239065
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/script.js",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704217.1799
+        "dateModified": 1694706563.5244067
     }
 ]

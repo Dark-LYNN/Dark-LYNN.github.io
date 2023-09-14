@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Materials/9D70B4E5B398.owmat",
+        "name": "Daybreak/Models/00000000099F.00C/Materials/9D70B4E5B398.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.019352
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Materials/BA64E74F4553.owmat",
+        "name": "Daybreak/Models/00000000099F.00C/Materials/BA64E74F4553.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267235.019352
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Materials/index.html",
+        "name": "Daybreak/Models/00000000099F.00C/Materials/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703609.3863902
+        "size": "2.06 KB",
+        "dateModified": 1694706548.4213073
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Materials/output.json",
+        "name": "Daybreak/Models/00000000099F.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.56 KB",
-        "dateModified": 1694703609.38589
+        "size": "1.00 KB",
+        "dateModified": 1694706548.420808
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Materials/script.js",
+        "name": "Daybreak/Models/00000000099F.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703609.3863902
+        "dateModified": 1694706548.4213073
     }
 ]

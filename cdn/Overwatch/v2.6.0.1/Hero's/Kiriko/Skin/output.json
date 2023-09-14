@@ -1,48 +1,54 @@
 [
     {
-        "name": "Battle Pass",
+        "name": "Skin/Battle Pass",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267281.625397
+        "dateModified": 1694282627.0211196
     },
     {
-        "name": "index.html",
+        "name": "Skin/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Overwatch",
+        "name": "Skin/output.json",
+        "type": ".JSON file",
+        "size": "1.16 KB",
+        "dateModified": 1694282622.0005305
+    },
+    {
+        "name": "Skin/Overwatch",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694267322.3435457
     },
     {
-        "name": "script.js",
+        "name": "Skin/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "Season 5",
+        "name": "Skin/Season 5",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694267328.2009933
     },
     {
-        "name": "Season 6",
+        "name": "Skin/Season 6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694267333.647145
     },
     {
-        "name": "Shop",
+        "name": "Skin/Shop",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694267349.5687187
     },
     {
-        "name": "test.py",
+        "name": "Skin/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

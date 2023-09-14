@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/000000009963.02C",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/000000009963.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703560.0851848
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703560.0911877
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/00000000A6E4.02C",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/00000000A6E4.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703560.096703
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/index.html",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703560.0740066
+        "size": "2.06 KB",
+        "dateModified": 1694706544.8099093
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/output.json",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.81 KB",
-        "dateModified": 1694703560.0740066
+        "size": "1.30 KB",
+        "dateModified": 1694706544.8094094
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/script.js",
+        "name": "Chumpi/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703560.0750093
+        "dateModified": 1694706544.8099093
     }
 ]

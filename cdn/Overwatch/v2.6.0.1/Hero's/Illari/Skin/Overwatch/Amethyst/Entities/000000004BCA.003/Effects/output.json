@@ -1,56 +1,56 @@
 [
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/000000004C03.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.582649
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/000000004D7F.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.647082
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/000000004D80.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.6820853
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/000000004EAA.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.6900976
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/000000004EAE.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.7619147
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/0000000051EF.00D",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.8151507
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/index.html",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702900.581148
+        "size": "2.06 KB",
+        "dateModified": 1694706529.416232
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/output.json",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/output.json",
         "type": ".JSON file",
-        "size": "1.30 KB",
-        "dateModified": 1694702900.581148
+        "size": "1.83 KB",
+        "dateModified": 1694706529.4157317
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004BCA.003/Effects/script.js",
+        "name": "Amethyst/Entities/000000004BCA.003/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702900.5816483
+        "dateModified": 1694706529.416232
     }
 ]

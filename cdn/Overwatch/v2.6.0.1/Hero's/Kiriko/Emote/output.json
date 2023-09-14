@@ -1,42 +1,42 @@
 [
     {
-        "name": "Base",
+        "name": "Emote/Base",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694279918.3805218
     },
     {
-        "name": "index.html",
+        "name": "Emote/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "output.json",
+        "name": "Emote/output.json",
         "type": ".JSON file",
-        "size": "0.86 KB",
-        "dateModified": 1694272434.159719
+        "size": "1.01 KB",
+        "dateModified": 1694280321.2072864
     },
     {
-        "name": "Overwatch",
+        "name": "Emote/Overwatch",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694280106.9846423
     },
     {
-        "name": "script.js",
+        "name": "Emote/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "Shop",
+        "name": "Emote/Shop",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694280317.0890646
     },
     {
-        "name": "test.py",
+        "name": "Emote/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

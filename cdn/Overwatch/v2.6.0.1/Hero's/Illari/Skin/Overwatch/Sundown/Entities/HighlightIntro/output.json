@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro/AnimationEffects",
+        "name": "Sundown/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.4076333
     },
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Sundown/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267261.069424
     },
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro/index.html",
+        "name": "Sundown/Entities/HighlightIntro/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704242.6168733
+        "dateModified": 1694706568.5631661
     },
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro/output.json",
+        "name": "Sundown/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
-        "size": "0.87 KB",
-        "dateModified": 1694704242.6168733
+        "size": "0.96 KB",
+        "dateModified": 1694706568.5631661
     },
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro/script.js",
+        "name": "Sundown/Entities/HighlightIntro/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704242.6173735
+        "dateModified": 1694706568.5636666
     }
 ]

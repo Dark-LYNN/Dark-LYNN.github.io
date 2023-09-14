@@ -1,38 +1,44 @@
 [
     {
-        "name": "000000010ADC.owmdl",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/000000010ADC.owmdl",
         "type": ".OWMDL file",
         "size": "3.27 KB",
         "dateModified": 1694267268.401296
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.4017975
+        "dateModified": 1694281681.072405
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.88 KB",
+        "dateModified": 1694281674.88073
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Models/000000010ADC.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.4072497
+        "dateModified": 1694340958.1281612
     }
 ]

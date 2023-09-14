@@ -1,36 +1,42 @@
 [
     {
-        "name": "000000003E6F.00D",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/000000003E6F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6520228
+        "dateModified": 1694282650.114718
     },
     {
-        "name": "000000004B07.00D",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/000000004B07.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6530232
+        "dateModified": 1694282683.5501242
     },
     {
-        "name": "000000004B0A.00D",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/000000004B0A.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.672014
+        "dateModified": 1694282663.9290528
     },
     {
-        "name": "index.html",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/output.json",
+        "type": ".JSON file",
+        "size": "0.89 KB",
+        "dateModified": 1694282640.5274389
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Skin/Battle Pass/Amaterasu/Effects/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

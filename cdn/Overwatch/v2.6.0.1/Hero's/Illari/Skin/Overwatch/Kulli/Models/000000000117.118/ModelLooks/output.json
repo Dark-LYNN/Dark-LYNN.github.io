@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/ModelLooks/DEFAULT-854.owmat",
+        "name": "Kulli/Models/000000000117.118/ModelLooks/DEFAULT-854.owmat",
         "type": ".OWMAT file",
         "size": "0.52 KB",
         "dateModified": 1694267239.8135955
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/ModelLooks/DEFAULT-858.owmat",
+        "name": "Kulli/Models/000000000117.118/ModelLooks/DEFAULT-858.owmat",
         "type": ".OWMAT file",
         "size": "1.11 KB",
         "dateModified": 1694267239.8135955
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/ModelLooks/index.html",
+        "name": "Kulli/Models/000000000117.118/ModelLooks/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.1075108
+        "size": "2.06 KB",
+        "dateModified": 1694706551.207033
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/ModelLooks/output.json",
+        "name": "Kulli/Models/000000000117.118/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.56 KB",
-        "dateModified": 1694703967.1070106
+        "size": "0.99 KB",
+        "dateModified": 1694706551.207033
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/ModelLooks/script.js",
+        "name": "Kulli/Models/000000000117.118/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.1080108
+        "dateModified": 1694706551.2075436
     }
 ]

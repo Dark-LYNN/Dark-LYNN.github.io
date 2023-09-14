@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/000000004BCA.003.owentity",
+        "name": "Anqas/Entities/000000004BCA.003/000000004BCA.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.14 KB",
         "dateModified": 1694267226.3481898
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/AnimationEffects",
+        "name": "Anqas/Entities/000000004BCA.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694450163.8827348
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/Effects",
+        "name": "Anqas/Entities/000000004BCA.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694450062.4375882
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/index.html",
+        "name": "Anqas/Entities/000000004BCA.003/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694450060.7798858
+        "size": "2.06 KB",
+        "dateModified": 1694706535.0404303
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/output.json",
+        "name": "Anqas/Entities/000000004BCA.003/output.json",
         "type": ".JSON file",
         "size": "1.33 KB",
-        "dateModified": 1694697029.9896598
+        "dateModified": 1694706535.0404303
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/run.py",
+        "name": "Anqas/Entities/000000004BCA.003/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
     },
     {
-        "name": "Overwatch/Anqas/Entities/000000004BCA.003/script.js",
+        "name": "Anqas/Entities/000000004BCA.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694450060.7798858
+        "dateModified": 1694706535.0404303
     }
 ]

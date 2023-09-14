@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/00000000DC55.owanimclip",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/00000000DC55.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267227.156412
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/00000000DC74.owanimclip",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/00000000DC74.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267227.156412
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/index.html",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694620859.777569
+        "size": "2.06 KB",
+        "dateModified": 1694706541.0772738
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/output.json",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/output.json",
         "type": ".JSON file",
         "size": "1.23 KB",
-        "dateModified": 1694697052.1403315
+        "dateModified": 1694706541.0762708
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/run.py",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000117.118/Animations/0/28/script.js",
+        "name": "Anqas/Models/000000000117.118/Animations/0/28/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694620859.778069
+        "dateModified": 1694706541.0772738
     }
 ]

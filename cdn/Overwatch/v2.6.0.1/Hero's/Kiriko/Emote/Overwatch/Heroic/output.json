@@ -1,30 +1,30 @@
 [
     {
-        "name": "Animations",
+        "name": "Emote/Overwatch/Heroic/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694280208.9039483
     },
     {
-        "name": "index.html",
+        "name": "Emote/Overwatch/Heroic/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "output.json",
+        "name": "Emote/Overwatch/Heroic/output.json",
         "type": ".JSON file",
-        "size": "0.58 KB",
-        "dateModified": 1694280207.9665391
+        "size": "0.73 KB",
+        "dateModified": 1694280210.4266646
     },
     {
-        "name": "script.js",
+        "name": "Emote/Overwatch/Heroic/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Overwatch/Heroic/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

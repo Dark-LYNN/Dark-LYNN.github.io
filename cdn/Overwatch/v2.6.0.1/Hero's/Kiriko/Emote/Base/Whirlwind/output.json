@@ -1,30 +1,36 @@
 [
     {
-        "name": "Animations",
+        "name": "Emote/Base/Whirlwind/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9400659
+        "dateModified": 1694279932.900777
     },
     {
-        "name": "index.html",
+        "name": "Emote/Base/Whirlwind/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Models",
+        "name": "Emote/Base/Whirlwind/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267267.9475589
+        "dateModified": 1694279988.2010443
     },
     {
-        "name": "script.js",
+        "name": "Emote/Base/Whirlwind/output.json",
+        "type": ".JSON file",
+        "size": "0.72 KB",
+        "dateModified": 1694279926.720698
+    },
+    {
+        "name": "Emote/Base/Whirlwind/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Base/Whirlwind/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

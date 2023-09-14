@@ -1,68 +1,68 @@
 [
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/000000232209.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/000000232209.03F.ogg",
         "type": ".OGG file",
         "size": "7.04 KB",
         "dateModified": 1694661405.9656093
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220A.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220A.03F.ogg",
         "type": ".OGG file",
         "size": "7.01 KB",
         "dateModified": 1694661405.9606082
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220B.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220B.03F.ogg",
         "type": ".OGG file",
         "size": "7.48 KB",
         "dateModified": 1694661405.965109
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220C.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220C.03F.ogg",
         "type": ".OGG file",
         "size": "6.88 KB",
         "dateModified": 1694661405.9591084
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220D.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220D.03F.ogg",
         "type": ".OGG file",
         "size": "7.46 KB",
         "dateModified": 1694661405.9616086
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220E.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220E.03F.ogg",
         "type": ".OGG file",
         "size": "7.00 KB",
         "dateModified": 1694661405.9626088
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220F.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023220F.03F.ogg",
         "type": ".OGG file",
         "size": "6.73 KB",
         "dateModified": 1694661405.963609
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023221A.03F.ogg",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/00000023221A.03F.ogg",
         "type": ".OGG file",
         "size": "112.37 KB",
         "dateModified": 1694661405.9576075
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/index.html",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702904.6303673
+        "size": "2.06 KB",
+        "dateModified": 1694706530.072299
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/output.json",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/output.json",
         "type": ".JSON file",
-        "size": "1.99 KB",
-        "dateModified": 1694702904.6303673
+        "size": "2.62 KB",
+        "dateModified": 1694706530.071799
     },
     {
-        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/script.js",
+        "name": "Amethyst/Entities/Gameplay3P/Effects/000000004F08.00D/Sounds/000000009968.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702904.6308672
+        "dateModified": 1694706530.072299
     }
 ]

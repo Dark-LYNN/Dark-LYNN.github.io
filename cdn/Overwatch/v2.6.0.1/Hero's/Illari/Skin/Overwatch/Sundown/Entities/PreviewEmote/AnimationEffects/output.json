@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267261.069424
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267261.0699239
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267261.0699239
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267261.0699239
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267261.0699239
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/index.html",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704242.62289
+        "dateModified": 1694706568.5691035
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/output.json",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.52 KB",
-        "dateModified": 1694704242.62239
+        "size": "1.66 KB",
+        "dateModified": 1694706568.5686035
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects/script.js",
+        "name": "Sundown/Entities/PreviewEmote/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704242.62289
+        "dateModified": 1694706568.5691035
     }
 ]

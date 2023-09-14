@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Kulli/3D Model/index.html",
+        "name": "Kulli/3D Model/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703964.8932958
+        "size": "2.06 KB",
+        "dateModified": 1694706548.9216485
     },
     {
-        "name": "Overwatch/Kulli/3D Model/Kulli.blend",
+        "name": "Kulli/3D Model/Kulli.blend",
         "type": ".BLEND file",
         "size": "23524.03 KB",
         "dateModified": 1694698999.7369409
     },
     {
-        "name": "Overwatch/Kulli/3D Model/output.json",
+        "name": "Kulli/3D Model/output.json",
         "type": ".JSON file",
-        "size": "0.16 KB",
-        "dateModified": 1694703964.8922925
+        "size": "0.69 KB",
+        "dateModified": 1694706548.9216485
     },
     {
-        "name": "Overwatch/Kulli/3D Model/script.js",
+        "name": "Kulli/3D Model/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703964.8932958
+        "dateModified": 1694706548.9216485
     }
 ]

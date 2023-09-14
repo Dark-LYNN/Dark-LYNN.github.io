@@ -1,30 +1,36 @@
 [
     {
-        "name": "00000000C167.owanimclip",
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/00000000C167.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "276.42 KB",
         "dateModified": 1694267268.0055716
     },
     {
-        "name": "00000000C22A.owanimclip",
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/00000000C22A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "60.64 KB",
         "dateModified": 1694267268.0060792
     },
     {
-        "name": "index.html",
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "0.76 KB",
+        "dateModified": 1694280264.7065542
+    },
+    {
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Emote/Overwatch/Kneeling/Animations/0/32/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

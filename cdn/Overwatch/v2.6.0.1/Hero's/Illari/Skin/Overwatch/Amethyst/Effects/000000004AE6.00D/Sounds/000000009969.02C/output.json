@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/0000002316C9.03F.ogg",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/0000002316C9.03F.ogg",
         "type": ".OGG file",
         "size": "4.78 KB",
         "dateModified": 1694661413.246443
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/000000233536.03F.ogg",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/000000233536.03F.ogg",
         "type": ".OGG file",
         "size": "21.02 KB",
         "dateModified": 1694661413.248456
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/000000233537.03F.ogg",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/000000233537.03F.ogg",
         "type": ".OGG file",
         "size": "21.69 KB",
         "dateModified": 1694661413.2509565
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/index.html",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702897.362629
+        "size": "2.06 KB",
+        "dateModified": 1694706528.768831
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/output.json",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/output.json",
         "type": ".JSON file",
-        "size": "0.80 KB",
-        "dateModified": 1694702897.362629
+        "size": "1.30 KB",
+        "dateModified": 1694706528.768831
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/script.js",
+        "name": "Amethyst/Effects/000000004AE6.00D/Sounds/000000009969.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702897.3850076
+        "dateModified": 1694706528.769733
     }
 ]

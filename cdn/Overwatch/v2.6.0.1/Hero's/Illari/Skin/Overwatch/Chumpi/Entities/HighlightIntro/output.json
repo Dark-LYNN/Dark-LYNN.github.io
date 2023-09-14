@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/HighlightIntro/AnimationEffects",
+        "name": "Chumpi/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703561.5695636
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Chumpi/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267231.0645466
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HighlightIntro/index.html",
+        "name": "Chumpi/Entities/HighlightIntro/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703561.4149845
+        "size": "2.06 KB",
+        "dateModified": 1694706545.111983
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HighlightIntro/output.json",
+        "name": "Chumpi/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
-        "size": "0.53 KB",
-        "dateModified": 1694703561.413982
+        "size": "0.95 KB",
+        "dateModified": 1694706545.1114829
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HighlightIntro/script.js",
+        "name": "Chumpi/Entities/HighlightIntro/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703561.4149845
+        "dateModified": 1694706545.1124825
     }
 ]

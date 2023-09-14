@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/00000000E7C0.png",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/00000000E7C0.png",
         "type": ".PNG file",
         "size": "0.39 KB",
         "dateModified": 1694699500.6337564
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/00000000EE4A.png",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/00000000EE4A.png",
         "type": ".PNG file",
         "size": "9.99 KB",
         "dateModified": 1694699500.6402962
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/80002B942196.png",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/80002B942196.png",
         "type": ".PNG file",
         "size": "0.26 KB",
         "dateModified": 1694699500.644017
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/8000459783E9.png",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/8000459783E9.png",
         "type": ".PNG file",
         "size": "0.27 KB",
         "dateModified": 1694699500.647518
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/index.html",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702907.626679
+        "size": "2.06 KB",
+        "dateModified": 1694706530.9433653
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/output.json",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "0.91 KB",
-        "dateModified": 1694702907.5781746
+        "size": "1.39 KB",
+        "dateModified": 1694706530.9428654
     },
     {
-        "name": "Overwatch/Amethyst/Models/0000000047D9.00C/Textures/script.js",
+        "name": "Amethyst/Models/0000000047D9.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702907.6739104
+        "dateModified": 1694706530.9433653
     }
 ]

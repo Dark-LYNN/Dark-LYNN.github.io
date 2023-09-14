@@ -1,68 +1,68 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/000000019325.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/000000019325.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694697401.751026
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/00000003E45B.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697402.0114336
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/80001D06E67F.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/80001D06E67F.png",
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694697402.1299534
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/80001D0E31B5.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/80001D0E31B5.png",
         "type": ".PNG file",
         "size": "0.15 KB",
         "dateModified": 1694697402.2618344
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/80003D4102D4.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/80003D4102D4.png",
         "type": ".PNG file",
         "size": "0.08 KB",
         "dateModified": 1694697402.4724705
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/800040803F7C.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/800040803F7C.png",
         "type": ".PNG file",
         "size": "0.14 KB",
         "dateModified": 1694697402.6038446
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/8000898AD396.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/8000898AD396.png",
         "type": ".PNG file",
         "size": "0.11 KB",
         "dateModified": 1694697402.710893
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/8000F6EE3AA9.png",
+        "name": "Kulli/Models/000000005708.00C/Textures/8000F6EE3AA9.png",
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694697402.7653613
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/index.html",
+        "name": "Kulli/Models/000000005708.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.4356797
+        "size": "2.06 KB",
+        "dateModified": 1694706551.5278773
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/output.json",
+        "name": "Kulli/Models/000000005708.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.64 KB",
-        "dateModified": 1694703967.4356797
+        "size": "2.17 KB",
+        "dateModified": 1694706551.5278773
     },
     {
-        "name": "Overwatch/Kulli/Models/000000005708.00C/Textures/script.js",
+        "name": "Kulli/Models/000000005708.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.4361808
+        "dateModified": 1694706551.5285635
     }
 ]

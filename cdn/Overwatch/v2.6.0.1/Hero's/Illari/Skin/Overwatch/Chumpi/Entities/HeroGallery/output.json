@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/AnimationEffects",
+        "name": "Chumpi/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703561.4134815
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/HeroGallery.owentity",
+        "name": "Chumpi/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267231.0635462
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/index.html",
+        "name": "Chumpi/Entities/HeroGallery/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703561.4114816
+        "size": "2.06 KB",
+        "dateModified": 1694706545.1084826
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/output.json",
+        "name": "Chumpi/Entities/HeroGallery/output.json",
         "type": ".JSON file",
-        "size": "0.52 KB",
-        "dateModified": 1694703561.410982
+        "size": "0.94 KB",
+        "dateModified": 1694706545.1084826
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/script.js",
+        "name": "Chumpi/Entities/HeroGallery/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703561.4119809
+        "dateModified": 1694706545.1089811
     }
 ]

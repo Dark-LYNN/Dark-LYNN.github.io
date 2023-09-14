@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/000000009972.02C",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/000000009972.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.3965333
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/00000000A3B6.02C",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/00000000A3B6.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.4055495
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/index.html",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704221.3880193
+        "dateModified": 1694706563.5534153
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/output.json",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.61 KB",
-        "dateModified": 1694704217.2059393
+        "size": "1.08 KB",
+        "dateModified": 1694706563.5529153
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/script.js",
+        "name": "Qumir/Entities/Gameplay3P/Effects/000000004ADB.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704221.3885188
+        "dateModified": 1694706563.5534153
     }
 ]

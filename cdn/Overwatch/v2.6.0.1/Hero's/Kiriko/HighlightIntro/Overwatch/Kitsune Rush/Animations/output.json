@@ -1,24 +1,30 @@
 [
     {
-        "name": "0",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0457997
+        "dateModified": 1694281283.945236
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Animations/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694281278.960564
+    },
+    {
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Overwatch/Kitsune Rush/Animations/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

@@ -1,162 +1,162 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/00000000014F.003",
+        "name": "Qumir/Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.4352167
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000000162.003",
+        "name": "Qumir/Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.4362319
     },
     {
-        "name": "Overwatch/Qumir/Entities/00000000130D.003",
+        "name": "Qumir/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.437245
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000002D33.003",
+        "name": "Qumir/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.439268
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000003024.003",
+        "name": "Qumir/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.44028
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004828.003",
+        "name": "Qumir/Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.441289
     },
     {
-        "name": "Overwatch/Qumir/Entities/0000000048CC.003",
+        "name": "Qumir/Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.4433107
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004AC0.003",
+        "name": "Qumir/Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.4603703
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004B4A.003",
+        "name": "Qumir/Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704214.9182613
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004BCA.003",
+        "name": "Qumir/Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.0775824
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004C29.003",
+        "name": "Qumir/Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5653222
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004C2A.003",
+        "name": "Qumir/Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.566322
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004D41.003",
+        "name": "Qumir/Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5678215
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004E10.003",
+        "name": "Qumir/Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5693226
     },
     {
-        "name": "Overwatch/Qumir/Entities/0000000050BF.003",
+        "name": "Qumir/Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5703256
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000005384.003",
+        "name": "Qumir/Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5717864
     },
     {
-        "name": "Overwatch/Qumir/Entities/0000000053DA.003",
+        "name": "Qumir/Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.572787
     },
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P",
+        "name": "Qumir/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704215.5742874
     },
     {
-        "name": "Overwatch/Qumir/Entities/Healing Pylon-20794",
+        "name": "Qumir/Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.968379
     },
     {
-        "name": "Overwatch/Qumir/Entities/HeroGallery",
+        "name": "Qumir/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.9698822
     },
     {
-        "name": "Overwatch/Qumir/Entities/HighlightIntro",
+        "name": "Qumir/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.9729283
     },
     {
-        "name": "Overwatch/Qumir/Entities/index.html",
+        "name": "Qumir/Entities/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704214.433388
+        "dateModified": 1694706562.598173
     },
     {
-        "name": "Overwatch/Qumir/Entities/output.json",
+        "name": "Qumir/Entities/output.json",
         "type": ".JSON file",
-        "size": "4.04 KB",
-        "dateModified": 1694704214.4328768
+        "size": "4.77 KB",
+        "dateModified": 1694706562.5976734
     },
     {
-        "name": "Overwatch/Qumir/Entities/PreviewEmote",
+        "name": "Qumir/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704221.9855359
     },
     {
-        "name": "Overwatch/Qumir/Entities/script.js",
+        "name": "Qumir/Entities/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704214.433889
+        "dateModified": 1694706562.598173
     },
     {
-        "name": "Overwatch/Qumir/Entities/Showcase",
+        "name": "Qumir/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.0423625
     },
     {
-        "name": "Overwatch/Qumir/Entities/Solar Rifle-20793",
+        "name": "Qumir/Entities/Solar Rifle-20793",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704222.0607731

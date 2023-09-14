@@ -1,56 +1,56 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/000000004C03.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6118455
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/000000004D7F.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6183634
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/000000004D80.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6352203
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/000000004EAA.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6432333
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/000000004EAE.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.703709
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/0000000051EF.00D",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.7368684
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/index.html",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704240.0888443
+        "dateModified": 1694706567.7473752
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/output.json",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/output.json",
         "type": ".JSON file",
-        "size": "1.66 KB",
-        "dateModified": 1694704240.0888443
+        "size": "1.82 KB",
+        "dateModified": 1694706567.7473752
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/Effects/script.js",
+        "name": "Sundown/Entities/000000004BCA.003/Effects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704240.0888443
+        "dateModified": 1694706567.7473752
     }
 ]

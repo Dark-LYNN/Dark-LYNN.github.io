@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001BD90B.03F.ogg",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001BD90B.03F.ogg",
         "type": ".OGG file",
         "size": "99.62 KB",
         "dateModified": 1694661410.1341548
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DBF17.03F.ogg",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DBF17.03F.ogg",
         "type": ".OGG file",
         "size": "205.24 KB",
         "dateModified": 1694661410.1276548
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C5.03F.ogg",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C5.03F.ogg",
         "type": ".OGG file",
         "size": "31.58 KB",
         "dateModified": 1694661410.1386716
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C6.03F.ogg",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C6.03F.ogg",
         "type": ".OGG file",
         "size": "13.39 KB",
         "dateModified": 1694661410.136159
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/index.html",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702896.5336888
+        "size": "2.06 KB",
+        "dateModified": 1694706528.5053606
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/output.json",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/output.json",
         "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694702896.445147
+        "size": "1.52 KB",
+        "dateModified": 1694706528.5053606
     },
     {
-        "name": "Overwatch/Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/script.js",
+        "name": "Amethyst/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702896.5341883
+        "dateModified": 1694706528.50586
     }
 ]

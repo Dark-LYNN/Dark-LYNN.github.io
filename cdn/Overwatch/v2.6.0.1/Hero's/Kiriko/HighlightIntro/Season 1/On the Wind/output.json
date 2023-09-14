@@ -1,30 +1,36 @@
 [
     {
-        "name": "Animations",
+        "name": "HighlightIntro/Season 1/On the Wind/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5555456
+        "dateModified": 1694281937.887105
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Season 1/On the Wind/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Models",
+        "name": "HighlightIntro/Season 1/On the Wind/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.5590558
+        "dateModified": 1694281943.9994218
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Season 1/On the Wind/output.json",
+        "type": ".JSON file",
+        "size": "0.72 KB",
+        "dateModified": 1694281923.608999
+    },
+    {
+        "name": "HighlightIntro/Season 1/On the Wind/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Season 1/On the Wind/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

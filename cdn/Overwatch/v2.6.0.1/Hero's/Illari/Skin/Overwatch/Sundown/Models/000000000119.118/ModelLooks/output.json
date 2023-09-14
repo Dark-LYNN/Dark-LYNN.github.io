@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/ModelLooks/DEFAULT-838.owmat",
+        "name": "Sundown/Models/000000000119.118/ModelLooks/DEFAULT-838.owmat",
         "type": ".OWMAT file",
         "size": "0.44 KB",
         "dateModified": 1694267261.2893853
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/ModelLooks/DEFAULT-839.owmat",
+        "name": "Sundown/Models/000000000119.118/ModelLooks/DEFAULT-839.owmat",
         "type": ".OWMAT file",
         "size": "1.02 KB",
         "dateModified": 1694267261.2893853
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/ModelLooks/index.html",
+        "name": "Sundown/Models/000000000119.118/ModelLooks/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704242.9914095
+        "dateModified": 1694706568.949083
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/ModelLooks/output.json",
+        "name": "Sundown/Models/000000000119.118/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.92 KB",
-        "dateModified": 1694704242.9909086
+        "size": "1.00 KB",
+        "dateModified": 1694706568.949083
     },
     {
-        "name": "Overwatch/Sundown/Models/000000000119.118/ModelLooks/script.js",
+        "name": "Sundown/Models/000000000119.118/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704242.9914095
+        "dateModified": 1694706568.9495833
     }
 ]

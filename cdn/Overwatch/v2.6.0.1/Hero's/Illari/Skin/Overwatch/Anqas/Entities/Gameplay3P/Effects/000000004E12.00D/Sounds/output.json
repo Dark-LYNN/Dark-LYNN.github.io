@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/00000000A131.02C",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/00000000A131.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694450605.3670115
     },
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/00000000A132.02C",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/00000000A132.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694450608.945484
     },
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/index.html",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694450601.7571294
+        "size": "2.06 KB",
+        "dateModified": 1694706540.4196873
     },
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/output.json",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/output.json",
         "type": ".JSON file",
         "size": "1.28 KB",
-        "dateModified": 1694697041.5943582
+        "dateModified": 1694706540.4191878
     },
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/run.py",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
     },
     {
-        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/script.js",
+        "name": "Anqas/Entities/Gameplay3P/Effects/000000004E12.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694450601.7576497
+        "dateModified": 1694706540.4196873
     }
 ]

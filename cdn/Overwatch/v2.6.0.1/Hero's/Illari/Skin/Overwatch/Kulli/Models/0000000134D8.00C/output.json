@@ -1,48 +1,48 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Kulli/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267243.3285632
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Animations",
+        "name": "Kulli/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.5590136
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/index.html",
+        "name": "Kulli/Models/0000000134D8.00C/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.5575132
+        "size": "2.06 KB",
+        "dateModified": 1694706551.6500607
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Materials",
+        "name": "Kulli/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.578674
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/ModelLooks",
+        "name": "Kulli/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.579675
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/output.json",
+        "name": "Kulli/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "1.03 KB",
-        "dateModified": 1694703967.5555131
+        "size": "1.50 KB",
+        "dateModified": 1694706551.6500607
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/script.js",
+        "name": "Kulli/Models/0000000134D8.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.5580132
+        "dateModified": 1694706551.6500607
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Textures",
+        "name": "Kulli/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703967.5846877

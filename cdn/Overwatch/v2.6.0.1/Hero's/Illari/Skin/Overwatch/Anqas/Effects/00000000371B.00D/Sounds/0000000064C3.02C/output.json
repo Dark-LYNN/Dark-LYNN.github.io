@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/00000015E6D6.03F.ogg",
+        "name": "Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/00000015E6D6.03F.ogg",
         "type": ".OGG file",
         "size": "84.92 KB",
         "dateModified": 1694267223.2666497
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/index.html",
+        "name": "Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694365759.8428168
+        "size": "2.06 KB",
+        "dateModified": 1694706531.5187716
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/output.json",
+        "name": "Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/output.json",
         "type": ".JSON file",
         "size": "1.05 KB",
-        "dateModified": 1694697006.0328307
+        "dateModified": 1694706531.5182714
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/run.py",
+        "name": "Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/script.js",
+        "name": "Anqas/Effects/00000000371B.00D/Sounds/0000000064C3.02C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694365759.8428168
+        "dateModified": 1694706531.5187716
     }
 ]

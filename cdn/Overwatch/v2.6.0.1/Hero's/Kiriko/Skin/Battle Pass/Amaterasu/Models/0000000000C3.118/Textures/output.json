@@ -1,1020 +1,1026 @@
 [
     {
-        "name": "00000000000B.tif",
-        "type": ".TIF file",
-        "size": "0.70 KB",
-        "dateModified": 1694267270.002144
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000000000B.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694709985.9718235
     },
     {
-        "name": "00000000000C.tif",
-        "type": ".TIF file",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000000000C.png",
+        "type": ".PNG file",
+        "size": "0.20 KB",
+        "dateModified": 1694709986.0379117
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000001EE.png",
+        "type": ".PNG file",
+        "size": "7.80 KB",
+        "dateModified": 1694709986.1309066
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000000460.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694709986.179392
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000004CB.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694709986.1843932
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000004DB.png",
+        "type": ".PNG file",
+        "size": "36.27 KB",
+        "dateModified": 1694709986.3507705
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000005DF.png",
+        "type": ".PNG file",
+        "size": "34.42 KB",
+        "dateModified": 1694709986.8309977
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000007A9.png",
+        "type": ".PNG file",
+        "size": "0.19 KB",
+        "dateModified": 1694709986.9359305
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000000D9B.png",
+        "type": ".PNG file",
+        "size": "0.18 KB",
+        "dateModified": 1694709987.020919
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000001038.png",
+        "type": ".PNG file",
+        "size": "39.67 KB",
+        "dateModified": 1694709987.217876
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000001298.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694709987.2228775
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000004791.png",
+        "type": ".PNG file",
+        "size": "0.82 KB",
+        "dateModified": 1694709987.2964234
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000052F4.png",
+        "type": ".PNG file",
+        "size": "4.97 KB",
+        "dateModified": 1694709987.3557105
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000000BF7A.png",
+        "type": ".PNG file",
+        "size": "0.75 KB",
+        "dateModified": 1694709987.4478047
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000000E58C.png",
+        "type": ".PNG file",
+        "size": "34.77 KB",
+        "dateModified": 1694709987.5326178
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000153AF.png",
+        "type": ".PNG file",
+        "size": "2.93 KB",
+        "dateModified": 1694709987.5932014
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000018E48.png",
+        "type": ".PNG file",
+        "size": "7.58 KB",
+        "dateModified": 1694709987.649758
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000018F9B.png",
+        "type": ".PNG file",
+        "size": "35.08 KB",
+        "dateModified": 1694709987.7672431
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000019167.png",
+        "type": ".PNG file",
+        "size": "10.83 KB",
+        "dateModified": 1694709987.8653183
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000001CA8C.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694709987.8878782
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000001F826.png",
+        "type": ".PNG file",
+        "size": "98.68 KB",
+        "dateModified": 1694709988.0062354
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000001FD29.png",
+        "type": ".PNG file",
+        "size": "91.05 KB",
+        "dateModified": 1694709988.2008204
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000001FF2D.png",
+        "type": ".PNG file",
+        "size": "0.46 KB",
+        "dateModified": 1694709988.251276
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000020788.png",
+        "type": ".PNG file",
+        "size": "42.89 KB",
+        "dateModified": 1694709988.357189
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000020F75.png",
+        "type": ".PNG file",
+        "size": "52.48 KB",
+        "dateModified": 1694709988.4506881
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000021655.png",
+        "type": ".PNG file",
+        "size": "127.75 KB",
+        "dateModified": 1694709988.5892687
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000219FA.png",
+        "type": ".PNG file",
+        "size": "0.38 KB",
+        "dateModified": 1694709988.6173244
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000021C98.png",
+        "type": ".PNG file",
+        "size": "16.52 KB",
+        "dateModified": 1694709988.6741354
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000021CC1.png",
+        "type": ".PNG file",
+        "size": "0.20 KB",
+        "dateModified": 1694709988.7242184
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000021CC2.png",
+        "type": ".PNG file",
+        "size": "3.80 KB",
+        "dateModified": 1694709988.7947102
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000021CC9.png",
+        "type": ".PNG file",
+        "size": "0.19 KB",
+        "dateModified": 1694709988.8263066
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002214A.png",
+        "type": ".PNG file",
+        "size": "99.72 KB",
+        "dateModified": 1694709989.026397
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002214B.png",
+        "type": ".PNG file",
+        "size": "32.53 KB",
+        "dateModified": 1694709989.3846135
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002214C.png",
+        "type": ".PNG file",
+        "size": "17.87 KB",
+        "dateModified": 1694709989.491098
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000299DF.png",
+        "type": ".PNG file",
+        "size": "130.63 KB",
+        "dateModified": 1694709989.6670823
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000029D41.png",
+        "type": ".PNG file",
+        "size": "17.91 KB",
+        "dateModified": 1694709989.7241924
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002BE4A.png",
+        "type": ".PNG file",
+        "size": "30.33 KB",
+        "dateModified": 1694709989.8096058
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002BF72.png",
+        "type": ".PNG file",
+        "size": "87.93 KB",
+        "dateModified": 1694709989.9067838
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002CAB9.png",
+        "type": ".PNG file",
+        "size": "267.34 KB",
+        "dateModified": 1694709990.2501566
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000002CF03.png",
+        "type": ".PNG file",
+        "size": "39.67 KB",
+        "dateModified": 1694709990.3085551
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/0000000311C2.png",
+        "type": ".PNG file",
+        "size": "24.34 KB",
+        "dateModified": 1694709990.3581576
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000031951.png",
+        "type": ".PNG file",
+        "size": "217.92 KB",
+        "dateModified": 1694709990.7940395
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003268C.png",
+        "type": ".PNG file",
+        "size": "159.48 KB",
+        "dateModified": 1694709990.9460905
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/000000037046.png",
+        "type": ".PNG file",
+        "size": "212.75 KB",
+        "dateModified": 1694709991.1238487
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFEE.png",
+        "type": ".PNG file",
+        "size": "14797.62 KB",
+        "dateModified": 1694709998.0811431
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFEF.png",
+        "type": ".PNG file",
+        "size": "6214.52 KB",
+        "dateModified": 1694710000.6572812
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF0.png",
+        "type": ".PNG file",
+        "size": "155.74 KB",
+        "dateModified": 1694710001.0406656
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF2.png",
+        "type": ".PNG file",
+        "size": "34.15 KB",
+        "dateModified": 1694710001.548602
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF3.png",
+        "type": ".PNG file",
+        "size": "54.77 KB",
+        "dateModified": 1694710002.0615373
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF4.png",
+        "type": ".PNG file",
+        "size": "821.36 KB",
+        "dateModified": 1694710002.6770186
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF5.png",
+        "type": ".PNG file",
+        "size": "26.61 KB",
+        "dateModified": 1694710003.183877
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF6.png",
+        "type": ".PNG file",
+        "size": "21.26 KB",
+        "dateModified": 1694710003.6290221
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF7.png",
+        "type": ".PNG file",
+        "size": "24.30 KB",
+        "dateModified": 1694710004.3197803
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFF8.png",
+        "type": ".PNG file",
+        "size": "7754.58 KB",
+        "dateModified": 1694710008.641333
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003AFFE.png",
+        "type": ".PNG file",
+        "size": "150.57 KB",
+        "dateModified": 1694710022.1295848
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B002.png",
+        "type": ".PNG file",
+        "size": "330.71 KB",
+        "dateModified": 1694710023.1298459
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B003.png",
+        "type": ".PNG file",
+        "size": "125.67 KB",
+        "dateModified": 1694710023.4408216
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B004.png",
+        "type": ".PNG file",
+        "size": "27.94 KB",
+        "dateModified": 1694710023.863858
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B005.png",
+        "type": ".PNG file",
+        "size": "344.83 KB",
+        "dateModified": 1694710024.2219088
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B006.png",
+        "type": ".PNG file",
+        "size": "117.29 KB",
+        "dateModified": 1694710024.655992
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B012.png",
+        "type": ".PNG file",
+        "size": "332.14 KB",
+        "dateModified": 1694710025.0704236
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B013.png",
+        "type": ".PNG file",
+        "size": "189.88 KB",
+        "dateModified": 1694710025.3763895
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B014.png",
+        "type": ".PNG file",
+        "size": "444.62 KB",
+        "dateModified": 1694710025.6922748
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B015.png",
+        "type": ".PNG file",
+        "size": "85.14 KB",
+        "dateModified": 1694710025.8752387
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B016.png",
+        "type": ".PNG file",
+        "size": "157.92 KB",
+        "dateModified": 1694710026.135826
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B017.png",
+        "type": ".PNG file",
+        "size": "917.13 KB",
+        "dateModified": 1694710032.1878307
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B018.png",
+        "type": ".PNG file",
+        "size": "153.05 KB",
+        "dateModified": 1694710033.843922
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B019.png",
+        "type": ".PNG file",
+        "size": "797.25 KB",
+        "dateModified": 1694710036.2791343
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B01A.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694710036.3106709
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B01B.png",
+        "type": ".PNG file",
+        "size": "274.13 KB",
+        "dateModified": 1694710036.918955
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B070.png",
+        "type": ".PNG file",
+        "size": "3705.65 KB",
+        "dateModified": 1694710046.27394
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B071.png",
+        "type": ".PNG file",
+        "size": "1006.91 KB",
+        "dateModified": 1694710056.484121
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B072.png",
+        "type": ".PNG file",
+        "size": "81.45 KB",
+        "dateModified": 1694710060.2317934
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B075.png",
+        "type": ".PNG file",
+        "size": "193.46 KB",
+        "dateModified": 1694710060.661927
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B076.png",
+        "type": ".PNG file",
+        "size": "1273.63 KB",
+        "dateModified": 1694710062.0908332
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B083.png",
+        "type": ".PNG file",
+        "size": "3617.72 KB",
+        "dateModified": 1694710064.6132174
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B084.png",
+        "type": ".PNG file",
+        "size": "998.00 KB",
+        "dateModified": 1694710096.8534842
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B085.png",
+        "type": ".PNG file",
+        "size": "194.08 KB",
+        "dateModified": 1694710097.471529
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B088.png",
+        "type": ".PNG file",
+        "size": "190.36 KB",
+        "dateModified": 1694710098.035458
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B089.png",
+        "type": ".PNG file",
+        "size": "1253.97 KB",
+        "dateModified": 1694710100.5451114
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B522.png",
+        "type": ".PNG file",
+        "size": "15.53 KB",
+        "dateModified": 1694710100.7627938
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B6F4.png",
+        "type": ".PNG file",
+        "size": "14.97 KB",
+        "dateModified": 1694710101.053448
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B6F5.png",
+        "type": ".PNG file",
+        "size": "0.14 KB",
+        "dateModified": 1694710101.1738768
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B6F6.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694710101.2981887
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B749.png",
+        "type": ".PNG file",
+        "size": "9.57 KB",
+        "dateModified": 1694710101.7462587
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B74A.png",
+        "type": ".PNG file",
+        "size": "10.11 KB",
+        "dateModified": 1694710102.1862683
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B85E.png",
+        "type": ".PNG file",
+        "size": "10.68 KB",
+        "dateModified": 1694710102.3892548
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B860.png",
+        "type": ".PNG file",
+        "size": "10.22 KB",
+        "dateModified": 1694710102.6057625
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003B861.png",
+        "type": ".PNG file",
+        "size": "16.53 KB",
+        "dateModified": 1694710103.0329995
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BC9F.png",
+        "type": ".PNG file",
+        "size": "14569.76 KB",
+        "dateModified": 1694710109.0648234
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCA0.png",
+        "type": ".PNG file",
+        "size": "6217.04 KB",
+        "dateModified": 1694710113.0741067
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCA3.png",
+        "type": ".PNG file",
+        "size": "809.79 KB",
+        "dateModified": 1694710114.048617
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCA4.png",
+        "type": ".PNG file",
+        "size": "7925.76 KB",
+        "dateModified": 1694710118.745736
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCEB.png",
+        "type": ".PNG file",
+        "size": "150.37 KB",
+        "dateModified": 1694710119.0942059
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCEC.png",
+        "type": ".PNG file",
+        "size": "11.04 KB",
+        "dateModified": 1694710119.240577
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCED.png",
+        "type": ".PNG file",
+        "size": "0.15 KB",
+        "dateModified": 1694710119.3042178
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BCEE.png",
+        "type": ".PNG file",
+        "size": "0.14 KB",
+        "dateModified": 1694710119.356406
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD57.png",
+        "type": ".PNG file",
+        "size": "14961.52 KB",
+        "dateModified": 1694710129.0067358
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD58.png",
+        "type": ".PNG file",
+        "size": "6445.81 KB",
+        "dateModified": 1694710133.388521
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD59.png",
+        "type": ".PNG file",
+        "size": "528.02 KB",
+        "dateModified": 1694710134.1630352
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD5B.png",
+        "type": ".PNG file",
+        "size": "854.00 KB",
+        "dateModified": 1694710134.7594664
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD5C.png",
+        "type": ".PNG file",
+        "size": "8120.23 KB",
+        "dateModified": 1694710138.1378934
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD74.png",
+        "type": ".PNG file",
+        "size": "142.54 KB",
+        "dateModified": 1694710138.415523
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003BD75.png",
+        "type": ".PNG file",
+        "size": "11.24 KB",
+        "dateModified": 1694710138.6543996
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C1B6.png",
+        "type": ".PNG file",
+        "size": "3674.87 KB",
+        "dateModified": 1694710140.2383492
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C255.png",
+        "type": ".PNG file",
+        "size": "3512.87 KB",
+        "dateModified": 1694710143.1530848
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C279.png",
+        "type": ".PNG file",
+        "size": "3532.35 KB",
+        "dateModified": 1694710144.7124414
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C27A.png",
+        "type": ".PNG file",
+        "size": "3535.35 KB",
+        "dateModified": 1694710146.2679994
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C501.png",
+        "type": ".PNG file",
+        "size": "46.12 KB",
+        "dateModified": 1694710146.4493608
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C502.png",
+        "type": ".PNG file",
+        "size": "90.11 KB",
+        "dateModified": 1694710147.0638418
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528.png",
+        "type": ".PNG file",
+        "size": "0.38 KB",
+        "dateModified": 1694710147.295514
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_1.png",
+        "type": ".PNG file",
         "size": "1.04 KB",
-        "dateModified": 1694267270.002144
+        "dateModified": 1694710147.464483
     },
     {
-        "name": "0000000001EE.tif",
-        "type": ".TIF file",
-        "size": "11.16 KB",
-        "dateModified": 1694267270.0026443
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_10.png",
+        "type": ".PNG file",
+        "size": "2.32 KB",
+        "dateModified": 1694710147.7548697
     },
     {
-        "name": "000000000460.tif",
-        "type": ".TIF file",
-        "size": "0.67 KB",
-        "dateModified": 1694267270.0026443
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_11.png",
+        "type": ".PNG file",
+        "size": "2.46 KB",
+        "dateModified": 1694710147.9542575
     },
     {
-        "name": "0000000004CB.tif",
-        "type": ".TIF file",
-        "size": "0.65 KB",
-        "dateModified": 1694267270.0026443
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_12.png",
+        "type": ".PNG file",
+        "size": "2.15 KB",
+        "dateModified": 1694710148.0343363
     },
     {
-        "name": "0000000004DB.tif",
-        "type": ".TIF file",
-        "size": "57.25 KB",
-        "dateModified": 1694267270.0031443
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_13.png",
+        "type": ".PNG file",
+        "size": "2.03 KB",
+        "dateModified": 1694710148.0902789
     },
     {
-        "name": "0000000005DF.tif",
-        "type": ".TIF file",
-        "size": "53.42 KB",
-        "dateModified": 1694267270.0036442
-    },
-    {
-        "name": "0000000007A9.tif",
-        "type": ".TIF file",
-        "size": "1.51 KB",
-        "dateModified": 1694267270.0036442
-    },
-    {
-        "name": "000000000D9B.tif",
-        "type": ".TIF file",
-        "size": "1.55 KB",
-        "dateModified": 1694267270.0041444
-    },
-    {
-        "name": "000000001038.tif",
-        "type": ".TIF file",
-        "size": "61.67 KB",
-        "dateModified": 1694267270.0041444
-    },
-    {
-        "name": "000000001298.tif",
-        "type": ".TIF file",
-        "size": "0.71 KB",
-        "dateModified": 1694267270.0041444
-    },
-    {
-        "name": "000000004791.tif",
-        "type": ".TIF file",
-        "size": "9.73 KB",
-        "dateModified": 1694267270.0041444
-    },
-    {
-        "name": "0000000052F4.tif",
-        "type": ".TIF file",
-        "size": "11.06 KB",
-        "dateModified": 1694267270.0052197
-    },
-    {
-        "name": "00000000BF7A.tif",
-        "type": ".TIF file",
-        "size": "2.09 KB",
-        "dateModified": 1694267270.0052197
-    },
-    {
-        "name": "00000000E58C.tif",
-        "type": ".TIF file",
-        "size": "51.63 KB",
-        "dateModified": 1694267270.005721
-    },
-    {
-        "name": "0000000153AF.tif",
-        "type": ".TIF file",
-        "size": "5.14 KB",
-        "dateModified": 1694267270.0062206
-    },
-    {
-        "name": "000000018E48.tif",
-        "type": ".TIF file",
-        "size": "12.90 KB",
-        "dateModified": 1694267270.0062206
-    },
-    {
-        "name": "000000018F9B.tif",
-        "type": ".TIF file",
-        "size": "56.91 KB",
-        "dateModified": 1694267270.0062206
-    },
-    {
-        "name": "000000019167.tif",
-        "type": ".TIF file",
-        "size": "17.85 KB",
-        "dateModified": 1694267270.0069375
-    },
-    {
-        "name": "00000001CA8C.tif",
-        "type": ".TIF file",
-        "size": "0.70 KB",
-        "dateModified": 1694267270.0069375
-    },
-    {
-        "name": "00000001F826.tif",
-        "type": ".TIF file",
-        "size": "118.82 KB",
-        "dateModified": 1694267270.0079374
-    },
-    {
-        "name": "00000001FD29.tif",
-        "type": ".TIF file",
-        "size": "126.34 KB",
-        "dateModified": 1694267270.0084376
-    },
-    {
-        "name": "00000001FF2D.tif",
-        "type": ".TIF file",
-        "size": "1.73 KB",
-        "dateModified": 1694267270.0089378
-    },
-    {
-        "name": "000000020788.tif",
-        "type": ".TIF file",
-        "size": "94.22 KB",
-        "dateModified": 1694267270.0094385
-    },
-    {
-        "name": "000000020F75.tif",
-        "type": ".TIF file",
-        "size": "167.85 KB",
-        "dateModified": 1694267270.010438
-    },
-    {
-        "name": "000000021655.tif",
-        "type": ".TIF file",
-        "size": "158.29 KB",
-        "dateModified": 1694267270.0114384
-    },
-    {
-        "name": "0000000219FA.tif",
-        "type": ".TIF file",
-        "size": "1.65 KB",
-        "dateModified": 1694267270.0119383
-    },
-    {
-        "name": "000000021C98.tif",
-        "type": ".TIF file",
-        "size": "30.25 KB",
-        "dateModified": 1694267270.0119383
-    },
-    {
-        "name": "000000021CC1.tif",
-        "type": ".TIF file",
-        "size": "1.04 KB",
-        "dateModified": 1694267270.012439
-    },
-    {
-        "name": "000000021CC2.tif",
-        "type": ".TIF file",
-        "size": "8.31 KB",
-        "dateModified": 1694267270.012439
-    },
-    {
-        "name": "000000021CC9.tif",
-        "type": ".TIF file",
-        "size": "0.91 KB",
-        "dateModified": 1694267270.0129387
-    },
-    {
-        "name": "00000002214A.tif",
-        "type": ".TIF file",
-        "size": "123.54 KB",
-        "dateModified": 1694267270.0134387
-    },
-    {
-        "name": "00000002214B.tif",
-        "type": ".TIF file",
-        "size": "53.76 KB",
-        "dateModified": 1694267270.0139387
-    },
-    {
-        "name": "00000002214C.tif",
-        "type": ".TIF file",
-        "size": "46.96 KB",
-        "dateModified": 1694267270.0144386
-    },
-    {
-        "name": "0000000299DF.tif",
-        "type": ".TIF file",
-        "size": "206.22 KB",
-        "dateModified": 1694267270.015441
-    },
-    {
-        "name": "000000029D41.tif",
-        "type": ".TIF file",
-        "size": "56.09 KB",
-        "dateModified": 1694267270.0159538
-    },
-    {
-        "name": "00000002BE4A.tif",
-        "type": ".TIF file",
-        "size": "50.28 KB",
-        "dateModified": 1694267270.0159538
-    },
-    {
-        "name": "00000002BF72.tif",
-        "type": ".TIF file",
-        "size": "143.37 KB",
-        "dateModified": 1694267270.0169535
-    },
-    {
-        "name": "00000002CAB9.tif",
-        "type": ".TIF file",
-        "size": "421.90 KB",
-        "dateModified": 1694267270.0189538
-    },
-    {
-        "name": "00000002CF03.tif",
-        "type": ".TIF file",
-        "size": "56.89 KB",
-        "dateModified": 1694267270.019454
-    },
-    {
-        "name": "0000000311C2.tif",
-        "type": ".TIF file",
-        "size": "35.76 KB",
-        "dateModified": 1694267270.0199542
-    },
-    {
-        "name": "000000031951.tif",
-        "type": ".TIF file",
-        "size": "536.55 KB",
-        "dateModified": 1694267270.0219543
-    },
-    {
-        "name": "00000003268C.tif",
-        "type": ".TIF file",
-        "size": "230.17 KB",
-        "dateModified": 1694267270.0239675
-    },
-    {
-        "name": "000000037046.tif",
-        "type": ".TIF file",
-        "size": "261.82 KB",
-        "dateModified": 1694267270.0259774
-    },
-    {
-        "name": "00000003AFEE.tif",
-        "type": ".TIF file",
-        "size": "18681.37 KB",
-        "dateModified": 1694267270.1259477
-    },
-    {
-        "name": "00000003AFEF.tif",
-        "type": ".TIF file",
-        "size": "10413.26 KB",
-        "dateModified": 1694267270.1824725
-    },
-    {
-        "name": "00000003AFF0.tif",
-        "type": ".TIF file",
-        "size": "493.15 KB",
-        "dateModified": 1694267270.1844723
-    },
-    {
-        "name": "00000003AFF2.tif",
-        "type": ".TIF file",
-        "size": "88.21 KB",
-        "dateModified": 1694267270.1844723
-    },
-    {
-        "name": "00000003AFF3.tif",
-        "type": ".TIF file",
-        "size": "117.50 KB",
-        "dateModified": 1694267270.1859834
-    },
-    {
-        "name": "00000003AFF4.tif",
-        "type": ".TIF file",
-        "size": "1109.35 KB",
-        "dateModified": 1694267270.1929855
-    },
-    {
-        "name": "00000003AFF5.tif",
-        "type": ".TIF file",
-        "size": "92.28 KB",
-        "dateModified": 1694267270.1939852
-    },
-    {
-        "name": "00000003AFF6.tif",
-        "type": ".TIF file",
-        "size": "80.16 KB",
-        "dateModified": 1694267270.1944857
-    },
-    {
-        "name": "00000003AFF7.tif",
-        "type": ".TIF file",
-        "size": "321.71 KB",
-        "dateModified": 1694267270.1959949
-    },
-    {
-        "name": "00000003AFF8.tif",
-        "type": ".TIF file",
-        "size": "11205.22 KB",
-        "dateModified": 1694267270.2544427
-    },
-    {
-        "name": "00000003AFFE.tif",
-        "type": ".TIF file",
-        "size": "200.43 KB",
-        "dateModified": 1694267270.255443
-    },
-    {
-        "name": "00000003B002.tif",
-        "type": ".TIF file",
-        "size": "741.51 KB",
-        "dateModified": 1694267270.259944
-    },
-    {
-        "name": "00000003B003.tif",
-        "type": ".TIF file",
-        "size": "182.89 KB",
-        "dateModified": 1694267270.2609446
-    },
-    {
-        "name": "00000003B004.tif",
-        "type": ".TIF file",
-        "size": "111.61 KB",
-        "dateModified": 1694267270.261944
-    },
-    {
-        "name": "00000003B005.tif",
-        "type": ".TIF file",
-        "size": "625.72 KB",
-        "dateModified": 1694267270.2644448
-    },
-    {
-        "name": "00000003B006.tif",
-        "type": ".TIF file",
-        "size": "220.05 KB",
-        "dateModified": 1694267270.2664604
-    },
-    {
-        "name": "00000003B012.tif",
-        "type": ".TIF file",
-        "size": "776.22 KB",
-        "dateModified": 1694267270.2709608
-    },
-    {
-        "name": "00000003B013.tif",
-        "type": ".TIF file",
-        "size": "308.26 KB",
-        "dateModified": 1694267270.272961
-    },
-    {
-        "name": "00000003B014.tif",
-        "type": ".TIF file",
-        "size": "736.87 KB",
-        "dateModified": 1694267270.2764728
-    },
-    {
-        "name": "00000003B015.tif",
-        "type": ".TIF file",
-        "size": "217.58 KB",
-        "dateModified": 1694267270.2779725
-    },
-    {
-        "name": "00000003B016.tif",
-        "type": ".TIF file",
-        "size": "229.09 KB",
-        "dateModified": 1694267270.2789726
-    },
-    {
-        "name": "00000003B017.tif",
-        "type": ".TIF file",
-        "size": "1102.82 KB",
-        "dateModified": 1694267270.2854767
-    },
-    {
-        "name": "00000003B018.tif",
-        "type": ".TIF file",
-        "size": "215.67 KB",
-        "dateModified": 1694267270.2859898
-    },
-    {
-        "name": "00000003B019.tif",
-        "type": ".TIF file",
-        "size": "1044.39 KB",
-        "dateModified": 1694267270.2924428
-    },
-    {
-        "name": "00000003B01A.tif",
-        "type": ".TIF file",
-        "size": "0.67 KB",
-        "dateModified": 1694267270.2924428
-    },
-    {
-        "name": "00000003B01B.tif",
-        "type": ".TIF file",
-        "size": "375.49 KB",
-        "dateModified": 1694267270.2944431
-    },
-    {
-        "name": "00000003B070.tif",
-        "type": ".TIF file",
-        "size": "5060.17 KB",
-        "dateModified": 1694267270.3229318
-    },
-    {
-        "name": "00000003B071.tif",
-        "type": ".TIF file",
-        "size": "2086.62 KB",
-        "dateModified": 1694267270.3344543
-    },
-    {
-        "name": "00000003B072.tif",
-        "type": ".TIF file",
-        "size": "159.40 KB",
-        "dateModified": 1694267270.3359723
-    },
-    {
-        "name": "00000003B075.tif",
-        "type": ".TIF file",
-        "size": "258.29 KB",
-        "dateModified": 1694267270.3374724
-    },
-    {
-        "name": "00000003B076.tif",
-        "type": ".TIF file",
-        "size": "2137.88 KB",
-        "dateModified": 1694267270.348989
-    },
-    {
-        "name": "00000003B083.tif",
-        "type": ".TIF file",
-        "size": "4876.32 KB",
-        "dateModified": 1694267270.3750243
-    },
-    {
-        "name": "00000003B084.tif",
-        "type": ".TIF file",
-        "size": "2044.79 KB",
-        "dateModified": 1694267270.3860552
-    },
-    {
-        "name": "00000003B085.tif",
-        "type": ".TIF file",
-        "size": "265.15 KB",
-        "dateModified": 1694267270.3880558
-    },
-    {
-        "name": "00000003B088.tif",
-        "type": ".TIF file",
-        "size": "253.12 KB",
-        "dateModified": 1694267270.3895564
-    },
-    {
-        "name": "00000003B089.tif",
-        "type": ".TIF file",
-        "size": "2029.09 KB",
-        "dateModified": 1694267270.4000747
-    },
-    {
-        "name": "00000003B522.tif",
-        "type": ".TIF file",
-        "size": "19.80 KB",
-        "dateModified": 1694267270.4005747
-    },
-    {
-        "name": "00000003B6F4.tif",
-        "type": ".TIF file",
-        "size": "22.71 KB",
-        "dateModified": 1694267270.4010746
-    },
-    {
-        "name": "00000003B6F5.tif",
-        "type": ".TIF file",
-        "size": "0.86 KB",
-        "dateModified": 1694267270.4010746
-    },
-    {
-        "name": "00000003B6F6.tif",
-        "type": ".TIF file",
-        "size": "0.66 KB",
-        "dateModified": 1694267270.4010746
-    },
-    {
-        "name": "00000003B749.tif",
-        "type": ".TIF file",
-        "size": "17.32 KB",
-        "dateModified": 1694267270.407089
-    },
-    {
-        "name": "00000003B74A.tif",
-        "type": ".TIF file",
-        "size": "17.92 KB",
-        "dateModified": 1694267270.407089
-    },
-    {
-        "name": "00000003B85E.tif",
-        "type": ".TIF file",
-        "size": "19.00 KB",
-        "dateModified": 1694267270.4075892
-    },
-    {
-        "name": "00000003B860.tif",
-        "type": ".TIF file",
-        "size": "19.19 KB",
-        "dateModified": 1694267270.4075892
-    },
-    {
-        "name": "00000003B861.tif",
-        "type": ".TIF file",
-        "size": "26.50 KB",
-        "dateModified": 1694267270.4080892
-    },
-    {
-        "name": "00000003BC9F.tif",
-        "type": ".TIF file",
-        "size": "18059.10 KB",
-        "dateModified": 1694267270.5095932
-    },
-    {
-        "name": "00000003BCA0.tif",
-        "type": ".TIF file",
-        "size": "10336.05 KB",
-        "dateModified": 1694267270.5660183
-    },
-    {
-        "name": "00000003BCA3.tif",
-        "type": ".TIF file",
-        "size": "1086.40 KB",
-        "dateModified": 1694267270.5725193
-    },
-    {
-        "name": "00000003BCA4.tif",
-        "type": ".TIF file",
-        "size": "11323.99 KB",
-        "dateModified": 1694267270.6320407
-    },
-    {
-        "name": "00000003BCEB.tif",
-        "type": ".TIF file",
-        "size": "200.25 KB",
-        "dateModified": 1694267270.633041
-    },
-    {
-        "name": "00000003BCEC.tif",
-        "type": ".TIF file",
-        "size": "16.48 KB",
-        "dateModified": 1694267270.633541
-    },
-    {
-        "name": "00000003BCED.tif",
-        "type": ".TIF file",
-        "size": "0.86 KB",
-        "dateModified": 1694267270.633541
-    },
-    {
-        "name": "00000003BCEE.tif",
-        "type": ".TIF file",
-        "size": "0.86 KB",
-        "dateModified": 1694267270.634041
-    },
-    {
-        "name": "00000003BD57.tif",
-        "type": ".TIF file",
-        "size": "18870.56 KB",
-        "dateModified": 1694267270.7359667
-    },
-    {
-        "name": "00000003BD58.tif",
-        "type": ".TIF file",
-        "size": "10559.90 KB",
-        "dateModified": 1694267270.7925918
-    },
-    {
-        "name": "00000003BD59.tif",
-        "type": ".TIF file",
-        "size": "861.88 KB",
-        "dateModified": 1694267270.7981067
-    },
-    {
-        "name": "00000003BD5B.tif",
-        "type": ".TIF file",
-        "size": "1134.27 KB",
-        "dateModified": 1694267270.8051102
-    },
-    {
-        "name": "00000003BD5C.tif",
-        "type": ".TIF file",
-        "size": "11408.68 KB",
-        "dateModified": 1694267270.868011
-    },
-    {
-        "name": "00000003BD74.tif",
-        "type": ".TIF file",
-        "size": "190.37 KB",
-        "dateModified": 1694267270.8690112
-    },
-    {
-        "name": "00000003BD75.tif",
-        "type": ".TIF file",
-        "size": "16.25 KB",
-        "dateModified": 1694267270.8710115
-    },
-    {
-        "name": "00000003C1B6.tif",
-        "type": ".TIF file",
-        "size": "5035.79 KB",
-        "dateModified": 1694267270.899516
-    },
-    {
-        "name": "00000003C255.tif",
-        "type": ".TIF file",
-        "size": "4875.95 KB",
-        "dateModified": 1694267270.925998
-    },
-    {
-        "name": "00000003C279.tif",
-        "type": ".TIF file",
-        "size": "4877.57 KB",
-        "dateModified": 1694267270.9539466
-    },
-    {
-        "name": "00000003C27A.tif",
-        "type": ".TIF file",
-        "size": "4822.94 KB",
-        "dateModified": 1694267270.980982
-    },
-    {
-        "name": "00000003C501.tif",
-        "type": ".TIF file",
-        "size": "64.81 KB",
-        "dateModified": 1694267270.981482
-    },
-    {
-        "name": "00000003C502.tif",
-        "type": ".TIF file",
-        "size": "159.11 KB",
-        "dateModified": 1694267270.9829829
-    },
-    {
-        "name": "00000003C528.tif",
-        "type": ".TIF file",
-        "size": "1.86 KB",
-        "dateModified": 1694267270.9829829
-    },
-    {
-        "name": "00000003C528_1.tif",
-        "type": ".TIF file",
-        "size": "2.44 KB",
-        "dateModified": 1694267270.9834828
-    },
-    {
-        "name": "00000003C528_10.tif",
-        "type": ".TIF file",
-        "size": "3.62 KB",
-        "dateModified": 1694267270.9834828
-    },
-    {
-        "name": "00000003C528_11.tif",
-        "type": ".TIF file",
-        "size": "3.85 KB",
-        "dateModified": 1694267270.9839828
-    },
-    {
-        "name": "00000003C528_12.tif",
-        "type": ".TIF file",
-        "size": "3.62 KB",
-        "dateModified": 1694267270.9839828
-    },
-    {
-        "name": "00000003C528_13.tif",
-        "type": ".TIF file",
-        "size": "3.48 KB",
-        "dateModified": 1694267270.9839828
-    },
-    {
-        "name": "00000003C528_14.tif",
-        "type": ".TIF file",
-        "size": "3.37 KB",
-        "dateModified": 1694267270.9839828
-    },
-    {
-        "name": "00000003C528_15.tif",
-        "type": ".TIF file",
-        "size": "3.53 KB",
-        "dateModified": 1694267270.9839828
-    },
-    {
-        "name": "00000003C528_16.tif",
-        "type": ".TIF file",
-        "size": "3.82 KB",
-        "dateModified": 1694267270.9849863
-    },
-    {
-        "name": "00000003C528_17.tif",
-        "type": ".TIF file",
-        "size": "4.12 KB",
-        "dateModified": 1694267270.9854996
-    },
-    {
-        "name": "00000003C528_18.tif",
-        "type": ".TIF file",
-        "size": "4.38 KB",
-        "dateModified": 1694267270.9859996
-    },
-    {
-        "name": "00000003C528_19.tif",
-        "type": ".TIF file",
-        "size": "4.59 KB",
-        "dateModified": 1694267270.9859996
-    },
-    {
-        "name": "00000003C528_2.tif",
-        "type": ".TIF file",
-        "size": "2.58 KB",
-        "dateModified": 1694267270.9865
-    },
-    {
-        "name": "00000003C528_3.tif",
-        "type": ".TIF file",
-        "size": "2.73 KB",
-        "dateModified": 1694267270.9865
-    },
-    {
-        "name": "00000003C528_4.tif",
-        "type": ".TIF file",
-        "size": "3.45 KB",
-        "dateModified": 1694267270.9865
-    },
-    {
-        "name": "00000003C528_5.tif",
-        "type": ".TIF file",
-        "size": "3.79 KB",
-        "dateModified": 1694267270.987001
-    },
-    {
-        "name": "00000003C528_6.tif",
-        "type": ".TIF file",
-        "size": "3.85 KB",
-        "dateModified": 1694267270.987001
-    },
-    {
-        "name": "00000003C528_7.tif",
-        "type": ".TIF file",
-        "size": "3.71 KB",
-        "dateModified": 1694267270.9875007
-    },
-    {
-        "name": "00000003C528_8.tif",
-        "type": ".TIF file",
-        "size": "3.39 KB",
-        "dateModified": 1694267270.9875007
-    },
-    {
-        "name": "00000003C528_9.tif",
-        "type": ".TIF file",
-        "size": "3.48 KB",
-        "dateModified": 1694267270.9875007
-    },
-    {
-        "name": "00000003CAE7.tif",
-        "type": ".TIF file",
-        "size": "47.12 KB",
-        "dateModified": 1694267270.9880002
-    },
-    {
-        "name": "00000003CC67.tif",
-        "type": ".TIF file",
-        "size": "37.81 KB",
-        "dateModified": 1694267270.9885
-    },
-    {
-        "name": "00100003B003.tif",
-        "type": ".TIF file",
-        "size": "103.79 KB",
-        "dateModified": 1694267270.9895003
-    },
-    {
-        "name": "00100003B016.tif",
-        "type": ".TIF file",
-        "size": "115.69 KB",
-        "dateModified": 1694267270.9900007
-    },
-    {
-        "name": "800014CE0B23.tif",
-        "type": ".TIF file",
-        "size": "5.19 KB",
-        "dateModified": 1694267270.9905007
-    },
-    {
-        "name": "800015F0D8E8.tif",
-        "type": ".TIF file",
-        "size": "2.24 KB",
-        "dateModified": 1694267270.9910007
-    },
-    {
-        "name": "80001E08A4E0.tif",
-        "type": ".TIF file",
-        "size": "4.84 KB",
-        "dateModified": 1694267270.9910007
-    },
-    {
-        "name": "8000205935EA.tif",
-        "type": ".TIF file",
-        "size": "2.71 KB",
-        "dateModified": 1694267270.9910007
-    },
-    {
-        "name": "800020DA3FA3.tif",
-        "type": ".TIF file",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_14.png",
+        "type": ".PNG file",
         "size": "1.92 KB",
-        "dateModified": 1694267270.9915009
+        "dateModified": 1694710148.1413412
     },
     {
-        "name": "8000238134FB.tif",
-        "type": ".TIF file",
-        "size": "3.97 KB",
-        "dateModified": 1694267270.9915009
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_15.png",
+        "type": ".PNG file",
+        "size": "2.00 KB",
+        "dateModified": 1694710148.17424
     },
     {
-        "name": "80002611D65A.tif",
-        "type": ".TIF file",
-        "size": "4.72 KB",
-        "dateModified": 1694267270.9920008
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_16.png",
+        "type": ".PNG file",
+        "size": "2.43 KB",
+        "dateModified": 1694710148.233234
     },
     {
-        "name": "8000295A2892.tif",
-        "type": ".TIF file",
-        "size": "1.03 KB",
-        "dateModified": 1694267270.9920008
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_17.png",
+        "type": ".PNG file",
+        "size": "2.66 KB",
+        "dateModified": 1694710148.3031986
     },
     {
-        "name": "8000338B1BDE.tif",
-        "type": ".TIF file",
-        "size": "0.89 KB",
-        "dateModified": 1694267270.9920008
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_18.png",
+        "type": ".PNG file",
+        "size": "2.89 KB",
+        "dateModified": 1694710148.3339324
     },
     {
-        "name": "800036CB5083.tif",
-        "type": ".TIF file",
-        "size": "2.56 KB",
-        "dateModified": 1694267270.9925015
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_19.png",
+        "type": ".PNG file",
+        "size": "3.11 KB",
+        "dateModified": 1694710148.356969
     },
     {
-        "name": "800044F0EE87.tif",
-        "type": ".TIF file",
-        "size": "4.68 KB",
-        "dateModified": 1694267270.9925015
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_2.png",
+        "type": ".PNG file",
+        "size": "1.25 KB",
+        "dateModified": 1694710148.390342
     },
     {
-        "name": "80004BC8D018.tif",
-        "type": ".TIF file",
-        "size": "1.53 KB",
-        "dateModified": 1694267270.9930015
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_3.png",
+        "type": ".PNG file",
+        "size": "1.43 KB",
+        "dateModified": 1694710148.449306
     },
     {
-        "name": "800056AA02E9.tif",
-        "type": ".TIF file",
-        "size": "2.98 KB",
-        "dateModified": 1694267270.9930015
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_4.png",
+        "type": ".PNG file",
+        "size": "1.88 KB",
+        "dateModified": 1694710148.4859934
     },
     {
-        "name": "8000572A4D9F.tif",
-        "type": ".TIF file",
-        "size": "4.08 KB",
-        "dateModified": 1694267270.9930015
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_5.png",
+        "type": ".PNG file",
+        "size": "2.29 KB",
+        "dateModified": 1694710148.5158055
     },
     {
-        "name": "800057634F4D.tif",
-        "type": ".TIF file",
-        "size": "4.14 KB",
-        "dateModified": 1694267270.9935012
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_6.png",
+        "type": ".PNG file",
+        "size": "2.61 KB",
+        "dateModified": 1694710148.5661674
     },
     {
-        "name": "800058F07432.tif",
-        "type": ".TIF file",
-        "size": "3.73 KB",
-        "dateModified": 1694267270.9935012
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_7.png",
+        "type": ".PNG file",
+        "size": "2.42 KB",
+        "dateModified": 1694710148.6242628
     },
     {
-        "name": "80006B8B041D.tif",
-        "type": ".TIF file",
-        "size": "4.38 KB",
-        "dateModified": 1694267270.9935012
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_8.png",
+        "type": ".PNG file",
+        "size": "2.15 KB",
+        "dateModified": 1694710148.6606672
     },
     {
-        "name": "8000725DBFBE.tif",
-        "type": ".TIF file",
-        "size": "5.73 KB",
-        "dateModified": 1694267270.9940014
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003C528_9.png",
+        "type": ".PNG file",
+        "size": "2.36 KB",
+        "dateModified": 1694710148.8177073
     },
     {
-        "name": "80008988FDA6.tif",
-        "type": ".TIF file",
-        "size": "4.49 KB",
-        "dateModified": 1694267270.9940014
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003CAE7.png",
+        "type": ".PNG file",
+        "size": "30.80 KB",
+        "dateModified": 1694710148.9152005
     },
     {
-        "name": "8000954AAF0A.tif",
-        "type": ".TIF file",
-        "size": "2.96 KB",
-        "dateModified": 1694267270.9940014
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00000003CC67.png",
+        "type": ".PNG file",
+        "size": "29.02 KB",
+        "dateModified": 1694710148.9602675
     },
     {
-        "name": "8000960FF403.tif",
-        "type": ".TIF file",
-        "size": "2.04 KB",
-        "dateModified": 1694267270.9940014
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00100003B003.png",
+        "type": ".PNG file",
+        "size": "69.45 KB",
+        "dateModified": 1694710149.093742
     },
     {
-        "name": "80009D19C163.tif",
-        "type": ".TIF file",
-        "size": "2.34 KB",
-        "dateModified": 1694267270.9950037
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/00100003B016.png",
+        "type": ".PNG file",
+        "size": "82.93 KB",
+        "dateModified": 1694710149.1776838
     },
     {
-        "name": "8000A1898CDB.tif",
-        "type": ".TIF file",
-        "size": "5.98 KB",
-        "dateModified": 1694267270.9950037
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800014CE0B23.png",
+        "type": ".PNG file",
+        "size": "0.34 KB",
+        "dateModified": 1694710149.205747
     },
     {
-        "name": "8000A89EF22A.tif",
-        "type": ".TIF file",
-        "size": "2.20 KB",
-        "dateModified": 1694267270.9950037
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800015F0D8E8.png",
+        "type": ".PNG file",
+        "size": "0.20 KB",
+        "dateModified": 1694710149.220176
     },
     {
-        "name": "8000AD5DE1AE.tif",
-        "type": ".TIF file",
-        "size": "1.30 KB",
-        "dateModified": 1694267270.9955106
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80001E08A4E0.png",
+        "type": ".PNG file",
+        "size": "0.39 KB",
+        "dateModified": 1694710149.2489192
     },
     {
-        "name": "8000B83DA803.tif",
-        "type": ".TIF file",
-        "size": "2.27 KB",
-        "dateModified": 1694267270.9955106
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000205935EA.png",
+        "type": ".PNG file",
+        "size": "0.30 KB",
+        "dateModified": 1694710149.282416
     },
     {
-        "name": "8000CB94E632.tif",
-        "type": ".TIF file",
-        "size": "0.89 KB",
-        "dateModified": 1694267270.9955106
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800020DA3FA3.png",
+        "type": ".PNG file",
+        "size": "0.18 KB",
+        "dateModified": 1694710149.32111
     },
     {
-        "name": "8000D19C322C.tif",
-        "type": ".TIF file",
-        "size": "1.62 KB",
-        "dateModified": 1694267270.9960105
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000238134FB.png",
+        "type": ".PNG file",
+        "size": "0.34 KB",
+        "dateModified": 1694710149.357168
     },
     {
-        "name": "8000D74709EF.tif",
-        "type": ".TIF file",
-        "size": "0.70 KB",
-        "dateModified": 1694267270.9960105
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80002611D65A.png",
+        "type": ".PNG file",
+        "size": "0.39 KB",
+        "dateModified": 1694710149.3901918
     },
     {
-        "name": "8000DB4ECDB5.tif",
-        "type": ".TIF file",
-        "size": "2.45 KB",
-        "dateModified": 1694267270.9960105
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000295A2892.png",
+        "type": ".PNG file",
+        "size": "0.09 KB",
+        "dateModified": 1694710149.4241803
     },
     {
-        "name": "8000F087B1C2.tif",
-        "type": ".TIF file",
-        "size": "4.31 KB",
-        "dateModified": 1694267270.9969332
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000338B1BDE.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694710149.4572487
     },
     {
-        "name": "8000F08BE243.tif",
-        "type": ".TIF file",
-        "size": "4.25 KB",
-        "dateModified": 1694267270.9969332
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800036CB5083.png",
+        "type": ".PNG file",
+        "size": "0.23 KB",
+        "dateModified": 1694710149.4991798
     },
     {
-        "name": "8000FA9171F7.tif",
-        "type": ".TIF file",
-        "size": "4.75 KB",
-        "dateModified": 1694267270.997433
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800044F0EE87.png",
+        "type": ".PNG file",
+        "size": "0.37 KB",
+        "dateModified": 1694710149.5381694
     },
     {
-        "name": "index.html",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80004BC8D018.png",
+        "type": ".PNG file",
+        "size": "0.16 KB",
+        "dateModified": 1694710149.5656958
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800056AA02E9.png",
+        "type": ".PNG file",
+        "size": "0.30 KB",
+        "dateModified": 1694710149.624214
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000572A4D9F.png",
+        "type": ".PNG file",
+        "size": "0.24 KB",
+        "dateModified": 1694710149.657233
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800057634F4D.png",
+        "type": ".PNG file",
+        "size": "0.32 KB",
+        "dateModified": 1694710149.6817
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/800058F07432.png",
+        "type": ".PNG file",
+        "size": "0.27 KB",
+        "dateModified": 1694710149.7157323
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80006B8B041D.png",
+        "type": ".PNG file",
+        "size": "0.32 KB",
+        "dateModified": 1694710149.777697
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000725DBFBE.png",
+        "type": ".PNG file",
+        "size": "0.58 KB",
+        "dateModified": 1694710149.7998464
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80008988FDA6.png",
+        "type": ".PNG file",
+        "size": "0.39 KB",
+        "dateModified": 1694710149.8241148
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000954AAF0A.png",
+        "type": ".PNG file",
+        "size": "0.18 KB",
+        "dateModified": 1694710149.888432
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000960FF403.png",
+        "type": ".PNG file",
+        "size": "0.16 KB",
+        "dateModified": 1694710149.9236462
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/80009D19C163.png",
+        "type": ".PNG file",
+        "size": "0.24 KB",
+        "dateModified": 1694710149.9571204
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000A1898CDB.png",
+        "type": ".PNG file",
+        "size": "0.54 KB",
+        "dateModified": 1694710150.0191822
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000A89EF22A.png",
+        "type": ".PNG file",
+        "size": "0.13 KB",
+        "dateModified": 1694710150.027184
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000AD5DE1AE.png",
+        "type": ".PNG file",
+        "size": "0.12 KB",
+        "dateModified": 1694710150.090758
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000B83DA803.png",
+        "type": ".PNG file",
+        "size": "0.17 KB",
+        "dateModified": 1694710150.11579
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000CB94E632.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694710150.131808
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000D19C322C.png",
+        "type": ".PNG file",
+        "size": "0.15 KB",
+        "dateModified": 1694710150.165599
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000D74709EF.png",
+        "type": ".PNG file",
+        "size": "0.08 KB",
+        "dateModified": 1694710150.199261
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000DB4ECDB5.png",
+        "type": ".PNG file",
+        "size": "0.21 KB",
+        "dateModified": 1694710150.2331667
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000F087B1C2.png",
+        "type": ".PNG file",
+        "size": "0.34 KB",
+        "dateModified": 1694710150.2661664
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000F08BE243.png",
+        "type": ".PNG file",
+        "size": "0.34 KB",
+        "dateModified": 1694710150.3311718
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/8000FA9171F7.png",
+        "type": ".PNG file",
+        "size": "0.36 KB",
+        "dateModified": 1694710150.3659503
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/output.json",
+        "type": ".JSON file",
+        "size": "25.74 KB",
+        "dateModified": 1694283348.0769923
+    },
+    {
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "Skin/Battle Pass/Amaterasu/Models/0000000000C3.118/Textures/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

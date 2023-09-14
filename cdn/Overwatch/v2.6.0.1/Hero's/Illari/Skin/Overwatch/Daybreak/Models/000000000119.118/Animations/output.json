@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0",
+        "name": "Daybreak/Models/000000000119.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703608.890658
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/128",
+        "name": "Daybreak/Models/000000000119.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703608.928277
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/16",
+        "name": "Daybreak/Models/000000000119.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703609.0658963
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4",
+        "name": "Daybreak/Models/000000000119.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703609.069897
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/index.html",
+        "name": "Daybreak/Models/000000000119.118/Animations/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703608.8886576
+        "size": "2.06 KB",
+        "dateModified": 1694706548.201724
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/output.json",
+        "name": "Daybreak/Models/000000000119.118/Animations/output.json",
         "type": ".JSON file",
-        "size": "0.88 KB",
-        "dateModified": 1694703608.8881574
+        "size": "1.37 KB",
+        "dateModified": 1694706548.2012246
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/script.js",
+        "name": "Daybreak/Models/000000000119.118/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703608.8891568
+        "dateModified": 1694706548.201724
     }
 ]

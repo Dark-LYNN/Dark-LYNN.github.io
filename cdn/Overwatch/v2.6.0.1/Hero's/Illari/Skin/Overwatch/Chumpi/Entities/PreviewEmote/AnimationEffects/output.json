@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.0675485
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.068061
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.068061
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.068061
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.0685623
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/index.html",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703561.5735517
+        "size": "2.06 KB",
+        "dateModified": 1694706545.1185453
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/output.json",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.16 KB",
-        "dateModified": 1694703561.5735517
+        "size": "1.65 KB",
+        "dateModified": 1694706545.1185453
     },
     {
-        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects/script.js",
+        "name": "Chumpi/Entities/PreviewEmote/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703561.5745542
+        "dateModified": 1694706545.1190462
     }
 ]

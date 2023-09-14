@@ -1,56 +1,56 @@
 [
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/00000002A7E9.png",
+        "name": "Anqas/Models/000000013F85.00C/Textures/00000002A7E9.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694620704.7628758
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/00000003FAA8.png",
+        "name": "Anqas/Models/000000013F85.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694620704.7707527
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/800044DDA4E3.png",
+        "name": "Anqas/Models/000000013F85.00C/Textures/800044DDA4E3.png",
         "type": ".PNG file",
         "size": "0.33 KB",
         "dateModified": 1694620704.7717526
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/8000A72002C7.png",
+        "name": "Anqas/Models/000000013F85.00C/Textures/8000A72002C7.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694620704.772753
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
+        "name": "Anqas/Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694620704.773755
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/index.html",
+        "name": "Anqas/Models/000000013F85.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694620704.7757747
+        "size": "2.06 KB",
+        "dateModified": 1694706541.7820027
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/output.json",
+        "name": "Anqas/Models/000000013F85.00C/Textures/output.json",
         "type": ".JSON file",
         "size": "1.76 KB",
-        "dateModified": 1694697077.0908096
+        "dateModified": 1694706541.7820027
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/run.py",
+        "name": "Anqas/Models/000000013F85.00C/Textures/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Models/000000013F85.00C/Textures/script.js",
+        "name": "Anqas/Models/000000013F85.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694620704.7762742
+        "dateModified": 1694706541.7825034
     }
 ]

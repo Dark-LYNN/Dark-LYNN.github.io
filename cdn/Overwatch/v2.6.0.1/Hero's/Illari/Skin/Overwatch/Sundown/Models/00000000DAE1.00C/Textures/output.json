@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/00000002103C.png",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/00000002103C.png",
         "type": ".PNG file",
         "size": "15.61 KB",
         "dateModified": 1694696061.5891123
     },
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/0000000212A6.png",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/0000000212A6.png",
         "type": ".PNG file",
         "size": "13.95 KB",
         "dateModified": 1694696061.5996273
     },
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/80006E3B2CEF.png",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/80006E3B2CEF.png",
         "type": ".PNG file",
         "size": "0.39 KB",
         "dateModified": 1694696061.617661
     },
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/index.html",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704243.378829
+        "dateModified": 1694706569.3506231
     },
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/output.json",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.08 KB",
-        "dateModified": 1694704243.378829
+        "size": "1.19 KB",
+        "dateModified": 1694706569.3506231
     },
     {
-        "name": "Overwatch/Sundown/Models/00000000DAE1.00C/Textures/script.js",
+        "name": "Sundown/Models/00000000DAE1.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704243.379341
+        "dateModified": 1694706569.3511233
     }
 ]

@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/AnimationEffects",
+        "name": "Overwatch 2/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704186.0253737
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Effects",
+        "name": "Overwatch 2/Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694704186.0451481
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/Gameplay3P.owentity",
+        "name": "Overwatch 2/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267245.4414186
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/index.html",
+        "name": "Overwatch 2/Entities/Gameplay3P/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704185.9750066
+        "dateModified": 1694706552.9284751
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/output.json",
+        "name": "Overwatch 2/Entities/Gameplay3P/output.json",
         "type": ".JSON file",
-        "size": "0.68 KB",
-        "dateModified": 1694704185.9745061
+        "size": "1.14 KB",
+        "dateModified": 1694706552.9275768
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P/script.js",
+        "name": "Overwatch 2/Entities/Gameplay3P/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704185.9750066
+        "dateModified": 1694706552.9284751
     }
 ]

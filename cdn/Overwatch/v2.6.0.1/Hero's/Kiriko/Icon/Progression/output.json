@@ -1,54 +1,54 @@
 [
     {
-        "name": "Fox Spirit.png",
+        "name": "Icon/Progression/Fox Spirit.png",
         "type": ".PNG file",
         "size": "34.47 KB",
         "dateModified": 1694342833.6227944
     },
     {
-        "name": "index.html",
+        "name": "Icon/Progression/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694272682.9440422
+        "size": "2.06 KB",
+        "dateModified": 1694709873.7463548
     },
     {
-        "name": "Kiriko Silhouette.png",
+        "name": "Icon/Progression/Kiriko Silhouette.png",
         "type": ".PNG file",
         "size": "45.70 KB",
         "dateModified": 1694342833.6456892
     },
     {
-        "name": "Kiriko.png",
+        "name": "Icon/Progression/Kiriko.png",
         "type": ".PNG file",
         "size": "46.59 KB",
         "dateModified": 1694342833.6647527
     },
     {
-        "name": "Nine Tails.png",
+        "name": "Icon/Progression/Nine Tails.png",
         "type": ".PNG file",
         "size": "82.68 KB",
         "dateModified": 1694342833.6963117
     },
     {
-        "name": "output.json",
+        "name": "Icon/Progression/output.json",
         "type": ".JSON file",
-        "size": "1.03 KB",
-        "dateModified": 1694282239.2614143
+        "size": "1.43 KB",
+        "dateModified": 1694709873.7463548
     },
     {
-        "name": "script.js",
+        "name": "Icon/Progression/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694267355.257453
+        "dateModified": 1694709873.7468548
     },
     {
-        "name": "test copy.py",
+        "name": "Icon/Progression/test copy.py",
         "type": ".PY file",
         "size": "1.83 KB",
         "dateModified": 1694342282.2140372
     },
     {
-        "name": "test.py",
+        "name": "Icon/Progression/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

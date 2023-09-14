@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/AnimationEffects",
+        "name": "Anqas/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694613771.9230332
     },
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/index.html",
+        "name": "Anqas/Entities/PreviewEmote/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694613770.3916128
+        "size": "2.06 KB",
+        "dateModified": 1694706540.7721972
     },
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/output.json",
+        "name": "Anqas/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
         "size": "1.11 KB",
-        "dateModified": 1694697045.6548028
+        "dateModified": 1694706540.7721972
     },
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Anqas/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267227.048282
     },
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/run.py",
+        "name": "Anqas/Entities/PreviewEmote/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
     },
     {
-        "name": "Overwatch/Anqas/Entities/PreviewEmote/script.js",
+        "name": "Anqas/Entities/PreviewEmote/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694613770.3921144
+        "dateModified": 1694706540.7726977
     }
 ]

@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/00000003FAA8.png",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694697421.058955
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/800051E3055B.png",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/800051E3055B.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697421.1129174
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/800080C55A32.png",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/800080C55A32.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697421.1759994
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/8000D72D8293.png",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/8000D72D8293.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697421.2276328
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/index.html",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.5540755
+        "size": "2.06 KB",
+        "dateModified": 1694706551.647643
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/output.json",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "0.91 KB",
-        "dateModified": 1694703967.553576
+        "size": "1.37 KB",
+        "dateModified": 1694706551.647643
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000115EA.00C/Textures/script.js",
+        "name": "Kulli/Models/0000000115EA.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.5540755
+        "dateModified": 1694706551.647643
     }
 ]

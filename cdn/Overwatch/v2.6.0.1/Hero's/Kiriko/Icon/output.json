@@ -1,50 +1,62 @@
 [
     {
-        "name": "Battle Pass",
+        "name": "Icon/Anniversary",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6375332
+        "dateModified": 1694709873.607833
     },
     {
-        "name": "index.html",
+        "name": "Icon/Battle Pass",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694342828.0143971
+    },
+    {
+        "name": "Icon/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694272682.9440422
+        "size": "2.06 KB",
+        "dateModified": 1694709873.3473246
     },
     {
-        "name": "Progression",
+        "name": "Icon/output.json",
+        "type": ".JSON file",
+        "size": "1.46 KB",
+        "dateModified": 1694709873.346825
+    },
+    {
+        "name": "Icon/Progression",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6400335
+        "dateModified": 1694342833.6963117
     },
     {
-        "name": "script.js",
+        "name": "Icon/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694267355.257453
+        "dateModified": 1694709873.3473246
     },
     {
-        "name": "Season 5",
+        "name": "Icon/Season 5",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6405337
+        "dateModified": 1694342838.7638588
     },
     {
-        "name": "Shop",
+        "name": "Icon/Shop",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.641034
+        "dateModified": 1694342844.7934995
     },
     {
-        "name": "Summer Games",
+        "name": "Icon/Summer Games",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.6415336
+        "dateModified": 1694342847.855425
     },
     {
-        "name": "test.py",
+        "name": "Icon/test.py",
         "type": ".PY file",
-        "size": "1.64 KB",
-        "dateModified": 1694272429.4606307
+        "size": "8.91 KB",
+        "dateModified": 1694704177.2403872
     }
 ]

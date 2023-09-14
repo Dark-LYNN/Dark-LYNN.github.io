@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/AnimationEffects",
+        "name": "Daybreak/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703608.11645
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Daybreak/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267233.8762538
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/index.html",
+        "name": "Daybreak/Entities/HighlightIntro/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703608.0072334
+        "size": "2.06 KB",
+        "dateModified": 1694706547.9383118
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/output.json",
+        "name": "Daybreak/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
-        "size": "0.54 KB",
-        "dateModified": 1694703608.0067334
+        "size": "0.96 KB",
+        "dateModified": 1694706547.9383118
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/script.js",
+        "name": "Daybreak/Entities/HighlightIntro/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703608.0072334
+        "dateModified": 1694706547.9388115
     }
 ]

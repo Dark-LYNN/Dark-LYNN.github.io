@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/ModelLooks/DEFAULT-191A3.owmat",
+        "name": "Daybreak/Models/0000000134D8.00C/ModelLooks/DEFAULT-191A3.owmat",
         "type": ".OWMAT file",
         "size": "0.06 KB",
         "dateModified": 1694267235.9777086
     },
     {
-        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/ModelLooks/index.html",
+        "name": "Daybreak/Models/0000000134D8.00C/ModelLooks/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703610.8607912
+        "size": "2.06 KB",
+        "dateModified": 1694706548.8761902
     },
     {
-        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/ModelLooks/output.json",
+        "name": "Daybreak/Models/0000000134D8.00C/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.37 KB",
-        "dateModified": 1694703610.8602905
+        "size": "0.80 KB",
+        "dateModified": 1694706548.8761902
     },
     {
-        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/ModelLooks/script.js",
+        "name": "Daybreak/Models/0000000134D8.00C/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703610.8607912
+        "dateModified": 1694706548.8771932
     }
 ]

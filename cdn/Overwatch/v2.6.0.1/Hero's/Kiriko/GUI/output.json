@@ -1,36 +1,42 @@
 [
     {
-        "name": "0000000040C7.01C.png",
+        "name": "GUI/0000000040C7.01C.png",
         "type": ".PNG file",
         "size": "100.24 KB",
         "dateModified": 1694339426.7978537
     },
     {
-        "name": "0000000040C8.01C.png",
+        "name": "GUI/0000000040C8.01C.png",
         "type": ".PNG file",
         "size": "89.85 KB",
         "dateModified": 1694339421.6640904
     },
     {
-        "name": "0000000040CA.01C.png",
+        "name": "GUI/0000000040CA.01C.png",
         "type": ".PNG file",
         "size": "94.51 KB",
         "dateModified": 1694339440.3152819
     },
     {
-        "name": "index.html",
+        "name": "GUI/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "GUI/output.json",
+        "type": ".JSON file",
+        "size": "0.90 KB",
+        "dateModified": 1694339452.5411289
+    },
+    {
+        "name": "GUI/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "GUI/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

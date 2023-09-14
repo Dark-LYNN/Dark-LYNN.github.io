@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.7798116
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.7803116
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267227.7803116
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267227.7808115
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/index.html",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694620282.05065
+        "size": "2.06 KB",
+        "dateModified": 1694706541.360608
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/output.json",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "1.58 KB",
-        "dateModified": 1694697062.6613057
+        "dateModified": 1694706541.360108
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/run.py",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials/script.js",
+        "name": "Anqas/Models/000000000DE0.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694620282.0511484
+        "dateModified": 1694706541.360608
     }
 ]

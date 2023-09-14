@@ -1,38 +1,44 @@
 [
     {
-        "name": "0000000121EA.owmdl",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/0000000121EA.owmdl",
         "type": ".OWMDL file",
         "size": "36.27 KB",
         "dateModified": 1694267268.0426295
     },
     {
-        "name": "index.html",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.0432887
+        "dateModified": 1694281240.2993076
     },
     {
-        "name": "script.js",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.88 KB",
+        "dateModified": 1694281237.2341597
+    },
+    {
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "HighlightIntro/Battle Pass/Night to Day/Models/0000000121EA.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267268.043788
+        "dateModified": 1694339537.7519312
     }
 ]

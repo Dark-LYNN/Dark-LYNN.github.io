@@ -1,50 +1,50 @@
 [
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/00000000D2D8.owanim",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/00000000D2D8.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267227.048282
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/00000000DEAF.owanim",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/00000000DEAF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267227.048783
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/00000000DED5.owanim",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/00000000DED5.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267227.048783
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/00000000DED6.owanim",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/00000000DED6.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267227.0492823
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/index.html",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.09 KB",
-        "dateModified": 1694613776.6678026
+        "size": "2.06 KB",
+        "dateModified": 1694706540.7797143
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/output.json",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "1.60 KB",
-        "dateModified": 1694697045.7257233
+        "dateModified": 1694706540.7792153
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/run.py",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
     },
     {
-        "name": "Overwatch/Anqas/Entities/Showcase/AnimationEffects/script.js",
+        "name": "Anqas/Entities/Showcase/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694613776.6683025
+        "dateModified": 1694706540.7797143
     }
 ]

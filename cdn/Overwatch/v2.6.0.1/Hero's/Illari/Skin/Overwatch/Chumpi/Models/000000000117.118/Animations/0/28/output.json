@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0/28/00000000DC55.owanimclip",
+        "name": "Chumpi/Models/000000000117.118/Animations/0/28/00000000DC55.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267231.1620119
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0/28/00000000DC74.owanimclip",
+        "name": "Chumpi/Models/000000000117.118/Animations/0/28/00000000DC74.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267231.1625116
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0/28/index.html",
+        "name": "Chumpi/Models/000000000117.118/Animations/0/28/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703562.5363278
+        "size": "2.06 KB",
+        "dateModified": 1694706545.3830106
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0/28/output.json",
+        "name": "Chumpi/Models/000000000117.118/Animations/0/28/output.json",
         "type": ".JSON file",
-        "size": "0.60 KB",
-        "dateModified": 1694703562.535828
+        "size": "1.04 KB",
+        "dateModified": 1694706545.3825104
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations/0/28/script.js",
+        "name": "Chumpi/Models/000000000117.118/Animations/0/28/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703562.5363278
+        "dateModified": 1694706545.3830106
     }
 ]

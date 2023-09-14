@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery/AnimationEffects",
+        "name": "Kulli/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703966.742421
     },
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery/HeroGallery.owentity",
+        "name": "Kulli/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267239.5860837
     },
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery/index.html",
+        "name": "Kulli/Entities/HeroGallery/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703966.7414205
+        "size": "2.06 KB",
+        "dateModified": 1694706550.8055637
     },
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery/output.json",
+        "name": "Kulli/Entities/HeroGallery/output.json",
         "type": ".JSON file",
-        "size": "0.52 KB",
-        "dateModified": 1694703966.74092
+        "size": "0.93 KB",
+        "dateModified": 1694706550.805064
     },
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery/script.js",
+        "name": "Kulli/Entities/HeroGallery/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703966.7414205
+        "dateModified": 1694706550.8055637
     }
 ]

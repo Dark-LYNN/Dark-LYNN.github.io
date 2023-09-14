@@ -1,44 +1,44 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267240.9575129
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267240.9575129
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267240.9580145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267240.9580145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/index.html",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703967.2480285
+        "size": "2.06 KB",
+        "dateModified": 1694706551.3415961
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/output.json",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.93 KB",
-        "dateModified": 1694703967.2470284
+        "size": "1.40 KB",
+        "dateModified": 1694706551.3415961
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000DE0.00C/Materials/script.js",
+        "name": "Kulli/Models/000000000DE0.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703967.2480285
+        "dateModified": 1694706551.3420966
     }
 ]

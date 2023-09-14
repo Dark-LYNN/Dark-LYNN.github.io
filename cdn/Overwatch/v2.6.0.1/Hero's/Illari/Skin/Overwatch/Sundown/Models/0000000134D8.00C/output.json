@@ -1,48 +1,48 @@
 [
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Sundown/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267261.9639683
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations",
+        "name": "Sundown/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4390025
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/index.html",
+        "name": "Sundown/Models/0000000134D8.00C/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704243.4529583
+        "dateModified": 1694706569.4280806
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Materials",
+        "name": "Sundown/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.449869
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/ModelLooks",
+        "name": "Sundown/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4513693
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/output.json",
+        "name": "Sundown/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "1.37 KB",
-        "dateModified": 1694704243.452458
+        "size": "1.51 KB",
+        "dateModified": 1694706569.4280806
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/script.js",
+        "name": "Sundown/Models/0000000134D8.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704243.4529583
+        "dateModified": 1694706569.4280806
     },
     {
-        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Textures",
+        "name": "Sundown/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4543698

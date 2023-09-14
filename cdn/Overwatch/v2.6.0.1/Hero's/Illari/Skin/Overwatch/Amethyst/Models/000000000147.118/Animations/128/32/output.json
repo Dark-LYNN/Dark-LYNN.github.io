@@ -1,38 +1,38 @@
 [
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/00000000D089.owanimclip",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/00000000D089.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "54.23 KB",
         "dateModified": 1694661401.9628808
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/00000000D306.owanimclip",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/00000000D306.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "26.77 KB",
         "dateModified": 1694661402.2145
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/00000000D48B.owanimclip",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/00000000D48B.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "183.91 KB",
         "dateModified": 1694661402.0690837
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/index.html",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702906.423398
+        "size": "2.06 KB",
+        "dateModified": 1694706530.536706
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/output.json",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/output.json",
         "type": ".JSON file",
-        "size": "0.81 KB",
-        "dateModified": 1694702906.423398
+        "size": "1.29 KB",
+        "dateModified": 1694706530.5362058
     },
     {
-        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/128/32/script.js",
+        "name": "Amethyst/Models/000000000147.118/Animations/128/32/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702906.4616714
+        "dateModified": 1694706530.536706
     }
 ]

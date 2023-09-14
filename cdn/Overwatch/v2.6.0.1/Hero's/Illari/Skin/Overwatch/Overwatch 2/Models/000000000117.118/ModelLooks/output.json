@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/ModelLooks/DEFAULT-80A.owmat",
+        "name": "Overwatch 2/Models/000000000117.118/ModelLooks/DEFAULT-80A.owmat",
         "type": ".OWMAT file",
         "size": "1.11 KB",
         "dateModified": 1694267247.2853224
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/ModelLooks/DEFAULT-80B.owmat",
+        "name": "Overwatch 2/Models/000000000117.118/ModelLooks/DEFAULT-80B.owmat",
         "type": ".OWMAT file",
         "size": "0.52 KB",
         "dateModified": 1694267247.2853224
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/ModelLooks/index.html",
+        "name": "Overwatch 2/Models/000000000117.118/ModelLooks/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704188.090379
+        "dateModified": 1694706554.0175097
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/ModelLooks/output.json",
+        "name": "Overwatch 2/Models/000000000117.118/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.56 KB",
-        "dateModified": 1694704188.090379
+        "size": "1.02 KB",
+        "dateModified": 1694706554.0170107
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/ModelLooks/script.js",
+        "name": "Overwatch 2/Models/000000000117.118/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704188.090379
+        "dateModified": 1694706554.0175097
     }
 ]

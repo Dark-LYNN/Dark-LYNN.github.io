@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/000000004B4A.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Qumir/Entities/000000004B4A.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267248.8395846
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004B4A.003/AnimationEffects/index.html",
+        "name": "Qumir/Entities/000000004B4A.003/AnimationEffects/index.html",
         "type": ".HTML file",
         "size": "2.06 KB",
-        "dateModified": 1694704214.9192615
+        "dateModified": 1694706563.0174658
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004B4A.003/AnimationEffects/output.json",
+        "name": "Qumir/Entities/000000004B4A.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "0.39 KB",
-        "dateModified": 1694704214.9187613
+        "size": "0.82 KB",
+        "dateModified": 1694706563.0174658
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004B4A.003/AnimationEffects/script.js",
+        "name": "Qumir/Entities/000000004B4A.003/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694704214.9192615
+        "dateModified": 1694706563.0174658
     }
 ]

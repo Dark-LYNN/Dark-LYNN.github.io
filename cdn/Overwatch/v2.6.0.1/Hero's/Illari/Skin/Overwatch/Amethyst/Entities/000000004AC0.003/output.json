@@ -1,32 +1,32 @@
 [
     {
-        "name": "Overwatch/Amethyst/Entities/000000004AC0.003/000000004AC0.003.owentity",
+        "name": "Amethyst/Entities/000000004AC0.003/000000004AC0.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.13 KB",
         "dateModified": 1694661408.3686068
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004AC0.003/Effects",
+        "name": "Amethyst/Entities/000000004AC0.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694702900.0809426
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004AC0.003/index.html",
+        "name": "Amethyst/Entities/000000004AC0.003/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694702900.078926
+        "size": "2.06 KB",
+        "dateModified": 1694706529.2571306
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004AC0.003/output.json",
+        "name": "Amethyst/Entities/000000004AC0.003/output.json",
         "type": ".JSON file",
-        "size": "0.53 KB",
-        "dateModified": 1694702900.0784256
+        "size": "0.96 KB",
+        "dateModified": 1694706529.256631
     },
     {
-        "name": "Overwatch/Amethyst/Entities/000000004AC0.003/script.js",
+        "name": "Amethyst/Entities/000000004AC0.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694702900.078926
+        "dateModified": 1694706529.2571306
     }
 ]

@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Chumpi/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267231.0635462
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/AnimationEffects/index.html",
+        "name": "Chumpi/Entities/HeroGallery/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703561.4134815
+        "size": "2.06 KB",
+        "dateModified": 1694706545.1099823
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/AnimationEffects/output.json",
+        "name": "Chumpi/Entities/HeroGallery/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "0.38 KB",
-        "dateModified": 1694703561.4129813
+        "size": "0.81 KB",
+        "dateModified": 1694706545.1099823
     },
     {
-        "name": "Overwatch/Chumpi/Entities/HeroGallery/AnimationEffects/script.js",
+        "name": "Chumpi/Entities/HeroGallery/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703561.4134815
+        "dateModified": 1694706545.1099823
     }
 ]

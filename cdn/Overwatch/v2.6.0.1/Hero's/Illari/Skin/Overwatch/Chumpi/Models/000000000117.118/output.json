@@ -1,54 +1,54 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/000000000117.118.owmdl",
+        "name": "Chumpi/Models/000000000117.118/000000000117.118.owmdl",
         "type": ".OWMDL file",
         "size": "7588.35 KB",
         "dateModified": 1694267231.0870805
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects",
+        "name": "Chumpi/Models/000000000117.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703561.8939552
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Animations",
+        "name": "Chumpi/Models/000000000117.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.529811
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/index.html",
+        "name": "Chumpi/Models/000000000117.118/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703561.8894544
+        "size": "2.06 KB",
+        "dateModified": 1694706545.142898
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Materials",
+        "name": "Chumpi/Models/000000000117.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.8972383
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/ModelLooks",
+        "name": "Chumpi/Models/000000000117.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.9023182
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/output.json",
+        "name": "Chumpi/Models/000000000117.118/output.json",
         "type": ".JSON file",
-        "size": "1.22 KB",
-        "dateModified": 1694703561.8894544
+        "size": "1.70 KB",
+        "dateModified": 1694706545.142898
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/script.js",
+        "name": "Chumpi/Models/000000000117.118/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703561.8899546
+        "dateModified": 1694706545.1433976
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/Textures",
+        "name": "Chumpi/Models/000000000117.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694703562.9314702

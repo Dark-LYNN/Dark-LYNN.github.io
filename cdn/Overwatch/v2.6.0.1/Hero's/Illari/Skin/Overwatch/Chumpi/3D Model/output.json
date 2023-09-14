@@ -1,26 +1,26 @@
 [
     {
-        "name": "Overwatch/Chumpi/3D Model/Chumpi.blend",
+        "name": "Chumpi/3D Model/Chumpi.blend",
         "type": ".BLEND file",
         "size": "21864.93 KB",
         "dateModified": 1694698717.1176622
     },
     {
-        "name": "Overwatch/Chumpi/3D Model/index.html",
+        "name": "Chumpi/3D Model/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694703548.610597
+        "size": "2.06 KB",
+        "dateModified": 1694706541.7860038
     },
     {
-        "name": "Overwatch/Chumpi/3D Model/output.json",
+        "name": "Chumpi/3D Model/output.json",
         "type": ".JSON file",
-        "size": "0.16 KB",
-        "dateModified": 1694703548.610597
+        "size": "0.69 KB",
+        "dateModified": 1694706541.785504
     },
     {
-        "name": "Overwatch/Chumpi/3D Model/script.js",
+        "name": "Chumpi/3D Model/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694703548.6110978
+        "dateModified": 1694706541.7860038
     }
 ]
