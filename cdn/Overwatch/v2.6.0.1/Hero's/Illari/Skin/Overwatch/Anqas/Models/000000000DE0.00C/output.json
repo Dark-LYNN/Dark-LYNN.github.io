@@ -1,26 +1,44 @@
 [
     {
-        "name": "000000000DE0.owmdl",
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/000000000DE0.owmdl",
         "type": ".OWMDL file",
         "size": "11.89 KB",
         "dateModified": 1694267227.7798116
     },
     {
-        "name": "Materials",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694267227.7803116
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694620279.9054952
     },
     {
-        "name": "run.py",
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Materials",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694620282.05065
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694620279.9044929
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Textures",
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694620279.9054952
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000DE0.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267227.7853131
+        "dateModified": 1694620284.7500665
     }
 ]

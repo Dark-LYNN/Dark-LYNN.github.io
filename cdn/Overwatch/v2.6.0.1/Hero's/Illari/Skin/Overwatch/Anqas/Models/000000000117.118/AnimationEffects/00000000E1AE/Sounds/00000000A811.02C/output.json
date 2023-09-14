@@ -1,14 +1,32 @@
 [
     {
-        "name": "000000232C09.03F.ogg",
+        "name": "Overwatch/Anqas/Models/000000000117.118/AnimationEffects/00000000E1AE/Sounds/00000000A811.02C/000000232C09.03F.ogg",
         "type": ".OGG file",
         "size": "88.78 KB",
         "dateModified": 1694267227.1539102
     },
     {
-        "name": "run.py",
+        "name": "Overwatch/Anqas/Models/000000000117.118/AnimationEffects/00000000E1AE/Sounds/00000000A811.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694621309.1463294
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000117.118/AnimationEffects/00000000E1AE/Sounds/00000000A811.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.30 KB",
+        "dateModified": 1694621309.145236
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000117.118/AnimationEffects/00000000E1AE/Sounds/00000000A811.02C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "Overwatch/Anqas/Models/000000000117.118/AnimationEffects/00000000E1AE/Sounds/00000000A811.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694621309.1468315
     }
 ]

@@ -1,32 +1,50 @@
 [
     {
-        "name": "0000000E4DA5.03F.ogg",
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/0000000E4DA5.03F.ogg",
         "type": ".OGG file",
         "size": "140.92 KB",
         "dateModified": 1694267226.8781915
     },
     {
-        "name": "0000002177F4.03F.ogg",
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/0000002177F4.03F.ogg",
         "type": ".OGG file",
         "size": "97.66 KB",
         "dateModified": 1694267226.8786914
     },
     {
-        "name": "000000217812.03F.ogg",
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/000000217812.03F.ogg",
         "type": ".OGG file",
         "size": "100.77 KB",
         "dateModified": 1694267226.879343
     },
     {
-        "name": "0000002204CE.03F.ogg",
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/0000002204CE.03F.ogg",
         "type": ".OGG file",
         "size": "141.69 KB",
         "dateModified": 1694267226.879844
     },
     {
-        "name": "run.py",
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694613631.1343942
+    },
+    {
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.76 KB",
+        "dateModified": 1694613631.133894
+    },
+    {
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694449749.1807477
+    },
+    {
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004349.00D/Sounds/000000001811.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694613631.1348944
     }
 ]
