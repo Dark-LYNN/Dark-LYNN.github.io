@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A6.00D/Sounds/000000009126.02C",
+        "name": "Entities/Gameplay3P/Effects/0000000045A6.00D/Sounds/000000009126.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.4124515
+        "dateModified": 1694697265.5390928
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/0000000045A6.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694697265.5384002
     }
 ]

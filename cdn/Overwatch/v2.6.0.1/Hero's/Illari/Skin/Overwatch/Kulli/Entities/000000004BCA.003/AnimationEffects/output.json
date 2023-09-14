@@ -1,50 +1,56 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1900806
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1905806
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1905806
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1905806
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.191081
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1915793
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1915793
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267239.1915793
+    },
+    {
+        "name": "Entities/000000004BCA.003/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.71 KB",
+        "dateModified": 1694697260.6382663
     }
 ]

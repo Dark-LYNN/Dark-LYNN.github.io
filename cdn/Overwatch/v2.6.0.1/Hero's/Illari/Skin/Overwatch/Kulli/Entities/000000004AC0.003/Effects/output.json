@@ -1,62 +1,68 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004B50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.07675
+        "dateModified": 1694697259.258865
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004D50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0777779
+        "dateModified": 1694697259.2613647
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004D81.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0792787
+        "dateModified": 1694697259.3168607
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E14.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0802786
+        "dateModified": 1694697259.3193607
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E16.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0812798
+        "dateModified": 1694697259.3578577
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E17.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0847793
+        "dateModified": 1694697259.3833976
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E27.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1512032
+        "dateModified": 1694697259.8151689
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E90.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1835625
+        "dateModified": 1694697260.0968554
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004E92.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1855633
+        "dateModified": 1694697260.1133835
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects/000000004EC3.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1885805
+        "dateModified": 1694697260.1532938
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "2.03 KB",
+        "dateModified": 1694697259.2583642
     }
 ]

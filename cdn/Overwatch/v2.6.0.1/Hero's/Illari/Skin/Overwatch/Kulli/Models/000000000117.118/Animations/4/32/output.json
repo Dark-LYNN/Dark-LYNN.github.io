@@ -1,68 +1,74 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000D266.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000D266.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "41.97 KB",
         "dateModified": 1694267239.749894
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000D35D.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000D35D.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "55.82 KB",
         "dateModified": 1694267239.7503946
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DAFD.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DAFD.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.01 KB",
         "dateModified": 1694267239.7508948
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DB04.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DB04.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.43 KB",
         "dateModified": 1694267239.7508948
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DB63.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DB63.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "26.91 KB",
         "dateModified": 1694267239.751395
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DDCC.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DDCC.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.00 KB",
         "dateModified": 1694267239.7521133
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DDD0.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DDD0.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.04 KB",
         "dateModified": 1694267239.7526145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DF74.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DF74.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.01 KB",
         "dateModified": 1694267239.7526145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DF75.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DF75.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.43 KB",
         "dateModified": 1694267239.7526145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DF79.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DF79.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.00 KB",
         "dateModified": 1694267239.7526145
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/Animations/4/32/00000000DF7A.owanimclip",
+        "name": "Models/000000000117.118/Animations/4/32/00000000DF7A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.04 KB",
         "dateModified": 1694267239.7536178
+    },
+    {
+        "name": "Models/000000000117.118/Animations/4/32/output.json",
+        "type": ".JSON file",
+        "size": "2.42 KB",
+        "dateModified": 1694697268.9908626
     }
 ]

@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Animations/4/36",
+        "name": "Models/0000000134D8.00C/Animations/4/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267243.331064
+        "dateModified": 1694697421.4894204
+    },
+    {
+        "name": "Models/0000000134D8.00C/Animations/4/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694697421.3109972
     }
 ]

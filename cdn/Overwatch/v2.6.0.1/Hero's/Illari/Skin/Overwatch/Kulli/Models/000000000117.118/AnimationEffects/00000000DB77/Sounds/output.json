@@ -1,32 +1,38 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001580.078",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001580.078",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.6650994
+        "dateModified": 1694697268.223665
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001581.078",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001581.078",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.6650994
+        "dateModified": 1694697268.224665
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001582.078",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001582.078",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.665599
+        "dateModified": 1694697268.2256656
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000002F6C.02C",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000002F6C.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.6660993
+        "dateModified": 1694697268.2261655
     },
     {
-        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/00000000A8DB.02C",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/00000000A8DB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.6660993
+        "dateModified": 1694697268.2648544
+    },
+    {
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "1.15 KB",
+        "dateModified": 1694697268.2226646
     }
 ]

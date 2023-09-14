@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/000000004AC0.003.owentity",
+        "name": "Entities/000000004AC0.003/000000004AC0.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.13 KB",
         "dateModified": 1694267239.075748
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003/Effects",
+        "name": "Entities/000000004AC0.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1885805
+        "dateModified": 1694697259.257856
+    },
+    {
+        "name": "Entities/000000004AC0.003/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694697259.2395575
     }
 ]

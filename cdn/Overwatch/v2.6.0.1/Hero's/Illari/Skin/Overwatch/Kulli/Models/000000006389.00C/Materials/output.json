@@ -1,38 +1,44 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/9B1B1C023AC5.owmat",
+        "name": "Models/000000006389.00C/Materials/9B1B1C023AC5.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267243.1348846
     },
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/A439DC584AB6.owmat",
+        "name": "Models/000000006389.00C/Materials/A439DC584AB6.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267243.1348846
     },
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/D3BA0219FB76.owmat",
+        "name": "Models/000000006389.00C/Materials/D3BA0219FB76.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267243.1353846
     },
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/E0E5051929F2.owmat",
+        "name": "Models/000000006389.00C/Materials/E0E5051929F2.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267243.1353846
     },
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/E71139CFDF8D.owmat",
+        "name": "Models/000000006389.00C/Materials/E71139CFDF8D.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267243.1353846
     },
     {
-        "name": "Overwatch/Kulli/Models/000000006389.00C/Materials/F66ACC967BF1.owmat",
+        "name": "Models/000000006389.00C/Materials/F66ACC967BF1.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267243.1363876
+    },
+    {
+        "name": "Models/000000006389.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "1.22 KB",
+        "dateModified": 1694697404.0047915
     }
 ]

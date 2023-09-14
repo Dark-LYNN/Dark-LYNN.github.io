@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/0000000086CF.00C/0000000086CF.owmdl",
+        "name": "Models/0000000086CF.00C/0000000086CF.owmdl",
         "type": ".OWMDL file",
         "size": "18.31 KB",
         "dateModified": 1694267243.1550348
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000086CF.00C/Materials",
+        "name": "Models/0000000086CF.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267243.1550348
+        "dateModified": 1694697406.820512
     },
     {
-        "name": "Overwatch/Kulli/Models/0000000086CF.00C/Textures",
+        "name": "Models/0000000086CF.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694697406.7944105
+    },
+    {
+        "name": "Models/0000000086CF.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267243.1679568
+        "dateModified": 1694697407.3633087
     }
 ]

@@ -1,146 +1,152 @@
 [
     {
-        "name": "Overwatch/Kulli/Entities/00000000014F.003",
+        "name": "Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0592325
+        "dateModified": 1694697259.0569756
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000000162.003",
+        "name": "Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0597322
+        "dateModified": 1694697259.0584884
     },
     {
-        "name": "Overwatch/Kulli/Entities/00000000130D.003",
+        "name": "Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0597322
+        "dateModified": 1694697259.0594683
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000002D33.003",
+        "name": "Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0602326
+        "dateModified": 1694697259.0599687
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000003024.003",
+        "name": "Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0602326
+        "dateModified": 1694697259.081459
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004828.003",
+        "name": "Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.0607326
+        "dateModified": 1694697259.0819588
     },
     {
-        "name": "Overwatch/Kulli/Entities/0000000048CC.003",
+        "name": "Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.061734
+        "dateModified": 1694697259.0829592
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004AC0.003",
+        "name": "Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.075748
+        "dateModified": 1694697259.239058
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004B4A.003",
+        "name": "Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1895804
+        "dateModified": 1694697260.363129
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004BCA.003",
+        "name": "Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.1920803
+        "dateModified": 1694697260.3651292
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004C29.003",
+        "name": "Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2615905
+        "dateModified": 1694697262.270232
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004C2A.003",
+        "name": "Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2615905
+        "dateModified": 1694697262.2712321
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004D41.003",
+        "name": "Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2620895
+        "dateModified": 1694697262.2722323
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000004E10.003",
+        "name": "Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2625897
+        "dateModified": 1694697262.331352
     },
     {
-        "name": "Overwatch/Kulli/Entities/0000000050BF.003",
+        "name": "Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2630904
+        "dateModified": 1694697262.332353
     },
     {
-        "name": "Overwatch/Kulli/Entities/000000005384.003",
+        "name": "Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2635906
+        "dateModified": 1694697262.3608272
     },
     {
-        "name": "Overwatch/Kulli/Entities/0000000053DA.003",
+        "name": "Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.2635906
+        "dateModified": 1694697262.3618279
     },
     {
-        "name": "Overwatch/Kulli/Entities/Gameplay3P",
+        "name": "Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.5840209
+        "dateModified": 1694697262.3628278
     },
     {
-        "name": "Overwatch/Kulli/Entities/Healing Pylon-20794",
+        "name": "Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.584521
+        "dateModified": 1694697266.8585184
     },
     {
-        "name": "Overwatch/Kulli/Entities/HeroGallery",
+        "name": "Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.5860837
+        "dateModified": 1694697266.8595176
     },
     {
-        "name": "Overwatch/Kulli/Entities/HighlightIntro",
+        "name": "Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.5871203
+        "dateModified": 1694697266.882853
     },
     {
-        "name": "Overwatch/Kulli/Entities/PreviewEmote",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694267239.58812
+        "name": "Entities/output.json",
+        "type": ".JSON file",
+        "size": "4.27 KB",
+        "dateModified": 1694697258.982883
     },
     {
-        "name": "Overwatch/Kulli/Entities/Showcase",
+        "name": "Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.5896218
+        "dateModified": 1694697266.8843534
     },
     {
-        "name": "Overwatch/Kulli/Entities/Solar Rifle-20793",
+        "name": "Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267239.5896218
+        "dateModified": 1694697266.9094746
+    },
+    {
+        "name": "Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697266.9638717
     }
 ]

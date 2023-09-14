@@ -1,116 +1,122 @@
 [
     {
-        "name": "Overwatch/Kulli/GUI/0000000040C7.01C.png",
+        "name": "GUI/0000000040C7.01C.png",
         "type": ".PNG file",
         "size": "95.42 KB",
         "dateModified": 1694267239.5906215
     },
     {
-        "name": "Overwatch/Kulli/GUI/0000000040C8.01C.png",
+        "name": "GUI/0000000040C8.01C.png",
         "type": ".PNG file",
         "size": "94.59 KB",
         "dateModified": 1694267239.5911217
     },
     {
-        "name": "Overwatch/Kulli/GUI/0000000040CA.01C.png",
+        "name": "GUI/0000000040CA.01C.png",
         "type": ".PNG file",
         "size": "96.93 KB",
         "dateModified": 1694267239.5916219
     },
     {
-        "name": "Overwatch/Kulli/GUI/0000000071CD.png",
+        "name": "GUI/0000000071CD.png",
         "type": ".PNG file",
         "size": "2.94 KB",
         "dateModified": 1694697266.9891567
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001BD74.png",
+        "name": "GUI/00000001BD74.png",
         "type": ".PNG file",
         "size": "5.23 KB",
         "dateModified": 1694697267.059405
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001BD74_1.png",
+        "name": "GUI/00000001BD74_1.png",
         "type": ".PNG file",
         "size": "30.32 KB",
         "dateModified": 1694697267.2631867
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F927.png",
+        "name": "GUI/00000001F927.png",
         "type": ".PNG file",
         "size": "0.74 KB",
         "dateModified": 1694697267.2930794
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F929.png",
+        "name": "GUI/00000001F929.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697267.3304956
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F92A.png",
+        "name": "GUI/00000001F92A.png",
         "type": ".PNG file",
         "size": "0.84 KB",
         "dateModified": 1694697267.3513668
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F92B.png",
+        "name": "GUI/00000001F92B.png",
         "type": ".PNG file",
         "size": "0.76 KB",
         "dateModified": 1694697267.370942
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F92D.png",
+        "name": "GUI/00000001F92D.png",
         "type": ".PNG file",
         "size": "0.55 KB",
         "dateModified": 1694697267.3844552
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F933.png",
+        "name": "GUI/00000001F933.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697267.396471
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F934.png",
+        "name": "GUI/00000001F934.png",
         "type": ".PNG file",
         "size": "0.81 KB",
         "dateModified": 1694697267.4560907
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F939.png",
+        "name": "GUI/00000001F939.png",
         "type": ".PNG file",
         "size": "0.75 KB",
         "dateModified": 1694697267.4891632
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F93F.png",
+        "name": "GUI/00000001F93F.png",
         "type": ".PNG file",
         "size": "1.09 KB",
         "dateModified": 1694697267.52431
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000001F940.png",
+        "name": "GUI/00000001F940.png",
         "type": ".PNG file",
         "size": "0.75 KB",
         "dateModified": 1694697267.5557508
     },
     {
-        "name": "Overwatch/Kulli/GUI/0000000402C6.png",
+        "name": "GUI/0000000402C6.png",
         "type": ".PNG file",
         "size": "2.04 KB",
         "dateModified": 1694697267.6071792
     },
     {
-        "name": "Overwatch/Kulli/GUI/0000000402C7.png",
+        "name": "GUI/0000000402C7.png",
         "type": ".PNG file",
         "size": "2.44 KB",
         "dateModified": 1694697267.6243036
     },
     {
-        "name": "Overwatch/Kulli/GUI/00000004173B.png",
+        "name": "GUI/00000004173B.png",
         "type": ".PNG file",
         "size": "2.32 KB",
         "dateModified": 1694697267.639491
+    },
+    {
+        "name": "GUI/output.json",
+        "type": ".JSON file",
+        "size": "3.24 KB",
+        "dateModified": 1694697267.6439931
     }
 ]

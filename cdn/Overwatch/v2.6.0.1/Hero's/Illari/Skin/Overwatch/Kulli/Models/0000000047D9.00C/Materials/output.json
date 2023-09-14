@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Kulli/Models/0000000047D9.00C/Materials/EE67C5157601.owmat",
+        "name": "Models/0000000047D9.00C/Materials/EE67C5157601.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267243.1183653
+    },
+    {
+        "name": "Models/0000000047D9.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697401.0554755
     }
 ]

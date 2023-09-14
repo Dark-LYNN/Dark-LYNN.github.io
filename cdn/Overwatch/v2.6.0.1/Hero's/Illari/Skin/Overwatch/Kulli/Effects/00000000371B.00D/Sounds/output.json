@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Kulli/Effects/00000000371B.00D/Sounds/0000000064C3.02C",
+        "name": "Effects/00000000371B.00D/Sounds/0000000064C3.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267238.2638643
+        "dateModified": 1694697255.0047345
+    },
+    {
+        "name": "Effects/00000000371B.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694697254.9843912
     }
 ]
