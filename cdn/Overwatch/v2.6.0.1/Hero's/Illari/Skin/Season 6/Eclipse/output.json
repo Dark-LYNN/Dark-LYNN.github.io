@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Effects",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697592.682073
+    },
+    {
+        "name": "Entities",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697593.2559314
+    },
+    {
+        "name": "GUI",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697594.0009086
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697696.8473132
+    },
+    {
+        "name": "Models",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697594.0078993
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "0.87 KB",
+        "dateModified": 1694697694.838915
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697696.8478143
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "8.94 KB",
+        "dateModified": 1694696842.5307052
+    }
+]

@@ -1,26 +1,44 @@
 [
     {
-        "name": "32",
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267266.1636367
+        "dateModified": 1694361982.4123995
     },
     {
-        "name": "36",
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267266.1646369
+        "dateModified": 1694361984.493151
     },
     {
-        "name": "60",
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267266.1646369
+        "dateModified": 1694361989.7119577
     },
     {
-        "name": "run.py",
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694361980.9403
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "1.40 KB",
+        "dateModified": 1694697504.667361
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000134D8.00C/Animations/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694361980.9413083
     }
 ]

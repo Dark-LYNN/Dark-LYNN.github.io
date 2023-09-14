@@ -1,14 +1,32 @@
 [
     {
-        "name": "run.py",
+        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000001BF2.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694359293.297801
+    },
+    {
+        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000001BF2.00D/output.json",
+        "type": ".JSON file",
+        "size": "1.05 KB",
+        "dateModified": 1694697503.2806416
+    },
+    {
+        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000001BF2.00D/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Sounds",
+        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000001BF2.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694359293.2983007
+    },
+    {
+        "name": "Llama Pajamas/Entities/Gameplay3P/Effects/000000001BF2.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267263.4577625
+        "dateModified": 1694359296.677534
     }
 ]

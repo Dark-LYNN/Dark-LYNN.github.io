@@ -1,48 +1,48 @@
 [
     {
-        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267261.9639683
     },
     {
-        "name": "Models/0000000134D8.00C/Animations",
+        "name": "0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4390025
     },
     {
-        "name": "Models/0000000134D8.00C/index.html",
+        "name": "0000000134D8.00C/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696908.4375007
     },
     {
-        "name": "Models/0000000134D8.00C/Materials",
+        "name": "0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.449869
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks",
+        "name": "0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4513693
     },
     {
-        "name": "Models/0000000134D8.00C/output.json",
+        "name": "0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "0.99 KB",
-        "dateModified": 1694696908.4369545
+        "size": "1.51 KB",
+        "dateModified": 1694697501.6382627
     },
     {
-        "name": "Models/0000000134D8.00C/script.js",
+        "name": "0000000134D8.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696908.4375007
     },
     {
-        "name": "Models/0000000134D8.00C/Textures",
+        "name": "0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4543698

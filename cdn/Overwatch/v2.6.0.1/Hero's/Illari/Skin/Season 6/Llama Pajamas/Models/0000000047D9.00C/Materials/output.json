@@ -1,14 +1,32 @@
 [
     {
-        "name": "EE67C5157601.owmat",
+        "name": "Llama Pajamas/Models/0000000047D9.00C/Materials/EE67C5157601.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267265.955982
     },
     {
-        "name": "run.py",
+        "name": "Llama Pajamas/Models/0000000047D9.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694361145.955099
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000047D9.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "1.01 KB",
+        "dateModified": 1694697504.5303712
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000047D9.00C/Materials/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "Llama Pajamas/Models/0000000047D9.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694361145.9556003
     }
 ]

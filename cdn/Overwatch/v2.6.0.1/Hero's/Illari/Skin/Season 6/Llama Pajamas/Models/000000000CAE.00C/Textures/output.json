@@ -1,26 +1,44 @@
 [
     {
-        "name": "000000001395.png",
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/000000001395.png",
         "type": ".PNG file",
         "size": "0.61 KB",
         "dateModified": 1694360878.7571957
     },
     {
-        "name": "000000001411.png",
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/000000001411.png",
         "type": ".PNG file",
         "size": "22.98 KB",
         "dateModified": 1694360878.7647233
     },
     {
-        "name": "8000A4703933.png",
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/8000A4703933.png",
         "type": ".PNG file",
         "size": "0.14 KB",
         "dateModified": 1694360878.7657237
     },
     {
-        "name": "run.py",
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.09 KB",
+        "dateModified": 1694360878.7672262
+    },
+    {
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.41 KB",
+        "dateModified": 1694697504.3017612
+    },
+    {
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
+    },
+    {
+        "name": "Llama Pajamas/Models/000000000CAE.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694360878.7672262
     }
 ]

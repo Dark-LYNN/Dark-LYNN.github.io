@@ -1,24 +1,24 @@
 [
     {
-        "name": "Models/000000010BAE.00C/ModelLooks/000000013AC1.owmat",
+        "name": "000000010BAE.00C/ModelLooks/000000013AC1.owmat",
         "type": ".OWMAT file",
         "size": "0.06 KB",
         "dateModified": 1694267261.9488902
     },
     {
-        "name": "Models/000000010BAE.00C/ModelLooks/index.html",
+        "name": "000000010BAE.00C/ModelLooks/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696908.4185498
     },
     {
-        "name": "Models/000000010BAE.00C/ModelLooks/output.json",
+        "name": "000000010BAE.00C/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.36 KB",
-        "dateModified": 1694696908.4180486
+        "size": "0.80 KB",
+        "dateModified": 1694697501.6196718
     },
     {
-        "name": "Models/000000010BAE.00C/ModelLooks/script.js",
+        "name": "000000010BAE.00C/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696908.4190497

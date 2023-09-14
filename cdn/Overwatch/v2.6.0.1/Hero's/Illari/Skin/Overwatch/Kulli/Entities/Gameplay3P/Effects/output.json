@@ -1,0 +1,404 @@
+[
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000000BF.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3031197
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000000EE.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3041196
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000178.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3051198
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000186.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3056197
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000019E.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3061202
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000206.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.309134
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000510.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.310134
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000511.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.311649
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000000512.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3121493
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000017CB.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3136504
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000017E4.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3156495
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000017E5.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3176646
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000183B.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.319073
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001A32.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.319573
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001AF8.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3230734
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001B24.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3278966
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001B2F.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3291476
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001B8E.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.331649
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001BAE.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.335649
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000001BF2.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3391647
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000025C4.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3411653
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002777.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3456664
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002891.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.349176
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002892.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3496766
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002893.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3501756
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002894.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3511777
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002939.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3516836
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000002E5F.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3521843
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003517.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3536844
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000036AD.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3541842
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000371B.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3546836
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003791.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3551843
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003C58.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.359225
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D2F.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.360225
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D39.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3612254
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D3A.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.361725
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D3B.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3627262
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D3C.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3637264
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003D3D.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.364226
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000003E0D.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.3647256
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004349.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4068644
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A4.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4098725
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A5.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4103727
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A6.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4119503
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A7.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4129515
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000045A8.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4144516
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000483D.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.414952
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000483F.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4159548
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004A9B.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4174707
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004AC5.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4200385
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004AC6.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4353464
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004ADB.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.435846
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004AE6.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4458644
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004CE5.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.447877
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004D7C.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4495757
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004D7D.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4500756
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004D7E.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4510758
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004E12.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4520757
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004E23.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4580865
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000004F08.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4600964
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000005167.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.463597
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000005174.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4640977
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000517E.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4655979
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000526C.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.469084
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/000000005363.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.4720843
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000053EC.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.50956
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/0000000053F4.00D",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694267239.580021
+    }
+]

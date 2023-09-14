@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Entities/Gameplay3P/AnimationEffects",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697593.5054235
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697593.5189378
+    },
+    {
+        "name": "Entities/Gameplay3P/Gameplay3P.owentity",
+        "type": ".OWENTITY file",
+        "size": "0.21 KB",
+        "dateModified": 1694661371.6704874
+    },
+    {
+        "name": "Entities/Gameplay3P/output.json",
+        "type": ".JSON file",
+        "size": "0.69 KB",
+        "dateModified": 1694697695.7304566
+    }
+]

@@ -1,14 +1,32 @@
 [
     {
-        "name": "000000003C4F.02C",
+        "name": "Llama Pajamas/Effects/000000001BF2.00D/Sounds/000000003C4F.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267262.0623498
+        "dateModified": 1694352319.7196183
     },
     {
-        "name": "run.py",
+        "name": "Llama Pajamas/Effects/000000001BF2.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694352316.735188
+    },
+    {
+        "name": "Llama Pajamas/Effects/000000001BF2.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "1.00 KB",
+        "dateModified": 1694697501.9229944
+    },
+    {
+        "name": "Llama Pajamas/Effects/000000001BF2.00D/Sounds/run.py",
         "type": ".PY file",
         "size": "7.60 KB",
         "dateModified": 1694352215.1006393
+    },
+    {
+        "name": "Llama Pajamas/Effects/000000001BF2.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694352316.735188
     }
 ]

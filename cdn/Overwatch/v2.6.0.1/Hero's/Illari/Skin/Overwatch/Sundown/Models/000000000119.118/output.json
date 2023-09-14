@@ -1,54 +1,54 @@
 [
     {
-        "name": "Models/000000000119.118/000000000119.118.owmdl",
+        "name": "000000000119.118/000000000119.118.owmdl",
         "type": ".OWMDL file",
         "size": "5982.50 KB",
         "dateModified": 1694267261.0894277
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects",
+        "name": "000000000119.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696907.6950147
     },
     {
-        "name": "Models/000000000119.118/Animations",
+        "name": "000000000119.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696907.9171994
     },
     {
-        "name": "Models/000000000119.118/index.html",
+        "name": "000000000119.118/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696907.6905127
     },
     {
-        "name": "Models/000000000119.118/Materials",
+        "name": "000000000119.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.026463
     },
     {
-        "name": "Models/000000000119.118/ModelLooks",
+        "name": "000000000119.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.0299718
     },
     {
-        "name": "Models/000000000119.118/output.json",
+        "name": "000000000119.118/output.json",
         "type": ".JSON file",
-        "size": "1.17 KB",
-        "dateModified": 1694696907.6905127
+        "size": "1.71 KB",
+        "dateModified": 1694697500.988179
     },
     {
-        "name": "Models/000000000119.118/script.js",
+        "name": "000000000119.118/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696907.6910136
     },
     {
-        "name": "Models/000000000119.118/Textures",
+        "name": "000000000119.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.047503
