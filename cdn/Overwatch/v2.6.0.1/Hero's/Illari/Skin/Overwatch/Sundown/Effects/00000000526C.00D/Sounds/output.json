@@ -1,24 +1,24 @@
 [
     {
-        "name": "Overwatch/Sundown/Effects/00000000526C.00D/Sounds/00000000A594.02C",
+        "name": "Effects/00000000526C.00D/Sounds/00000000A594.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696882.7254157
     },
     {
-        "name": "Overwatch/Sundown/Effects/00000000526C.00D/Sounds/index.html",
+        "name": "Effects/00000000526C.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696882.720402
     },
     {
-        "name": "Overwatch/Sundown/Effects/00000000526C.00D/Sounds/output.json",
+        "name": "Effects/00000000526C.00D/Sounds/output.json",
         "type": ".JSON file",
         "size": "0.71 KB",
-        "dateModified": 1694696926.8811934
+        "dateModified": 1694699466.574551
     },
     {
-        "name": "Overwatch/Sundown/Effects/00000000526C.00D/Sounds/script.js",
+        "name": "Effects/00000000526C.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696882.720402

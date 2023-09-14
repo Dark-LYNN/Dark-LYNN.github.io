@@ -1,24 +1,24 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/000000004D41.003/000000004D41.003.owentity",
+        "name": "Entities/000000004D41.003/000000004D41.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694267259.223445
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004D41.003/index.html",
+        "name": "Entities/000000004D41.003/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696865.7666903
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004D41.003/output.json",
+        "name": "Entities/000000004D41.003/output.json",
         "type": ".JSON file",
         "size": "0.70 KB",
-        "dateModified": 1694696927.2556665
+        "dateModified": 1694699467.013676
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004D41.003/script.js",
+        "name": "Entities/000000004D41.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696865.7666903

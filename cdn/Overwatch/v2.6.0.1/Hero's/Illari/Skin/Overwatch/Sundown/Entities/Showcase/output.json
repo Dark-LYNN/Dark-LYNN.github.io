@@ -1,36 +1,36 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/AnimationEffects",
+        "name": "Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696850.37102
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/index.html",
+        "name": "Entities/Showcase/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696866.413146
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/output.json",
+        "name": "Entities/Showcase/output.json",
         "type": ".JSON file",
-        "size": "0.99 KB",
-        "dateModified": 1694696927.7425542
+        "size": "1.10 KB",
+        "dateModified": 1694697500.9726808
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/script.js",
+        "name": "Entities/Showcase/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696866.4136462
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/Showcase.owentity",
+        "name": "Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267261.071424
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase/test.py",
+        "name": "Entities/Showcase/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696921.6007545

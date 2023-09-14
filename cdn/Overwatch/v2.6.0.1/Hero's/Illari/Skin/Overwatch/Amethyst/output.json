@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Effects",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3214593
+    },
+    {
+        "name": "Entities",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.6855636
+    },
+    {
+        "name": "GUI",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.7130508
+    },
+    {
+        "name": "Models",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699466.790334
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "8.95 KB",
+        "dateModified": 1694696330.9265792
+    }
+]

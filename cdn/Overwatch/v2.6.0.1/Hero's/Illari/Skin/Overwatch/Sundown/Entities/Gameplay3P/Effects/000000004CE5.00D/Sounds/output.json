@@ -1,30 +1,30 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/000000009C45.02C",
+        "name": "Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/000000009C45.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.2057347
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/000000009C46.02C",
+        "name": "Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/000000009C46.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.208237
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/index.html",
+        "name": "Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696866.2027342
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/output.json",
+        "name": "Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "1.00 KB",
-        "dateModified": 1694696927.571426
+        "size": "1.09 KB",
+        "dateModified": 1694697500.7807436
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/script.js",
+        "name": "Entities/Gameplay3P/Effects/000000004CE5.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696866.2032342

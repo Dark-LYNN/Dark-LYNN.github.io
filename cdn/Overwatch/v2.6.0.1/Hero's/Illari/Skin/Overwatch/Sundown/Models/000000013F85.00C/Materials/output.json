@@ -1,32 +1,32 @@
 [
     {
-        "name": "000000013F85.00C/Materials/81F329A0930E.owmat",
+        "name": "Models/000000013F85.00C/Materials/81F329A0930E.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267262.0210013
     },
     {
-        "name": "000000013F85.00C/Materials/AFD10B516DDB.owmat",
+        "name": "Models/000000013F85.00C/Materials/AFD10B516DDB.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267262.0210013
     },
     {
-        "name": "000000013F85.00C/Materials/index.html",
+        "name": "Models/000000013F85.00C/Materials/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.484376
+        "dateModified": 1694697711.32303
     },
     {
-        "name": "000000013F85.00C/Materials/output.json",
+        "name": "Models/000000013F85.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "1.00 KB",
-        "dateModified": 1694697501.682849
+        "size": "0.88 KB",
+        "dateModified": 1694697711.32303
     },
     {
-        "name": "000000013F85.00C/Materials/script.js",
+        "name": "Models/000000013F85.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.484376
+        "dateModified": 1694697711.32303
     }
 ]

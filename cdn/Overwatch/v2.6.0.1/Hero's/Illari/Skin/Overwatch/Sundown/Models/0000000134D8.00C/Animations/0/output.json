@@ -1,38 +1,38 @@
 [
     {
-        "name": "0000000134D8.00C/Animations/0/32",
+        "name": "Models/0000000134D8.00C/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.441503
     },
     {
-        "name": "0000000134D8.00C/Animations/0/36",
+        "name": "Models/0000000134D8.00C/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4433537
     },
     {
-        "name": "0000000134D8.00C/Animations/0/60",
+        "name": "Models/0000000134D8.00C/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4448557
     },
     {
-        "name": "0000000134D8.00C/Animations/0/index.html",
+        "name": "Models/0000000134D8.00C/Animations/0/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.4400022
+        "dateModified": 1694697711.2745671
     },
     {
-        "name": "0000000134D8.00C/Animations/0/output.json",
+        "name": "Models/0000000134D8.00C/Animations/0/output.json",
         "type": ".JSON file",
-        "size": "1.18 KB",
-        "dateModified": 1694697501.6402628
+        "size": "1.03 KB",
+        "dateModified": 1694697711.2740579
     },
     {
-        "name": "0000000134D8.00C/Animations/0/script.js",
+        "name": "Models/0000000134D8.00C/Animations/0/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.4405024
+        "dateModified": 1694697711.2745671
     }
 ]

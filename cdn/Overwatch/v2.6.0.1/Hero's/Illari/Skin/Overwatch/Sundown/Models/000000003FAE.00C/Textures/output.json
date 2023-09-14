@@ -1,38 +1,38 @@
 [
     {
-        "name": "000000003FAE.00C/Textures/0000000052F4.png",
+        "name": "Models/000000003FAE.00C/Textures/0000000052F4.png",
         "type": ".PNG file",
         "size": "4.97 KB",
         "dateModified": 1694696061.0320928
     },
     {
-        "name": "000000003FAE.00C/Textures/800040583902.png",
+        "name": "Models/000000003FAE.00C/Textures/800040583902.png",
         "type": ".PNG file",
         "size": "0.08 KB",
         "dateModified": 1694696061.0335937
     },
     {
-        "name": "000000003FAE.00C/Textures/800052C2D833.png",
+        "name": "Models/000000003FAE.00C/Textures/800052C2D833.png",
         "type": ".PNG file",
         "size": "0.29 KB",
         "dateModified": 1694696061.0375948
     },
     {
-        "name": "000000003FAE.00C/Textures/index.html",
+        "name": "Models/000000003FAE.00C/Textures/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.3183863
+        "dateModified": 1694697711.1386766
     },
     {
-        "name": "000000003FAE.00C/Textures/output.json",
+        "name": "Models/000000003FAE.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.19 KB",
-        "dateModified": 1694697501.5362275
+        "size": "1.04 KB",
+        "dateModified": 1694697711.1381767
     },
     {
-        "name": "000000003FAE.00C/Textures/script.js",
+        "name": "Models/000000003FAE.00C/Textures/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.318887
+        "dateModified": 1694697711.1386766
     }
 ]

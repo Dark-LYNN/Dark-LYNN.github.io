@@ -1,30 +1,30 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery/AnimationEffects",
+        "name": "Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.4041328
     },
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery/HeroGallery.owentity",
+        "name": "Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267261.0684242
     },
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery/index.html",
+        "name": "Entities/HeroGallery/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696866.4031327
     },
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery/output.json",
+        "name": "Entities/HeroGallery/output.json",
         "type": ".JSON file",
-        "size": "0.85 KB",
-        "dateModified": 1694696927.734298
+        "size": "0.94 KB",
+        "dateModified": 1694697500.9641654
     },
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery/script.js",
+        "name": "Entities/HeroGallery/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696866.4036326

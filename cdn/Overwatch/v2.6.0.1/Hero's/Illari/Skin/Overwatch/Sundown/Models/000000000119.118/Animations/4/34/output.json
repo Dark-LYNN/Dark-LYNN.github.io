@@ -1,32 +1,32 @@
 [
     {
-        "name": "000000000119.118/Animations/4/34/00000000D528.owanimclip",
+        "name": "Models/000000000119.118/Animations/4/34/00000000D528.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "17.08 KB",
         "dateModified": 1694267261.2394624
     },
     {
-        "name": "000000000119.118/Animations/4/34/00000000D52A.owanimclip",
+        "name": "Models/000000000119.118/Animations/4/34/00000000D52A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "16.00 KB",
         "dateModified": 1694267261.2399628
     },
     {
-        "name": "000000000119.118/Animations/4/34/index.html",
+        "name": "Models/000000000119.118/Animations/4/34/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696907.9830985
+        "dateModified": 1694697710.8063915
     },
     {
-        "name": "000000000119.118/Animations/4/34/output.json",
+        "name": "Models/000000000119.118/Animations/4/34/output.json",
         "type": ".JSON file",
-        "size": "1.05 KB",
-        "dateModified": 1694697501.2251499
+        "size": "0.93 KB",
+        "dateModified": 1694697710.8058913
     },
     {
-        "name": "000000000119.118/Animations/4/34/script.js",
+        "name": "Models/000000000119.118/Animations/4/34/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696907.9835982
+        "dateModified": 1694697710.8063915
     }
 ]

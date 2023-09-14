@@ -1,54 +1,60 @@
 [
     {
-        "name": "Overwatch/Sundown/Effects",
+        "name": "3D Model",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699769.8336358
+    },
+    {
+        "name": "Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696882.0193455
     },
     {
-        "name": "Overwatch/Sundown/Entities",
+        "name": "Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.384163
     },
     {
-        "name": "Overwatch/Sundown/GUI",
+        "name": "GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696877.9967494
     },
     {
-        "name": "Overwatch/Sundown/index.html",
+        "name": "index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696928.4108713
     },
     {
-        "name": "Overwatch/Sundown/Models",
+        "name": "Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696907.6890125
     },
     {
-        "name": "Overwatch/Sundown/output.json",
+        "name": "output.json",
         "type": ".JSON file",
         "size": "1.29 KB",
-        "dateModified": 1694696926.2841673
+        "dateModified": 1694699465.9321454
     },
     {
-        "name": "Overwatch/Sundown/run.py",
+        "name": "run.py",
         "type": ".PY file",
         "size": "8.90 KB",
         "dateModified": 1694696029.5359478
     },
     {
-        "name": "Overwatch/Sundown/script.js",
+        "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696928.4108713
     },
     {
-        "name": "Overwatch/Sundown/test.py",
+        "name": "test.py",
         "type": ".PY file",
         "size": "8.95 KB",
         "dateModified": 1694696330.9265792

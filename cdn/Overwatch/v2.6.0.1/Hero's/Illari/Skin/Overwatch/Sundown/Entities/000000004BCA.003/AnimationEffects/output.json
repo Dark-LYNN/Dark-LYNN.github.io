@@ -1,66 +1,66 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.9809856
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.9814858
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.9814858
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.9814858
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.9819858
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.984986
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.984986
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.984986
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/index.html",
+        "name": "Entities/000000004BCA.003/AnimationEffects/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696865.6083314
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/output.json",
+        "name": "Entities/000000004BCA.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "2.15 KB",
-        "dateModified": 1694696927.1631167
+        "size": "2.14 KB",
+        "dateModified": 1694699466.9064062
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003/AnimationEffects/script.js",
+        "name": "Entities/000000004BCA.003/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696865.6083314

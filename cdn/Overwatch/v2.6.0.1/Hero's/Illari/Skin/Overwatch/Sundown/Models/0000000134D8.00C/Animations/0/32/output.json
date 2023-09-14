@@ -1,26 +1,26 @@
 [
     {
-        "name": "0000000134D8.00C/Animations/0/32/00000000D5AF.owanimclip",
+        "name": "Models/0000000134D8.00C/Animations/0/32/00000000D5AF.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "11.30 KB",
         "dateModified": 1694267261.9644682
     },
     {
-        "name": "0000000134D8.00C/Animations/0/32/index.html",
+        "name": "Models/0000000134D8.00C/Animations/0/32/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.441503
+        "dateModified": 1694697711.2760675
     },
     {
-        "name": "0000000134D8.00C/Animations/0/32/output.json",
+        "name": "Models/0000000134D8.00C/Animations/0/32/output.json",
         "type": ".JSON file",
-        "size": "0.83 KB",
-        "dateModified": 1694697501.6417634
+        "size": "0.73 KB",
+        "dateModified": 1694697711.275568
     },
     {
-        "name": "0000000134D8.00C/Animations/0/32/script.js",
+        "name": "Models/0000000134D8.00C/Animations/0/32/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.441503
+        "dateModified": 1694697711.2760675
     }
 ]

@@ -1,36 +1,36 @@
 [
     {
-        "name": "000000010F4E.00C/000000010F4E.owmdl",
+        "name": "Models/000000010F4E.00C/000000010F4E.owmdl",
         "type": ".OWMDL file",
         "size": "0.75 KB",
         "dateModified": 1694267261.9488902
     },
     {
-        "name": "000000010F4E.00C/index.html",
+        "name": "Models/000000010F4E.00C/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.4200494
+        "dateModified": 1694697711.2530348
     },
     {
-        "name": "000000010F4E.00C/Materials",
+        "name": "Models/000000010F4E.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4235506
     },
     {
-        "name": "000000010F4E.00C/output.json",
+        "name": "Models/000000010F4E.00C/output.json",
         "type": ".JSON file",
-        "size": "1.13 KB",
-        "dateModified": 1694697501.6211736
+        "size": "0.98 KB",
+        "dateModified": 1694697711.2530348
     },
     {
-        "name": "000000010F4E.00C/script.js",
+        "name": "Models/000000010F4E.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.42055
+        "dateModified": 1694697711.2530348
     },
     {
-        "name": "000000010F4E.00C/Textures",
+        "name": "Models/000000010F4E.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4294326

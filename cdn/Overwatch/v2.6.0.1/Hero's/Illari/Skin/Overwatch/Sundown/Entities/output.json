@@ -1,168 +1,168 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/00000000014F.003",
+        "name": "Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3856633
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000000162.003",
+        "name": "Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3866632
     },
     {
-        "name": "Overwatch/Sundown/Entities/00000000130D.003",
+        "name": "Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3876636
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000002D33.003",
+        "name": "Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3891747
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000003024.003",
+        "name": "Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.390676
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004828.003",
+        "name": "Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3921764
     },
     {
-        "name": "Overwatch/Sundown/Entities/0000000048CC.003",
+        "name": "Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.3931763
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004AC0.003",
+        "name": "Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.4112046
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003",
+        "name": "Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.600326
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004BCA.003",
+        "name": "Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6053276
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004C29.003",
+        "name": "Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.7636902
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004C2A.003",
+        "name": "Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.7651904
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004D41.003",
+        "name": "Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.7666903
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004E10.003",
+        "name": "Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.767691
     },
     {
-        "name": "Overwatch/Sundown/Entities/0000000050BF.003",
+        "name": "Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.769207
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000005384.003",
+        "name": "Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.7706518
     },
     {
-        "name": "Overwatch/Sundown/Entities/0000000053DA.003",
+        "name": "Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.772153
     },
     {
-        "name": "Overwatch/Sundown/Entities/Gameplay3P",
+        "name": "Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.773653
     },
     {
-        "name": "Overwatch/Sundown/Entities/Healing Pylon-20794",
+        "name": "Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.4016323
     },
     {
-        "name": "Overwatch/Sundown/Entities/HeroGallery",
+        "name": "Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.4031327
     },
     {
-        "name": "Overwatch/Sundown/Entities/HighlightIntro",
+        "name": "Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.405633
     },
     {
-        "name": "Overwatch/Sundown/Entities/index.html",
+        "name": "Entities/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696865.384163
     },
     {
-        "name": "Overwatch/Sundown/Entities/output.json",
+        "name": "Entities/output.json",
         "type": ".JSON file",
         "size": "4.50 KB",
-        "dateModified": 1694696927.0061483
+        "dateModified": 1694699466.7214768
     },
     {
-        "name": "Overwatch/Sundown/Entities/PreviewEmote",
+        "name": "Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.409145
     },
     {
-        "name": "Overwatch/Sundown/Entities/script.js",
+        "name": "Entities/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696865.384163
     },
     {
-        "name": "Overwatch/Sundown/Entities/Showcase",
+        "name": "Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696487.9825885
     },
     {
-        "name": "Overwatch/Sundown/Entities/Solar Rifle-20793",
+        "name": "Entities/Solar Rifle-20793",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696481.027774
     },
     {
-        "name": "Overwatch/Sundown/Entities/test.py",
+        "name": "Entities/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696842.5307052

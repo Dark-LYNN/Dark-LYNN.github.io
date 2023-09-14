@@ -1,38 +1,38 @@
 [
     {
-        "name": "000000010BAE.00C/000000010BAE.owmdl",
+        "name": "Models/000000010BAE.00C/000000010BAE.owmdl",
         "type": ".OWMDL file",
         "size": "53.70 KB",
         "dateModified": 1694267261.9483898
     },
     {
-        "name": "000000010BAE.00C/index.html",
+        "name": "Models/000000010BAE.00C/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.4160366
+        "dateModified": 1694697711.248534
     },
     {
-        "name": "000000010BAE.00C/Materials",
+        "name": "Models/000000010BAE.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4170487
     },
     {
-        "name": "000000010BAE.00C/ModelLooks",
+        "name": "Models/000000010BAE.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4185498
     },
     {
-        "name": "000000010BAE.00C/output.json",
+        "name": "Models/000000010BAE.00C/output.json",
         "type": ".JSON file",
-        "size": "1.13 KB",
-        "dateModified": 1694697501.617671
+        "size": "0.99 KB",
+        "dateModified": 1694697711.2480338
     },
     {
-        "name": "000000010BAE.00C/script.js",
+        "name": "Models/000000010BAE.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.4160366
+        "dateModified": 1694697711.248534
     }
 ]

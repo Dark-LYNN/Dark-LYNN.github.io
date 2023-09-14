@@ -1,30 +1,30 @@
 [
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003/000000004B4A.003.owentity",
+        "name": "Entities/000000004B4A.003/000000004B4A.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267258.980485
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003/AnimationEffects",
+        "name": "Entities/000000004B4A.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696865.6028264
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003/index.html",
+        "name": "Entities/000000004B4A.003/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
         "dateModified": 1694696865.5773356
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003/output.json",
+        "name": "Entities/000000004B4A.003/output.json",
         "type": ".JSON file",
         "size": "0.88 KB",
-        "dateModified": 1694696927.1586146
+        "dateModified": 1694699466.901906
     },
     {
-        "name": "Overwatch/Sundown/Entities/000000004B4A.003/script.js",
+        "name": "Entities/000000004B4A.003/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694696865.600826

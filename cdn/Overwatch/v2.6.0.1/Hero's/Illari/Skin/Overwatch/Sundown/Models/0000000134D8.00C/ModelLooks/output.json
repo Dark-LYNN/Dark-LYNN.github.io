@@ -1,26 +1,26 @@
 [
     {
-        "name": "0000000134D8.00C/ModelLooks/DEFAULT-192FE.owmat",
+        "name": "Models/0000000134D8.00C/ModelLooks/DEFAULT-192FE.owmat",
         "type": ".OWMAT file",
         "size": "0.06 KB",
         "dateModified": 1694267261.9683607
     },
     {
-        "name": "0000000134D8.00C/ModelLooks/index.html",
+        "name": "Models/0000000134D8.00C/ModelLooks/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.4513693
+        "dateModified": 1694697711.287081
     },
     {
-        "name": "0000000134D8.00C/ModelLooks/output.json",
+        "name": "Models/0000000134D8.00C/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.80 KB",
-        "dateModified": 1694697501.6502788
+        "size": "0.70 KB",
+        "dateModified": 1694697711.286581
     },
     {
-        "name": "0000000134D8.00C/ModelLooks/script.js",
+        "name": "Models/0000000134D8.00C/ModelLooks/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.4518692
+        "dateModified": 1694697711.287081
     }
 ]

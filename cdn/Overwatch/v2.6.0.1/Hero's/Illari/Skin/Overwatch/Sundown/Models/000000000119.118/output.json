@@ -1,54 +1,54 @@
 [
     {
-        "name": "000000000119.118/000000000119.118.owmdl",
+        "name": "Models/000000000119.118/000000000119.118.owmdl",
         "type": ".OWMDL file",
         "size": "5982.50 KB",
         "dateModified": 1694267261.0894277
     },
     {
-        "name": "000000000119.118/AnimationEffects",
+        "name": "Models/000000000119.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696907.6950147
     },
     {
-        "name": "000000000119.118/Animations",
+        "name": "Models/000000000119.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696907.9171994
     },
     {
-        "name": "000000000119.118/index.html",
+        "name": "Models/000000000119.118/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696907.6905127
+        "dateModified": 1694697710.4943185
     },
     {
-        "name": "000000000119.118/Materials",
+        "name": "Models/000000000119.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.026463
     },
     {
-        "name": "000000000119.118/ModelLooks",
+        "name": "Models/000000000119.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.0299718
     },
     {
-        "name": "000000000119.118/output.json",
+        "name": "Models/000000000119.118/output.json",
         "type": ".JSON file",
-        "size": "1.71 KB",
-        "dateModified": 1694697500.988179
+        "size": "1.49 KB",
+        "dateModified": 1694697710.4943185
     },
     {
-        "name": "000000000119.118/script.js",
+        "name": "Models/000000000119.118/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696907.6910136
+        "dateModified": 1694697710.4948194
     },
     {
-        "name": "000000000119.118/Textures",
+        "name": "Models/000000000119.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.047503

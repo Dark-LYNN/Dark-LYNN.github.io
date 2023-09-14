@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Entities/00000000014F.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3632715
+    },
+    {
+        "name": "Entities/000000000162.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.366773
+    },
+    {
+        "name": "Entities/00000000130D.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3707728
+    },
+    {
+        "name": "Entities/000000002D33.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3742883
+    },
+    {
+        "name": "Entities/000000003024.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3782885
+    },
+    {
+        "name": "Entities/000000004828.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.382304
+    },
+    {
+        "name": "Entities/0000000048CC.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.3872688
+    },
+    {
+        "name": "Entities/000000004AC0.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699459.4972658
+    },
+    {
+        "name": "Entities/000000004B4A.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.1597166
+    },
+    {
+        "name": "Entities/000000004BCA.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.181786
+    },
+    {
+        "name": "Entities/000000004C29.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5260868
+    },
+    {
+        "name": "Entities/000000004C2A.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5295877
+    },
+    {
+        "name": "Entities/000000004D41.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5331023
+    },
+    {
+        "name": "Entities/000000004E10.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5371032
+    },
+    {
+        "name": "Entities/0000000050BF.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5406036
+    },
+    {
+        "name": "Entities/000000005384.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.544117
+    },
+    {
+        "name": "Entities/0000000053DA.003",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.5476172
+    },
+    {
+        "name": "Entities/Gameplay3P",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699460.8012507
+    },
+    {
+        "name": "Entities/Healing Pylon-20794",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.642937
+    },
+    {
+        "name": "Entities/HeroGallery",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.6479373
+    },
+    {
+        "name": "Entities/HighlightIntro",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.6557863
+    },
+    {
+        "name": "Entities/PreviewEmote",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.6653006
+    },
+    {
+        "name": "Entities/Showcase",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.677551
+    },
+    {
+        "name": "Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699462.687064
+    }
+]

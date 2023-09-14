@@ -1,56 +1,56 @@
 [
     {
-        "name": "000000002866.00C/Materials/9D6005045385.owmat",
+        "name": "Models/000000002866.00C/Materials/9D6005045385.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267261.8605945
     },
     {
-        "name": "000000002866.00C/Materials/A51DBF708AE4.owmat",
+        "name": "Models/000000002866.00C/Materials/A51DBF708AE4.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267261.861095
     },
     {
-        "name": "000000002866.00C/Materials/AE867422D8A2.owmat",
+        "name": "Models/000000002866.00C/Materials/AE867422D8A2.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267261.861095
     },
     {
-        "name": "000000002866.00C/Materials/B09B5AC4D787.owmat",
+        "name": "Models/000000002866.00C/Materials/B09B5AC4D787.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267261.861095
     },
     {
-        "name": "000000002866.00C/Materials/DF5898243736.owmat",
+        "name": "Models/000000002866.00C/Materials/DF5898243736.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267261.8615947
     },
     {
-        "name": "000000002866.00C/Materials/EC0BB184C2FC.owmat",
+        "name": "Models/000000002866.00C/Materials/EC0BB184C2FC.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267261.8615947
     },
     {
-        "name": "000000002866.00C/Materials/index.html",
+        "name": "Models/000000002866.00C/Materials/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694696908.2884464
+        "dateModified": 1694697711.1062274
     },
     {
-        "name": "000000002866.00C/Materials/output.json",
+        "name": "Models/000000002866.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "1.82 KB",
-        "dateModified": 1694697501.51061
+        "size": "1.60 KB",
+        "dateModified": 1694697711.1057274
     },
     {
-        "name": "000000002866.00C/Materials/script.js",
+        "name": "Models/000000002866.00C/Materials/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696908.2884464
+        "dateModified": 1694697711.1062274
     }
 ]
