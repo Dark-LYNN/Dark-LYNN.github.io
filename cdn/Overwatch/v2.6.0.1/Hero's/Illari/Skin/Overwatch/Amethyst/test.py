@@ -187,6 +187,18 @@ def process_directory(directory):
         json.dump(directory_data, json_file, indent=4)
         print(f'Directory listing data has been generated and saved to {output_json_file}')
 
+    # Create Index.html
+    html_file_path = os.path.join(directory, 'index.html')
+    with open(html_file_path, 'w', encoding='utf-8') as html_file:
+        html_file.write(html_content)
+        print(f'HTML file has been generated and saved to {html_file_path}')
+
+    # Create Script.js
+    js_file_path = os.path.join(directory, 'script.js')
+    with open(js_file_path, 'w', encoding='utf-8') as js_file:
+        js_file.write(js_content)
+        print(f'JavaScript file has been generated and saved to {js_file_path}')
+
     # Recursively process subdirectories
     for subdir in os.listdir(directory):
         subdir_path = os.path.join(directory, subdir)
@@ -199,17 +211,3 @@ if __name__ == "__main__":
     
     # Start processing the main directory and its subdirectories
     process_directory(root_directory)
-
-    # Create Index.html
-    html_file_path = os.path.join(current_directory, 'index.html')
-    with open(html_file_path, 'w', encoding='utf-8') as html_file:
-        html_file.write(html_content)
-
-    print(f'HTML file has been generated and saved to {html_file_path}')
-
-    # Create Script.js
-    js_file_path = os.path.join(root_directory, 'script.js')
-    with open(js_file_path, 'w', encoding='utf-8') as js_file:
-        js_file.write(js_content)
-
-    print(f'JavaScript file has been generated and saved to {js_file_path}')
