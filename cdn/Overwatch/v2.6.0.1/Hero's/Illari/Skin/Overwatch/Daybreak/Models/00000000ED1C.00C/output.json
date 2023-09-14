@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/00000000ED1C.00C/00000000ED1C.owmdl",
+        "name": "Models/00000000ED1C.00C/00000000ED1C.owmdl",
         "type": ".OWMDL file",
         "size": "110.89 KB",
         "dateModified": 1694267235.9097638
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000ED1C.00C/Materials",
+        "name": "Models/00000000ED1C.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267235.9097638
+        "dateModified": 1694697241.6090932
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000ED1C.00C/Textures",
+        "name": "Models/00000000ED1C.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694697241.6085856
+    },
+    {
+        "name": "Models/00000000ED1C.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267235.910264
+        "dateModified": 1694697241.81907
     }
 ]

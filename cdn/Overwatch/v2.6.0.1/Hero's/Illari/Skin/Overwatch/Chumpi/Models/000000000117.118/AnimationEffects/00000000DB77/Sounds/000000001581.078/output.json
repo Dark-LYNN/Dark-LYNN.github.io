@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/(Angry).ogg",
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/(Angry).ogg",
         "type": ".OGG file",
         "size": "10.08 KB",
         "dateModified": 1694267231.1437356
+    },
+    {
+        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds/000000001581.078/output.json",
+        "type": ".JSON file",
+        "size": "0.24 KB",
+        "dateModified": 1694697082.6250656
     }
 ]

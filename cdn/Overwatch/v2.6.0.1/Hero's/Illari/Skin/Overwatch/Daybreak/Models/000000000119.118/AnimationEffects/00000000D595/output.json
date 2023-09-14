@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D595/Sounds",
+        "name": "Models/000000000119.118/AnimationEffects/00000000D595/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694697144.8344865
+    },
+    {
+        "name": "Models/000000000119.118/AnimationEffects/00000000D595/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267233.9530864
+        "dateModified": 1694697144.8349857
     }
 ]

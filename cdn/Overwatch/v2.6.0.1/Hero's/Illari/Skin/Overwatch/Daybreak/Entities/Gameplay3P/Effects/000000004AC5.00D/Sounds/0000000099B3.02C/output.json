@@ -1,68 +1,74 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A21.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A21.03F.ogg",
         "type": ".OGG file",
         "size": "6.43 KB",
         "dateModified": 1694267233.7240736
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A22.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A22.03F.ogg",
         "type": ".OGG file",
         "size": "6.73 KB",
         "dateModified": 1694267233.7245731
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A23.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000225A23.03F.ogg",
         "type": ".OGG file",
         "size": "6.74 KB",
         "dateModified": 1694267233.7245731
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B03.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B03.03F.ogg",
         "type": ".OGG file",
         "size": "85.94 KB",
         "dateModified": 1694267233.7250733
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B05.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B05.03F.ogg",
         "type": ".OGG file",
         "size": "17.63 KB",
         "dateModified": 1694267233.7255733
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B06.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B06.03F.ogg",
         "type": ".OGG file",
         "size": "18.89 KB",
         "dateModified": 1694267233.7260745
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B07.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B07.03F.ogg",
         "type": ".OGG file",
         "size": "17.33 KB",
         "dateModified": 1694267233.7260745
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B08.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B08.03F.ogg",
         "type": ".OGG file",
         "size": "16.22 KB",
         "dateModified": 1694267233.7260745
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B09.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B09.03F.ogg",
         "type": ".OGG file",
         "size": "18.25 KB",
         "dateModified": 1694267233.7270777
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B0A.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B0A.03F.ogg",
         "type": ".OGG file",
         "size": "16.58 KB",
         "dateModified": 1694267233.7270777
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B0B.03F.ogg",
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/000000233B0B.03F.ogg",
         "type": ".OGG file",
         "size": "17.97 KB",
         "dateModified": 1694267233.72759
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000004AC5.00D/Sounds/0000000099B3.02C/output.json",
+        "type": ".JSON file",
+        "size": "2.65 KB",
+        "dateModified": 1694697139.9902315
     }
 ]

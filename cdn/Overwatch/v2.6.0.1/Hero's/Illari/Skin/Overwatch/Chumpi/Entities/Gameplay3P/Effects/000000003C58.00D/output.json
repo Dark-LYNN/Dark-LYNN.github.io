@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds",
+        "name": "Entities/Gameplay3P/Effects/000000003C58.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697081.8187082
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000003C58.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.6726358
+        "dateModified": 1694697081.8192081
     }
 ]

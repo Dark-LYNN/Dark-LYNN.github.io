@@ -1,56 +1,62 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/0000000010A3.png",
+        "name": "Models/00000000310C.00C/Textures/0000000010A3.png",
         "type": ".PNG file",
         "size": "0.09 KB",
         "dateModified": 1694697229.4222803
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/0000000052E8.png",
+        "name": "Models/00000000310C.00C/Textures/0000000052E8.png",
         "type": ".PNG file",
         "size": "12.14 KB",
         "dateModified": 1694697229.4930449
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/000000009F80.png",
+        "name": "Models/00000000310C.00C/Textures/000000009F80.png",
         "type": ".PNG file",
         "size": "16.38 KB",
         "dateModified": 1694697229.6084423
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/000000009F80_1.png",
+        "name": "Models/00000000310C.00C/Textures/000000009F80_1.png",
         "type": ".PNG file",
         "size": "13.81 KB",
         "dateModified": 1694697229.7013514
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/000000009F80_2.png",
+        "name": "Models/00000000310C.00C/Textures/000000009F80_2.png",
         "type": ".PNG file",
         "size": "16.95 KB",
         "dateModified": 1694697229.8029635
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/000000009F80_3.png",
+        "name": "Models/00000000310C.00C/Textures/000000009F80_3.png",
         "type": ".PNG file",
         "size": "14.42 KB",
         "dateModified": 1694697229.9017255
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/000000009F81.png",
+        "name": "Models/00000000310C.00C/Textures/000000009F81.png",
         "type": ".PNG file",
         "size": "25.03 KB",
         "dateModified": 1694697229.992375
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/00000000ADD0.png",
+        "name": "Models/00000000310C.00C/Textures/00000000ADD0.png",
         "type": ".PNG file",
         "size": "0.36 KB",
         "dateModified": 1694697229.9948745
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000310C.00C/Textures/800045799372.png",
+        "name": "Models/00000000310C.00C/Textures/800045799372.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697230.0268521
+    },
+    {
+        "name": "Models/00000000310C.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.82 KB",
+        "dateModified": 1694697230.0680158
     }
 ]

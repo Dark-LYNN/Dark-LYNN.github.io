@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/AnimationEffects",
+        "name": "Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267233.5941212
+        "dateModified": 1694697138.5448654
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects",
+        "name": "Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267233.8689344
+        "dateModified": 1694697138.5892713
     },
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Gameplay3P.owentity",
+        "name": "Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267233.8747537
+    },
+    {
+        "name": "Entities/Gameplay3P/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694697137.9029324
     }
 ]

@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds",
+        "name": "Entities/Gameplay3P/Effects/000000001AF8.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697138.890392
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267233.6161807
+        "dateModified": 1694697138.8913925
     }
 ]

@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Daybreak/Effects/000000000186.00D/Sounds/000000000FCB.02C",
+        "name": "Effects/000000000186.00D/Sounds/000000000FCB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267232.0464356
+        "dateModified": 1694697129.123767
+    },
+    {
+        "name": "Effects/000000000186.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697129.123268
     }
 ]

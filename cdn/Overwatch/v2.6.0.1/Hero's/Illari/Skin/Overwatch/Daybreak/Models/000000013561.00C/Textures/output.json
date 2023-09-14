@@ -1,44 +1,50 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/00000002B625.png",
+        "name": "Models/000000013561.00C/Textures/00000002B625.png",
         "type": ".PNG file",
         "size": "0.56 KB",
         "dateModified": 1694697249.0999768
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/00000003FAA8.png",
+        "name": "Models/000000013561.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694697249.1883566
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/80005CA0B274.png",
+        "name": "Models/000000013561.00C/Textures/80005CA0B274.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694697249.194005
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/800074C7E816.png",
+        "name": "Models/000000013561.00C/Textures/800074C7E816.png",
         "type": ".PNG file",
         "size": "0.31 KB",
         "dateModified": 1694697249.3204792
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/8000AD107EF2.png",
+        "name": "Models/000000013561.00C/Textures/8000AD107EF2.png",
         "type": ".PNG file",
         "size": "0.15 KB",
         "dateModified": 1694697249.3762705
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/8000B214D25D.png",
+        "name": "Models/000000013561.00C/Textures/8000B214D25D.png",
         "type": ".PNG file",
         "size": "0.20 KB",
         "dateModified": 1694697249.7593136
     },
     {
-        "name": "Overwatch/Daybreak/Models/000000013561.00C/Textures/8000B4E709FB.png",
+        "name": "Models/000000013561.00C/Textures/8000B4E709FB.png",
         "type": ".PNG file",
         "size": "0.31 KB",
         "dateModified": 1694697249.982871
+    },
+    {
+        "name": "Models/000000013561.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.41 KB",
+        "dateModified": 1694697249.9843714
     }
 ]

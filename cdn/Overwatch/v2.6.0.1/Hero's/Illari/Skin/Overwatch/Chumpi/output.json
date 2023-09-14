@@ -1,50 +1,62 @@
 [
     {
-        "name": "Overwatch/Chumpi/Effects",
+        "name": "3D Model",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699526.5118833
+    },
+    {
+        "name": "Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694621521.3349438
     },
     {
-        "name": "Overwatch/Chumpi/Entities",
+        "name": "Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267231.069562
+        "dateModified": 1694697081.3633337
     },
     {
-        "name": "Overwatch/Chumpi/GUI",
+        "name": "GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267231.075063
+        "dateModified": 1694697082.466896
     },
     {
-        "name": "Overwatch/Chumpi/index.html",
+        "name": "index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694621517.2196598
     },
     {
-        "name": "Overwatch/Chumpi/Models",
+        "name": "Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267232.040934
+        "dateModified": 1694697082.4742813
     },
     {
-        "name": "Overwatch/Chumpi/output.json",
+        "name": "output.json",
         "type": ".JSON file",
-        "size": "0.72 KB",
-        "dateModified": 1694621517.2186606
+        "size": "1.29 KB",
+        "dateModified": 1694697077.1078649
     },
     {
-        "name": "Overwatch/Chumpi/run.py",
+        "name": "run.py",
         "type": ".PY file",
         "size": "8.11 KB",
         "dateModified": 1694359229.0680084
     },
     {
-        "name": "Overwatch/Chumpi/script.js",
+        "name": "script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694621517.2196598
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "8.94 KB",
+        "dateModified": 1694696842.5307052
     }
 ]

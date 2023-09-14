@@ -1,50 +1,56 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/00000000293F.png",
+        "name": "Models/000000001E7F.00C/Textures/00000000293F.png",
         "type": ".PNG file",
         "size": "0.22 KB",
         "dateModified": 1694697118.3878481
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/00000000DC90.png",
+        "name": "Models/000000001E7F.00C/Textures/00000000DC90.png",
         "type": ".PNG file",
         "size": "0.62 KB",
         "dateModified": 1694697118.3918486
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/00000003E45B.png",
+        "name": "Models/000000001E7F.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697118.4224477
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/80003AAD469F.png",
+        "name": "Models/000000001E7F.00C/Textures/80003AAD469F.png",
         "type": ".PNG file",
         "size": "0.40 KB",
         "dateModified": 1694697118.4274592
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/80004107EE24.png",
+        "name": "Models/000000001E7F.00C/Textures/80004107EE24.png",
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694697118.432461
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/80004FE66F23.png",
+        "name": "Models/000000001E7F.00C/Textures/80004FE66F23.png",
         "type": ".PNG file",
         "size": "0.42 KB",
         "dateModified": 1694697118.4369729
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/8000737E34F6.png",
+        "name": "Models/000000001E7F.00C/Textures/8000737E34F6.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697118.4409728
     },
     {
-        "name": "Overwatch/Chumpi/Models/000000001E7F.00C/Textures/8000D3D54C67.png",
+        "name": "Models/000000001E7F.00C/Textures/8000D3D54C67.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697118.4424734
+    },
+    {
+        "name": "Models/000000001E7F.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.60 KB",
+        "dateModified": 1694697118.4439743
     }
 ]

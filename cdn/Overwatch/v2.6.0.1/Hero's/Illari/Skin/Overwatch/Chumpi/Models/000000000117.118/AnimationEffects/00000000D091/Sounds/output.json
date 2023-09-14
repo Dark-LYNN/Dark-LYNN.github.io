@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D091/Sounds/000000009EC8.02C",
+        "name": "Models/000000000117.118/AnimationEffects/00000000D091/Sounds/000000009EC8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267231.1071124
+        "dateModified": 1694697082.5444531
+    },
+    {
+        "name": "Models/000000000117.118/AnimationEffects/00000000D091/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.23 KB",
+        "dateModified": 1694697082.5324352
     }
 ]

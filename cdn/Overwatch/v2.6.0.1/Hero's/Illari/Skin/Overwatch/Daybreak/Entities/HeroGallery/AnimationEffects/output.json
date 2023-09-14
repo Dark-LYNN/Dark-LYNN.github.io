@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8752534
+    },
+    {
+        "name": "Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697142.082234
     }
 ]

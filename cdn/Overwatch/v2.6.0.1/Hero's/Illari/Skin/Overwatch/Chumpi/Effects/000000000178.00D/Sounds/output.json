@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Effects/000000000178.00D/Sounds/000000001665.02C",
+        "name": "Effects/000000000178.00D/Sounds/000000001665.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267228.109174
+        "dateModified": 1694697077.2512774
+    },
+    {
+        "name": "Effects/000000000178.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694697077.250277
     }
 ]

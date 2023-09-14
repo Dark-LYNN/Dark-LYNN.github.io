@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8757539
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/AnimationEffects/00000000DB78.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000DB78.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8762538
     },
     {
-        "name": "Overwatch/Daybreak/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8762538
+    },
+    {
+        "name": "Entities/HighlightIntro/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.65 KB",
+        "dateModified": 1694697142.0842495
     }
 ]

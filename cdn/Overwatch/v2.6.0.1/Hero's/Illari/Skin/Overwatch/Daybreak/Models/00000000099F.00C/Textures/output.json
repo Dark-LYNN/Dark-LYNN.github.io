@@ -1,50 +1,56 @@
 [
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/000000021521.png",
+        "name": "Models/00000000099F.00C/Textures/000000021521.png",
         "type": ".PNG file",
         "size": "0.56 KB",
         "dateModified": 1694697182.6005335
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/0000000299E1.png",
+        "name": "Models/00000000099F.00C/Textures/0000000299E1.png",
         "type": ".PNG file",
         "size": "148.79 KB",
         "dateModified": 1694697182.8484473
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/00000003781F.png",
+        "name": "Models/00000000099F.00C/Textures/00000003781F.png",
         "type": ".PNG file",
         "size": "0.08 KB",
         "dateModified": 1694697182.850448
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/00000003E45B.png",
+        "name": "Models/00000000099F.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697182.9028208
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/80002D1DE52F.png",
+        "name": "Models/00000000099F.00C/Textures/80002D1DE52F.png",
         "type": ".PNG file",
         "size": "0.12 KB",
         "dateModified": 1694697182.9054558
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/8000D936F621.png",
+        "name": "Models/00000000099F.00C/Textures/8000D936F621.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697182.9593189
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/8000E95BFD34.png",
+        "name": "Models/00000000099F.00C/Textures/8000E95BFD34.png",
         "type": ".PNG file",
         "size": "0.14 KB",
         "dateModified": 1694697183.0263312
     },
     {
-        "name": "Overwatch/Daybreak/Models/00000000099F.00C/Textures/8000FBEEA532.png",
+        "name": "Models/00000000099F.00C/Textures/8000FBEEA532.png",
         "type": ".PNG file",
         "size": "0.15 KB",
         "dateModified": 1694697183.0652046
+    },
+    {
+        "name": "Models/00000000099F.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.61 KB",
+        "dateModified": 1694697183.0672052
     }
 ]

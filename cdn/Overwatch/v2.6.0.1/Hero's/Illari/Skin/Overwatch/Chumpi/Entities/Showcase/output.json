@@ -1,12 +1,18 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/Showcase/AnimationEffects",
+        "name": "Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267231.069562
+        "dateModified": 1694697082.1893554
     },
     {
-        "name": "Overwatch/Chumpi/Entities/Showcase/Showcase.owentity",
+        "name": "Entities/Showcase/output.json",
+        "type": ".JSON file",
+        "size": "0.38 KB",
+        "dateModified": 1694697082.1883557
+    },
+    {
+        "name": "Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267231.069562

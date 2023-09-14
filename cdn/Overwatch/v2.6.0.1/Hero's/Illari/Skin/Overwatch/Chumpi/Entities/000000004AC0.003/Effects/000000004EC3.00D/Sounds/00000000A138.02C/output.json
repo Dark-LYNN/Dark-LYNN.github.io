@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/00000000A138.02C/00000023048E.03F.ogg",
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/00000000A138.02C/00000023048E.03F.ogg",
         "type": ".OGG file",
         "size": "6.12 KB",
         "dateModified": 1694267230.1600578
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/00000000A138.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694697081.53395
     }
 ]

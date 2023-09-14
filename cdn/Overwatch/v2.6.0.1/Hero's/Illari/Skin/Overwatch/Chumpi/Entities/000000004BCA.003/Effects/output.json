@@ -1,38 +1,44 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/000000004C03.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.1725857
+        "dateModified": 1694697081.5414002
     },
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/000000004D7F.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.1735854
+        "dateModified": 1694697081.5439
     },
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/000000004D80.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.240603
+        "dateModified": 1694697081.5584471
     },
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/000000004EAA.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.2506194
+        "dateModified": 1694697081.5649474
     },
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/000000004EAE.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.504793
+        "dateModified": 1694697081.6149495
     },
     {
-        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/Effects/0000000051EF.00D",
+        "name": "Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267230.5133185
+        "dateModified": 1694697081.6307604
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "1.23 KB",
+        "dateModified": 1694697081.5409
     }
 ]

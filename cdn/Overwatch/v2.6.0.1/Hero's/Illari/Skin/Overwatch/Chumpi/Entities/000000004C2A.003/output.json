@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/000000004C2A.003/000000004C2A.003.owentity",
+        "name": "Entities/000000004C2A.003/000000004C2A.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.13 KB",
         "dateModified": 1694267230.5148191
+    },
+    {
+        "name": "Entities/000000004C2A.003/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697081.6347609
     }
 ]

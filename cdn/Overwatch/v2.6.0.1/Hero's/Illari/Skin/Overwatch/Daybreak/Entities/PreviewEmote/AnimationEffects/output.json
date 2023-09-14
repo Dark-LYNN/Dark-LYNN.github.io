@@ -1,32 +1,38 @@
 [
     {
-        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8762538
     },
     {
-        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8762538
     },
     {
-        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8762538
     },
     {
-        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8772564
     },
     {
-        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267233.8772564
+    },
+    {
+        "name": "Entities/PreviewEmote/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.07 KB",
+        "dateModified": 1694697142.120631
     }
 ]

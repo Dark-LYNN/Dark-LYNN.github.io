@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Chumpi/Entities/0000000048CC.003/0000000048CC.003.owentity",
+        "name": "Entities/0000000048CC.003/0000000048CC.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267229.8155718
     },
     {
-        "name": "Overwatch/Chumpi/Entities/0000000048CC.003/AnimationEffects",
+        "name": "Entities/0000000048CC.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267229.8660767
+        "dateModified": 1694697081.3838692
+    },
+    {
+        "name": "Entities/0000000048CC.003/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694697081.368853
     }
 ]
