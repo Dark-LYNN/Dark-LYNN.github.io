@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000000CAE.00C/Textures/000000001395.png",
+        "name": "Models/000000000CAE.00C/Textures/000000001395.png",
         "type": ".PNG file",
         "size": "0.61 KB",
         "dateModified": 1694697493.3380651
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000CAE.00C/Textures/000000001411.png",
+        "name": "Models/000000000CAE.00C/Textures/000000001411.png",
         "type": ".PNG file",
         "size": "22.98 KB",
         "dateModified": 1694697493.3490794
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000CAE.00C/Textures/8000A4703933.png",
+        "name": "Models/000000000CAE.00C/Textures/8000A4703933.png",
         "type": ".PNG file",
         "size": "0.14 KB",
         "dateModified": 1694697493.3515804
+    },
+    {
+        "name": "Models/000000000CAE.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "0.60 KB",
+        "dateModified": 1694697493.3530807
     }
 ]

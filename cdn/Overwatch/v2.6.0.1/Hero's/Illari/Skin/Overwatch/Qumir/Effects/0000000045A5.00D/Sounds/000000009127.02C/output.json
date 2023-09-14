@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A5.00D/Sounds/000000009127.02C/0000001F601A.03F.ogg",
+        "name": "Effects/0000000045A5.00D/Sounds/000000009127.02C/0000001F601A.03F.ogg",
         "type": ".OGG file",
         "size": "47.28 KB",
         "dateModified": 1694267248.2347114
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A5.00D/Sounds/000000009127.02C/0000001F601B.03F.ogg",
+        "name": "Effects/0000000045A5.00D/Sounds/000000009127.02C/0000001F601B.03F.ogg",
         "type": ".OGG file",
         "size": "48.89 KB",
         "dateModified": 1694267248.2352114
+    },
+    {
+        "name": "Effects/0000000045A5.00D/Sounds/000000009127.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.44 KB",
+        "dateModified": 1694697475.2167687
     }
 ]

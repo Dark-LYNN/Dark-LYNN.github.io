@@ -1,44 +1,50 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/8893E46C66F0.owmat",
+        "name": "Models/000000013561.00C/Materials/8893E46C66F0.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7382634
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/BC9646D7715B.owmat",
+        "name": "Models/000000013561.00C/Materials/BC9646D7715B.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7387626
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/C4C9886A3D43.owmat",
+        "name": "Models/000000013561.00C/Materials/C4C9886A3D43.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7387626
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/E45009B785F1.owmat",
+        "name": "Models/000000013561.00C/Materials/E45009B785F1.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7387626
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/E8D65E884E6D.owmat",
+        "name": "Models/000000013561.00C/Materials/E8D65E884E6D.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7392628
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/EE11A6E5F4B8.owmat",
+        "name": "Models/000000013561.00C/Materials/EE11A6E5F4B8.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7407632
     },
     {
-        "name": "Overwatch/Qumir/Models/000000013561.00C/Materials/F29D5DFDD61F.owmat",
+        "name": "Models/000000013561.00C/Materials/F29D5DFDD61F.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267255.7407632
+    },
+    {
+        "name": "Models/000000013561.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "1.42 KB",
+        "dateModified": 1694697499.013616
     }
 ]

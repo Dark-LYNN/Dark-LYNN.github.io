@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/00000000C637.00C/Materials/EAF7CE7691B8.owmat",
+        "name": "Models/00000000C637.00C/Materials/EAF7CE7691B8.owmat",
         "type": ".OWMAT file",
         "size": "0.22 KB",
         "dateModified": 1694267255.4410331
+    },
+    {
+        "name": "Models/00000000C637.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697497.5929174
     }
 ]

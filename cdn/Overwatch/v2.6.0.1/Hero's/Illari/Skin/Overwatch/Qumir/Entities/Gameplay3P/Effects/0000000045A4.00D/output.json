@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/Gameplay3P/Effects/0000000045A4.00D/Sounds",
+        "name": "Entities/Gameplay3P/Effects/0000000045A4.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697476.6195843
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/0000000045A4.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267249.4993901
+        "dateModified": 1694697476.6200836
     }
 ]

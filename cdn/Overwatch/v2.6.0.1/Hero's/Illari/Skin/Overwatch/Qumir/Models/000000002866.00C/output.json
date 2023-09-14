@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000002866.00C/000000002866.owmdl",
+        "name": "Models/000000002866.00C/000000002866.owmdl",
         "type": ".OWMDL file",
         "size": "1.42 KB",
         "dateModified": 1694267255.0818229
     },
     {
-        "name": "Overwatch/Qumir/Models/000000002866.00C/Materials",
+        "name": "Models/000000002866.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267255.094077
+        "dateModified": 1694697496.6283653
     },
     {
-        "name": "Overwatch/Qumir/Models/000000002866.00C/Textures",
+        "name": "Models/000000002866.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694697496.626749
+    },
+    {
+        "name": "Models/000000002866.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267255.181536
+        "dateModified": 1694697496.7635243
     }
 ]

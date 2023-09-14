@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations/0/32/00000000D5AF.owanimclip",
+        "name": "Models/0000000134D8.00C/Animations/0/32/00000000D5AF.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "11.30 KB",
         "dateModified": 1694267255.7010498
+    },
+    {
+        "name": "Models/0000000134D8.00C/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694697498.2599974
     }
 ]

@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/00000000A138.02C",
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/00000000A138.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.838585
+        "dateModified": 1694697476.306754
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.23 KB",
+        "dateModified": 1694697476.3052409
     }
 ]

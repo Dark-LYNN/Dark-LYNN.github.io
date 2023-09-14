@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects/000000000957/Sounds",
+        "name": "Models/000000000117.118/AnimationEffects/000000000957/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697477.0232658
+    },
+    {
+        "name": "Models/000000000117.118/AnimationEffects/000000000957/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267250.288319
+        "dateModified": 1694697477.0237658
     }
 ]

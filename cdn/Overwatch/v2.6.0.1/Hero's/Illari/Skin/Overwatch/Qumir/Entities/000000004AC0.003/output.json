@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/000000004AC0.003/000000004AC0.003.owentity",
+        "name": "Entities/000000004AC0.003/000000004AC0.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.13 KB",
         "dateModified": 1694267248.6325388
     },
     {
-        "name": "Overwatch/Qumir/Entities/000000004AC0.003/Effects",
+        "name": "Entities/000000004AC0.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.8380835
+        "dateModified": 1694697476.170149
+    },
+    {
+        "name": "Entities/000000004AC0.003/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694697476.168147
     }
 ]

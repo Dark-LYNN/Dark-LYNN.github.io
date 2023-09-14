@@ -1,518 +1,524 @@
 [
     {
-        "name": "Overwatch/Qumir/Effects/0000000000BF.00D",
+        "name": "Effects/0000000000BF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1122458
+        "dateModified": 1694697475.0566504
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000000EE.00D",
+        "name": "Effects/0000000000EE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1132464
+        "dateModified": 1694697475.058651
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000178.00D",
+        "name": "Effects/000000000178.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1137462
+        "dateModified": 1694697475.0606513
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000186.00D",
+        "name": "Effects/000000000186.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1147487
+        "dateModified": 1694697475.0631516
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000019E.00D",
+        "name": "Effects/00000000019E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1152594
+        "dateModified": 1694697475.0651703
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000206.00D",
+        "name": "Effects/000000000206.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.118373
+        "dateModified": 1694697475.070182
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000510.00D",
+        "name": "Effects/000000000510.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1188745
+        "dateModified": 1694697475.0726826
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000511.00D",
+        "name": "Effects/000000000511.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.120375
+        "dateModified": 1694697475.0751834
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000000512.00D",
+        "name": "Effects/000000000512.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1227527
+        "dateModified": 1694697475.0781946
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000017CB.00D",
+        "name": "Effects/0000000017CB.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1247556
+        "dateModified": 1694697475.082195
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000017E4.00D",
+        "name": "Effects/0000000017E4.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1262586
+        "dateModified": 1694697475.0851953
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000017E5.00D",
+        "name": "Effects/0000000017E5.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1282685
+        "dateModified": 1694697475.0907104
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000183B.00D",
+        "name": "Effects/00000000183B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1297686
+        "dateModified": 1694697475.0942123
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001A32.00D",
+        "name": "Effects/000000001A32.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1302688
+        "dateModified": 1694697475.096731
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001AF8.00D",
+        "name": "Effects/000000001AF8.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1342692
+        "dateModified": 1694697475.1007316
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001B24.00D",
+        "name": "Effects/000000001B24.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.139286
+        "dateModified": 1694697475.1063142
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001B2F.00D",
+        "name": "Effects/000000001B2F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1402862
+        "dateModified": 1694697475.1096492
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001B8E.00D",
+        "name": "Effects/000000001B8E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1422894
+        "dateModified": 1694697475.1131487
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001BAE.00D",
+        "name": "Effects/000000001BAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1452994
+        "dateModified": 1694697475.118642
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000001BF2.00D",
+        "name": "Effects/000000001BF2.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.148813
+        "dateModified": 1694697475.1241436
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000025C4.00D",
+        "name": "Effects/0000000025C4.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.150813
+        "dateModified": 1694697475.1276586
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002777.00D",
+        "name": "Effects/000000002777.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1553261
+        "dateModified": 1694697475.1344874
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002891.00D",
+        "name": "Effects/000000002891.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1586177
+        "dateModified": 1694697475.139505
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002892.00D",
+        "name": "Effects/000000002892.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1596184
+        "dateModified": 1694697475.1422014
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002893.00D",
+        "name": "Effects/000000002893.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1601183
+        "dateModified": 1694697475.144163
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002894.00D",
+        "name": "Effects/000000002894.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1606185
+        "dateModified": 1694697475.146165
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002939.00D",
+        "name": "Effects/000000002939.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1611185
+        "dateModified": 1694697475.148554
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000002E5F.00D",
+        "name": "Effects/000000002E5F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1616187
+        "dateModified": 1694697475.15062
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003517.00D",
+        "name": "Effects/000000003517.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1631193
+        "dateModified": 1694697475.153789
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000036AD.00D",
+        "name": "Effects/0000000036AD.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1636193
+        "dateModified": 1694697475.1562915
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000371B.00D",
+        "name": "Effects/00000000371B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.164119
+        "dateModified": 1694697475.1585002
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003791.00D",
+        "name": "Effects/000000003791.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.165119
+        "dateModified": 1694697475.1605003
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003C58.00D",
+        "name": "Effects/000000003C58.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1691334
+        "dateModified": 1694697475.165515
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D2F.00D",
+        "name": "Effects/000000003D2F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.170133
+        "dateModified": 1694697475.168531
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D39.00D",
+        "name": "Effects/000000003D39.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1706336
+        "dateModified": 1694697475.1710312
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D3A.00D",
+        "name": "Effects/000000003D3A.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1716332
+        "dateModified": 1694697475.173824
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D3B.00D",
+        "name": "Effects/000000003D3B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.172134
+        "dateModified": 1694697475.1753263
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D3C.00D",
+        "name": "Effects/000000003D3C.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.173137
+        "dateModified": 1694697475.1773365
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003D3D.00D",
+        "name": "Effects/000000003D3D.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1741464
+        "dateModified": 1694697475.1798375
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000003E0D.00D",
+        "name": "Effects/000000003E0D.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.1746464
+        "dateModified": 1694697475.181838
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004349.00D",
+        "name": "Effects/000000004349.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2302105
+        "dateModified": 1694697475.208191
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A4.00D",
+        "name": "Effects/0000000045A4.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2332113
+        "dateModified": 1694697475.212191
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A5.00D",
+        "name": "Effects/0000000045A5.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2342112
+        "dateModified": 1694697475.2146914
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A6.00D",
+        "name": "Effects/0000000045A6.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2352114
+        "dateModified": 1694697475.2172692
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A7.00D",
+        "name": "Effects/0000000045A7.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2362142
+        "dateModified": 1694697475.22027
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000045A8.00D",
+        "name": "Effects/0000000045A8.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.237223
+        "dateModified": 1694697475.222771
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000483D.00D",
+        "name": "Effects/00000000483D.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2387238
+        "dateModified": 1694697475.2252705
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000483F.00D",
+        "name": "Effects/00000000483F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2397232
+        "dateModified": 1694697475.2277746
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004A9B.00D",
+        "name": "Effects/000000004A9B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2407236
+        "dateModified": 1694697475.2302737
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004AC5.00D",
+        "name": "Effects/000000004AC5.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2427247
+        "dateModified": 1694697475.2352755
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004AC6.00D",
+        "name": "Effects/000000004AC6.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2595563
+        "dateModified": 1694697475.2552035
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004ADB.00D",
+        "name": "Effects/000000004ADB.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2605574
+        "dateModified": 1694697475.2582624
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004AE3.00D",
+        "name": "Effects/000000004AE3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.271571
+        "dateModified": 1694697475.275392
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004AE6.00D",
+        "name": "Effects/000000004AE6.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2735708
+        "dateModified": 1694697475.282286
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004B50.00D",
+        "name": "Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2750711
+        "dateModified": 1694697475.2868013
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004C03.00D",
+        "name": "Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2755716
+        "dateModified": 1694697475.2888007
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004CE5.00D",
+        "name": "Effects/000000004CE5.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2770817
+        "dateModified": 1694697475.2913017
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D50.00D",
+        "name": "Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2790816
+        "dateModified": 1694697475.2963047
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D7C.00D",
+        "name": "Effects/000000004D7C.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2800827
+        "dateModified": 1694697475.300142
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D7D.00D",
+        "name": "Effects/000000004D7D.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2805834
+        "dateModified": 1694697475.3021424
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D7E.00D",
+        "name": "Effects/000000004D7E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2815826
+        "dateModified": 1694697475.3048165
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D7F.00D",
+        "name": "Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2825823
+        "dateModified": 1694697475.3073301
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D80.00D",
+        "name": "Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2911012
+        "dateModified": 1694697475.3205607
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004D81.00D",
+        "name": "Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2950866
+        "dateModified": 1694697475.326564
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E12.00D",
+        "name": "Effects/000000004E12.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.2965903
+        "dateModified": 1694697475.32853
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E14.00D",
+        "name": "Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.3031008
+        "dateModified": 1694697475.3355398
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E16.00D",
+        "name": "Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.3041
+        "dateModified": 1694697475.337556
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E17.00D",
+        "name": "Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.3076155
+        "dateModified": 1694697475.3445334
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E23.00D",
+        "name": "Effects/000000004E23.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.3765664
+        "dateModified": 1694697475.416159
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E27.00D",
+        "name": "Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.3790786
+        "dateModified": 1694697475.4206462
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E90.00D",
+        "name": "Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4180863
+        "dateModified": 1694697475.4531438
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004E92.00D",
+        "name": "Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4205866
+        "dateModified": 1694697475.4585037
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004EAA.00D",
+        "name": "Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.423587
+        "dateModified": 1694697475.4650178
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004EAE.00D",
+        "name": "Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4663537
+        "dateModified": 1694697475.514095
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004EC1.00D",
+        "name": "Effects/000000004EC1.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4753659
+        "dateModified": 1694697475.5291245
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004EC3.00D",
+        "name": "Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4803765
+        "dateModified": 1694697475.5316255
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000004F08.00D",
+        "name": "Effects/000000004F08.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4808764
+        "dateModified": 1694697475.5336251
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000005167.00D",
+        "name": "Effects/000000005167.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.484377
+        "dateModified": 1694697475.9969318
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000005174.00D",
+        "name": "Effects/000000005174.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.484877
+        "dateModified": 1694697475.999435
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000517E.00D",
+        "name": "Effects/00000000517E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4863796
+        "dateModified": 1694697476.0014324
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000051EF.00D",
+        "name": "Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.48939
+        "dateModified": 1694697476.0049338
     },
     {
-        "name": "Overwatch/Qumir/Effects/00000000526C.00D",
+        "name": "Effects/00000000526C.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4903913
+        "dateModified": 1694697476.0079477
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000052CB.00D",
+        "name": "Effects/0000000052CB.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4933908
+        "dateModified": 1694697476.0134346
     },
     {
-        "name": "Overwatch/Qumir/Effects/000000005363.00D",
+        "name": "Effects/000000005363.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.4963942
+        "dateModified": 1694697476.0179589
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000053EC.00D",
+        "name": "Effects/0000000053EC.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.5370605
+        "dateModified": 1694697476.0661898
     },
     {
-        "name": "Overwatch/Qumir/Effects/0000000053F4.00D",
+        "name": "Effects/0000000053F4.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.6096463
+        "dateModified": 1694697476.1310558
+    },
+    {
+        "name": "Effects/output.json",
+        "type": ".JSON file",
+        "size": "15.27 KB",
+        "dateModified": 1694697475.055137
     }
 ]

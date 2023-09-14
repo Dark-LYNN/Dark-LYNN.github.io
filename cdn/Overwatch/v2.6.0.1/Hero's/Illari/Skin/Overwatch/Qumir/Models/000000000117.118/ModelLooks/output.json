@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/ModelLooks/DEFAULT-853.owmat",
+        "name": "Models/000000000117.118/ModelLooks/DEFAULT-853.owmat",
         "type": ".OWMAT file",
         "size": "0.52 KB",
         "dateModified": 1694267250.9464514
     },
     {
-        "name": "Overwatch/Qumir/Models/000000000117.118/ModelLooks/DEFAULT-857.owmat",
+        "name": "Models/000000000117.118/ModelLooks/DEFAULT-857.owmat",
         "type": ".OWMAT file",
         "size": "1.11 KB",
         "dateModified": 1694267250.9464514
+    },
+    {
+        "name": "Models/000000000117.118/ModelLooks/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694697477.2901099
     }
 ]

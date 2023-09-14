@@ -1,116 +1,122 @@
 [
     {
-        "name": "Overwatch/Qumir/GUI/0000000040C7.01C.png",
+        "name": "GUI/0000000040C7.01C.png",
         "type": ".PNG file",
         "size": "95.42 KB",
         "dateModified": 1694267250.262164
     },
     {
-        "name": "Overwatch/Qumir/GUI/0000000040C8.01C.png",
+        "name": "GUI/0000000040C8.01C.png",
         "type": ".PNG file",
         "size": "94.59 KB",
         "dateModified": 1694267250.2626636
     },
     {
-        "name": "Overwatch/Qumir/GUI/0000000040CA.01C.png",
+        "name": "GUI/0000000040CA.01C.png",
         "type": ".PNG file",
         "size": "96.93 KB",
         "dateModified": 1694267250.2636664
     },
     {
-        "name": "Overwatch/Qumir/GUI/0000000071CD.png",
+        "name": "GUI/0000000071CD.png",
         "type": ".PNG file",
         "size": "2.94 KB",
         "dateModified": 1694697476.9065623
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001BD74.png",
+        "name": "GUI/00000001BD74.png",
         "type": ".PNG file",
         "size": "5.23 KB",
         "dateModified": 1694697476.9150684
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001BD74_1.png",
+        "name": "GUI/00000001BD74_1.png",
         "type": ".PNG file",
         "size": "30.32 KB",
         "dateModified": 1694697476.9339461
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F927.png",
+        "name": "GUI/00000001F927.png",
         "type": ".PNG file",
         "size": "0.74 KB",
         "dateModified": 1694697476.9389622
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F929.png",
+        "name": "GUI/00000001F929.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697476.942963
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F92A.png",
+        "name": "GUI/00000001F92A.png",
         "type": ".PNG file",
         "size": "0.84 KB",
         "dateModified": 1694697476.947478
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F92B.png",
+        "name": "GUI/00000001F92B.png",
         "type": ".PNG file",
         "size": "0.76 KB",
         "dateModified": 1694697476.951979
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F92D.png",
+        "name": "GUI/00000001F92D.png",
         "type": ".PNG file",
         "size": "0.55 KB",
         "dateModified": 1694697476.9554787
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F933.png",
+        "name": "GUI/00000001F933.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697476.960066
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F934.png",
+        "name": "GUI/00000001F934.png",
         "type": ".PNG file",
         "size": "0.81 KB",
         "dateModified": 1694697476.964067
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F939.png",
+        "name": "GUI/00000001F939.png",
         "type": ".PNG file",
         "size": "0.75 KB",
         "dateModified": 1694697476.9690645
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F93F.png",
+        "name": "GUI/00000001F93F.png",
         "type": ".PNG file",
         "size": "1.09 KB",
         "dateModified": 1694697476.9730654
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000001F940.png",
+        "name": "GUI/00000001F940.png",
         "type": ".PNG file",
         "size": "0.75 KB",
         "dateModified": 1694697476.976576
     },
     {
-        "name": "Overwatch/Qumir/GUI/0000000402C6.png",
+        "name": "GUI/0000000402C6.png",
         "type": ".PNG file",
         "size": "2.04 KB",
         "dateModified": 1694697476.9895933
     },
     {
-        "name": "Overwatch/Qumir/GUI/0000000402C7.png",
+        "name": "GUI/0000000402C7.png",
         "type": ".PNG file",
         "size": "2.44 KB",
         "dateModified": 1694697476.9950943
     },
     {
-        "name": "Overwatch/Qumir/GUI/00000004173B.png",
+        "name": "GUI/00000004173B.png",
         "type": ".PNG file",
         "size": "2.32 KB",
         "dateModified": 1694697477.0016384
+    },
+    {
+        "name": "GUI/output.json",
+        "type": ".JSON file",
+        "size": "3.24 KB",
+        "dateModified": 1694697477.005139
     }
 ]

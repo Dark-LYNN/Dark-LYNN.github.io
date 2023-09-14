@@ -1,92 +1,98 @@
 [
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/0000000014F9.png",
+        "name": "Models/0000000008C0.00C/Textures/0000000014F9.png",
         "type": ".PNG file",
         "size": "10.66 KB",
         "dateModified": 1694697493.1519744
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/0000000014F9_1.png",
+        "name": "Models/0000000008C0.00C/Textures/0000000014F9_1.png",
         "type": ".PNG file",
         "size": "13.61 KB",
         "dateModified": 1694697493.160871
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/000000005233.png",
+        "name": "Models/0000000008C0.00C/Textures/000000005233.png",
         "type": ".PNG file",
         "size": "9.88 KB",
         "dateModified": 1694697493.1901772
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/00000003FAA8.png",
+        "name": "Models/0000000008C0.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694697493.2006917
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000323D51E7.png",
+        "name": "Models/0000000008C0.00C/Textures/8000323D51E7.png",
         "type": ".PNG file",
         "size": "0.28 KB",
         "dateModified": 1694697493.2036922
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/80003244D469.png",
+        "name": "Models/0000000008C0.00C/Textures/80003244D469.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697493.2051954
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/800041181987.png",
+        "name": "Models/0000000008C0.00C/Textures/800041181987.png",
         "type": ".PNG file",
         "size": "0.24 KB",
         "dateModified": 1694697493.2062056
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/800086F1CBA6.png",
+        "name": "Models/0000000008C0.00C/Textures/800086F1CBA6.png",
         "type": ".PNG file",
         "size": "0.29 KB",
         "dateModified": 1694697493.2106805
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000870CE62A.png",
+        "name": "Models/0000000008C0.00C/Textures/8000870CE62A.png",
         "type": ".PNG file",
         "size": "0.22 KB",
         "dateModified": 1694697493.213181
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/80009A49B7D5.png",
+        "name": "Models/0000000008C0.00C/Textures/80009A49B7D5.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697493.2176907
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000A3B956E9.png",
+        "name": "Models/0000000008C0.00C/Textures/8000A3B956E9.png",
         "type": ".PNG file",
         "size": "0.24 KB",
         "dateModified": 1694697493.2211914
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000A5834F5E.png",
+        "name": "Models/0000000008C0.00C/Textures/8000A5834F5E.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697493.2226942
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000B297AB07.png",
+        "name": "Models/0000000008C0.00C/Textures/8000B297AB07.png",
         "type": ".PNG file",
         "size": "0.27 KB",
         "dateModified": 1694697493.2242305
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000D9748327.png",
+        "name": "Models/0000000008C0.00C/Textures/8000D9748327.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697493.2277434
     },
     {
-        "name": "Overwatch/Qumir/Models/0000000008C0.00C/Textures/8000FFEDB51B.png",
+        "name": "Models/0000000008C0.00C/Textures/8000FFEDB51B.png",
         "type": ".PNG file",
         "size": "0.16 KB",
         "dateModified": 1694697493.229244
+    },
+    {
+        "name": "Models/0000000008C0.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "2.98 KB",
+        "dateModified": 1694697493.2322445
     }
 ]

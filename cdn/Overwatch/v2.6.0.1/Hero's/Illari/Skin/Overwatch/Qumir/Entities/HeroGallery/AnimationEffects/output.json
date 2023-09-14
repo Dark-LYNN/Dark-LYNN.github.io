@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267250.2571616
+    },
+    {
+        "name": "Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697476.882014
     }
 ]
