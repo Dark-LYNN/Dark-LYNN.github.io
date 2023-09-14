@@ -9,12 +9,18 @@
         "name": "Models/00000000F65D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699466.390386
+        "dateModified": 1694699501.510088
+    },
+    {
+        "name": "Models/00000000F65D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.69 KB",
+        "dateModified": 1694699810.4521973
     },
     {
         "name": "Models/00000000F65D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699466.3993776
+        "dateModified": 1694699501.5330844
     }
 ]

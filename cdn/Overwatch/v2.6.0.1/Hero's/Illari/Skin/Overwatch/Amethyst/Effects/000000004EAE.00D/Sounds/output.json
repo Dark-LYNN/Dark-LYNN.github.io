@@ -3,18 +3,24 @@
         "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699458.6881623
+        "dateModified": 1694699479.297163
     },
     {
         "name": "Effects/000000004EAE.00D/Sounds/00000000A156.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699458.7105055
+        "dateModified": 1694699479.3016756
     },
     {
         "name": "Effects/000000004EAE.00D/Sounds/00000000A7D8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699458.7307856
+        "dateModified": 1694699479.306676
+    },
+    {
+        "name": "Effects/000000004EAE.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.74 KB",
+        "dateModified": 1694699808.995365
     }
 ]

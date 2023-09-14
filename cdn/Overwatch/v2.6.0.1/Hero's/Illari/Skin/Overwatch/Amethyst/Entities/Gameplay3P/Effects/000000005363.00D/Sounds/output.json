@@ -3,12 +3,18 @@
         "name": "Entities/Gameplay3P/Effects/000000005363.00D/Sounds/000000009967.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.2496157
+        "dateModified": 1694699481.4158888
     },
     {
         "name": "Entities/Gameplay3P/Effects/000000005363.00D/Sounds/0000000099B0.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.3374295
+        "dateModified": 1694699481.4474413
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000005363.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.61 KB",
+        "dateModified": 1694699809.7395692
     }
 ]

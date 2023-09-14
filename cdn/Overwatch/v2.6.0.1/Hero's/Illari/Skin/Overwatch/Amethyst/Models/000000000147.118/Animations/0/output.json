@@ -3,42 +3,48 @@
         "name": "Models/000000000147.118/Animations/0/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.3476875
+        "dateModified": 1694699481.9688218
     },
     {
         "name": "Models/000000000147.118/Animations/0/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.3526993
+        "dateModified": 1694699481.969322
     },
     {
         "name": "Models/000000000147.118/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.4541268
+        "dateModified": 1694699481.979163
     },
     {
         "name": "Models/000000000147.118/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.529088
+        "dateModified": 1694699481.9881768
     },
     {
         "name": "Models/000000000147.118/Animations/0/37",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.535099
+        "dateModified": 1694699481.9906888
     },
     {
         "name": "Models/000000000147.118/Animations/0/52",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.545117
+        "dateModified": 1694699481.9921892
     },
     {
         "name": "Models/000000000147.118/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.5511212
+        "dateModified": 1694699481.9931896
+    },
+    {
+        "name": "Models/000000000147.118/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "1.42 KB",
+        "dateModified": 1694699810.033147
     }
 ]

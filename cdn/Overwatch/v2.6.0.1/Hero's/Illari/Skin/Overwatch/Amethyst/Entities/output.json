@@ -3,144 +3,150 @@
         "name": "Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3632715
+        "dateModified": 1694699479.4432998
     },
     {
         "name": "Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.366773
+        "dateModified": 1694699479.4437995
     },
     {
         "name": "Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3707728
+        "dateModified": 1694699479.4442995
     },
     {
         "name": "Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3742883
+        "dateModified": 1694699479.4447994
     },
     {
         "name": "Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3782885
+        "dateModified": 1694699479.4452996
     },
     {
         "name": "Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.382304
+        "dateModified": 1694699479.4462998
     },
     {
         "name": "Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3872688
+        "dateModified": 1694699479.4468
     },
     {
         "name": "Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.4972658
+        "dateModified": 1694699479.4593132
     },
     {
         "name": "Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.1597166
+        "dateModified": 1694699479.596653
     },
     {
         "name": "Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.181786
+        "dateModified": 1694699479.5976532
     },
     {
         "name": "Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5260868
+        "dateModified": 1694699481.095863
     },
     {
         "name": "Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5295877
+        "dateModified": 1694699481.0973659
     },
     {
         "name": "Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5331023
+        "dateModified": 1694699481.0978656
     },
     {
         "name": "Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5371032
+        "dateModified": 1694699481.0983655
     },
     {
         "name": "Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5406036
+        "dateModified": 1694699481.0993645
     },
     {
         "name": "Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.544117
+        "dateModified": 1694699481.0993645
     },
     {
         "name": "Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.5476172
+        "dateModified": 1694699481.1003673
     },
     {
         "name": "Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.8012507
+        "dateModified": 1694699481.101377
     },
     {
         "name": "Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.642937
+        "dateModified": 1694699481.5551684
     },
     {
         "name": "Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.6479373
+        "dateModified": 1694699481.5561678
     },
     {
         "name": "Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.6557863
+        "dateModified": 1694699481.5586684
+    },
+    {
+        "name": "Entities/output.json",
+        "type": ".JSON file",
+        "size": "4.04 KB",
+        "dateModified": 1694699809.161199
     },
     {
         "name": "Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.6653006
+        "dateModified": 1694699481.5611854
     },
     {
         "name": "Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.677551
+        "dateModified": 1694699481.5666869
     },
     {
         "name": "Entities/Solar Rifle-20793",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.687064
+        "dateModified": 1694699481.5691872
     }
 ]

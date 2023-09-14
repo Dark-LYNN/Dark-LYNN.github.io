@@ -9,30 +9,36 @@
         "name": "Models/000000000147.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.3016045
+        "dateModified": 1694699481.7839675
     },
     {
         "name": "Models/000000000147.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699463.5755396
+        "dateModified": 1694699481.9653213
     },
     {
         "name": "Models/000000000147.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699464.0105295
+        "dateModified": 1694699482.0450673
     },
     {
         "name": "Models/000000000147.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699464.0160422
+        "dateModified": 1694699482.0495682
+    },
+    {
+        "name": "Models/000000000147.118/output.json",
+        "type": ".JSON file",
+        "size": "1.22 KB",
+        "dateModified": 1694699809.8758867
     },
     {
         "name": "Models/000000000147.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699464.2022576
+        "dateModified": 1694699495.3273532
     }
 ]

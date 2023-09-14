@@ -1,8 +1,14 @@
 [
     {
+        "name": "Entities/Gameplay3P/Effects/0000000000BF.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.38 KB",
+        "dateModified": 1694699809.4647543
+    },
+    {
         "name": "Entities/Gameplay3P/Effects/0000000000BF.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699460.8065164
+        "dateModified": 1694699481.139114
     }
 ]

@@ -3,6 +3,12 @@
         "name": "Effects/000000002894.00D/Sounds/0000000052BE.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699457.2454753
+        "dateModified": 1694699478.9093714
+    },
+    {
+        "name": "Effects/000000002894.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.37 KB",
+        "dateModified": 1694699808.6338162
     }
 ]

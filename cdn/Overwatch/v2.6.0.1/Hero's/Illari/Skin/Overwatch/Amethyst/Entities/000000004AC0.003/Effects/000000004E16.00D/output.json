@@ -1,8 +1,14 @@
 [
     {
+        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694699809.1988478
+    },
+    {
         "name": "Entities/000000004AC0.003/Effects/000000004E16.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.5623567
+        "dateModified": 1694699479.4723325
     }
 ]

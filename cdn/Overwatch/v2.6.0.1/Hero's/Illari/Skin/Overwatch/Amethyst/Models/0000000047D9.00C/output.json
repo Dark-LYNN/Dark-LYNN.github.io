@@ -9,12 +9,18 @@
         "name": "Models/0000000047D9.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699465.9966626
+        "dateModified": 1694699500.6297553
+    },
+    {
+        "name": "Models/0000000047D9.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.69 KB",
+        "dateModified": 1694699810.3882282
     },
     {
         "name": "Models/0000000047D9.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699466.0050378
+        "dateModified": 1694699500.6485178
     }
 ]

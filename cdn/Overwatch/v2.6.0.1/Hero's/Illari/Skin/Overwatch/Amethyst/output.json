@@ -1,27 +1,51 @@
 [
     {
+        "name": "3D Model",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694699808.5123267
+    },
+    {
         "name": "Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699459.3214593
+        "dateModified": 1694699478.712316
     },
     {
         "name": "Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.6855636
+        "dateModified": 1694699479.442299
     },
     {
         "name": "GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699462.7130508
+        "dateModified": 1694699481.7629306
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694699810.5092802
     },
     {
         "name": "Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699466.790334
+        "dateModified": 1694699481.7749484
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "1.30 KB",
+        "dateModified": 1694699808.5118265
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694699810.5097802
     },
     {
         "name": "test.py",
