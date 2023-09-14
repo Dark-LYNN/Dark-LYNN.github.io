@@ -3,36 +3,54 @@
         "name": "Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.985989
+        "dateModified": 1694696865.6118455
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.9870012
+        "dateModified": 1694696865.6183634
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.0049899
+        "dateModified": 1694696865.6352203
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.010504
+        "dateModified": 1694696865.6432333
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.1089287
+        "dateModified": 1694696865.703709
     },
     {
         "name": "Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.2211015
+        "dateModified": 1694696865.7368684
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.6103466
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "1.24 KB",
+        "dateModified": 1694696865.6103466
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.610846
     }
 ]

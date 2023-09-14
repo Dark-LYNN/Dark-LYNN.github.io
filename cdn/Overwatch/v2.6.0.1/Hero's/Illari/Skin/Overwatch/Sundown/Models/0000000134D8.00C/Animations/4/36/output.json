@@ -12,9 +12,21 @@
         "dateModified": 1694267261.9664834
     },
     {
+        "name": "Models/0000000134D8.00C/Animations/4/36/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696908.4473674
+    },
+    {
         "name": "Models/0000000134D8.00C/Animations/4/36/output.json",
         "type": ".JSON file",
-        "size": "0.41 KB",
-        "dateModified": 1694696062.4025798
+        "size": "0.57 KB",
+        "dateModified": 1694696908.4473674
+    },
+    {
+        "name": "Models/0000000134D8.00C/Animations/4/36/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696908.4478676
     }
 ]

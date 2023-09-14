@@ -1114,5 +1114,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267259.681154
+    },
+    {
+        "name": "Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.8041918
+    },
+    {
+        "name": "Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "34.26 KB",
+        "dateModified": 1694696865.8036923
+    },
+    {
+        "name": "Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.8041918
     }
 ]

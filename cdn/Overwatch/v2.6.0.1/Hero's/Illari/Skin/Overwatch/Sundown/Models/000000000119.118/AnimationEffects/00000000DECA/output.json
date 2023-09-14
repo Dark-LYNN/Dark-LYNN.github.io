@@ -1,8 +1,26 @@
 [
     {
+        "name": "Models/000000000119.118/AnimationEffects/00000000DECA/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696907.8886788
+    },
+    {
+        "name": "Models/000000000119.118/AnimationEffects/00000000DECA/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694696907.8881779
+    },
+    {
+        "name": "Models/000000000119.118/AnimationEffects/00000000DECA/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696907.8886788
+    },
+    {
         "name": "Models/000000000119.118/AnimationEffects/00000000DECA/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.1540866
+        "dateModified": 1694696907.8896775
     }
 ]

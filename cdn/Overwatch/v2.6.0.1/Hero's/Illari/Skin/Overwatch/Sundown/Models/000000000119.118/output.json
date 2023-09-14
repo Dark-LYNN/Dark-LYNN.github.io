@@ -9,30 +9,48 @@
         "name": "Models/000000000119.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.1611326
+        "dateModified": 1694696907.6950147
     },
     {
         "name": "Models/000000000119.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2274468
+        "dateModified": 1694696907.9171994
+    },
+    {
+        "name": "Models/000000000119.118/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696907.6905127
     },
     {
         "name": "Models/000000000119.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2888854
+        "dateModified": 1694696908.026463
     },
     {
         "name": "Models/000000000119.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2893853
+        "dateModified": 1694696908.0299718
+    },
+    {
+        "name": "Models/000000000119.118/output.json",
+        "type": ".JSON file",
+        "size": "1.17 KB",
+        "dateModified": 1694696907.6905127
+    },
+    {
+        "name": "Models/000000000119.118/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696907.6910136
     },
     {
         "name": "Models/000000000119.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.5839202
+        "dateModified": 1694696908.047503
     }
 ]

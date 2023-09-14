@@ -6,21 +6,33 @@
         "dateModified": 1694267261.9483898
     },
     {
+        "name": "Models/000000010BAE.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696908.4160366
+    },
+    {
         "name": "Models/000000010BAE.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694696062.1098006
+        "dateModified": 1694696908.4170487
     },
     {
         "name": "Models/000000010BAE.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694696062.110803
+        "dateModified": 1694696908.4185498
     },
     {
         "name": "Models/000000010BAE.00C/output.json",
         "type": ".JSON file",
-        "size": "0.52 KB",
-        "dateModified": 1694696062.1098006
+        "size": "0.67 KB",
+        "dateModified": 1694696908.4150336
+    },
+    {
+        "name": "Models/000000010BAE.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696908.4160366
     }
 ]

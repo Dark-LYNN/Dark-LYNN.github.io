@@ -1,8 +1,26 @@
 [
     {
+        "name": "Entities/Gameplay3P/Effects/0000000000EE.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.8222804
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/0000000000EE.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.36 KB",
+        "dateModified": 1694696865.8217227
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/0000000000EE.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.8222804
+    },
+    {
         "name": "Entities/Gameplay3P/Effects/0000000000EE.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267260.6260571
+        "dateModified": 1694696865.823724
     }
 ]

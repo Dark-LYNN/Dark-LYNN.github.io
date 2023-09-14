@@ -460,5 +460,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267258.0491538
+    },
+    {
+        "name": "Entities/0000000048CC.003/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.4076908
+    },
+    {
+        "name": "Entities/0000000048CC.003/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "14.75 KB",
+        "dateModified": 1694696865.4071896
+    },
+    {
+        "name": "Entities/0000000048CC.003/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.4076908
     }
 ]

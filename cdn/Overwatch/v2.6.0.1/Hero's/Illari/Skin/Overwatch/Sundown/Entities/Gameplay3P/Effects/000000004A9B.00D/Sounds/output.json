@@ -3,18 +3,36 @@
         "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000996C.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267260.7785053
+        "dateModified": 1694696866.0972042
     },
     {
         "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/0000000099AD.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267260.7790055
+        "dateModified": 1694696866.0987067
     },
     {
         "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/00000000A6A2.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267260.7795055
+        "dateModified": 1694696866.1007187
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696866.0947037
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.78 KB",
+        "dateModified": 1694696866.094204
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/000000004A9B.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696866.0947037
     }
 ]

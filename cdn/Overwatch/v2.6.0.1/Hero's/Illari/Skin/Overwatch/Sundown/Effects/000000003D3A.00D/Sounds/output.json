@@ -3,6 +3,24 @@
         "name": "Effects/000000003D3A.00D/Sounds/0000000076F9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267256.2423072
+        "dateModified": 1694696882.2454565
+    },
+    {
+        "name": "Effects/000000003D3A.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696882.2439568
+    },
+    {
+        "name": "Effects/000000003D3A.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.35 KB",
+        "dateModified": 1694696882.2434561
+    },
+    {
+        "name": "Effects/000000003D3A.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696882.2439568
     }
 ]

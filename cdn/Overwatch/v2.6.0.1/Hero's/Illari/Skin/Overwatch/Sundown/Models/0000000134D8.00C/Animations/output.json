@@ -3,18 +3,30 @@
         "name": "Models/0000000134D8.00C/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694696062.3980625
+        "dateModified": 1694696908.4400022
     },
     {
         "name": "Models/0000000134D8.00C/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694696062.4015794
+        "dateModified": 1694696908.4463582
+    },
+    {
+        "name": "Models/0000000134D8.00C/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696908.4385023
     },
     {
         "name": "Models/0000000134D8.00C/Animations/output.json",
         "type": ".JSON file",
-        "size": "0.35 KB",
-        "dateModified": 1694696062.3970623
+        "size": "0.51 KB",
+        "dateModified": 1694696908.4385023
+    },
+    {
+        "name": "Models/0000000134D8.00C/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696908.4390025
     }
 ]

@@ -3,12 +3,30 @@
         "name": "Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.0689237
+        "dateModified": 1694696866.4076333
     },
     {
         "name": "Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267261.069424
+    },
+    {
+        "name": "Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696866.405633
+    },
+    {
+        "name": "Entities/HighlightIntro/output.json",
+        "type": ".JSON file",
+        "size": "0.51 KB",
+        "dateModified": 1694696866.405633
+    },
+    {
+        "name": "Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696866.4061337
     }
 ]

@@ -3,60 +3,78 @@
         "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.0498734
+        "dateModified": 1694696865.4202561
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.053837
+        "dateModified": 1694696865.4247968
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.0548368
+        "dateModified": 1694696865.43181
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.0563521
+        "dateModified": 1694696865.43631
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.0573516
+        "dateModified": 1694696865.4408126
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.0648544
+        "dateModified": 1694696865.4493248
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.9145858
+        "dateModified": 1694696865.5177028
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.9735937
+        "dateModified": 1694696865.5517333
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.976107
+        "dateModified": 1694696865.5602899
     },
     {
         "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.9794848
+        "dateModified": 1694696865.5693128
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.419256
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "1.96 KB",
+        "dateModified": 1694696865.4187777
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.419256
     }
 ]

@@ -3,24 +3,42 @@
         "name": "Models/000000000119.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2229342
+        "dateModified": 1694696907.9189525
     },
     {
         "name": "Models/000000000119.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2259376
+        "dateModified": 1694696907.9594195
     },
     {
         "name": "Models/000000000119.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.2264464
+        "dateModified": 1694696907.964419
     },
     {
         "name": "Models/000000000119.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.267383
+        "dateModified": 1694696907.967935
+    },
+    {
+        "name": "Models/000000000119.118/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696907.9171994
+    },
+    {
+        "name": "Models/000000000119.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.84 KB",
+        "dateModified": 1694696907.9166985
+    },
+    {
+        "name": "Models/000000000119.118/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696907.9171994
     }
 ]

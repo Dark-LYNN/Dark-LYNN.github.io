@@ -24,9 +24,21 @@
         "dateModified": 1694696062.0771053
     },
     {
+        "name": "Models/00000000F5C7.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696908.4085321
+    },
+    {
         "name": "Models/00000000F5C7.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "0.73 KB",
-        "dateModified": 1694696062.0781045
+        "size": "0.88 KB",
+        "dateModified": 1694696908.408032
+    },
+    {
+        "name": "Models/00000000F5C7.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696908.409031
     }
 ]

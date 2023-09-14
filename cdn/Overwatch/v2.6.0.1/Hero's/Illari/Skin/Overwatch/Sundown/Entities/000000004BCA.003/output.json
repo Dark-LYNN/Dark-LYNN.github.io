@@ -9,12 +9,30 @@
         "name": "Entities/000000004BCA.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267258.984986
+        "dateModified": 1694696865.6083314
     },
     {
         "name": "Entities/000000004BCA.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.2211015
+        "dateModified": 1694696865.6103466
+    },
+    {
+        "name": "Entities/000000004BCA.003/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.6048267
+    },
+    {
+        "name": "Entities/000000004BCA.003/output.json",
+        "type": ".JSON file",
+        "size": "0.68 KB",
+        "dateModified": 1694696865.6043272
+    },
+    {
+        "name": "Entities/000000004BCA.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.605828
     }
 ]

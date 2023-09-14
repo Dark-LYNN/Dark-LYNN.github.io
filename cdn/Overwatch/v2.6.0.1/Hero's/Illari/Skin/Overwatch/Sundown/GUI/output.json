@@ -112,5 +112,29 @@
         "type": ".PNG file",
         "size": "2.32 KB",
         "dateModified": 1694696042.045639
+    },
+    {
+        "name": "GUI/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696877.9967494
+    },
+    {
+        "name": "GUI/output.json",
+        "type": ".JSON file",
+        "size": "3.16 KB",
+        "dateModified": 1694696877.9967494
+    },
+    {
+        "name": "GUI/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696877.9977527
+    },
+    {
+        "name": "GUI/test.py",
+        "type": ".PY file",
+        "size": "8.94 KB",
+        "dateModified": 1694696842.5307052
     }
 ]

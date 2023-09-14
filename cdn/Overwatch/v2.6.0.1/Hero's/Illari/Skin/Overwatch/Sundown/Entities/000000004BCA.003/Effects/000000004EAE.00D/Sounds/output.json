@@ -3,18 +3,36 @@
         "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/00000000A155.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.1260388
+        "dateModified": 1694696865.7228549
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/00000000A156.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.1418622
+        "dateModified": 1694696865.728868
     },
     {
         "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/00000000A7D8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267259.2134407
+        "dateModified": 1694696865.7353685
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.7052097
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.80 KB",
+        "dateModified": 1694696865.704709
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.7052097
     }
 ]

@@ -3,12 +3,30 @@
         "name": "Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267261.0699239
+        "dateModified": 1694696866.4111452
+    },
+    {
+        "name": "Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696866.409145
+    },
+    {
+        "name": "Entities/PreviewEmote/output.json",
+        "type": ".JSON file",
+        "size": "0.50 KB",
+        "dateModified": 1694696866.408636
     },
     {
         "name": "Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267261.0704238
+    },
+    {
+        "name": "Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696866.4096458
     }
 ]

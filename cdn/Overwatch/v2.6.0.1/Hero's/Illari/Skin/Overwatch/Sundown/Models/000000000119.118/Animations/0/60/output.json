@@ -10,5 +10,23 @@
         "type": ".OWANIMCLIP file",
         "size": "21.93 KB",
         "dateModified": 1694267261.2234344
+    },
+    {
+        "name": "Models/000000000119.118/Animations/0/60/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696907.9570217
+    },
+    {
+        "name": "Models/000000000119.118/Animations/0/60/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694696907.9570217
+    },
+    {
+        "name": "Models/000000000119.118/Animations/0/60/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696907.9579194
     }
 ]

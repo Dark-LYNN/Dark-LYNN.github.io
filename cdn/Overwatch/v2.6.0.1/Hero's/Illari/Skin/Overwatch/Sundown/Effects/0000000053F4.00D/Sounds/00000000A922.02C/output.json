@@ -16,5 +16,23 @@
         "type": ".OGG file",
         "size": "12.90 KB",
         "dateModified": 1694267257.920449
+    },
+    {
+        "name": "Effects/0000000053F4.00D/Sounds/00000000A922.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696882.859251
+    },
+    {
+        "name": "Effects/0000000053F4.00D/Sounds/00000000A922.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.77 KB",
+        "dateModified": 1694696882.8587508
+    },
+    {
+        "name": "Effects/0000000053F4.00D/Sounds/00000000A922.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696882.8597512
     }
 ]

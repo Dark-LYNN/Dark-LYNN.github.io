@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "84.92 KB",
         "dateModified": 1694267260.7044816
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/00000000371B.00D/Sounds/0000000064C3.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694696865.988835
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/00000000371B.00D/Sounds/0000000064C3.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694696865.9883275
+    },
+    {
+        "name": "Entities/Gameplay3P/Effects/00000000371B.00D/Sounds/0000000064C3.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694696865.988835
     }
 ]
