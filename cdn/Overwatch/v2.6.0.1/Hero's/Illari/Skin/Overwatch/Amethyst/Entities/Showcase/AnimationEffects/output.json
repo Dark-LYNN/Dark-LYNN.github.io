@@ -1,32 +1,44 @@
 [
     {
-        "name": "Entities/Showcase/AnimationEffects/00000000D2D8.owanim",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/00000000D2D8.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3538709
     },
     {
-        "name": "Entities/Showcase/AnimationEffects/00000000DEAF.owanim",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/00000000DEAF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.35487
     },
     {
-        "name": "Entities/Showcase/AnimationEffects/00000000DED5.owanim",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/00000000DED5.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3538709
     },
     {
-        "name": "Entities/Showcase/AnimationEffects/00000000DED6.owanim",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/00000000DED6.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3543699
     },
     {
-        "name": "Entities/Showcase/AnimationEffects/output.json",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.576085
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "0.94 KB",
-        "dateModified": 1694699826.5408943
+        "dateModified": 1694702905.4863591
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.5765853
     }
 ]

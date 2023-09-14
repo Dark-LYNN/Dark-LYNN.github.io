@@ -1,32 +1,32 @@
 [
     {
-        "name": "Effects/000000004E14.00D/Sounds/00000000A12C.02C",
+        "name": "Season 6/Llama Pajamas/Effects/000000004E14.00D/Sounds/00000000A12C.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694352751.3091245
     },
     {
-        "name": "Effects/000000004E14.00D/Sounds/index.html",
+        "name": "Season 6/Llama Pajamas/Effects/000000004E14.00D/Sounds/index.html",
         "type": ".HTML file",
-        "size": "1.57 KB",
-        "dateModified": 1694352748.7357626
+        "size": "2.06 KB",
+        "dateModified": 1694706328.9169602
     },
     {
-        "name": "Effects/000000004E14.00D/Sounds/output.json",
+        "name": "Season 6/Llama Pajamas/Effects/000000004E14.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.95 KB",
-        "dateModified": 1694697650.3371086
+        "size": "0.89 KB",
+        "dateModified": 1694706328.9164598
     },
     {
-        "name": "Effects/000000004E14.00D/Sounds/run.py",
+        "name": "Season 6/Llama Pajamas/Effects/000000004E14.00D/Sounds/run.py",
         "type": ".PY file",
         "size": "7.60 KB",
         "dateModified": 1694352215.1006393
     },
     {
-        "name": "Effects/000000004E14.00D/Sounds/script.js",
+        "name": "Season 6/Llama Pajamas/Effects/000000004E14.00D/Sounds/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694352748.7357626
+        "dateModified": 1694706328.9169602
     }
 ]

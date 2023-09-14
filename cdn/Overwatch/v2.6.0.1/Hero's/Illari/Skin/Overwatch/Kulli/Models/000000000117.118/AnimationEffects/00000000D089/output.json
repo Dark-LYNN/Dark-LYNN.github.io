@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000D089/output.json",
-        "type": ".JSON file",
-        "size": "0.22 KB",
-        "dateModified": 1694697267.7898567
+        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D089/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703966.8002076
     },
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000D089/Sounds",
+        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D089/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694703966.8002076
+    },
+    {
+        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D089/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703966.8007073
+    },
+    {
+        "name": "Overwatch/Kulli/Models/000000000117.118/AnimationEffects/00000000D089/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697267.7903562
+        "dateModified": 1694703966.8017068
     }
 ]

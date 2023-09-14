@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000117.118/AnimationEffects/000000006195/output.json",
-        "type": ".JSON file",
-        "size": "0.22 KB",
-        "dateModified": 1694697477.027279
+        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects/000000006195/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704222.1740408
     },
     {
-        "name": "Models/000000000117.118/AnimationEffects/000000006195/Sounds",
+        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects/000000006195/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694704222.173541
+    },
+    {
+        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects/000000006195/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704222.174541
+    },
+    {
+        "name": "Overwatch/Qumir/Models/000000000117.118/AnimationEffects/000000006195/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697477.027279
+        "dateModified": 1694704222.1755414
     }
 ]

@@ -1,18 +1,30 @@
 [
     {
-        "name": "Entities/Showcase/AnimationEffects",
+        "name": "Overwatch/Amethyst/Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5681875
+        "dateModified": 1694702905.576085
     },
     {
-        "name": "Entities/Showcase/output.json",
+        "name": "Overwatch/Amethyst/Entities/Showcase/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.4848592
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Showcase/output.json",
         "type": ".JSON file",
         "size": "0.51 KB",
-        "dateModified": 1694699826.539894
+        "dateModified": 1694702905.4848592
     },
     {
-        "name": "Entities/Showcase/Showcase.owentity",
+        "name": "Overwatch/Amethyst/Entities/Showcase/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.4853585
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694661409.35337

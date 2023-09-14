@@ -1,56 +1,68 @@
 [
     {
-        "name": "Models/000000013DE2.00C/Materials/8E16432346A9.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/8E16432346A9.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.4871473
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/97EEAD669C26.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/97EEAD669C26.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.5397427
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/9DC060AE3753.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/9DC060AE3753.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.5683208
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/A19F14491C08.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/A19F14491C08.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.5552614
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/ADC0DFDB540D.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/ADC0DFDB540D.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.4736223
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/C470201F8813.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/C470201F8813.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.507202
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/F465CE12B8AA.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/F465CE12B8AA.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.5257168
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/FF0497E77387.owmat",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/FF0497E77387.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661402.5843427
     },
     {
-        "name": "Models/000000013DE2.00C/Materials/output.json",
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702908.5026577
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "1.68 KB",
-        "dateModified": 1694699827.098356
+        "dateModified": 1694702908.5021565
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000013DE2.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702908.5026577
     }
 ]

@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000001385.00C/Materials/B08053070A52.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/B08053070A52.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661404.795863
     },
     {
-        "name": "Models/000000001385.00C/Materials/B4460AA87A8E.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/B4460AA87A8E.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694661404.834413
     },
     {
-        "name": "Models/000000001385.00C/Materials/C0CB510104A3.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/C0CB510104A3.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661404.8118854
     },
     {
-        "name": "Models/000000001385.00C/Materials/EC3172655427.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/EC3172655427.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661404.778845
     },
     {
-        "name": "Models/000000001385.00C/Materials/EC3D19F8A23D.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/EC3D19F8A23D.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694661404.831913
     },
     {
-        "name": "Models/000000001385.00C/Materials/F1A5659AEFB7.owmat",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/F1A5659AEFB7.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661404.825902
     },
     {
-        "name": "Models/000000001385.00C/Materials/output.json",
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702907.3552246
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "1.30 KB",
-        "dateModified": 1694699826.9558818
+        "dateModified": 1694702907.3547244
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000001385.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702907.355724
     }
 ]

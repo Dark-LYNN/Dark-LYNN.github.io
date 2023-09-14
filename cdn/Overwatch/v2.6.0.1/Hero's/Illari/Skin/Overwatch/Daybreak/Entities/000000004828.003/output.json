@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/000000004828.003/000000004828.003.owentity",
+        "name": "Overwatch/Daybreak/Entities/000000004828.003/000000004828.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.09 KB",
         "dateModified": 1694267233.3313923
     },
     {
-        "name": "Entities/000000004828.003/output.json",
+        "name": "Overwatch/Daybreak/Entities/000000004828.003/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703602.681783
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/000000004828.003/output.json",
         "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697135.3453493
+        "size": "0.36 KB",
+        "dateModified": 1694703602.681783
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/000000004828.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703602.681783
     }
 ]

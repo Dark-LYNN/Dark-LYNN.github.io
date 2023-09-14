@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000000117.118/Animations/4/20/000000000C63.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/000000000C63.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "1.68 KB",
         "dateModified": 1694267247.1088364
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/000000003B43.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/000000003B43.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "0.15 KB",
         "dateModified": 1694267247.1088364
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/000000003B44.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/000000003B44.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "0.09 KB",
         "dateModified": 1694267247.1093366
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/000000003B45.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/000000003B45.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "0.17 KB",
         "dateModified": 1694267247.1093366
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/00000000DC56.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/00000000DC56.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "3.02 KB",
         "dateModified": 1694267247.1093366
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/00000000DF20.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/00000000DF20.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "1.27 KB",
         "dateModified": 1694267247.1098363
     },
     {
-        "name": "Models/000000000117.118/Animations/4/20/output.json",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.0087993
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/output.json",
         "type": ".JSON file",
-        "size": "1.35 KB",
-        "dateModified": 1694697447.7235723
+        "size": "1.41 KB",
+        "dateModified": 1694704188.0087993
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4/20/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.0092988
     }
 ]

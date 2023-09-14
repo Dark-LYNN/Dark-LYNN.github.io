@@ -1,59 +1,57 @@
-<!doctype html>
-<html>
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/images/Overwatch_circle_logo.svg.png">
-    <title>Directory Contents</title>
+    <title>CDN - Lynnux</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
-    <link rel="stylesheet" href="/style.css">
-    <script src="/sorttable.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" type="module"></script>
+    <!-- Discord Embed -->
+    <meta property="og:title" content="Overwatch Content" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://cdn.lynnux.xyz/overwatch/" />
+    <meta name="theme-color" content="#91484F">
+    <meta name="twitter:card" content="summary_large_image">
 </head>
- 
 <body>
+    <h1 id="fileLocation">/ParentDirectory/CurrentDirectory/</h1>
     <div id="container">
-        <h1>/Voicelines/Discorded/</h1>
         <table class="sortable">
             <thead>
-                <tr> 
+                <tr >
                     <th>Filename</th>
                     <th>Type</th>
                     <th>Size</th>
                     <th>Date Modified</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr class='directory'>
-                    <td><a href='../' class='name'>...</a></td>
-                    <td><a href='../'>&lt;GO BACK&gt;</a></td>
-                    <td sorttable_customkey='1'><a href='../'>N/A</a></td>
-                    <td sorttable_customkey='1'><a href='../'>N/A</a></td>
-                </tr>
-                <tr class='file'>
-                    <td><a href='./(Spanish) Damn.ogg' class='name'>(Spanish) Damn.ogg</a></td>
-                    <td><a href='./(Spanish) Damn.ogg'>.OGG File</a></td>
-                    <td sorttable_customkey='13'><a href='./(Spanish) Damn.ogg'>13 KB</a></td>
-                    <td sorttable_customkey='1693139238'><a href='./(Spanish) Damn.ogg'>Aug 27 2023 2:27 PM</a></td>
-                </tr>
-                <tr class='file'>
-                    <td><a href='./Damn.ogg' class='name'>Damn.ogg</a></td>
-                    <td><a href='./Damn.ogg'>.OGG File</a></td>
-                    <td sorttable_customkey='10'><a href='./Damn.ogg'>10 KB</a></td>
-                    <td sorttable_customkey='1693139238'><a href='./Damn.ogg'>Aug 27 2023 2:27 PM</a></td>
-                </tr>
-                <tr class='file'>
-                    <td><a href='./Seriously_.ogg' class='name'>Seriously_.ogg</a></td>
-                    <td><a href='./Seriously_.ogg'>.OGG File</a></td>
-                    <td sorttable_customkey='12'><a href='./Seriously_.ogg'>12 KB</a></td>
-                    <td sorttable_customkey='1693139238'><a href='./Seriously_.ogg'>Aug 27 2023 2:27 PM</a></td>
-                </tr>
-            </tbody>
+            <tr class='directory'>
+                <td><a href='../' class='name'>...</a></td>
+                <td><a href='../'>&lt;GO BACK&gt;</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+                <td sorttable_customkey='1'><a href='../'>N/A</a></td>
+            </tr>
+            <tbody id="fileList"></tbody>
         </table>
     </div>
     <button id="mode-toggle">
         <ion-icon name="moon-outline"></ion-icon>
     </button>
+    <script src="script.js"></script>
+    <script src="/mode.js"></script>
 </body>
-<script src="/mode.js"></script>
+<script>
+    // Get the current URL of the page
+    var url = window.location.href;
+
+    // Extract the parent directory and directory names from it
+    var parent_directory = url.split("/").slice(-3, -2)[0];
+    var directory = url.split("/").slice(-2, -1)[0];
+
+    // Set the content of the h1 element to the desired value
+    var fileLocation = document.getElementById("fileLocation");
+    fileLocation.innerHTML = "/" + parent_directory + "/" + directory + "/";
+</script>
 </html>

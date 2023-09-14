@@ -1,80 +1,92 @@
 [
     {
-        "name": "Models/000000000119.118/Animations/4/0",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.6816745
+        "dateModified": 1694703609.0724013
     },
     {
-        "name": "Models/000000000119.118/Animations/4/2",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/2",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.682675
+        "dateModified": 1694703609.0739112
     },
     {
-        "name": "Models/000000000119.118/Animations/4/20",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/20",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.7227745
+        "dateModified": 1694703609.076412
     },
     {
-        "name": "Models/000000000119.118/Animations/4/28",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.7242925
+        "dateModified": 1694703609.1096265
     },
     {
-        "name": "Models/000000000119.118/Animations/4/32",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.762539
+        "dateModified": 1694703609.1131399
     },
     {
-        "name": "Models/000000000119.118/Animations/4/34",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/34",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.764051
+        "dateModified": 1694703609.114879
     },
     {
-        "name": "Models/000000000119.118/Animations/4/36",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.8438585
+        "dateModified": 1694703609.1198795
     },
     {
-        "name": "Models/000000000119.118/Animations/4/38",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/38",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.1178696
+        "dateModified": 1694703609.1260822
     },
     {
-        "name": "Models/000000000119.118/Animations/4/4",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.2750309
+        "dateModified": 1694703609.1346197
     },
     {
-        "name": "Models/000000000119.118/Animations/4/5",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/5",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.2770324
+        "dateModified": 1694703609.1366205
     },
     {
-        "name": "Models/000000000119.118/Animations/4/6",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.3579578
+        "dateModified": 1694703609.1391203
     },
     {
-        "name": "Models/000000000119.118/Animations/4/60",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.3599582
+        "dateModified": 1694703609.1411214
     },
     {
-        "name": "Models/000000000119.118/Animations/4/output.json",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703609.069897
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/output.json",
         "type": ".JSON file",
-        "size": "2.34 KB",
-        "dateModified": 1694697145.6383984
+        "size": "2.30 KB",
+        "dateModified": 1694703609.0693974
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/4/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703609.069897
     }
 ]

@@ -1,32 +1,32 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects",
+        "name": "Overwatch/Sundown/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696866.4111452
     },
     {
-        "name": "Entities/PreviewEmote/index.html",
+        "name": "Overwatch/Sundown/Entities/PreviewEmote/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694696866.409145
+        "size": "2.06 KB",
+        "dateModified": 1694704242.6208897
     },
     {
-        "name": "Entities/PreviewEmote/output.json",
+        "name": "Overwatch/Sundown/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
         "size": "0.86 KB",
-        "dateModified": 1694699774.2155962
+        "dateModified": 1694704242.6203897
     },
     {
-        "name": "Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Overwatch/Sundown/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267261.0704238
     },
     {
-        "name": "Entities/PreviewEmote/script.js",
+        "name": "Overwatch/Sundown/Entities/PreviewEmote/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694696866.4096458
+        "dateModified": 1694704242.6208897
     }
 ]

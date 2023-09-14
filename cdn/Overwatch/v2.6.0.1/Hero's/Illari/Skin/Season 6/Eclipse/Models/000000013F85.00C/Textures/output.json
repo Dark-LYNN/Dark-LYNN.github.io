@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/000000013F85.00C/Textures/00000002A7E9.png",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/00000002A7E9.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694697649.8008516
     },
     {
-        "name": "Models/000000013F85.00C/Textures/00000003FAA8.png",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/00000003FAA8.png",
         "type": ".PNG file",
         "size": "15.48 KB",
         "dateModified": 1694697649.8903418
     },
     {
-        "name": "Models/000000013F85.00C/Textures/800044DDA4E3.png",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/800044DDA4E3.png",
         "type": ".PNG file",
         "size": "0.33 KB",
         "dateModified": 1694697649.8953428
     },
     {
-        "name": "Models/000000013F85.00C/Textures/8000A72002C7.png",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/8000A72002C7.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697649.8993592
     },
     {
-        "name": "Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/8000F7B8DDF3.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697649.9033594
     },
     {
-        "name": "Models/000000013F85.00C/Textures/output.json",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697754.7792716
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/output.json",
         "type": ".JSON file",
         "size": "1.10 KB",
-        "dateModified": 1694697696.8373435
+        "dateModified": 1694697754.713291
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697754.7797718
     }
 ]

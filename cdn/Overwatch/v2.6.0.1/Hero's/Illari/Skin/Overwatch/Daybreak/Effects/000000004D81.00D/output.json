@@ -1,14 +1,26 @@
 [
     {
-        "name": "Effects/000000004D81.00D/output.json",
-        "type": ".JSON file",
-        "size": "0.19 KB",
-        "dateModified": 1694697131.2617822
+        "name": "Overwatch/Daybreak/Effects/000000004D81.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703601.1363544
     },
     {
-        "name": "Effects/000000004D81.00D/Sounds",
+        "name": "Overwatch/Daybreak/Effects/000000004D81.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.34 KB",
+        "dateModified": 1694703601.1363544
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/000000004D81.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703601.1368546
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/000000004D81.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697131.2622814
+        "dateModified": 1694703601.138355
     }
 ]

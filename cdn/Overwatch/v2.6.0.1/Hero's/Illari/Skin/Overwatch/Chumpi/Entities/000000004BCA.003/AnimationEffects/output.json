@@ -1,56 +1,68 @@
 [
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1610584
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1610584
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1610584
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1610584
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1620603
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1720855
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1720855
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267230.1725857
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/output.json",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703556.6849883
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.72 KB",
-        "dateModified": 1694697081.5393994
+        "size": "1.78 KB",
+        "dateModified": 1694703556.6839855
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703556.6854968
     }
 ]

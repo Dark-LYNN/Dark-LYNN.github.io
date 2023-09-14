@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/000000009FAE.02C",
+        "name": "Season 6/Eclipse/Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/000000009FAE.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697594.1377618
+        "dateModified": 1694697747.330489
     },
     {
-        "name": "Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/output.json",
+        "name": "Season 6/Eclipse/Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697747.3003905
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/output.json",
         "type": ".JSON file",
         "size": "0.42 KB",
-        "dateModified": 1694697696.3955638
+        "dateModified": 1694697747.2998905
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/AnimationEffects/00000000DECA/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697747.3008897
     }
 ]

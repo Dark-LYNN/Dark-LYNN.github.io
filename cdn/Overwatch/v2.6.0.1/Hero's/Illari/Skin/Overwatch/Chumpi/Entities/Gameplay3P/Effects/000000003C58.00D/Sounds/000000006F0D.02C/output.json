@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/0000001BE2C9.03F.ogg",
+        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/0000001BE2C9.03F.ogg",
         "type": ".OGG file",
         "size": "15.10 KB",
         "dateModified": 1694267230.6726358
     },
     {
-        "name": "Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/output.json",
+        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703559.2190084
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/output.json",
         "type": ".JSON file",
-        "size": "0.24 KB",
-        "dateModified": 1694697081.820209
+        "size": "0.44 KB",
+        "dateModified": 1694703559.2185085
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703559.2195086
     }
 ]

@@ -1,32 +1,50 @@
 [
     {
-        "name": "Healing Pylon.png",
+        "name": "Progression/Healing Pylon.png",
         "type": ".PNG file",
         "size": "47.74 KB",
         "dateModified": 1694351052.577427
     },
     {
-        "name": "Illari Silhouette.png",
+        "name": "Progression/Illari Silhouette.png",
         "type": ".PNG file",
         "size": "53.59 KB",
         "dateModified": 1694351052.5919514
     },
     {
-        "name": "Illari.png",
+        "name": "Progression/Illari.png",
         "type": ".PNG file",
         "size": "116.73 KB",
         "dateModified": 1694351052.620987
     },
     {
-        "name": "Inti Warrior.png",
+        "name": "Progression/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694351052.6385374
+    },
+    {
+        "name": "Progression/Inti Warrior.png",
         "type": ".PNG file",
         "size": "67.12 KB",
         "dateModified": 1694351052.6370378
     },
     {
-        "name": "run.py",
+        "name": "Progression/output.json",
+        "type": ".JSON file",
+        "size": "0.75 KB",
+        "dateModified": 1694351052.6385374
+    },
+    {
+        "name": "Progression/run.py",
         "type": ".PY file",
         "size": "7.68 KB",
         "dateModified": 1694347399.4866786
+    },
+    {
+        "name": "Progression/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694351052.6390383
     }
 ]

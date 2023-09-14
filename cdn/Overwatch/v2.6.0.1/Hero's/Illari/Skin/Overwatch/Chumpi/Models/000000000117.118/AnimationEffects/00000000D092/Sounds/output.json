@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000D092/Sounds/000000009EC8.02C",
+        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D092/Sounds/000000009EC8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.5580008
+        "dateModified": 1694703562.023701
     },
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000D092/Sounds/output.json",
+        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D092/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703561.954907
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D092/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.23 KB",
-        "dateModified": 1694697082.5459547
+        "size": "0.42 KB",
+        "dateModified": 1694703561.9538941
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000117.118/AnimationEffects/00000000D092/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703561.954907
     }
 ]

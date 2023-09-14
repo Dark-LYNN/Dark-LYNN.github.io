@@ -1,20 +1,32 @@
 [
     {
-        "name": "Models/0000000134D8.00C/Animations/0",
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697647.0160112
+        "dateModified": 1694697753.7314875
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/4",
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697647.0459988
+        "dateModified": 1694697754.0501611
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/output.json",
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697753.6444173
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/Animations/output.json",
         "type": ".JSON file",
         "size": "0.53 KB",
-        "dateModified": 1694697696.8025222
+        "dateModified": 1694697753.6444173
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697753.7294848
     }
 ]

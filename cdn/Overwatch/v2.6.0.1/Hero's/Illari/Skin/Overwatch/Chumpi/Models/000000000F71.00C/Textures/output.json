@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/000000000F71.00C/Textures/000000001C7A.png",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/000000001C7A.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697118.1069393
     },
     {
-        "name": "Models/000000000F71.00C/Textures/00000000EE77.png",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/00000000EE77.png",
         "type": ".PNG file",
         "size": "10.07 KB",
         "dateModified": 1694697118.1149583
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80007405EE93.png",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/80007405EE93.png",
         "type": ".PNG file",
         "size": "0.20 KB",
         "dateModified": 1694697118.1199715
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80008CA94D92.png",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/80008CA94D92.png",
         "type": ".PNG file",
         "size": "0.11 KB",
         "dateModified": 1694697118.1244729
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80009F3EF4F2.png",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/80009F3EF4F2.png",
         "type": ".PNG file",
         "size": "0.11 KB",
         "dateModified": 1694697118.128409
     },
     {
-        "name": "Models/000000000F71.00C/Textures/output.json",
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703564.0499024
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.00 KB",
-        "dateModified": 1694697118.12991
+        "size": "1.09 KB",
+        "dateModified": 1694703564.0494013
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000F71.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703564.0504012
     }
 ]

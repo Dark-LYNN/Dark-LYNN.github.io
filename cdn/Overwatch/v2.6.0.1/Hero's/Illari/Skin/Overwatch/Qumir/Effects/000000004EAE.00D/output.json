@@ -1,14 +1,26 @@
 [
     {
-        "name": "Effects/000000004EAE.00D/output.json",
-        "type": ".JSON file",
-        "size": "0.19 KB",
-        "dateModified": 1694697475.514095
+        "name": "Overwatch/Qumir/Effects/000000004EAE.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704213.5134566
     },
     {
-        "name": "Effects/000000004EAE.00D/Sounds",
+        "name": "Overwatch/Qumir/Effects/000000004EAE.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.34 KB",
+        "dateModified": 1694704213.5129564
+    },
+    {
+        "name": "Overwatch/Qumir/Effects/000000004EAE.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704213.5134566
+    },
+    {
+        "name": "Overwatch/Qumir/Effects/000000004EAE.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697475.5150952
+        "dateModified": 1694704213.5149567
     }
 ]

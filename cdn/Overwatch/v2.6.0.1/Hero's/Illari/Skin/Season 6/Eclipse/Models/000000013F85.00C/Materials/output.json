@@ -1,20 +1,32 @@
 [
     {
-        "name": "Models/000000013F85.00C/Materials/81F329A0930E.owmat",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Materials/81F329A0930E.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661370.359063
     },
     {
-        "name": "Models/000000013F85.00C/Materials/AFD10B516DDB.owmat",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Materials/AFD10B516DDB.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661370.3515508
     },
     {
-        "name": "Models/000000013F85.00C/Materials/output.json",
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697754.710781
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "0.56 KB",
-        "dateModified": 1694697696.8358424
+        "dateModified": 1694697754.710781
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013F85.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697754.7117834
     }
 ]

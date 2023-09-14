@@ -1,26 +1,38 @@
 [
     {
-        "name": "Effects/000000004A9B.00D/Sounds/00000000996C.02C",
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/00000000996C.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699478.9912593
+        "dateModified": 1694702897.2009091
     },
     {
-        "name": "Effects/000000004A9B.00D/Sounds/0000000099AD.02C",
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/0000000099AD.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699478.9922593
+        "dateModified": 1694702897.3061087
     },
     {
-        "name": "Effects/000000004A9B.00D/Sounds/00000000A6A2.02C",
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/00000000A6A2.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699478.9927592
+        "dateModified": 1694702897.3081086
     },
     {
-        "name": "Effects/000000004A9B.00D/Sounds/output.json",
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702897.179673
+    },
+    {
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/output.json",
         "type": ".JSON file",
         "size": "0.74 KB",
-        "dateModified": 1694699825.52493
+        "dateModified": 1694702897.178671
+    },
+    {
+        "name": "Overwatch/Amethyst/Effects/000000004A9B.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702897.179673
     }
 ]

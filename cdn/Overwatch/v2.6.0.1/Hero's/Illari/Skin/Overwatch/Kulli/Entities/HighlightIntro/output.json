@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/HighlightIntro/AnimationEffects",
+        "name": "Overwatch/Kulli/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697266.8838532
+        "dateModified": 1694703966.7459376
     },
     {
-        "name": "Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Overwatch/Kulli/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267239.5871203
     },
     {
-        "name": "Entities/HighlightIntro/output.json",
+        "name": "Overwatch/Kulli/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703966.7439373
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
-        "size": "0.40 KB",
-        "dateModified": 1694697266.882853
+        "size": "0.54 KB",
+        "dateModified": 1694703966.7434244
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703966.7444372
     }
 ]

@@ -1,68 +1,80 @@
 [
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6474798
+        "dateModified": 1694703602.7097738
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6494796
+        "dateModified": 1694703602.7150297
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6534798
+        "dateModified": 1694703602.7694054
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6555285
+        "dateModified": 1694703602.7743223
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6575294
+        "dateModified": 1694703602.7788231
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.7789557
+        "dateModified": 1694703602.7883384
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697136.6633825
+        "dateModified": 1694703602.8589618
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697136.9386177
+        "dateModified": 1694703602.9415216
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697136.9717438
+        "dateModified": 1694703603.0948122
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.041513
+        "dateModified": 1694703603.1042256
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/output.json",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703602.7082734
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/output.json",
         "type": ".JSON file",
         "size": "2.06 KB",
-        "dateModified": 1694697135.6469789
+        "dateModified": 1694703602.707774
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003/Effects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703602.7087746
     }
 ]

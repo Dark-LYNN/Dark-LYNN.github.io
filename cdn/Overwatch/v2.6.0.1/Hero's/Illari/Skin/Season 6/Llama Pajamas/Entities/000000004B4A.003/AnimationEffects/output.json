@@ -1,32 +1,32 @@
 [
     {
-        "name": "Entities/000000004B4A.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Season 6/Llama Pajamas/Entities/000000004B4A.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267263.3068905
     },
     {
-        "name": "Entities/000000004B4A.003/AnimationEffects/index.html",
+        "name": "Season 6/Llama Pajamas/Entities/000000004B4A.003/AnimationEffects/index.html",
         "type": ".HTML file",
-        "size": "1.57 KB",
-        "dateModified": 1694354302.9250026
+        "size": "2.06 KB",
+        "dateModified": 1694706329.5367365
     },
     {
-        "name": "Entities/000000004B4A.003/AnimationEffects/output.json",
+        "name": "Season 6/Llama Pajamas/Entities/000000004B4A.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.01 KB",
-        "dateModified": 1694697650.9800534
+        "size": "0.94 KB",
+        "dateModified": 1694706329.5362365
     },
     {
-        "name": "Entities/000000004B4A.003/AnimationEffects/run.py",
+        "name": "Season 6/Llama Pajamas/Entities/000000004B4A.003/AnimationEffects/run.py",
         "type": ".PY file",
         "size": "7.60 KB",
         "dateModified": 1694352215.1006393
     },
     {
-        "name": "Entities/000000004B4A.003/AnimationEffects/script.js",
+        "name": "Season 6/Llama Pajamas/Entities/000000004B4A.003/AnimationEffects/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694354302.9250026
+        "dateModified": 1694706329.5367365
     }
 ]

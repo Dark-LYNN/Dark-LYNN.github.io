@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/00000000C637.00C/Materials/EAF7CE7691B8.owmat",
+        "name": "Overwatch/Daybreak/Models/00000000C637.00C/Materials/EAF7CE7691B8.owmat",
         "type": ".OWMAT file",
         "size": "0.22 KB",
         "dateModified": 1694267235.8174508
     },
     {
-        "name": "Models/00000000C637.00C/Materials/output.json",
+        "name": "Overwatch/Daybreak/Models/00000000C637.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703610.081944
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/00000000C637.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697237.026036
+        "size": "0.37 KB",
+        "dateModified": 1694703610.081944
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/00000000C637.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703610.0824544
     }
 ]

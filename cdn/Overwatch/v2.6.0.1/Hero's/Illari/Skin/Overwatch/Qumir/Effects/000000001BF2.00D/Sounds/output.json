@@ -1,14 +1,26 @@
 [
     {
-        "name": "Effects/000000001BF2.00D/Sounds/000000003C4F.02C",
+        "name": "Overwatch/Qumir/Effects/000000001BF2.00D/Sounds/000000003C4F.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697475.1266575
+        "dateModified": 1694704211.4836457
     },
     {
-        "name": "Effects/000000001BF2.00D/Sounds/output.json",
+        "name": "Overwatch/Qumir/Effects/000000001BF2.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704211.4411733
+    },
+    {
+        "name": "Overwatch/Qumir/Effects/000000001BF2.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.20 KB",
-        "dateModified": 1694697475.1251433
+        "size": "0.37 KB",
+        "dateModified": 1694704211.4406734
+    },
+    {
+        "name": "Overwatch/Qumir/Effects/000000001BF2.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704211.4411733
     }
 ]

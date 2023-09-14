@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267231.989025
     },
     {
-        "name": "Models/0000000134D8.00C/Animations",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697120.7856233
+        "dateModified": 1694703573.5072744
     },
     {
-        "name": "Models/0000000134D8.00C/Materials",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703573.5048292
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697120.7926245
+        "dateModified": 1694703573.5831234
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697120.793125
+        "dateModified": 1694703573.5846379
     },
     {
-        "name": "Models/0000000134D8.00C/output.json",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "0.95 KB",
-        "dateModified": 1694697120.785115
+        "size": "1.03 KB",
+        "dateModified": 1694703573.4378207
     },
     {
-        "name": "Models/0000000134D8.00C/Textures",
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703573.5048292
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697124.631561
+        "dateModified": 1694703573.5882967
     }
 ]

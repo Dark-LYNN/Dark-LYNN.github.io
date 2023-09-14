@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/000000004E10.003/000000004E10.003.owentity",
+        "name": "Overwatch/Qumir/Entities/000000004E10.003/000000004E10.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694267249.112125
     },
     {
-        "name": "Entities/000000004E10.003/output.json",
+        "name": "Overwatch/Qumir/Entities/000000004E10.003/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704215.5688221
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/000000004E10.003/output.json",
         "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697476.4069288
+        "size": "0.36 KB",
+        "dateModified": 1694704215.5688221
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/000000004E10.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704215.5693226
     }
 ]

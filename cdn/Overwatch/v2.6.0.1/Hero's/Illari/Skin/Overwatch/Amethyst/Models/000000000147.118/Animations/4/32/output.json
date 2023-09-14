@@ -1,74 +1,86 @@
 [
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000D266.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000D266.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "34.51 KB",
         "dateModified": 1694661401.844483
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000D35D.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000D35D.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "46.51 KB",
         "dateModified": 1694661401.892063
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DAFD.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DAFD.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.01 KB",
         "dateModified": 1694661401.8459837
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DB04.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DB04.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "23.31 KB",
         "dateModified": 1694661401.846986
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DB63.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DB63.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "16.62 KB",
         "dateModified": 1694661401.8649676
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DDCC.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DDCC.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "22.38 KB",
         "dateModified": 1694661401.8504984
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DDD0.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DDD0.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "26.12 KB",
         "dateModified": 1694661401.8509984
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DF74.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DF74.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "32.01 KB",
         "dateModified": 1694661402.1584113
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DF75.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DF75.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "23.31 KB",
         "dateModified": 1694661402.1594114
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DF79.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DF79.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "22.38 KB",
         "dateModified": 1694661402.1624117
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/00000000DF7A.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/00000000DF7A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "26.12 KB",
         "dateModified": 1694661402.162912
     },
     {
-        "name": "Models/000000000147.118/Animations/4/32/output.json",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702906.5846455
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/output.json",
         "type": ".JSON file",
         "size": "2.43 KB",
-        "dateModified": 1694699826.7312534
+        "dateModified": 1694702906.5846455
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/32/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702906.585146
     }
 ]

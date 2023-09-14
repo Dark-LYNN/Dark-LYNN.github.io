@@ -1,152 +1,164 @@
 [
     {
-        "name": "Entities/00000000014F.003",
+        "name": "Overwatch/Amethyst/Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4432998
+        "dateModified": 1694702900.0568986
     },
     {
-        "name": "Entities/000000000162.003",
+        "name": "Overwatch/Amethyst/Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4437995
+        "dateModified": 1694702900.0583982
     },
     {
-        "name": "Entities/00000000130D.003",
+        "name": "Overwatch/Amethyst/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4442995
+        "dateModified": 1694702900.0598998
     },
     {
-        "name": "Entities/000000002D33.003",
+        "name": "Overwatch/Amethyst/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4447994
+        "dateModified": 1694702900.0609102
     },
     {
-        "name": "Entities/000000003024.003",
+        "name": "Overwatch/Amethyst/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4452996
+        "dateModified": 1694702900.0624096
     },
     {
-        "name": "Entities/000000004828.003",
+        "name": "Overwatch/Amethyst/Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4462998
+        "dateModified": 1694702900.06341
     },
     {
-        "name": "Entities/0000000048CC.003",
+        "name": "Overwatch/Amethyst/Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4468
+        "dateModified": 1694702900.0649102
     },
     {
-        "name": "Entities/000000004AC0.003",
+        "name": "Overwatch/Amethyst/Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.4593132
+        "dateModified": 1694702900.078926
     },
     {
-        "name": "Entities/000000004B4A.003",
+        "name": "Overwatch/Amethyst/Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.596653
+        "dateModified": 1694702900.524098
     },
     {
-        "name": "Entities/000000004BCA.003",
+        "name": "Overwatch/Amethyst/Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.5976532
+        "dateModified": 1694702900.5520947
     },
     {
-        "name": "Entities/000000004C29.003",
+        "name": "Overwatch/Amethyst/Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.095863
+        "dateModified": 1694702900.8533943
     },
     {
-        "name": "Entities/000000004C2A.003",
+        "name": "Overwatch/Amethyst/Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.0973659
+        "dateModified": 1694702900.8548942
     },
     {
-        "name": "Entities/000000004D41.003",
+        "name": "Overwatch/Amethyst/Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.0978656
+        "dateModified": 1694702900.855894
     },
     {
-        "name": "Entities/000000004E10.003",
+        "name": "Overwatch/Amethyst/Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.0983655
+        "dateModified": 1694702900.8573937
     },
     {
-        "name": "Entities/0000000050BF.003",
+        "name": "Overwatch/Amethyst/Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.0993645
+        "dateModified": 1694702900.8583949
     },
     {
-        "name": "Entities/000000005384.003",
+        "name": "Overwatch/Amethyst/Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.0993645
+        "dateModified": 1694702900.8588943
     },
     {
-        "name": "Entities/0000000053DA.003",
+        "name": "Overwatch/Amethyst/Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.1003673
+        "dateModified": 1694702900.860909
     },
     {
-        "name": "Entities/Gameplay3P",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.101377
+        "dateModified": 1694702900.8629081
     },
     {
-        "name": "Entities/Healing Pylon-20794",
+        "name": "Overwatch/Amethyst/Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5551684
+        "dateModified": 1694702905.4312084
     },
     {
-        "name": "Entities/HeroGallery",
+        "name": "Overwatch/Amethyst/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5561678
+        "dateModified": 1694702905.43321
     },
     {
-        "name": "Entities/HighlightIntro",
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5586684
+        "dateModified": 1694702905.4362106
     },
     {
-        "name": "Entities/output.json",
+        "name": "Overwatch/Amethyst/Entities/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702900.055898
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/output.json",
         "type": ".JSON file",
-        "size": "4.04 KB",
-        "dateModified": 1694699825.9123702
+        "size": "4.05 KB",
+        "dateModified": 1694702900.055398
     },
     {
-        "name": "Entities/PreviewEmote",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5611854
+        "dateModified": 1694702905.4803576
     },
     {
-        "name": "Entities/Showcase",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694699481.5666869
+        "name": "Overwatch/Amethyst/Entities/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702900.055898
     },
     {
-        "name": "Entities/Solar Rifle-20793",
+        "name": "Overwatch/Amethyst/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5691872
+        "dateModified": 1694702905.4853585
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694702905.578586
     }
 ]

@@ -1,26 +1,38 @@
 [
     {
-        "name": "Entities/000000004BCA.003/000000004BCA.003.owentity",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/000000004BCA.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.14 KB",
         "dateModified": 1694661374.068947
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3963401
+        "dateModified": 1694697739.052313
     },
     {
-        "name": "Entities/000000004BCA.003/Effects",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3973563
+        "dateModified": 1694697739.0740933
     },
     {
-        "name": "Entities/000000004BCA.003/output.json",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697739.0015025
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/output.json",
         "type": ".JSON file",
         "size": "0.71 KB",
-        "dateModified": 1694697695.5858402
+        "dateModified": 1694697739.0015025
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697739.0025053
     }
 ]

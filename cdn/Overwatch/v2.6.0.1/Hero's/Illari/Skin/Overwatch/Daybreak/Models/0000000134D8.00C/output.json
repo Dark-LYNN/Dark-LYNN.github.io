@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267235.9673333
     },
     {
-        "name": "Models/0000000134D8.00C/Animations",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697245.634739
+        "dateModified": 1694703610.723558
     },
     {
-        "name": "Models/0000000134D8.00C/Materials",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703610.7213523
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697245.727209
+        "dateModified": 1694703610.8592904
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697245.728212
+        "dateModified": 1694703610.8607912
     },
     {
-        "name": "Models/0000000134D8.00C/output.json",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "0.96 KB",
-        "dateModified": 1694697245.6098168
+        "size": "1.03 KB",
+        "dateModified": 1694703610.6628296
     },
     {
-        "name": "Models/0000000134D8.00C/Textures",
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703610.721853
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697249.0633404
+        "dateModified": 1694703610.8648076
     }
 ]

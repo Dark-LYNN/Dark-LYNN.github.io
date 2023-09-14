@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D/output.json",
-        "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697081.3893845
+        "name": "Overwatch/Chumpi/Entities/000000004AC0.003/Effects/000000004B50.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703555.771812
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D/Sounds",
+        "name": "Overwatch/Chumpi/Entities/000000004AC0.003/Effects/000000004B50.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694703555.7713122
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/000000004AC0.003/Effects/000000004B50.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703555.7723124
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/000000004AC0.003/Effects/000000004B50.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3898847
+        "dateModified": 1694703555.7738113
     }
 ]

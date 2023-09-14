@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267255.7005496
     },
     {
-        "name": "Models/0000000134D8.00C/Animations",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697498.257997
+        "dateModified": 1694704224.056959
     },
     {
-        "name": "Models/0000000134D8.00C/Materials",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704224.0549583
+    },
+    {
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697498.266011
+        "dateModified": 1694704224.3085268
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697498.267012
+        "dateModified": 1694704224.310541
     },
     {
-        "name": "Models/0000000134D8.00C/output.json",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "0.94 KB",
-        "dateModified": 1694697498.2574968
+        "size": "1.03 KB",
+        "dateModified": 1694704224.0079381
     },
     {
-        "name": "Models/0000000134D8.00C/Textures",
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704224.055459
+    },
+    {
+        "name": "Overwatch/Qumir/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697499.0100574
+        "dateModified": 1694704224.314386
     }
 ]

@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/000000000F71.00C/Textures/000000001C7A.png",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/000000001C7A.png",
         "type": ".PNG file",
         "size": "0.79 KB",
         "dateModified": 1694697471.650599
     },
     {
-        "name": "Models/000000000F71.00C/Textures/00000000EE77.png",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/00000000EE77.png",
         "type": ".PNG file",
         "size": "10.07 KB",
         "dateModified": 1694697471.6579337
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80007405EE93.png",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/80007405EE93.png",
         "type": ".PNG file",
         "size": "0.20 KB",
         "dateModified": 1694697471.6611843
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80008CA94D92.png",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/80008CA94D92.png",
         "type": ".PNG file",
         "size": "0.11 KB",
         "dateModified": 1694697471.665702
     },
     {
-        "name": "Models/000000000F71.00C/Textures/80009F3EF4F2.png",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/80009F3EF4F2.png",
         "type": ".PNG file",
         "size": "0.11 KB",
         "dateModified": 1694697471.6702464
     },
     {
-        "name": "Models/000000000F71.00C/Textures/output.json",
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.355486
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.02 KB",
-        "dateModified": 1694697471.6717467
+        "size": "1.09 KB",
+        "dateModified": 1694704188.3549864
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000F71.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.3559875
     }
 ]

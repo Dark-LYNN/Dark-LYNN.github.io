@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000001F85.00C/Textures/0000000299E3.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/0000000299E3.png",
         "type": ".PNG file",
         "size": "97.98 KB",
         "dateModified": 1694697472.0342336
     },
     {
-        "name": "Models/000000001F85.00C/Textures/00000002C41F.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/00000002C41F.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697472.0407493
     },
     {
-        "name": "Models/000000001F85.00C/Textures/8000377F62D1.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/8000377F62D1.png",
         "type": ".PNG file",
         "size": "0.27 KB",
         "dateModified": 1694697472.04525
     },
     {
-        "name": "Models/000000001F85.00C/Textures/80003E04087E.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/80003E04087E.png",
         "type": ".PNG file",
         "size": "0.30 KB",
         "dateModified": 1694697472.0497675
     },
     {
-        "name": "Models/000000001F85.00C/Textures/80004BA48F33.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/80004BA48F33.png",
         "type": ".PNG file",
         "size": "0.27 KB",
         "dateModified": 1694697472.0547686
     },
     {
-        "name": "Models/000000001F85.00C/Textures/80009E8B52D1.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/80009E8B52D1.png",
         "type": ".PNG file",
         "size": "0.31 KB",
         "dateModified": 1694697472.059393
     },
     {
-        "name": "Models/000000001F85.00C/Textures/output.json",
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.3798285
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.23 KB",
-        "dateModified": 1694697472.060893
+        "size": "1.27 KB",
+        "dateModified": 1694704188.3793287
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001F85.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.3803291
     }
 ]

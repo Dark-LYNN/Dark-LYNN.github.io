@@ -1,32 +1,44 @@
 [
     {
-        "name": "Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/BACEEAA85978.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267231.737568
     },
     {
-        "name": "Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/D2469F1643DA.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267231.7380674
     },
     {
-        "name": "Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/E5630BDEAB09.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267231.7380674
     },
     {
-        "name": "Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/F72E570D3E51.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267231.7385676
     },
     {
-        "name": "Models/000000000DE0.00C/Materials/output.json",
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703563.920702
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "0.82 KB",
-        "dateModified": 1694697115.4999712
+        "size": "0.93 KB",
+        "dateModified": 1694703563.7691052
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000000DE0.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703563.921201
     }
 ]

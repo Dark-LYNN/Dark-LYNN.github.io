@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/00000000EBEF.00C/00000000EBEF.owmdl",
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/00000000EBEF.owmdl",
         "type": ".OWMDL file",
         "size": "71.80 KB",
         "dateModified": 1694267235.870286
     },
     {
-        "name": "Models/00000000EBEF.00C/Materials",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697239.0996604
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703610.1024845
     },
     {
-        "name": "Models/00000000EBEF.00C/output.json",
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/Materials",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694703610.1038344
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/output.json",
         "type": ".JSON file",
-        "size": "0.58 KB",
-        "dateModified": 1694697239.0991602
+        "size": "0.69 KB",
+        "dateModified": 1694703610.1019726
     },
     {
-        "name": "Models/00000000EBEF.00C/Textures",
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703610.1024845
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/00000000EBEF.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697239.5015223
+        "dateModified": 1694703610.1063352
     }
 ]

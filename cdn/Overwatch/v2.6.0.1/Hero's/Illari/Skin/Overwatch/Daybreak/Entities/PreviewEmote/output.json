@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects",
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.1201305
+        "dateModified": 1694703608.1204522
     },
     {
-        "name": "Entities/PreviewEmote/output.json",
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.118451
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
-        "size": "0.40 KB",
-        "dateModified": 1694697142.0852506
+        "size": "0.53 KB",
+        "dateModified": 1694703608.1179512
     },
     {
-        "name": "Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267233.8772564
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.118451
     }
 ]

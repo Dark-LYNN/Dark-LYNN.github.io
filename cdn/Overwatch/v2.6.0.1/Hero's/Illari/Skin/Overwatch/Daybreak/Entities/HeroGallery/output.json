@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/HeroGallery/AnimationEffects",
+        "name": "Overwatch/Daybreak/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.082234
+        "dateModified": 1694703608.0057333
     },
     {
-        "name": "Entities/HeroGallery/HeroGallery.owentity",
+        "name": "Overwatch/Daybreak/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267233.8757539
     },
     {
-        "name": "Entities/HeroGallery/output.json",
+        "name": "Overwatch/Daybreak/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.0047333
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/HeroGallery/output.json",
         "type": ".JSON file",
-        "size": "0.39 KB",
-        "dateModified": 1694697142.081734
+        "size": "0.52 KB",
+        "dateModified": 1694703608.0042334
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.0047333
     }
 ]

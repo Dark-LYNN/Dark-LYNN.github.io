@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/000000004C29.003/000000004C29.003.owentity",
+        "name": "Season 6/Eclipse/Entities/000000004C29.003/000000004C29.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.07 KB",
         "dateModified": 1694661374.0684338
     },
     {
-        "name": "Entities/000000004C29.003/output.json",
+        "name": "Season 6/Eclipse/Entities/000000004C29.003/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697739.9765387
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004C29.003/output.json",
         "type": ".JSON file",
         "size": "0.36 KB",
-        "dateModified": 1694697695.7254553
+        "dateModified": 1694697739.9765387
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004C29.003/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697740.0003273
     }
 ]

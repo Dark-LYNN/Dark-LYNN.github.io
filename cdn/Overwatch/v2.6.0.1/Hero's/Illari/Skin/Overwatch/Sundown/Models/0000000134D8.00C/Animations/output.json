@@ -1,32 +1,32 @@
 [
     {
-        "name": "Models/0000000134D8.00C/Animations/0",
+        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4400022
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/4",
+        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694696908.4463582
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/index.html",
+        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations/index.html",
         "type": ".HTML file",
-        "size": "2.08 KB",
-        "dateModified": 1694697711.2730553
+        "size": "2.06 KB",
+        "dateModified": 1694704243.454458
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/output.json",
+        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations/output.json",
         "type": ".JSON file",
         "size": "0.89 KB",
-        "dateModified": 1694699774.9225957
+        "dateModified": 1694704243.454458
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/script.js",
+        "name": "Overwatch/Sundown/Models/0000000134D8.00C/Animations/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694697711.2730553
+        "dateModified": 1694704243.454458
     }
 ]

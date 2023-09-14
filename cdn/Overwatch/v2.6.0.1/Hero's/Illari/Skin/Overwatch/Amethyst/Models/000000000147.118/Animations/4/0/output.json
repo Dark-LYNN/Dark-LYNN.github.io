@@ -1,68 +1,80 @@
 [
     {
-        "name": "Models/000000000147.118/Animations/4/0/000000006195.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/000000006195.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "19.00 KB",
         "dateModified": 1694661402.2245212
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/000000006197.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/000000006197.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "20.73 KB",
         "dateModified": 1694661402.2230206
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000D26B.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000D26B.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.39 KB",
         "dateModified": 1694661402.1007035
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000D598.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000D598.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "7.33 KB",
         "dateModified": 1694661402.244051
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DAB4.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DAB4.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "24.63 KB",
         "dateModified": 1694661401.845484
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DC11.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DC11.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "120.44 KB",
         "dateModified": 1694661402.0853798
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DD7C.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DD7C.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.31 KB",
         "dateModified": 1694661402.1012034
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DEFA.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DEFA.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "16.20 KB",
         "dateModified": 1694661402.0997036
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DF5F.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DF5F.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "7.57 KB",
         "dateModified": 1694661402.1002033
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/00000000DF73.owanimclip",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/00000000DF73.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "24.63 KB",
         "dateModified": 1694661402.1570046
     },
     {
-        "name": "Models/000000000147.118/Animations/4/0/output.json",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702906.4722676
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/output.json",
         "type": ".JSON file",
         "size": "2.22 KB",
-        "dateModified": 1694699826.7257533
+        "dateModified": 1694702906.4717672
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/Animations/4/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702906.4722676
     }
 ]

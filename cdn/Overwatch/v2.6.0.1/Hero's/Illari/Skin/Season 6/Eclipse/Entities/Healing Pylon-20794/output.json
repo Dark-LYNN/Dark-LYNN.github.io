@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Healing Pylon-20794/Healing Pylon-20794.owentity",
+        "name": "Season 6/Eclipse/Entities/Healing Pylon-20794/Healing Pylon-20794.owentity",
         "type": ".OWENTITY file",
         "size": "0.09 KB",
         "dateModified": 1694661375.580399
     },
     {
-        "name": "Entities/Healing Pylon-20794/output.json",
+        "name": "Season 6/Eclipse/Entities/Healing Pylon-20794/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697744.9553926
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Healing Pylon-20794/output.json",
         "type": ".JSON file",
         "size": "0.37 KB",
-        "dateModified": 1694697696.128473
+        "dateModified": 1694697744.923097
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Healing Pylon-20794/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697744.9624045
     }
 ]

@@ -1,8 +1,20 @@
 [
     {
-        "name": "Effects/00000000199F.00D/Sounds/00000000377B.02C/output.json",
+        "name": "Season 6/Eclipse/Effects/00000000199F.00D/Sounds/00000000377B.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697732.0079591
+    },
+    {
+        "name": "Season 6/Eclipse/Effects/00000000199F.00D/Sounds/00000000377B.02C/output.json",
         "type": ".JSON file",
         "size": "0.20 KB",
-        "dateModified": 1694697694.8959987
+        "dateModified": 1694697732.007459
+    },
+    {
+        "name": "Season 6/Eclipse/Effects/00000000199F.00D/Sounds/00000000377B.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697732.0368032
     }
 ]

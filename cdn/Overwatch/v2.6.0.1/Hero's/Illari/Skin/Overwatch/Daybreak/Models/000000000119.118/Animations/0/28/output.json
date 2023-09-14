@@ -1,20 +1,32 @@
 [
     {
-        "name": "Models/000000000119.118/Animations/0/28/00000000DC55.owanimclip",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0/28/00000000DC55.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267233.9723506
     },
     {
-        "name": "Models/000000000119.118/Animations/0/28/00000000DC74.owanimclip",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0/28/00000000DC74.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "10.67 KB",
         "dateModified": 1694267233.9723506
     },
     {
-        "name": "Models/000000000119.118/Animations/0/28/output.json",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0/28/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.894669
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0/28/output.json",
         "type": ".JSON file",
-        "size": "0.45 KB",
-        "dateModified": 1694697145.2676673
+        "size": "0.60 KB",
+        "dateModified": 1694703608.894669
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations/0/28/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.895169
     }
 ]

@@ -1,56 +1,68 @@
 [
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9867072
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9867072
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9867072
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9872174
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9872174
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.987717
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.987717
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267244.9882178
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/output.json",
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704185.6795187
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "1.76 KB",
-        "dateModified": 1694697446.0921519
+        "size": "1.78 KB",
+        "dateModified": 1694704185.6795187
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704185.6800187
     }
 ]

@@ -1,32 +1,44 @@
 [
     {
-        "name": "Effects/0000000017E5.00D/Sounds/0000000032DB.02C/000000096E26.03F.ogg",
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/000000096E26.03F.ogg",
         "type": ".OGG file",
         "size": "10.26 KB",
         "dateModified": 1694267232.0579646
     },
     {
-        "name": "Effects/0000000017E5.00D/Sounds/0000000032DB.02C/000000096E27.03F.ogg",
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/000000096E27.03F.ogg",
         "type": ".OGG file",
         "size": "10.51 KB",
         "dateModified": 1694267232.0579646
     },
     {
-        "name": "Effects/0000000017E5.00D/Sounds/0000000032DB.02C/00000014D833.03F.ogg",
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/00000014D833.03F.ogg",
         "type": ".OGG file",
         "size": "14.63 KB",
         "dateModified": 1694267232.0579646
     },
     {
-        "name": "Effects/0000000017E5.00D/Sounds/0000000032DB.02C/0000001BF4D0.03F.ogg",
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/0000001BF4D0.03F.ogg",
         "type": ".OGG file",
         "size": "10.41 KB",
         "dateModified": 1694267232.0589437
     },
     {
-        "name": "Effects/0000000017E5.00D/Sounds/0000000032DB.02C/output.json",
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703599.908508
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/output.json",
         "type": ".JSON file",
-        "size": "0.89 KB",
-        "dateModified": 1694697129.234844
+        "size": "1.01 KB",
+        "dateModified": 1694703599.873017
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/0000000017E5.00D/Sounds/0000000032DB.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703599.9090073
     }
 ]

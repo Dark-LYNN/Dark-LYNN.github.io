@@ -1,26 +1,38 @@
 [
     {
-        "name": "Entities/Gameplay3P/AnimationEffects",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.1240964
+        "dateModified": 1694702900.8940642
     },
     {
-        "name": "Entities/Gameplay3P/Effects",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.1376133
+        "dateModified": 1694702900.9131265
     },
     {
-        "name": "Entities/Gameplay3P/Gameplay3P.owentity",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Gameplay3P.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694661405.4503913
     },
     {
-        "name": "Entities/Gameplay3P/output.json",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702900.8629081
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/output.json",
         "type": ".JSON file",
         "size": "0.69 KB",
-        "dateModified": 1694699826.1343293
+        "dateModified": 1694702900.8624077
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702900.863408
     }
 ]

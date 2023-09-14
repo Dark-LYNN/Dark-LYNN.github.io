@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/000000221CC8.03F.ogg",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/000000221CC8.03F.ogg",
         "type": ".OGG file",
         "size": "11.53 KB",
         "dateModified": 1694661405.454892
     },
     {
-        "name": "Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/output.json",
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702904.3068604
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/output.json",
         "type": ".JSON file",
         "size": "0.44 KB",
-        "dateModified": 1694699826.3976665
+        "dateModified": 1694702904.3063605
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/Gameplay3P/Effects/000000004D7C.00D/Sounds/00000000A1BF.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702904.3068604
     }
 ]

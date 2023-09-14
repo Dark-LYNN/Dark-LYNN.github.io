@@ -1,8 +1,26 @@
 [
     {
-        "name": "3D Model/Daybreak.blend",
+        "name": "Overwatch/Daybreak/3D Model/Daybreak.blend",
         "type": ".BLEND file",
         "size": "19658.84 KB",
         "dateModified": 1694698953.372537
+    },
+    {
+        "name": "Overwatch/Daybreak/3D Model/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703599.3145542
+    },
+    {
+        "name": "Overwatch/Daybreak/3D Model/output.json",
+        "type": ".JSON file",
+        "size": "0.17 KB",
+        "dateModified": 1694703599.3140547
+    },
+    {
+        "name": "Overwatch/Daybreak/3D Model/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703599.3145542
     }
 ]

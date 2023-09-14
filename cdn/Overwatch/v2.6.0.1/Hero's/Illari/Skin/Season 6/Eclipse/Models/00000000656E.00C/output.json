@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/00000000656E.00C/00000000656E.owmdl",
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/00000000656E.owmdl",
         "type": ".OWMDL file",
         "size": "26.58 KB",
         "dateModified": 1694661371.4383547
     },
     {
-        "name": "Models/00000000656E.00C/Materials",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697642.7128284
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697749.780733
     },
     {
-        "name": "Models/00000000656E.00C/output.json",
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/Materials",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697749.7997615
+    },
+    {
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/output.json",
         "type": ".JSON file",
         "size": "0.69 KB",
-        "dateModified": 1694697696.738966
+        "dateModified": 1694697749.7626407
     },
     {
-        "name": "Models/00000000656E.00C/Textures",
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697749.7817369
+    },
+    {
+        "name": "Season 6/Eclipse/Models/00000000656E.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697642.907905
+        "dateModified": 1694697749.802778
     }
 ]

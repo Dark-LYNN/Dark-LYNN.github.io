@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/000000005708.00C/Materials/8C141E1A4F8F.owmat",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/8C141E1A4F8F.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.672277
     },
     {
-        "name": "Models/000000005708.00C/Materials/A58B76EE92D9.owmat",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/A58B76EE92D9.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.672277
     },
     {
-        "name": "Models/000000005708.00C/Materials/ACE7009DBE59.owmat",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/ACE7009DBE59.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.6727765
     },
     {
-        "name": "Models/000000005708.00C/Materials/C484B6C50454.owmat",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/C484B6C50454.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.6727765
     },
     {
-        "name": "Models/000000005708.00C/Materials/ED2F5BF35232.owmat",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/ED2F5BF35232.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267235.6732771
     },
     {
-        "name": "Models/000000005708.00C/Materials/output.json",
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703610.038852
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "1.03 KB",
-        "dateModified": 1694697232.7123432
+        "size": "1.12 KB",
+        "dateModified": 1694703610.038852
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000005708.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703610.0393522
     }
 ]

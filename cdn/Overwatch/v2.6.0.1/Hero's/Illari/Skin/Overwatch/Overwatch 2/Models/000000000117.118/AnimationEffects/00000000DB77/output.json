@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/output.json",
-        "type": ".JSON file",
-        "size": "0.22 KB",
-        "dateModified": 1694697447.632093
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/AnimationEffects/00000000DB77/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704187.2034328
     },
     {
-        "name": "Models/000000000117.118/AnimationEffects/00000000DB77/Sounds",
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/AnimationEffects/00000000DB77/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694704187.2029314
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/AnimationEffects/00000000DB77/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704187.203933
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000000117.118/AnimationEffects/00000000DB77/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697447.6335933
+        "dateModified": 1694704187.205433
     }
 ]

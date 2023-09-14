@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/00000000EC38.00C/00000000EC38.owmdl",
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/00000000EC38.owmdl",
         "type": ".OWMDL file",
         "size": "35.49 KB",
         "dateModified": 1694267255.6240654
     },
     {
-        "name": "Models/00000000EC38.00C/Materials",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697497.7880273
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704223.5724218
     },
     {
-        "name": "Models/00000000EC38.00C/output.json",
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/Materials",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694704223.5754228
+    },
+    {
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/output.json",
         "type": ".JSON file",
-        "size": "0.57 KB",
-        "dateModified": 1694697497.7855628
+        "size": "0.69 KB",
+        "dateModified": 1694704223.5724218
     },
     {
-        "name": "Models/00000000EC38.00C/Textures",
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704223.5729218
+    },
+    {
+        "name": "Overwatch/Qumir/Models/00000000EC38.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697497.9068983
+        "dateModified": 1694704223.5804324
     }
 ]

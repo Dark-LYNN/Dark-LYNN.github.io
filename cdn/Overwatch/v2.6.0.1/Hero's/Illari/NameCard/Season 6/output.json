@@ -1,14 +1,38 @@
 [
     {
-        "name": "Llama Pajamas.png",
+        "name": "Season 6/Eclipse.png",
+        "type": ".PNG file",
+        "size": "298.00 KB",
+        "dateModified": 1694706786.8353515
+    },
+    {
+        "name": "Season 6/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694351076.1884563
+    },
+    {
+        "name": "Season 6/Llama Pajamas.png",
         "type": ".PNG file",
         "size": "99.48 KB",
         "dateModified": 1694351076.1864545
     },
     {
-        "name": "run.py",
+        "name": "Season 6/output.json",
+        "type": ".JSON file",
+        "size": "0.29 KB",
+        "dateModified": 1694351076.187955
+    },
+    {
+        "name": "Season 6/run.py",
         "type": ".PY file",
         "size": "7.68 KB",
         "dateModified": 1694347399.4866786
+    },
+    {
+        "name": "Season 6/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694351076.1884563
     }
 ]

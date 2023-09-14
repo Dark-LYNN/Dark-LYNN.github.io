@@ -1,32 +1,44 @@
 [
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001BD90B.03F.ogg",
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001BD90B.03F.ogg",
         "type": ".OGG file",
         "size": "99.62 KB",
         "dateModified": 1694661376.397951
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DBF17.03F.ogg",
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DBF17.03F.ogg",
         "type": ".OGG file",
         "size": "205.24 KB",
         "dateModified": 1694661376.3914478
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C5.03F.ogg",
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C5.03F.ogg",
         "type": ".OGG file",
         "size": "31.58 KB",
         "dateModified": 1694661376.4024594
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C6.03F.ogg",
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/0000001DC7C6.03F.ogg",
         "type": ".OGG file",
         "size": "13.39 KB",
         "dateModified": 1694661376.3999586
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C/output.json",
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697732.250604
+    },
+    {
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/output.json",
         "type": ".JSON file",
         "size": "1.01 KB",
-        "dateModified": 1694697694.9150224
+        "dateModified": 1694697732.233088
+    },
+    {
+        "name": "Season 6/Eclipse/Effects/000000001B8E.00D/Sounds/000000003ADB.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697732.2511034
     }
 ]

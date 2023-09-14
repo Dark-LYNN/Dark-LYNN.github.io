@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/000000000E71.00C/Textures/000000037041.png",
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/000000037041.png",
         "type": ".PNG file",
         "size": "3.56 KB",
         "dateModified": 1694697623.7464516
     },
     {
-        "name": "Models/000000000E71.00C/Textures/00000003E45B.png",
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697623.7890656
     },
     {
-        "name": "Models/000000000E71.00C/Textures/80001D9E281C.png",
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/80001D9E281C.png",
         "type": ".PNG file",
         "size": "0.33 KB",
         "dateModified": 1694697623.7935674
     },
     {
-        "name": "Models/000000000E71.00C/Textures/output.json",
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697748.7616763
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/output.json",
         "type": ".JSON file",
         "size": "0.73 KB",
-        "dateModified": 1694697696.6014068
+        "dateModified": 1694697748.7606738
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000E71.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697748.7616763
     }
 ]

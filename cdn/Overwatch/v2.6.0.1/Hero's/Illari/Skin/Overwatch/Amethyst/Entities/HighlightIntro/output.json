@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/HighlightIntro/AnimationEffects",
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.5591683
+        "dateModified": 1694702905.476841
     },
     {
-        "name": "Entities/HighlightIntro/HighlightIntro.owentity",
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro/HighlightIntro.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694661409.356374
     },
     {
-        "name": "Entities/HighlightIntro/output.json",
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.4362106
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro/output.json",
         "type": ".JSON file",
-        "size": "0.54 KB",
-        "dateModified": 1694699826.536393
+        "size": "0.53 KB",
+        "dateModified": 1694702905.4357102
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/HighlightIntro/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.4362106
     }
 ]

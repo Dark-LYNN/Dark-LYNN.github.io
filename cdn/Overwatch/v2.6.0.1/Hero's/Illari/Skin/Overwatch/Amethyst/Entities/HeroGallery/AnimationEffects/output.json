@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Overwatch/Amethyst/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3553703
     },
     {
-        "name": "Entities/HeroGallery/AnimationEffects/output.json",
+        "name": "Overwatch/Amethyst/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.43471
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/HeroGallery/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "0.38 KB",
-        "dateModified": 1694699826.5353932
+        "dateModified": 1694702905.43421
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.43471
     }
 ]

@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000DECA/output.json",
-        "type": ".JSON file",
-        "size": "0.22 KB",
-        "dateModified": 1694697145.0065377
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000DECA/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.8570633
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000DECA/Sounds",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000DECA/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694703608.8570633
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000DECA/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.8575635
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000DECA/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.0717456
+        "dateModified": 1694703608.858564
     }
 ]

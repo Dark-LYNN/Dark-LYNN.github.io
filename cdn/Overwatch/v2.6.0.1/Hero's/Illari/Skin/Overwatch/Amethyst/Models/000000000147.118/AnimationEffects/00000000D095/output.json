@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/000000000147.118/AnimationEffects/00000000D095/output.json",
-        "type": ".JSON file",
-        "size": "0.40 KB",
-        "dateModified": 1694699826.602415
+        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000D095/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.8162
     },
     {
-        "name": "Models/000000000147.118/AnimationEffects/00000000D095/Sounds",
+        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000D095/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694702905.8157008
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000D095/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.8167021
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/000000000147.118/AnimationEffects/00000000D095/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.860816
+        "dateModified": 1694702905.8177004
     }
 ]

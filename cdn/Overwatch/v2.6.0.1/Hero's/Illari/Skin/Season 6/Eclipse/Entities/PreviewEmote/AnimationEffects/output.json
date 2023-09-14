@@ -1,38 +1,50 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661375.5723836
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661375.5738833
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661375.5728824
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661375.5733826
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661375.5733826
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/output.json",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697745.040292
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "1.16 KB",
-        "dateModified": 1694697696.2573566
+        "dateModified": 1694697745.0397913
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/PreviewEmote/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697745.0407915
     }
 ]

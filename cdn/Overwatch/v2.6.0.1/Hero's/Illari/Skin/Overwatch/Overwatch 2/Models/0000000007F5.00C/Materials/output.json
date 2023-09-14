@@ -1,80 +1,92 @@
 [
     {
-        "name": "Models/0000000007F5.00C/Materials/8936AD138AF3.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/8936AD138AF3.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.6570427
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/89487BD5879E.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/89487BD5879E.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.6575425
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/8FAC3E6949FE.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/8FAC3E6949FE.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.6575425
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/B367852F802A.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/B367852F802A.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267247.6575425
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/BDD436CEA264.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/BDD436CEA264.owmat",
         "type": ".OWMAT file",
         "size": "0.22 KB",
         "dateModified": 1694267247.6575425
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/C5B29DA2A7C9.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/C5B29DA2A7C9.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.6595922
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/D5DF84286EE2.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/D5DF84286EE2.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.660092
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/D77E0DEC1BAA.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/D77E0DEC1BAA.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.660092
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/E79C5114F7E8.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/E79C5114F7E8.owmat",
         "type": ".OWMAT file",
         "size": "0.22 KB",
         "dateModified": 1694267247.660092
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/F27B90BA4257.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/F27B90BA4257.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.6605923
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/F71D6B566953.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/F71D6B566953.owmat",
         "type": ".OWMAT file",
         "size": "0.22 KB",
         "dateModified": 1694267247.6605923
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/FB36A5EC4BA7.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/FB36A5EC4BA7.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.6605923
     },
     {
-        "name": "Models/0000000007F5.00C/Materials/output.json",
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.1293297
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "2.51 KB",
-        "dateModified": 1694697465.0482857
+        "size": "2.43 KB",
+        "dateModified": 1694704188.1293297
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000007F5.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.1298287
     }
 ]

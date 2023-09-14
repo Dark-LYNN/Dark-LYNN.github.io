@@ -1,68 +1,80 @@
 [
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2756717
+        "dateModified": 1694697738.42874
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2783473
+        "dateModified": 1694697738.452233
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.281888
+        "dateModified": 1694697738.5026143
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.284389
+        "dateModified": 1694697738.544544
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.286389
+        "dateModified": 1694697738.567269
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2926943
+        "dateModified": 1694697738.6372013
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3504505
+        "dateModified": 1694697738.7194457
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3793085
+        "dateModified": 1694697738.7696319
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3837545
+        "dateModified": 1694697738.8781166
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3902695
+        "dateModified": 1694697738.9574971
     },
     {
-        "name": "Entities/000000004AC0.003/Effects/output.json",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697738.4272397
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/output.json",
         "type": ".JSON file",
         "size": "2.05 KB",
-        "dateModified": 1694697695.4433928
+        "dateModified": 1694697738.3963203
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003/Effects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697738.4277413
     }
 ]

@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects",
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.186302
+        "dateModified": 1694703561.5735517
     },
     {
-        "name": "Entities/PreviewEmote/output.json",
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703561.572052
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
-        "size": "0.39 KB",
-        "dateModified": 1694697082.1838017
+        "size": "0.53 KB",
+        "dateModified": 1694703561.5715513
     },
     {
-        "name": "Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267231.0685623
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703561.5725515
     }
 ]

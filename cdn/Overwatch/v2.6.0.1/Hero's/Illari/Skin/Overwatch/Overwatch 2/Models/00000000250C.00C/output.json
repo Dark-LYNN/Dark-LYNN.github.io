@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/00000000250C.00C/00000000250C.owmdl",
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/00000000250C.owmdl",
         "type": ".OWMDL file",
         "size": "0.75 KB",
         "dateModified": 1694267247.948643
     },
     {
-        "name": "Models/00000000250C.00C/Materials",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697472.0629094
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.3808293
     },
     {
-        "name": "Models/00000000250C.00C/output.json",
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/Materials",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694704188.3848412
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/output.json",
         "type": ".JSON file",
-        "size": "0.58 KB",
-        "dateModified": 1694697472.0613928
+        "size": "0.69 KB",
+        "dateModified": 1694704188.3808293
     },
     {
-        "name": "Models/00000000250C.00C/Textures",
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.381832
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/00000000250C.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697472.1093407
+        "dateModified": 1694704188.3868423
     }
 ]

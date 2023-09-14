@@ -1,26 +1,38 @@
 [
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D8.03F.ogg",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D8.03F.ogg",
         "type": ".OGG file",
         "size": "16.62 KB",
         "dateModified": 1694267233.9406137
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D9.03F.ogg",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337D9.03F.ogg",
         "type": ".OGG file",
         "size": "17.22 KB",
         "dateModified": 1694267233.9411137
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337DA.03F.ogg",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/0000002337DA.03F.ogg",
         "type": ".OGG file",
         "size": "17.52 KB",
         "dateModified": 1694267233.9411137
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/output.json",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.4604785
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/output.json",
         "type": ".JSON file",
-        "size": "0.75 KB",
-        "dateModified": 1694697144.4586997
+        "size": "0.92 KB",
+        "dateModified": 1694703608.4599786
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects/00000000D23F/Sounds/00000000A924.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.488503
     }
 ]

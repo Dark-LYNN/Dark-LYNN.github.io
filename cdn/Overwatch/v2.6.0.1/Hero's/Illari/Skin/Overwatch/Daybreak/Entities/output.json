@@ -1,152 +1,164 @@
 [
     {
-        "name": "Entities/00000000014F.003",
+        "name": "Overwatch/Daybreak/Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.3417964
+        "dateModified": 1694703602.6737823
     },
     {
-        "name": "Entities/000000000162.003",
+        "name": "Overwatch/Daybreak/Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.3427968
+        "dateModified": 1694703602.675282
     },
     {
-        "name": "Entities/00000000130D.003",
+        "name": "Overwatch/Daybreak/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.343297
+        "dateModified": 1694703602.6767826
     },
     {
-        "name": "Entities/000000002D33.003",
+        "name": "Overwatch/Daybreak/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.343297
+        "dateModified": 1694703602.678783
     },
     {
-        "name": "Entities/000000003024.003",
+        "name": "Overwatch/Daybreak/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.3442998
+        "dateModified": 1694703602.680282
     },
     {
-        "name": "Entities/000000004828.003",
+        "name": "Overwatch/Daybreak/Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.3453493
+        "dateModified": 1694703602.681783
     },
     {
-        "name": "Entities/0000000048CC.003",
+        "name": "Overwatch/Daybreak/Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.3458507
+        "dateModified": 1694703602.6838067
     },
     {
-        "name": "Entities/000000004AC0.003",
+        "name": "Overwatch/Daybreak/Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697135.6449783
+        "dateModified": 1694703602.7047732
     },
     {
-        "name": "Entities/000000004B4A.003",
+        "name": "Overwatch/Daybreak/Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.044525
+        "dateModified": 1694703603.1087263
     },
     {
-        "name": "Entities/000000004BCA.003",
+        "name": "Overwatch/Daybreak/Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.0809243
+        "dateModified": 1694703603.1895204
     },
     {
-        "name": "Entities/000000004C29.003",
+        "name": "Overwatch/Daybreak/Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.898431
+        "dateModified": 1694703603.5972507
     },
     {
-        "name": "Entities/000000004C2A.003",
+        "name": "Overwatch/Daybreak/Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.8994312
+        "dateModified": 1694703603.598751
     },
     {
-        "name": "Entities/000000004D41.003",
+        "name": "Overwatch/Daybreak/Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.8999324
+        "dateModified": 1694703603.5997515
     },
     {
-        "name": "Entities/000000004E10.003",
+        "name": "Overwatch/Daybreak/Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.900932
+        "dateModified": 1694703603.6012511
     },
     {
-        "name": "Entities/0000000050BF.003",
+        "name": "Overwatch/Daybreak/Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.901432
+        "dateModified": 1694703603.6027527
     },
     {
-        "name": "Entities/000000005384.003",
+        "name": "Overwatch/Daybreak/Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.9019322
+        "dateModified": 1694703603.6032608
     },
     {
-        "name": "Entities/0000000053DA.003",
+        "name": "Overwatch/Daybreak/Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.9024324
+        "dateModified": 1694703603.6052349
     },
     {
-        "name": "Entities/Gameplay3P",
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697137.9029324
+        "dateModified": 1694703603.6067352
     },
     {
-        "name": "Entities/Healing Pylon-20794",
+        "name": "Overwatch/Daybreak/Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.0807338
+        "dateModified": 1694703608.0032325
     },
     {
-        "name": "Entities/HeroGallery",
+        "name": "Overwatch/Daybreak/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.0812337
+        "dateModified": 1694703608.0047333
     },
     {
-        "name": "Entities/HighlightIntro",
+        "name": "Overwatch/Daybreak/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.0827343
+        "dateModified": 1694703608.0072334
     },
     {
-        "name": "Entities/output.json",
+        "name": "Overwatch/Daybreak/Entities/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703602.6717522
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/output.json",
         "type": ".JSON file",
-        "size": "4.33 KB",
-        "dateModified": 1694697135.3417964
+        "size": "4.05 KB",
+        "dateModified": 1694703602.6717522
     },
     {
-        "name": "Entities/PreviewEmote",
+        "name": "Overwatch/Daybreak/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.0847497
+        "dateModified": 1694703608.118451
     },
     {
-        "name": "Entities/Showcase",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697142.1216319
+        "name": "Overwatch/Daybreak/Entities/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703602.6727552
     },
     {
-        "name": "Entities/Solar Rifle-20793",
+        "name": "Overwatch/Daybreak/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697142.1231318
+        "dateModified": 1694703608.1219518
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694703608.2328455
     }
 ]

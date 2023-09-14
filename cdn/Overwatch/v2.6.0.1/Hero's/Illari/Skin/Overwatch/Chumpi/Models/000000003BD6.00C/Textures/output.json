@@ -1,62 +1,74 @@
 [
     {
-        "name": "Models/000000003BD6.00C/Textures/0000000010A3.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/0000000010A3.png",
         "type": ".PNG file",
         "size": "0.09 KB",
         "dateModified": 1694697118.9555318
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/0000000020D0.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/0000000020D0.png",
         "type": ".PNG file",
         "size": "0.58 KB",
         "dateModified": 1694697118.9600327
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/000000009BDF.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/000000009BDF.png",
         "type": ".PNG file",
         "size": "14.54 KB",
         "dateModified": 1694697118.9695437
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/00000000A06C.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/00000000A06C.png",
         "type": ".PNG file",
         "size": "0.31 KB",
         "dateModified": 1694697118.9740446
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/00000000A4EC.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/00000000A4EC.png",
         "type": ".PNG file",
         "size": "67.11 KB",
         "dateModified": 1694697118.9993281
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/00000000A4ED.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/00000000A4ED.png",
         "type": ".PNG file",
         "size": "132.67 KB",
         "dateModified": 1694697119.0456495
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/80003B0D88D1.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/80003B0D88D1.png",
         "type": ".PNG file",
         "size": "0.31 KB",
         "dateModified": 1694697119.0583274
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/8000C9719DA9.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/8000C9719DA9.png",
         "type": ".PNG file",
         "size": "0.19 KB",
         "dateModified": 1694697119.0628276
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/8000F8754E95.png",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/8000F8754E95.png",
         "type": ".PNG file",
         "size": "0.28 KB",
         "dateModified": 1694697119.0667622
     },
     {
-        "name": "Models/000000003BD6.00C/Textures/output.json",
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703564.2385938
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.80 KB",
-        "dateModified": 1694697119.0687623
+        "size": "1.83 KB",
+        "dateModified": 1694703564.2385938
+    },
+    {
+        "name": "Overwatch/Chumpi/Models/000000003BD6.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703564.2385938
     }
 ]

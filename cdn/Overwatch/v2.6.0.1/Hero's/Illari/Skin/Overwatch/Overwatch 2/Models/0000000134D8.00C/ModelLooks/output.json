@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/0000000134D8.00C/ModelLooks/DEFAULT-17EA2.owmat",
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/ModelLooks/DEFAULT-17EA2.owmat",
         "type": ".OWMAT file",
         "size": "0.06 KB",
         "dateModified": 1694267248.0615878
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks/output.json",
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/ModelLooks/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.598255
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/ModelLooks/output.json",
         "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697473.9204597
+        "size": "0.37 KB",
+        "dateModified": 1694704188.597756
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/ModelLooks/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.598255
     }
 ]

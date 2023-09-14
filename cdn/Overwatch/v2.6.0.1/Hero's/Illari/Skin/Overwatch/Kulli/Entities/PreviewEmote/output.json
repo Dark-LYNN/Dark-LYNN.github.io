@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects",
+        "name": "Overwatch/Kulli/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697266.8863537
+        "dateModified": 1694703966.7494419
     },
     {
-        "name": "Entities/PreviewEmote/output.json",
+        "name": "Overwatch/Kulli/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703966.7474382
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
-        "size": "0.39 KB",
-        "dateModified": 1694697266.8848536
+        "size": "0.53 KB",
+        "dateModified": 1694703966.7469382
     },
     {
-        "name": "Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Overwatch/Kulli/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267239.58812
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703966.7479382
     }
 ]

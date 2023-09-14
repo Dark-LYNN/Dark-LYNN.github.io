@@ -1,20 +1,32 @@
 [
     {
-        "name": "Models/0000000086CF.00C/Materials/92C89A24D8D2.owmat",
+        "name": "Overwatch/Amethyst/Models/0000000086CF.00C/Materials/92C89A24D8D2.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661404.9831824
     },
     {
-        "name": "Models/0000000086CF.00C/Materials/ECCC03D2AB4E.owmat",
+        "name": "Overwatch/Amethyst/Models/0000000086CF.00C/Materials/ECCC03D2AB4E.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694661405.006711
     },
     {
-        "name": "Models/0000000086CF.00C/Materials/output.json",
+        "name": "Overwatch/Amethyst/Models/0000000086CF.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702907.705803
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/0000000086CF.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "0.56 KB",
-        "dateModified": 1694699827.0154085
+        "dateModified": 1694702907.705803
+    },
+    {
+        "name": "Overwatch/Amethyst/Models/0000000086CF.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702907.7063024
     }
 ]

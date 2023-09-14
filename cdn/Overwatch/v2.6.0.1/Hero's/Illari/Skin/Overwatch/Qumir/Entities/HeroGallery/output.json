@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/HeroGallery/AnimationEffects",
+        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697476.882014
+        "dateModified": 1694704221.9714289
     },
     {
-        "name": "Entities/HeroGallery/HeroGallery.owentity",
+        "name": "Overwatch/Qumir/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267250.2576618
     },
     {
-        "name": "Entities/HeroGallery/output.json",
+        "name": "Overwatch/Qumir/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704221.9698822
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/HeroGallery/output.json",
         "type": ".JSON file",
-        "size": "0.39 KB",
-        "dateModified": 1694697476.8815143
+        "size": "0.52 KB",
+        "dateModified": 1694704221.968879
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704221.9704278
     }
 ]

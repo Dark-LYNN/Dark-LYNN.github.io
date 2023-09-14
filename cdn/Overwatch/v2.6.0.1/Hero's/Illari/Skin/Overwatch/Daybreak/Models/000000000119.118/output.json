@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000000119.118/000000000119.118.owmdl",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/000000000119.118.owmdl",
         "type": ".OWMDL file",
         "size": "5982.50 KB",
         "dateModified": 1694267233.9040668
     },
     {
-        "name": "Models/000000000119.118/AnimationEffects",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697143.4541366
+        "dateModified": 1694703608.365389
     },
     {
-        "name": "Models/000000000119.118/Animations",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697145.243758
+        "dateModified": 1694703608.8886576
     },
     {
-        "name": "Models/000000000119.118/Materials",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.3613763
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.6897612
+        "dateModified": 1694703609.15958
     },
     {
-        "name": "Models/000000000119.118/ModelLooks",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697146.6937644
+        "dateModified": 1694703609.1645033
     },
     {
-        "name": "Models/000000000119.118/output.json",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/output.json",
         "type": ".JSON file",
-        "size": "1.16 KB",
-        "dateModified": 1694697143.4501226
+        "size": "1.22 KB",
+        "dateModified": 1694703608.3608754
     },
     {
-        "name": "Models/000000000119.118/Textures",
+        "name": "Overwatch/Daybreak/Models/000000000119.118/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.3613763
+    },
+    {
+        "name": "Overwatch/Daybreak/Models/000000000119.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697171.8412974
+        "dateModified": 1694703609.187548
     }
 ]

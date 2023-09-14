@@ -1,50 +1,62 @@
 [
     {
-        "name": "Models/000000013561.00C/Materials/8893E46C66F0.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/8893E46C66F0.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.0925064
     },
     {
-        "name": "Models/000000013561.00C/Materials/BC9646D7715B.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/BC9646D7715B.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.0835502
     },
     {
-        "name": "Models/000000013561.00C/Materials/C4C9886A3D43.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/C4C9886A3D43.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.1074734
     },
     {
-        "name": "Models/000000013561.00C/Materials/E45009B785F1.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/E45009B785F1.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.1024723
     },
     {
-        "name": "Models/000000013561.00C/Materials/E8D65E884E6D.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/E8D65E884E6D.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.0975077
     },
     {
-        "name": "Models/000000013561.00C/Materials/EE11A6E5F4B8.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/EE11A6E5F4B8.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.087567
     },
     {
-        "name": "Models/000000013561.00C/Materials/F29D5DFDD61F.owmat",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/F29D5DFDD61F.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694661371.1124883
     },
     {
-        "name": "Models/000000013561.00C/Materials/output.json",
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697754.3425362
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "1.49 KB",
-        "dateModified": 1694697696.8173134
+        "dateModified": 1694697754.3404825
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000013561.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697754.3430357
     }
 ]

@@ -1,38 +1,50 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/00000000D01E.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3518696
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/00000000D020.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3528697
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/00000000D499.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3518696
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/00000000DB7D.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3523698
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/00000000DC54.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661409.3523698
     },
     {
-        "name": "Entities/PreviewEmote/AnimationEffects/output.json",
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702905.4828582
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "1.16 KB",
-        "dateModified": 1694699826.539394
+        "dateModified": 1694702905.4823587
+    },
+    {
+        "name": "Overwatch/Amethyst/Entities/PreviewEmote/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702905.4833584
     }
 ]

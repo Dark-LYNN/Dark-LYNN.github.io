@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
+        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects/00000000D89F.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267250.2571616
     },
     {
-        "name": "Entities/HeroGallery/AnimationEffects/output.json",
+        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704221.9714289
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects/output.json",
         "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697476.882014
+        "size": "0.38 KB",
+        "dateModified": 1694704221.9709277
+    },
+    {
+        "name": "Overwatch/Qumir/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704221.9714289
     }
 ]

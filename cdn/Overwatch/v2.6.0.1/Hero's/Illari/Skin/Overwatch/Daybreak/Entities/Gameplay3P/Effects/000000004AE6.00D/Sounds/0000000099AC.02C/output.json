@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/000000233536.03F.ogg",
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/000000233536.03F.ogg",
         "type": ".OGG file",
         "size": "21.02 KB",
         "dateModified": 1694267233.7429843
     },
     {
-        "name": "Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/000000233537.03F.ogg",
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/000000233537.03F.ogg",
         "type": ".OGG file",
         "size": "21.69 KB",
         "dateModified": 1694267233.7434845
     },
     {
-        "name": "Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/output.json",
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703606.576309
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/output.json",
         "type": ".JSON file",
-        "size": "0.49 KB",
-        "dateModified": 1694697140.1582656
+        "size": "0.66 KB",
+        "dateModified": 1694703606.5758088
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/Gameplay3P/Effects/000000004AE6.00D/Sounds/0000000099AC.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703606.576309
     }
 ]

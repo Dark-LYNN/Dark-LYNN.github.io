@@ -1,50 +1,62 @@
 [
     {
-        "name": "Models/0000000086CF.00C/Textures/000000019325.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/000000019325.png",
         "type": ".PNG file",
         "size": "0.21 KB",
         "dateModified": 1694697643.1783698
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/00000001B71F.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/00000001B71F.png",
         "type": ".PNG file",
         "size": "0.18 KB",
         "dateModified": 1694697643.1842484
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/00000003E45B.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697643.2446344
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/80001D0E31B5.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/80001D0E31B5.png",
         "type": ".PNG file",
         "size": "0.15 KB",
         "dateModified": 1694697643.2466366
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/800022C7FA64.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/800022C7FA64.png",
         "type": ".PNG file",
         "size": "0.14 KB",
         "dateModified": 1694697643.2511492
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/80003B167534.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/80003B167534.png",
         "type": ".PNG file",
         "size": "0.16 KB",
         "dateModified": 1694697643.2556503
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/8000631E0453.png",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/8000631E0453.png",
         "type": ".PNG file",
         "size": "0.12 KB",
         "dateModified": 1694697643.259162
     },
     {
-        "name": "Models/0000000086CF.00C/Textures/output.json",
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697749.9005733
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/output.json",
         "type": ".JSON file",
         "size": "1.46 KB",
-        "dateModified": 1694697696.7489796
+        "dateModified": 1694697749.9005733
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000086CF.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697749.9175162
     }
 ]

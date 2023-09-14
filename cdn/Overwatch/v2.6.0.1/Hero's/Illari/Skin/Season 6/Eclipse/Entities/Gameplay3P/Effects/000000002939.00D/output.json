@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Gameplay3P/Effects/000000002939.00D/output.json",
-        "type": ".JSON file",
-        "size": "0.38 KB",
-        "dateModified": 1694697695.861487
+        "name": "Season 6/Eclipse/Entities/Gameplay3P/Effects/000000002939.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697742.1292088
     },
     {
-        "name": "Entities/Gameplay3P/Effects/000000002939.00D/Sounds",
+        "name": "Season 6/Eclipse/Entities/Gameplay3P/Effects/000000002939.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.38 KB",
+        "dateModified": 1694697742.0493858
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Gameplay3P/Effects/000000002939.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697742.1298103
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Gameplay3P/Effects/000000002939.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.6217055
+        "dateModified": 1694697742.1697698
     }
 ]

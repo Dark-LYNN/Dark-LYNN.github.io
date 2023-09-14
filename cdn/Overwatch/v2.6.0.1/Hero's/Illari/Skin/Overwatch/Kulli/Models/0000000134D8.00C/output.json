@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267243.3285632
     },
     {
-        "name": "Models/0000000134D8.00C/Animations",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697421.231139
+        "dateModified": 1694703967.5590136
     },
     {
-        "name": "Models/0000000134D8.00C/Materials",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703967.5575132
+    },
+    {
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697421.491421
+        "dateModified": 1694703967.578674
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697421.5924518
+        "dateModified": 1694703967.579675
     },
     {
-        "name": "Models/0000000134D8.00C/output.json",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/output.json",
         "type": ".JSON file",
-        "size": "0.95 KB",
-        "dateModified": 1694697421.2301662
+        "size": "1.03 KB",
+        "dateModified": 1694703967.5555131
     },
     {
-        "name": "Models/0000000134D8.00C/Textures",
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703967.5580132
+    },
+    {
+        "name": "Overwatch/Kulli/Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697425.771704
+        "dateModified": 1694703967.5846877
     }
 ]

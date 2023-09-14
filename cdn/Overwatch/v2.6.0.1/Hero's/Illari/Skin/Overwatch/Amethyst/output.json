@@ -1,54 +1,54 @@
 [
     {
-        "name": "3D Model",
+        "name": "Overwatch/Amethyst/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694699830.6505172
     },
     {
-        "name": "Effects",
+        "name": "Overwatch/Amethyst/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699478.712316
+        "dateModified": 1694702896.0177073
     },
     {
-        "name": "Entities",
+        "name": "Overwatch/Amethyst/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699479.442299
+        "dateModified": 1694702900.055898
     },
     {
-        "name": "GUI",
+        "name": "Overwatch/Amethyst/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.7629306
+        "dateModified": 1694702905.5831025
     },
     {
-        "name": "index.html",
+        "name": "Overwatch/Amethyst/index.html",
         "type": ".HTML file",
         "size": "2.08 KB",
-        "dateModified": 1694699827.1048696
+        "dateModified": 1694702895.9853024
     },
     {
-        "name": "Models",
+        "name": "Overwatch/Amethyst/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699481.7749484
+        "dateModified": 1694702905.679877
     },
     {
-        "name": "output.json",
+        "name": "Overwatch/Amethyst/output.json",
         "type": ".JSON file",
         "size": "1.30 KB",
-        "dateModified": 1694699825.3420131
+        "dateModified": 1694702895.9853024
     },
     {
-        "name": "script.js",
+        "name": "Overwatch/Amethyst/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694699827.1053698
+        "dateModified": 1694702895.9858022
     },
     {
-        "name": "test.py",
+        "name": "Overwatch/Amethyst/test.py",
         "type": ".PY file",
         "size": "8.94 KB",
         "dateModified": 1694696842.5307052

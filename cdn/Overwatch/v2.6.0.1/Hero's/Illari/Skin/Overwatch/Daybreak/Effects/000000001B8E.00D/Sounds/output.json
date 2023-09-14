@@ -1,26 +1,38 @@
 [
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003ADB.02C",
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/000000003ADB.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697129.3813226
+        "dateModified": 1694703600.048694
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/000000003B3B.02C",
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/000000003B3B.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697129.3818219
+        "dateModified": 1694703600.0506945
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/0000000096E9.02C",
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/0000000096E9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697129.382822
+        "dateModified": 1694703600.0516946
     },
     {
-        "name": "Effects/000000001B8E.00D/Sounds/output.json",
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703600.0017955
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.62 KB",
-        "dateModified": 1694697129.379322
+        "size": "0.74 KB",
+        "dateModified": 1694703600.0017955
+    },
+    {
+        "name": "Overwatch/Daybreak/Effects/000000001B8E.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703600.0017955
     }
 ]

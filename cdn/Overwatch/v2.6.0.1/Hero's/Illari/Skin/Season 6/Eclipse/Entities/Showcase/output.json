@@ -1,18 +1,30 @@
 [
     {
-        "name": "Entities/Showcase/AnimationEffects",
+        "name": "Season 6/Eclipse/Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.8911247
+        "dateModified": 1694697745.096846
     },
     {
-        "name": "Entities/Showcase/output.json",
+        "name": "Season 6/Eclipse/Entities/Showcase/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697745.0428066
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Showcase/output.json",
         "type": ".JSON file",
         "size": "0.51 KB",
-        "dateModified": 1694697696.2583563
+        "dateModified": 1694697745.042294
     },
     {
-        "name": "Entities/Showcase/Showcase.owentity",
+        "name": "Season 6/Eclipse/Entities/Showcase/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697745.0644019
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694661375.574383

@@ -1,56 +1,68 @@
 [
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D55B.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.5814705
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D5AF.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.5819712
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D5B2.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.58347
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D5B3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.58247
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D5B4.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.58247
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000D5FA.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.58347
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000DD9C.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.5829713
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/00000000DDA3.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694661374.58347
     },
     {
-        "name": "Entities/000000004BCA.003/AnimationEffects/output.json",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697739.052313
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/output.json",
         "type": ".JSON file",
         "size": "1.77 KB",
-        "dateModified": 1694697695.5873418
+        "dateModified": 1694697739.0047145
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697739.0528238
     }
 ]

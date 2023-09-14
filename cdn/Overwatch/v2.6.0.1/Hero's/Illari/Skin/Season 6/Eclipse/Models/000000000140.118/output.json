@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000000140.118/000000000140.118.owmdl",
+        "name": "Season 6/Eclipse/Models/000000000140.118/000000000140.118.owmdl",
         "type": ".OWMDL file",
         "size": "7109.19 KB",
         "dateModified": 1694661349.5022178
     },
     {
-        "name": "Models/000000000140.118/AnimationEffects",
+        "name": "Season 6/Eclipse/Models/000000000140.118/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697594.0133288
+        "dateModified": 1694697745.204266
     },
     {
-        "name": "Models/000000000140.118/Animations",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697594.1502807
+        "dateModified": 1694697747.5901737
     },
     {
-        "name": "Models/000000000140.118/Materials",
+        "name": "Season 6/Eclipse/Models/000000000140.118/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697745.148489
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697594.2273068
+        "dateModified": 1694697748.1567364
     },
     {
-        "name": "Models/000000000140.118/ModelLooks",
+        "name": "Season 6/Eclipse/Models/000000000140.118/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697594.2323194
+        "dateModified": 1694697748.1970892
     },
     {
-        "name": "Models/000000000140.118/output.json",
+        "name": "Season 6/Eclipse/Models/000000000140.118/output.json",
         "type": ".JSON file",
         "size": "1.22 KB",
-        "dateModified": 1694697696.2713835
+        "dateModified": 1694697745.1479878
     },
     {
-        "name": "Models/000000000140.118/Textures",
+        "name": "Season 6/Eclipse/Models/000000000140.118/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697745.1489892
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697615.5491662
+        "dateModified": 1694697748.2181733
     }
 ]

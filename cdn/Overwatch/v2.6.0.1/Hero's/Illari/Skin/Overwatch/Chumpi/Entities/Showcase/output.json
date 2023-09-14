@@ -1,18 +1,30 @@
 [
     {
-        "name": "Entities/Showcase/AnimationEffects",
+        "name": "Overwatch/Chumpi/Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.1893554
+        "dateModified": 1694703561.7949078
     },
     {
-        "name": "Entities/Showcase/output.json",
+        "name": "Overwatch/Chumpi/Entities/Showcase/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703561.5760622
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/Showcase/output.json",
         "type": ".JSON file",
-        "size": "0.38 KB",
-        "dateModified": 1694697082.1883557
+        "size": "0.51 KB",
+        "dateModified": 1694703561.575563
     },
     {
-        "name": "Entities/Showcase/Showcase.owentity",
+        "name": "Overwatch/Chumpi/Entities/Showcase/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703561.5760622
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267231.069562

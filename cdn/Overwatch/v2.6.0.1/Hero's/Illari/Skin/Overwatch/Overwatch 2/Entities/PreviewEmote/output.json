@@ -1,20 +1,32 @@
 [
     {
-        "name": "Entities/PreviewEmote/AnimationEffects",
+        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697447.3965807
+        "dateModified": 1694704187.0148444
     },
     {
-        "name": "Entities/PreviewEmote/output.json",
+        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704187.0128427
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote/output.json",
         "type": ".JSON file",
-        "size": "0.40 KB",
-        "dateModified": 1694697447.3950806
+        "size": "0.53 KB",
+        "dateModified": 1694704187.0128427
     },
     {
-        "name": "Entities/PreviewEmote/PreviewEmote.owentity",
+        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267245.4444191
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704187.0133443
     }
 ]

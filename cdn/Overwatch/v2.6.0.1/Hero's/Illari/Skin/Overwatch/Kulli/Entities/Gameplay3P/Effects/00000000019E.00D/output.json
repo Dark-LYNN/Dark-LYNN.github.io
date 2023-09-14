@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Gameplay3P/Effects/00000000019E.00D/output.json",
-        "type": ".JSON file",
-        "size": "0.21 KB",
-        "dateModified": 1694697263.4277723
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000019E.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703966.1940439
     },
     {
-        "name": "Entities/Gameplay3P/Effects/00000000019E.00D/Sounds",
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000019E.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.38 KB",
+        "dateModified": 1694703966.1940439
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000019E.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703966.1945438
+    },
+    {
+        "name": "Overwatch/Kulli/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697263.4287736
+        "dateModified": 1694703966.195544
     }
 ]

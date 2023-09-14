@@ -1,42 +1,54 @@
 [
     {
-        "name": "3D Model",
+        "name": "Overwatch/Overwatch 2/3D Model",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694699733.390788
+        "dateModified": 1694704184.5640607
     },
     {
-        "name": "Effects",
+        "name": "Overwatch/Overwatch 2/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697432.6435306
+        "dateModified": 1694704184.5770774
     },
     {
-        "name": "Entities",
+        "name": "Overwatch/Overwatch 2/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697445.0431926
+        "dateModified": 1694704185.4627218
     },
     {
-        "name": "GUI",
+        "name": "Overwatch/Overwatch 2/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697447.5031319
+        "dateModified": 1694704187.0288746
     },
     {
-        "name": "Models",
+        "name": "Overwatch/Overwatch 2/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704184.5625596
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697447.5101452
+        "dateModified": 1694704187.0424478
     },
     {
-        "name": "output.json",
+        "name": "Overwatch/Overwatch 2/output.json",
         "type": ".JSON file",
-        "size": "0.67 KB",
-        "dateModified": 1694697432.6168747
+        "size": "1.01 KB",
+        "dateModified": 1694704184.5625596
     },
     {
-        "name": "test.py",
+        "name": "Overwatch/Overwatch 2/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704184.5630589
+    },
+    {
+        "name": "Overwatch/Overwatch 2/test.py",
         "type": ".PY file",
         "size": "8.91 KB",
         "dateModified": 1694704177.2403872

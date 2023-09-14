@@ -1,20 +1,32 @@
 [
     {
-        "name": "Models/0000000134D8.00C/Animations/4/36/00000000D5B4.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations/4/36/00000000D5B4.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.94 KB",
         "dateModified": 1694267248.0595887
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/4/36/00000000DD9C.owanimclip",
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations/4/36/00000000DD9C.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "2.82 KB",
         "dateModified": 1694267248.0595887
     },
     {
-        "name": "Models/0000000134D8.00C/Animations/4/36/output.json",
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations/4/36/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.5942552
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations/4/36/output.json",
         "type": ".JSON file",
-        "size": "0.45 KB",
-        "dateModified": 1694697473.9127762
+        "size": "0.59 KB",
+        "dateModified": 1694704188.5937543
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations/4/36/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.5947547
     }
 ]

@@ -15,13 +15,13 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000178.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.7013242
+        "dateModified": 1694697034.5918305
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000186.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.7018242
+        "dateModified": 1694697034.59383
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000019E.00D",
@@ -33,25 +33,25 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000206.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.7641325
+        "dateModified": 1694697034.8023715
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000510.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.765133
+        "dateModified": 1694697034.804871
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000511.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.766133
+        "dateModified": 1694697034.8078718
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000000512.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.766633
+        "dateModified": 1694697034.810383
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/0000000017CB.00D",
@@ -75,7 +75,7 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000183B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.772837
+        "dateModified": 1694697035.4213033
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000001A32.00D",
@@ -129,19 +129,19 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000002777.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.8163447
+        "dateModified": 1694697036.8956316
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000002891.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.820816
+        "dateModified": 1694697036.9006443
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000002892.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.8213162
+        "dateModified": 1694697036.9026449
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000002893.00D",
@@ -183,7 +183,7 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000371B.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.8263175
+        "dateModified": 1694697037.4735582
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000003791.00D",
@@ -279,13 +279,13 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000483D.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.8843446
+        "dateModified": 1694697039.5294008
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000483F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.885345
+        "dateModified": 1694697039.5324416
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000004A9B.00D",
@@ -375,13 +375,13 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000517E.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.936531
+        "dateModified": 1694697042.7013092
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000526C.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.9390464
+        "dateModified": 1694697042.70481
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/000000005363.00D",
@@ -410,8 +410,8 @@
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/output.json",
         "type": ".JSON file",
-        "size": "10.46 KB",
-        "dateModified": 1694450205.3791683
+        "size": "13.95 KB",
+        "dateModified": 1694697034.415931
     },
     {
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/run.py",

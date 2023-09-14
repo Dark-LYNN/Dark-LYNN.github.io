@@ -3,6 +3,12 @@
         "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000483D.00D/Sounds/0000000095DE.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267226.885345
+        "dateModified": 1694697039.5314398
+    },
+    {
+        "name": "Overwatch/Anqas/Entities/Gameplay3P/Effects/00000000483D.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694697039.5309412
     }
 ]

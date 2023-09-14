@@ -1,152 +1,164 @@
 [
     {
-        "name": "Entities/00000000014F.003",
+        "name": "Season 6/Eclipse/Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2564313
+        "dateModified": 1694697738.189176
     },
     {
-        "name": "Entities/000000000162.003",
+        "name": "Season 6/Eclipse/Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2574317
+        "dateModified": 1694697738.1916761
     },
     {
-        "name": "Entities/00000000130D.003",
+        "name": "Season 6/Eclipse/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.257931
+        "dateModified": 1694697738.2412045
     },
     {
-        "name": "Entities/000000002D33.003",
+        "name": "Season 6/Eclipse/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2584317
+        "dateModified": 1694697738.242727
     },
     {
-        "name": "Entities/000000003024.003",
+        "name": "Season 6/Eclipse/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2589319
+        "dateModified": 1694697738.244228
     },
     {
-        "name": "Entities/000000004828.003",
+        "name": "Season 6/Eclipse/Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2599344
+        "dateModified": 1694697738.330981
     },
     {
-        "name": "Entities/0000000048CC.003",
+        "name": "Season 6/Eclipse/Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.2604446
+        "dateModified": 1694697738.3488398
     },
     {
-        "name": "Entities/000000004AC0.003",
+        "name": "Season 6/Eclipse/Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.273858
+        "dateModified": 1694697738.3943202
     },
     {
-        "name": "Entities/000000004B4A.003",
+        "name": "Season 6/Eclipse/Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3922894
+        "dateModified": 1694697738.9776332
     },
     {
-        "name": "Entities/000000004BCA.003",
+        "name": "Season 6/Eclipse/Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.3943155
+        "dateModified": 1694697739.0015025
     },
     {
-        "name": "Entities/000000004C29.003",
+        "name": "Season 6/Eclipse/Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.476288
+        "dateModified": 1694697739.999827
     },
     {
-        "name": "Entities/000000004C2A.003",
+        "name": "Season 6/Eclipse/Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.4772887
+        "dateModified": 1694697740.001327
     },
     {
-        "name": "Entities/000000004D41.003",
+        "name": "Season 6/Eclipse/Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.4777887
+        "dateModified": 1694697740.003342
     },
     {
-        "name": "Entities/000000004E10.003",
+        "name": "Season 6/Eclipse/Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.478289
+        "dateModified": 1694697740.0290227
     },
     {
-        "name": "Entities/0000000050BF.003",
+        "name": "Season 6/Eclipse/Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.4787889
+        "dateModified": 1694697740.0500653
     },
     {
-        "name": "Entities/000000005384.003",
+        "name": "Season 6/Eclipse/Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.4792893
+        "dateModified": 1694697740.051567
     },
     {
-        "name": "Entities/0000000053DA.003",
+        "name": "Season 6/Eclipse/Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.480292
+        "dateModified": 1694697740.0530794
     },
     {
-        "name": "Entities/Gameplay3P",
+        "name": "Season 6/Eclipse/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.4813025
+        "dateModified": 1694697740.0915582
     },
     {
-        "name": "Entities/Healing Pylon-20794",
+        "name": "Season 6/Eclipse/Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.8828998
+        "dateModified": 1694697744.9624045
     },
     {
-        "name": "Entities/HeroGallery",
+        "name": "Season 6/Eclipse/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.8843997
+        "dateModified": 1694697744.9792814
     },
     {
-        "name": "Entities/HighlightIntro",
+        "name": "Season 6/Eclipse/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.885901
+        "dateModified": 1694697744.982285
     },
     {
-        "name": "Entities/output.json",
+        "name": "Season 6/Eclipse/Entities/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697738.1456602
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/output.json",
         "type": ".JSON file",
         "size": "4.04 KB",
-        "dateModified": 1694697695.4224973
+        "dateModified": 1694697738.1451602
     },
     {
-        "name": "Entities/PreviewEmote",
+        "name": "Season 6/Eclipse/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.8876855
+        "dateModified": 1694697745.0382912
     },
     {
-        "name": "Entities/Showcase",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697593.890116
+        "name": "Season 6/Eclipse/Entities/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697738.1456602
     },
     {
-        "name": "Entities/Solar Rifle-20793",
+        "name": "Season 6/Eclipse/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697593.8923976
+        "dateModified": 1694697745.0644019
+    },
+    {
+        "name": "Season 6/Eclipse/Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697745.098346
     }
 ]

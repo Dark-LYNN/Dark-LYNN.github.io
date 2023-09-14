@@ -1,56 +1,68 @@
 [
     {
-        "name": "Models/000000001E7F.00C/Textures/00000000293F.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/00000000293F.png",
         "type": ".PNG file",
         "size": "0.22 KB",
         "dateModified": 1694697471.9239323
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/00000000DC90.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/00000000DC90.png",
         "type": ".PNG file",
         "size": "0.62 KB",
         "dateModified": 1694697471.9282281
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/00000003E45B.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697471.9602773
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80003AAD469F.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/80003AAD469F.png",
         "type": ".PNG file",
         "size": "0.40 KB",
         "dateModified": 1694697471.9663012
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80004107EE24.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/80004107EE24.png",
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694697471.971312
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80004FE66F23.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/80004FE66F23.png",
         "type": ".PNG file",
         "size": "0.42 KB",
         "dateModified": 1694697471.975312
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/8000737E34F6.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/8000737E34F6.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697471.9787495
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/8000D3D54C67.png",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/8000D3D54C67.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697471.9802494
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/output.json",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.3738275
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/output.json",
         "type": ".JSON file",
-        "size": "1.63 KB",
-        "dateModified": 1694697471.9822497
+        "size": "1.64 KB",
+        "dateModified": 1694704188.373328
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.3738275
     }
 ]

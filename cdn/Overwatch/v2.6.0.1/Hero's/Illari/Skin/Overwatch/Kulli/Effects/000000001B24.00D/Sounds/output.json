@@ -1,20 +1,32 @@
 [
     {
-        "name": "Effects/000000001B24.00D/Sounds/000000003B3B.02C",
+        "name": "Overwatch/Kulli/Effects/000000001B24.00D/Sounds/000000003B3B.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697254.3608723
+        "dateModified": 1694703965.0162022
     },
     {
-        "name": "Effects/000000001B24.00D/Sounds/0000000096E9.02C",
+        "name": "Overwatch/Kulli/Effects/000000001B24.00D/Sounds/0000000096E9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697254.3618724
+        "dateModified": 1694703965.017855
     },
     {
-        "name": "Effects/000000001B24.00D/Sounds/output.json",
+        "name": "Overwatch/Kulli/Effects/000000001B24.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703965.0147014
+    },
+    {
+        "name": "Overwatch/Kulli/Effects/000000001B24.00D/Sounds/output.json",
         "type": ".JSON file",
-        "size": "0.41 KB",
-        "dateModified": 1694697254.3593733
+        "size": "0.55 KB",
+        "dateModified": 1694703965.0142002
+    },
+    {
+        "name": "Overwatch/Kulli/Effects/000000001B24.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703965.0147014
     }
 ]

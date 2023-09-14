@@ -1,32 +1,44 @@
 [
     {
-        "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230612.03F.ogg",
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230612.03F.ogg",
         "type": ".OGG file",
         "size": "10.45 KB",
         "dateModified": 1694661411.0335546
     },
     {
-        "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230613.03F.ogg",
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230613.03F.ogg",
         "type": ".OGG file",
         "size": "10.10 KB",
         "dateModified": 1694661411.0375652
     },
     {
-        "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230614.03F.ogg",
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/000000230614.03F.ogg",
         "type": ".OGG file",
         "size": "11.21 KB",
         "dateModified": 1694661411.0355551
     },
     {
-        "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C/0000002316C6.03F.ogg",
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/0000002316C6.03F.ogg",
         "type": ".OGG file",
         "size": "4.53 KB",
         "dateModified": 1694661411.0345547
     },
     {
-        "name": "Effects/000000004EAE.00D/Sounds/00000000A155.02C/output.json",
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694702898.9515927
+    },
+    {
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/output.json",
         "type": ".JSON file",
         "size": "1.01 KB",
-        "dateModified": 1694699825.7669725
+        "dateModified": 1694702898.8789773
+    },
+    {
+        "name": "Overwatch/Amethyst/Effects/000000004EAE.00D/Sounds/00000000A155.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694702899.0321188
     }
 ]

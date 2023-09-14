@@ -1,152 +1,164 @@
 [
     {
-        "name": "Entities/00000000014F.003",
+        "name": "Overwatch/Chumpi/Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.364334
+        "dateModified": 1694703555.7388265
     },
     {
-        "name": "Entities/000000000162.003",
+        "name": "Overwatch/Chumpi/Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3653343
+        "dateModified": 1694703555.7403271
     },
     {
-        "name": "Entities/00000000130D.003",
+        "name": "Overwatch/Chumpi/Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3658342
+        "dateModified": 1694703555.7423277
     },
     {
-        "name": "Entities/000000002D33.003",
+        "name": "Overwatch/Chumpi/Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3663344
+        "dateModified": 1694703555.743828
     },
     {
-        "name": "Entities/000000003024.003",
+        "name": "Overwatch/Chumpi/Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3663344
+        "dateModified": 1694703555.745847
     },
     {
-        "name": "Entities/000000004828.003",
+        "name": "Overwatch/Chumpi/Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3678534
+        "dateModified": 1694703555.7473474
     },
     {
-        "name": "Entities/0000000048CC.003",
+        "name": "Overwatch/Chumpi/Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3683538
+        "dateModified": 1694703555.7493484
     },
     {
-        "name": "Entities/000000004AC0.003",
+        "name": "Overwatch/Chumpi/Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.3868723
+        "dateModified": 1694703555.7673106
     },
     {
-        "name": "Entities/000000004B4A.003",
+        "name": "Overwatch/Chumpi/Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.53445
+        "dateModified": 1694703556.5131865
     },
     {
-        "name": "Entities/000000004BCA.003",
+        "name": "Overwatch/Chumpi/Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.5359497
+        "dateModified": 1694703556.5735352
     },
     {
-        "name": "Entities/000000004C29.003",
+        "name": "Overwatch/Chumpi/Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6337607
+        "dateModified": 1694703557.3819077
     },
     {
-        "name": "Entities/000000004C2A.003",
+        "name": "Overwatch/Chumpi/Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6347609
+        "dateModified": 1694703557.383408
     },
     {
-        "name": "Entities/000000004D41.003",
+        "name": "Overwatch/Chumpi/Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6352618
+        "dateModified": 1694703557.3849132
     },
     {
-        "name": "Entities/000000004E10.003",
+        "name": "Overwatch/Chumpi/Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6357608
+        "dateModified": 1694703557.386668
     },
     {
-        "name": "Entities/0000000050BF.003",
+        "name": "Overwatch/Chumpi/Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6362617
+        "dateModified": 1694703557.3881671
     },
     {
-        "name": "Entities/000000005384.003",
+        "name": "Overwatch/Chumpi/Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6377764
+        "dateModified": 1694703557.3896687
     },
     {
-        "name": "Entities/0000000053DA.003",
+        "name": "Overwatch/Chumpi/Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.6382775
+        "dateModified": 1694703557.3911676
     },
     {
-        "name": "Entities/Gameplay3P",
+        "name": "Overwatch/Chumpi/Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697081.638776
+        "dateModified": 1694703557.3926682
     },
     {
-        "name": "Entities/Healing Pylon-20794",
+        "name": "Overwatch/Chumpi/Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.1798005
+        "dateModified": 1694703561.4094808
     },
     {
-        "name": "Entities/HeroGallery",
+        "name": "Overwatch/Chumpi/Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.1803005
+        "dateModified": 1694703561.4114816
     },
     {
-        "name": "Entities/HighlightIntro",
+        "name": "Overwatch/Chumpi/Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.181801
+        "dateModified": 1694703561.4149845
     },
     {
-        "name": "Entities/output.json",
+        "name": "Overwatch/Chumpi/Entities/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703555.7373261
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/output.json",
         "type": ".JSON file",
-        "size": "4.28 KB",
-        "dateModified": 1694697081.363834
+        "size": "4.04 KB",
+        "dateModified": 1694703555.7368262
     },
     {
-        "name": "Entities/PreviewEmote",
+        "name": "Overwatch/Chumpi/Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.1838017
+        "dateModified": 1694703561.572052
     },
     {
-        "name": "Entities/Showcase",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694697082.187855
+        "name": "Overwatch/Chumpi/Entities/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703555.7378263
     },
     {
-        "name": "Entities/Solar Rifle-20793",
+        "name": "Overwatch/Chumpi/Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694697082.1898553
+        "dateModified": 1694703561.5760622
+    },
+    {
+        "name": "Overwatch/Chumpi/Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694703561.7969189
     }
 ]

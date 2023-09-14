@@ -1,14 +1,26 @@
 [
     {
-        "name": "Models/0000000134D8.00C/ModelLooks/DEFAULT-193CA.owmat",
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/ModelLooks/DEFAULT-193CA.owmat",
         "type": ".OWMAT file",
         "size": "0.06 KB",
         "dateModified": 1694661369.13352
     },
     {
-        "name": "Models/0000000134D8.00C/ModelLooks/output.json",
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/ModelLooks/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697754.2640183
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/ModelLooks/output.json",
         "type": ".JSON file",
         "size": "0.37 KB",
-        "dateModified": 1694697696.8105352
+        "dateModified": 1694697754.2635193
+    },
+    {
+        "name": "Season 6/Eclipse/Models/0000000134D8.00C/ModelLooks/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697754.2645195
     }
 ]

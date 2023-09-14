@@ -1,44 +1,56 @@
 [
     {
-        "name": "Models/000000001E7F.00C/Materials/B269B7799CC1.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/B269B7799CC1.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9401076
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/C1C8E279E672.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/C1C8E279E672.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9406075
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/C7C74F439A00.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/C7C74F439A00.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9406075
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/D9BA8073F58F.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/D9BA8073F58F.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9406075
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/E885EE4A7725.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/E885EE4A7725.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9411085
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/EE8A43700B57.owmat",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/EE8A43700B57.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.9416077
     },
     {
-        "name": "Models/000000001E7F.00C/Materials/output.json",
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694704188.3704984
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/output.json",
         "type": ".JSON file",
-        "size": "1.26 KB",
-        "dateModified": 1694697471.9194272
+        "size": "1.31 KB",
+        "dateModified": 1694704188.3699975
+    },
+    {
+        "name": "Overwatch/Overwatch 2/Models/000000001E7F.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694704188.3704984
     }
 ]

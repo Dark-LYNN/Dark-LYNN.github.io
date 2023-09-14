@@ -1,32 +1,44 @@
 [
     {
-        "name": "Models/00000000250C.00C/Materials/B19B6CB7E686.owmat",
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/B19B6CB7E686.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694661371.4373522
     },
     {
-        "name": "Models/00000000250C.00C/Materials/B6EF9340E209.owmat",
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/B6EF9340E209.owmat",
         "type": ".OWMAT file",
         "size": "0.09 KB",
         "dateModified": 1694661371.4167862
     },
     {
-        "name": "Models/00000000250C.00C/Materials/D2E24BCA786E.owmat",
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/D2E24BCA786E.owmat",
         "type": ".OWMAT file",
         "size": "0.09 KB",
         "dateModified": 1694661371.4263344
     },
     {
-        "name": "Models/00000000250C.00C/Materials/DEE773F13EA9.owmat",
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/DEE773F13EA9.owmat",
         "type": ".OWMAT file",
         "size": "0.09 KB",
         "dateModified": 1694661371.407271
     },
     {
-        "name": "Models/00000000250C.00C/Materials/output.json",
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697749.20838
+    },
+    {
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/output.json",
         "type": ".JSON file",
         "size": "0.93 KB",
-        "dateModified": 1694697696.6968062
+        "dateModified": 1694697749.190843
+    },
+    {
+        "name": "Season 6/Eclipse/Models/00000000250C.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697749.2088788
     }
 ]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "ArtilleryDown",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.6773756
+    },
+    {
+        "name": "ChargerDown",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.685388
+    },
+    {
+        "name": "DroppedItem",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.6941864
+    },
+    {
+        "name": "FliersIncoming",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.7022035
+    },
+    {
+        "name": "index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694708065.3244014
+    },
+    {
+        "name": "MeetAtObjective",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.473315
+    },
+    {
+        "name": "output.json",
+        "type": ".JSON file",
+        "size": "2.08 KB",
+        "dateModified": 1694708065.3244014
+    },
+    {
+        "name": "script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694708065.324974
+    },
+    {
+        "name": "test.py",
+        "type": ".PY file",
+        "size": "8.91 KB",
+        "dateModified": 1694704177.2403872
+    },
+    {
+        "name": "ThisWay",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.4823334
+    },
+    {
+        "name": "TimeToGetOutOfHere",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.4923544
+    },
+    {
+        "name": "Unknown",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.649255
+    },
+    {
+        "name": "VultureDown",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.656768
+    },
+    {
+        "name": "VultureIncoming",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694708053.665857
+    }
+]

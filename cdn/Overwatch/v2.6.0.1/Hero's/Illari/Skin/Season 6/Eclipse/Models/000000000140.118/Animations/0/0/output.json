@@ -1,38 +1,50 @@
 [
     {
-        "name": "Models/000000000140.118/Animations/0/0/00000000DC54.owanimclip",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/00000000DC54.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "27.21 KB",
         "dateModified": 1694661368.1412902
     },
     {
-        "name": "Models/000000000140.118/Animations/0/0/00000000DF6B.owanimclip",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/00000000DF6B.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "24.31 KB",
         "dateModified": 1694661368.1397169
     },
     {
-        "name": "Models/000000000140.118/Animations/0/0/00000000E04C.owanimclip",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/00000000E04C.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "33.19 KB",
         "dateModified": 1694661368.1442912
     },
     {
-        "name": "Models/000000000140.118/Animations/0/0/00000000E10A.owanimclip",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/00000000E10A.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "17.05 KB",
         "dateModified": 1694661368.14229
     },
     {
-        "name": "Models/000000000140.118/Animations/0/0/00000000E119.owanimclip",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/00000000E119.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "17.19 KB",
         "dateModified": 1694661368.143291
     },
     {
-        "name": "Models/000000000140.118/Animations/0/0/output.json",
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697747.6137333
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/output.json",
         "type": ".JSON file",
         "size": "1.20 KB",
-        "dateModified": 1694697696.413034
+        "dateModified": 1694697747.5951927
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000000140.118/Animations/0/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697747.614233
     }
 ]

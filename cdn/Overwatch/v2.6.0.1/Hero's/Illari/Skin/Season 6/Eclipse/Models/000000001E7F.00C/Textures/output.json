@@ -1,56 +1,68 @@
 [
     {
-        "name": "Models/000000001E7F.00C/Textures/00000000293F.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/00000000293F.png",
         "type": ".PNG file",
         "size": "0.22 KB",
         "dateModified": 1694697639.2513785
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/00000000DC90.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/00000000DC90.png",
         "type": ".PNG file",
         "size": "0.62 KB",
         "dateModified": 1694697639.2528782
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/00000003E45B.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/00000003E45B.png",
         "type": ".PNG file",
         "size": "64.31 KB",
         "dateModified": 1694697639.316372
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80003AAD469F.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/80003AAD469F.png",
         "type": ".PNG file",
         "size": "0.40 KB",
         "dateModified": 1694697639.3213854
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80004107EE24.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/80004107EE24.png",
         "type": ".PNG file",
         "size": "0.17 KB",
         "dateModified": 1694697639.3253856
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/80004FE66F23.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/80004FE66F23.png",
         "type": ".PNG file",
         "size": "0.42 KB",
         "dateModified": 1694697639.3293982
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/8000737E34F6.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/8000737E34F6.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697639.3331106
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/8000D3D54C67.png",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/8000D3D54C67.png",
         "type": ".PNG file",
         "size": "0.37 KB",
         "dateModified": 1694697639.3346114
     },
     {
-        "name": "Models/000000001E7F.00C/Textures/output.json",
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694697749.155393
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/output.json",
         "type": ".JSON file",
         "size": "1.64 KB",
-        "dateModified": 1694697696.6912942
+        "dateModified": 1694697749.0883029
+    },
+    {
+        "name": "Season 6/Eclipse/Models/000000001E7F.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694697749.155393
     }
 ]

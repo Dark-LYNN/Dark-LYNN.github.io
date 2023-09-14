@@ -1,14 +1,26 @@
 [
     {
-        "name": "Entities/Healing Pylon-20794/Healing Pylon-20794.owentity",
+        "name": "Overwatch/Daybreak/Entities/Healing Pylon-20794/Healing Pylon-20794.owentity",
         "type": ".OWENTITY file",
         "size": "0.09 KB",
         "dateModified": 1694267233.8747537
     },
     {
-        "name": "Entities/Healing Pylon-20794/output.json",
+        "name": "Overwatch/Daybreak/Entities/Healing Pylon-20794/index.html",
+        "type": ".HTML file",
+        "size": "2.08 KB",
+        "dateModified": 1694703608.0032325
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/Healing Pylon-20794/output.json",
         "type": ".JSON file",
-        "size": "0.22 KB",
-        "dateModified": 1694697142.0807338
+        "size": "0.37 KB",
+        "dateModified": 1694703608.0027325
+    },
+    {
+        "name": "Overwatch/Daybreak/Entities/Healing Pylon-20794/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694703608.0032325
     }
 ]
