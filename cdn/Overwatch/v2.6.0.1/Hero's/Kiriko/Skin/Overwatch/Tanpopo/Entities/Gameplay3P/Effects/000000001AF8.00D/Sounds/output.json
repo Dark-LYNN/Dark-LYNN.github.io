@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Tanpopo/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds/000000003ADA.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267323.1712496
+        "dateModified": 1694713191.4516726
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds/000000003B6E.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267323.187949
+        "dateModified": 1694713191.45686
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713191.449637
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.46 KB",
+        "dateModified": 1694713191.449637
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/Gameplay3P/Effects/000000001AF8.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713191.449637
     }
 ]

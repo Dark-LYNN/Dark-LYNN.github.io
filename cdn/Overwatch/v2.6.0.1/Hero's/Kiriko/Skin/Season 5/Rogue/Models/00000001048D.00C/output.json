@@ -6,21 +6,39 @@
         "dateModified": 1694267329.6911592
     },
     {
+        "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713239.577818
+    },
+    {
         "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267329.6911592
+        "dateModified": 1694713239.5793352
     },
     {
         "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267329.6911592
+        "dateModified": 1694713239.580836
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.77 KB",
+        "dateModified": 1694713239.5768158
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713239.578336
     },
     {
         "name": "Skin/Season 5/Rogue/Models/00000001048D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267329.6956537
+        "dateModified": 1694713239.7234578
     }
 ]

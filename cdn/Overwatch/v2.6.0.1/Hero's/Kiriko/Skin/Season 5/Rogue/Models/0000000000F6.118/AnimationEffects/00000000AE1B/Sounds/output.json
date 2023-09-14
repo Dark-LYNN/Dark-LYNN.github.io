@@ -3,12 +3,30 @@
         "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/AnimationEffects/00000000AE1B/Sounds/0000000078F2.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.793386
+        "dateModified": 1694713223.7170308
     },
     {
         "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/AnimationEffects/00000000AE1B/Sounds/00000000825B.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.8012857
+        "dateModified": 1694713223.7316499
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/AnimationEffects/00000000AE1B/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.7023938
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/AnimationEffects/00000000AE1B/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.47 KB",
+        "dateModified": 1694713223.7018938
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/AnimationEffects/00000000AE1B/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.7028937
     }
 ]

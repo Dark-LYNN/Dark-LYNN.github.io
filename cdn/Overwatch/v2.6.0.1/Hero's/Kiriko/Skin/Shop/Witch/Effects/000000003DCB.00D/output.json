@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Shop/Witch/Effects/000000003DCB.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713388.220824
+    },
+    {
+        "name": "Skin/Shop/Witch/Effects/000000003DCB.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.19 KB",
+        "dateModified": 1694713388.2203245
+    },
+    {
+        "name": "Skin/Shop/Witch/Effects/000000003DCB.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713388.2213233
+    },
+    {
         "name": "Skin/Shop/Witch/Effects/000000003DCB.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.6872413
+        "dateModified": 1694713388.2223246
     }
 ]

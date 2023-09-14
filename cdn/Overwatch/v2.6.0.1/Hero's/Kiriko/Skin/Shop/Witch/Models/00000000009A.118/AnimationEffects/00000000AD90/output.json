@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Shop/Witch/Models/00000000009A.118/AnimationEffects/00000000AD90/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713389.3891258
+    },
+    {
+        "name": "Skin/Shop/Witch/Models/00000000009A.118/AnimationEffects/00000000AD90/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694713389.388171
+    },
+    {
+        "name": "Skin/Shop/Witch/Models/00000000009A.118/AnimationEffects/00000000AD90/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713389.389625
+    },
+    {
         "name": "Skin/Shop/Witch/Models/00000000009A.118/AnimationEffects/00000000AD90/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267350.9497669
+        "dateModified": 1694713389.390626
     }
 ]

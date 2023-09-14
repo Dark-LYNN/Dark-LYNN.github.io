@@ -3,12 +3,30 @@
         "name": "Skin/Season 6/Time Keeper/Entities/PreviewEmote/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267334.115582
+        "dateModified": 1694713288.4586039
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/PreviewEmote/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713288.4560876
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/PreviewEmote/output.json",
+        "type": ".JSON file",
+        "size": "0.41 KB",
+        "dateModified": 1694713288.4560876
     },
     {
         "name": "Skin/Season 6/Time Keeper/Entities/PreviewEmote/PreviewEmote.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267334.115582
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/PreviewEmote/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713288.4565883
     }
 ]

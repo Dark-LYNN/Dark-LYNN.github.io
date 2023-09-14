@@ -4,5 +4,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267323.7723937
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713193.107084
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694713193.107084
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713193.1080863
     }
 ]

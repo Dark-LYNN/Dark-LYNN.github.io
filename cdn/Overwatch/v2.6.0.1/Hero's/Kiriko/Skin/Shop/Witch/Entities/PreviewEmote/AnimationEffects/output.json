@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267350.821655
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/PreviewEmote/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713389.1504796
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/PreviewEmote/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.05 KB",
+        "dateModified": 1694713389.1504796
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/PreviewEmote/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713389.150979
     }
 ]

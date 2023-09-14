@@ -6,21 +6,39 @@
         "dateModified": 1694267322.0516727
     },
     {
+        "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713177.4145143
+    },
+    {
         "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267322.05318
+        "dateModified": 1694713177.4176238
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267322.0536797
+        "dateModified": 1694713177.4191258
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.77 KB",
+        "dateModified": 1694713177.4140143
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713177.4150143
     },
     {
         "name": "Skin/Overwatch/Take/Models/00000000FB0B.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267322.0577703
+        "dateModified": 1694713177.6999812
     }
 ]

@@ -6,15 +6,33 @@
         "dateModified": 1694267326.7515311
     },
     {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000963D.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713210.3003483
+    },
+    {
         "name": "Skin/Overwatch/Tanpopo/Models/00000000963D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267326.7515311
+        "dateModified": 1694713210.3013482
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000963D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694713210.299849
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000963D.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713210.3003483
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Models/00000000963D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267326.754567
+        "dateModified": 1694713210.4381394
     }
 ]

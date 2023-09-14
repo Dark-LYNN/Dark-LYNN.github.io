@@ -544,5 +544,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267330.6197534
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/000000003A47.003/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713253.420148
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/000000003A47.003/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "20.96 KB",
+        "dateModified": 1694713253.419648
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/000000003A47.003/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713253.4206483
     }
 ]

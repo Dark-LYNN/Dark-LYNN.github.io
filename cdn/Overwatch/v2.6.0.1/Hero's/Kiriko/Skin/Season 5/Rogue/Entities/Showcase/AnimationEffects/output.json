@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267328.6959748
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Showcase/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.5049813
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Showcase/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.05 KB",
+        "dateModified": 1694713223.5049813
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Showcase/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.5054822
     }
 ]

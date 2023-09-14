@@ -10,5 +10,23 @@
         "type": ".OWANIMCLIP file",
         "size": "0.02 KB",
         "dateModified": 1694267325.073126
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/6/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713193.9151144
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/6/0/output.json",
+        "type": ".JSON file",
+        "size": "0.45 KB",
+        "dateModified": 1694713193.9144526
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/6/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713193.9154532
     }
 ]

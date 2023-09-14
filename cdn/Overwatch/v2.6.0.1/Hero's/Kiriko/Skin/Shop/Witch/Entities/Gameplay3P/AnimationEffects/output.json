@@ -1066,5 +1066,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267349.8502889
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713388.5223494
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "36.98 KB",
+        "dateModified": 1694713388.5218484
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713388.5228493
     }
 ]

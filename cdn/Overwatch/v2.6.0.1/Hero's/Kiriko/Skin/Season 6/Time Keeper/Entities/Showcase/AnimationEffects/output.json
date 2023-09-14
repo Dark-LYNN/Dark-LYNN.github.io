@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267334.1170826
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Showcase/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713288.4651082
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Showcase/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.08 KB",
+        "dateModified": 1694713288.464121
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Showcase/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713288.465607
     }
 ]

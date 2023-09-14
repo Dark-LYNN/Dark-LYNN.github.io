@@ -3,24 +3,42 @@
         "name": "Skin/Season 6/K-2000 Blademaster/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267330.5978189
+        "dateModified": 1694713252.8204877
     },
     {
         "name": "Skin/Season 6/K-2000 Blademaster/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267331.1982388
+        "dateModified": 1694713253.3790302
     },
     {
         "name": "Skin/Season 6/K-2000 Blademaster/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267331.2102857
+        "dateModified": 1694713255.1337044
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713252.8049579
     },
     {
         "name": "Skin/Season 6/K-2000 Blademaster/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267333.5751464
+        "dateModified": 1694713255.141242
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/output.json",
+        "type": ".JSON file",
+        "size": "0.71 KB",
+        "dateModified": 1694713252.8049579
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713252.8069713
     }
 ]

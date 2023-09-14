@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Shop/Visual Kei/Models/000000000071.118/AnimationEffects/00000000A6F8/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713354.8824031
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/000000000071.118/AnimationEffects/00000000A6F8/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694713354.881903
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/000000000071.118/AnimationEffects/00000000A6F8/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713354.8829038
+    },
+    {
         "name": "Skin/Shop/Visual Kei/Models/000000000071.118/AnimationEffects/00000000A6F8/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267344.3345416
+        "dateModified": 1694713354.883903
     }
 ]

@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003DCE.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.3186927
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003DCE.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694713223.3186927
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003DCE.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.3196135
+    },
+    {
         "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003DCE.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.5905035
+        "dateModified": 1694713223.3206136
     }
 ]

@@ -3,24 +3,42 @@
         "name": "Skin/Shop/Visual Kei/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267343.985184
+        "dateModified": 1694713353.5336816
     },
     {
         "name": "Skin/Shop/Visual Kei/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267344.2560427
+        "dateModified": 1694713354.1139
     },
     {
         "name": "Skin/Shop/Visual Kei/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267344.261546
+        "dateModified": 1694713354.8102098
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713353.520163
     },
     {
         "name": "Skin/Shop/Visual Kei/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.5647173
+        "dateModified": 1694713354.817282
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694713353.5196624
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713353.520663
     }
 ]

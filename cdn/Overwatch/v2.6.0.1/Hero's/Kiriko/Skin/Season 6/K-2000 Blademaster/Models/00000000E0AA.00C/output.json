@@ -6,15 +6,33 @@
         "dateModified": 1694267333.3001604
     },
     {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/00000000E0AA.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713273.45268
+    },
+    {
         "name": "Skin/Season 6/K-2000 Blademaster/Models/00000000E0AA.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267333.3006597
+        "dateModified": 1694713273.454698
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/00000000E0AA.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.62 KB",
+        "dateModified": 1694713273.45218
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/00000000E0AA.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713273.45268
     },
     {
         "name": "Skin/Season 6/K-2000 Blademaster/Models/00000000E0AA.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267333.302675
+        "dateModified": 1694713273.516305
     }
 ]

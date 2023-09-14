@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Season 6/Time Keeper/Effects/000000004646.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713287.779716
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Effects/000000004646.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694713287.7792163
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Effects/000000004646.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713287.779716
+    },
+    {
         "name": "Skin/Season 6/Time Keeper/Effects/000000004646.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267333.854136
+        "dateModified": 1694713287.780716
     }
 ]

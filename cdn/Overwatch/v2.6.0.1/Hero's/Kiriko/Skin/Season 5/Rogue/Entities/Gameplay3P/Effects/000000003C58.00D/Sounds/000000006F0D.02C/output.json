@@ -4,5 +4,23 @@
         "type": ".OGG file",
         "size": "15.10 KB",
         "dateModified": 1694267328.5474744
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.1935153
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/output.json",
+        "type": ".JSON file",
+        "size": "0.25 KB",
+        "dateModified": 1694713223.1935153
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/Gameplay3P/Effects/000000003C58.00D/Sounds/000000006F0D.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.1935153
     }
 ]

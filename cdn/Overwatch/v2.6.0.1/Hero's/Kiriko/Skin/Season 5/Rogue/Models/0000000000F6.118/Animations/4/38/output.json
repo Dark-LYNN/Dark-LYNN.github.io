@@ -52,5 +52,23 @@
         "type": ".OWANIMCLIP file",
         "size": "7.19 KB",
         "dateModified": 1694267328.966977
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Animations/4/38/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.9804697
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Animations/4/38/output.json",
+        "type": ".JSON file",
+        "size": "2.01 KB",
+        "dateModified": 1694713223.9804697
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Animations/4/38/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.98097
     }
 ]

@@ -4,5 +4,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267328.69096
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.4909265
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694713223.490426
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.4909265
     }
 ]

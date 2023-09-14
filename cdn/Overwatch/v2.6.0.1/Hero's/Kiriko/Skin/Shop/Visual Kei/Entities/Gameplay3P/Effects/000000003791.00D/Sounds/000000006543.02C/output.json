@@ -58,5 +58,23 @@
         "type": ".OGG file",
         "size": "35.10 KB",
         "dateModified": 1694267344.1136398
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Gameplay3P/Effects/000000003791.00D/Sounds/000000006543.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713354.4507923
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Gameplay3P/Effects/000000003791.00D/Sounds/000000006543.02C/output.json",
+        "type": ".JSON file",
+        "size": "2.43 KB",
+        "dateModified": 1694713354.450292
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Gameplay3P/Effects/000000003791.00D/Sounds/000000006543.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713354.451292
     }
 ]

@@ -3,24 +3,42 @@
         "name": "Skin/Season 5/Rogue/Effects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.4194703
+        "dateModified": 1694713222.2841368
     },
     {
         "name": "Skin/Season 5/Rogue/Entities",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.694975
+        "dateModified": 1694713222.848011
     },
     {
         "name": "Skin/Season 5/Rogue/GUI",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.699975
+        "dateModified": 1694713223.534422
+    },
+    {
+        "name": "Skin/Season 5/Rogue/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713222.2698731
     },
     {
         "name": "Skin/Season 5/Rogue/Models",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267330.114316
+        "dateModified": 1694713223.5422132
+    },
+    {
+        "name": "Skin/Season 5/Rogue/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694713222.2698731
+    },
+    {
+        "name": "Skin/Season 5/Rogue/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713222.2703736
     }
 ]

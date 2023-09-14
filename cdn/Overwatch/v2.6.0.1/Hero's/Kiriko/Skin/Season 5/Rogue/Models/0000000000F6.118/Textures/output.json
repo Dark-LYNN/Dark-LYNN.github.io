@@ -586,5 +586,23 @@
         "type": ".PNG file",
         "size": "0.36 KB",
         "dateModified": 1694713236.0078375
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713236.024672
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Textures/output.json",
+        "type": ".JSON file",
+        "size": "19.86 KB",
+        "dateModified": 1694713236.0241725
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713236.024672
     }
 ]

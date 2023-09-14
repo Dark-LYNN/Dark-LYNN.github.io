@@ -3,12 +3,30 @@
         "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267323.7723937
+        "dateModified": 1694713193.1080863
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267323.7723937
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713193.1065848
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694713193.1065848
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713193.107084
     }
 ]

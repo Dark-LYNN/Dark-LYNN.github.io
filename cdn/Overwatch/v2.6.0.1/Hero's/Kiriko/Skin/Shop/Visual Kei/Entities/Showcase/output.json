@@ -3,7 +3,25 @@
         "name": "Skin/Shop/Visual Kei/Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267344.2570431
+        "dateModified": 1694713354.7786696
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Showcase/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713354.776652
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Showcase/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694713354.776652
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Entities/Showcase/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713354.7771516
     },
     {
         "name": "Skin/Shop/Visual Kei/Entities/Showcase/Showcase.owentity",

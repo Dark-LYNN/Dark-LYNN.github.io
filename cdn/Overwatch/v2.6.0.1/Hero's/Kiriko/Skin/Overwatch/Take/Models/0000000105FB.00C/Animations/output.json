@@ -3,6 +3,24 @@
         "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267322.0672863
+        "dateModified": 1694713178.1463273
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713178.1453269
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.20 KB",
+        "dateModified": 1694713178.1448286
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713178.1453269
     }
 ]

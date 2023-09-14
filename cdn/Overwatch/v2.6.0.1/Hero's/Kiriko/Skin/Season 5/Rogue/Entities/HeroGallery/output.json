@@ -3,12 +3,30 @@
         "name": "Skin/Season 5/Rogue/Entities/HeroGallery/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.69096
+        "dateModified": 1694713223.4909265
     },
     {
         "name": "Skin/Season 5/Rogue/Entities/HeroGallery/HeroGallery.owentity",
         "type": ".OWENTITY file",
         "size": "0.17 KB",
         "dateModified": 1694267328.69096
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.489426
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694713223.489426
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/HeroGallery/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.4899251
     }
 ]

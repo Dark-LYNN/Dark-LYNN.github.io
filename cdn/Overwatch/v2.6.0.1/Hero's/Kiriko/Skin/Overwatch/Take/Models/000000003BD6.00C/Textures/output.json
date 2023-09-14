@@ -52,5 +52,23 @@
         "type": ".PNG file",
         "size": "0.28 KB",
         "dateModified": 1694713176.934479
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000003BD6.00C/Textures/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713176.93698
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000003BD6.00C/Textures/output.json",
+        "type": ".JSON file",
+        "size": "1.82 KB",
+        "dateModified": 1694713176.9364793
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/000000003BD6.00C/Textures/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713176.93698
     }
 ]

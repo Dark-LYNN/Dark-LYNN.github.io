@@ -3,24 +3,42 @@
         "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267324.9165351
+        "dateModified": 1694713193.796848
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267324.9175358
+        "dateModified": 1694713193.8466504
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267325.0721154
+        "dateModified": 1694713193.8511708
     },
     {
         "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/6",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267325.073126
+        "dateModified": 1694713193.9134533
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713193.794348
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.79 KB",
+        "dateModified": 1694713193.794348
+    },
+    {
+        "name": "Skin/Overwatch/Tanpopo/Models/00000000003A.118/Animations/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713193.7948477
     }
 ]

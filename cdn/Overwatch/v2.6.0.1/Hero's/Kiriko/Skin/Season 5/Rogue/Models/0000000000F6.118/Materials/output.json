@@ -412,5 +412,23 @@
         "type": ".OWMAT file",
         "size": "0.14 KB",
         "dateModified": 1694267329.003341
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713224.0231335
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Materials/output.json",
+        "type": ".JSON file",
+        "size": "14.39 KB",
+        "dateModified": 1694713224.0231335
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000000F6.118/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713224.0236332
     }
 ]

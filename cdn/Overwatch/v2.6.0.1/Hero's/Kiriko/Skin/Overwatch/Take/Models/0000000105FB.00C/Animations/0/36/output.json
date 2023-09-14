@@ -16,5 +16,23 @@
         "type": ".OWANIMCLIP file",
         "size": "23.11 KB",
         "dateModified": 1694267322.0677865
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/0/36/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713178.150359
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/0/36/output.json",
+        "type": ".JSON file",
+        "size": "0.67 KB",
+        "dateModified": 1694713178.150359
+    },
+    {
+        "name": "Skin/Overwatch/Take/Models/0000000105FB.00C/Animations/0/36/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713178.1518583
     }
 ]

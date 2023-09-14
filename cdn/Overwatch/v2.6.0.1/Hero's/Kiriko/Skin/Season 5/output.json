@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Season 5/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713222.2682445
+    },
+    {
+        "name": "Skin/Season 5/output.json",
+        "type": ".JSON file",
+        "size": "0.16 KB",
+        "dateModified": 1694713222.2682445
+    },
+    {
         "name": "Skin/Season 5/Rogue",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.699975
+        "dateModified": 1694713222.2703736
+    },
+    {
+        "name": "Skin/Season 5/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713222.2687576
     }
 ]

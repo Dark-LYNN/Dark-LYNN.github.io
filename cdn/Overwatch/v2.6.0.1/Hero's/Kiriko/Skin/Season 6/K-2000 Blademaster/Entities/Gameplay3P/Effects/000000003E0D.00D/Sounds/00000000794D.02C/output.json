@@ -382,5 +382,23 @@
         "type": ".OGG file",
         "size": "90.70 KB",
         "dateModified": 1694267331.0253341
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/Gameplay3P/Effects/000000003E0D.00D/Sounds/00000000794D.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713254.970929
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/Gameplay3P/Effects/000000003E0D.00D/Sounds/00000000794D.02C/output.json",
+        "type": ".JSON file",
+        "size": "16.32 KB",
+        "dateModified": 1694713254.9704287
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Entities/Gameplay3P/Effects/000000003E0D.00D/Sounds/00000000794D.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713254.9714284
     }
 ]

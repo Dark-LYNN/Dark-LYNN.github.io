@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/000000000289.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713388.5848346
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/000000000289.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694713388.5843341
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/000000000289.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713388.5853355
+    },
+    {
         "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/000000000289.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.8608122
+        "dateModified": 1694713388.5868354
     }
 ]

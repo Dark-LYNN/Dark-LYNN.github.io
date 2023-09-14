@@ -3,12 +3,30 @@
         "name": "Skin/Season 5/Rogue/Models/0000000118C9.00C/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267329.9882865
+        "dateModified": 1694713251.9606514
     },
     {
         "name": "Skin/Season 5/Rogue/Models/0000000118C9.00C/Animations/0/52",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267329.9887865
+        "dateModified": 1694713251.962152
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000118C9.00C/Animations/0/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713251.9596512
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000118C9.00C/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "0.40 KB",
+        "dateModified": 1694713251.9587865
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Models/0000000118C9.00C/Animations/0/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713251.9596512
     }
 ]

@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/0000000000F5.118/AnimationEffects/00000000CA94/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713255.480431
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/0000000000F5.118/AnimationEffects/00000000CA94/output.json",
+        "type": ".JSON file",
+        "size": "0.23 KB",
+        "dateModified": 1694713255.480431
+    },
+    {
+        "name": "Skin/Season 6/K-2000 Blademaster/Models/0000000000F5.118/AnimationEffects/00000000CA94/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713255.4809308
+    },
+    {
         "name": "Skin/Season 6/K-2000 Blademaster/Models/0000000000F5.118/AnimationEffects/00000000CA94/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267331.4965339
+        "dateModified": 1694713255.4824312
     }
 ]

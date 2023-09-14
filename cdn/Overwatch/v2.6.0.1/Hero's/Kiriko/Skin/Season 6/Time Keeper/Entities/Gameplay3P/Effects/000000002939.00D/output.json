@@ -1,8 +1,26 @@
 [
     {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/Effects/000000002939.00D/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713288.0938876
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/Effects/000000002939.00D/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694713288.0933878
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/Effects/000000002939.00D/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713288.0938876
+    },
+    {
         "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/Effects/000000002939.00D/Sounds",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267333.9671538
+        "dateModified": 1694713288.0953877
     }
 ]

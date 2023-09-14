@@ -3,18 +3,36 @@
         "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000012A7.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.8563087
+        "dateModified": 1694713388.5734673
     },
     {
         "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000012A8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.856809
+        "dateModified": 1694713388.5759676
     },
     {
         "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/0000000037E5.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.857809
+        "dateModified": 1694713388.5779705
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713388.571967
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694713388.571466
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/Gameplay3P/Effects/00000000019E.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713388.571967
     }
 ]

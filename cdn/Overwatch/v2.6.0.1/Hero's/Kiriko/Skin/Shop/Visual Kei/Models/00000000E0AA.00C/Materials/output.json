@@ -16,5 +16,23 @@
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267349.2652895
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/00000000E0AA.00C/Materials/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713374.3099108
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/00000000E0AA.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.63 KB",
+        "dateModified": 1694713374.3094099
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/00000000E0AA.00C/Materials/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713374.3104117
     }
 ]

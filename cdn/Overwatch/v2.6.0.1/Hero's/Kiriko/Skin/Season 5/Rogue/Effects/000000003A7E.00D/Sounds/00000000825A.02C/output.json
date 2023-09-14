@@ -106,5 +106,23 @@
         "type": ".OGG file",
         "size": "38.83 KB",
         "dateModified": 1694267328.2819545
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/000000003A7E.00D/Sounds/00000000825A.02C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713222.542192
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/000000003A7E.00D/Sounds/00000000825A.02C/output.json",
+        "type": ".JSON file",
+        "size": "4.01 KB",
+        "dateModified": 1694713222.541178
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/000000003A7E.00D/Sounds/00000000825A.02C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713222.542192
     }
 ]

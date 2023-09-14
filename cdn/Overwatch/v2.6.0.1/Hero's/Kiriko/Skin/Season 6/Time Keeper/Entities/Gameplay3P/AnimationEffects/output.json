@@ -1066,5 +1066,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267333.9207678
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713287.904108
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "38.73 KB",
+        "dateModified": 1694713287.903608
+    },
+    {
+        "name": "Skin/Season 6/Time Keeper/Entities/Gameplay3P/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713287.904108
     }
 ]

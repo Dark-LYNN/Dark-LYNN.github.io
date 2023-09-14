@@ -28,5 +28,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267328.6944747
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/PreviewEmote/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713223.499981
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/PreviewEmote/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "1.07 KB",
+        "dateModified": 1694713223.499981
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Entities/PreviewEmote/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713223.5004814
     }
 ]

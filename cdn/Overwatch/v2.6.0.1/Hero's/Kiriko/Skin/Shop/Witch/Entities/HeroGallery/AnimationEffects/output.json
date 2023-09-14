@@ -4,5 +4,23 @@
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267350.8186412
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/HeroGallery/AnimationEffects/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713389.1389008
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/HeroGallery/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694713389.1384006
+    },
+    {
+        "name": "Skin/Shop/Witch/Entities/HeroGallery/AnimationEffects/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713389.1404016
     }
 ]

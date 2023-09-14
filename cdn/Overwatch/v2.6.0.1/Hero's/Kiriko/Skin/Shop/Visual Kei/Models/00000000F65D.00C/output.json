@@ -6,15 +6,33 @@
         "dateModified": 1694267349.2768059
     },
     {
+        "name": "Skin/Shop/Visual Kei/Models/00000000F65D.00C/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713374.4849946
+    },
+    {
         "name": "Skin/Shop/Visual Kei/Models/00000000F65D.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.2768059
+        "dateModified": 1694713374.486495
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/00000000F65D.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.58 KB",
+        "dateModified": 1694713374.4849946
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Models/00000000F65D.00C/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713374.4854941
     },
     {
         "name": "Skin/Shop/Visual Kei/Models/00000000F65D.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267349.277806
+        "dateModified": 1694713374.514599
     }
 ]

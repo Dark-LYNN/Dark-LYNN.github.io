@@ -3,18 +3,36 @@
         "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/0000000012A7.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.2050064
+        "dateModified": 1694713222.3047247
     },
     {
         "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/0000000012A8.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.205506
+        "dateModified": 1694713222.3067489
     },
     {
         "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/0000000037E5.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267328.206006
+        "dateModified": 1694713222.3087656
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713222.303725
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.62 KB",
+        "dateModified": 1694713222.3032255
+    },
+    {
+        "name": "Skin/Season 5/Rogue/Effects/00000000019E.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713222.303725
     }
 ]

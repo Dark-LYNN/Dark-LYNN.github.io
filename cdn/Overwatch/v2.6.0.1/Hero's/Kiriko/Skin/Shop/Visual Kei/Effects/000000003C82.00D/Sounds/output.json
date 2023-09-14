@@ -3,6 +3,24 @@
         "name": "Skin/Shop/Visual Kei/Effects/000000003C82.00D/Sounds/0000000078EF.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267343.4100745
+        "dateModified": 1694713353.8059134
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Effects/000000003C82.00D/Sounds/index.html",
+        "type": ".HTML file",
+        "size": "2.06 KB",
+        "dateModified": 1694713353.802913
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Effects/000000003C82.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694713353.802913
+    },
+    {
+        "name": "Skin/Shop/Visual Kei/Effects/000000003C82.00D/Sounds/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694713353.803413
     }
 ]
