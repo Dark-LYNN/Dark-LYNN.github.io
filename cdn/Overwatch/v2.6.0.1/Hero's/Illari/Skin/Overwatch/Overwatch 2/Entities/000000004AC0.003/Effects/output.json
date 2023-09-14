@@ -1,62 +1,68 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004B50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004B50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8188736
+        "dateModified": 1694697445.3746855
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004D50.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D50.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8198743
+        "dateModified": 1694697445.3792024
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004D81.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004D81.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8213742
+        "dateModified": 1694697445.3842025
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E14.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E14.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.822874
+        "dateModified": 1694697445.3867028
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E16.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E16.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8238747
+        "dateModified": 1694697445.389215
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E17.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E17.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8333924
+        "dateModified": 1694697445.4127445
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E27.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E27.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9382472
+        "dateModified": 1694697445.5273967
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E90.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E90.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9772027
+        "dateModified": 1694697445.5636537
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004E92.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004E92.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9797044
+        "dateModified": 1694697445.5716715
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003/Effects/000000004EC3.00D",
+        "name": "Entities/000000004AC0.003/Effects/000000004EC3.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9837046
+        "dateModified": 1694697446.0453417
+    },
+    {
+        "name": "Entities/000000004AC0.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "2.09 KB",
+        "dateModified": 1694697445.3741853
     }
 ]

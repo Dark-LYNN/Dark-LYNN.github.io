@@ -1,32 +1,38 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/0000000134D8.owmdl",
+        "name": "Models/0000000134D8.00C/0000000134D8.owmdl",
         "type": ".OWMDL file",
         "size": "363.21 KB",
         "dateModified": 1694267248.0566978
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Animations",
+        "name": "Models/0000000134D8.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.0590875
+        "dateModified": 1694697473.9072728
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Materials",
+        "name": "Models/0000000134D8.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.0610878
+        "dateModified": 1694697473.9177935
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/ModelLooks",
+        "name": "Models/0000000134D8.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.0615878
+        "dateModified": 1694697473.9204597
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/0000000134D8.00C/Textures",
+        "name": "Models/0000000134D8.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.97 KB",
+        "dateModified": 1694697473.9062603
+    },
+    {
+        "name": "Models/0000000134D8.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267248.0868566
+        "dateModified": 1694697474.6708417
     }
 ]

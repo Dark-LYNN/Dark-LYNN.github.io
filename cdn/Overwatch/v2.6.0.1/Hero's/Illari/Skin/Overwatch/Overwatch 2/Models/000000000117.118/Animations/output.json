@@ -1,26 +1,32 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0",
+        "name": "Models/000000000117.118/Animations/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.0926688
+        "dateModified": 1694697447.6765797
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/128",
+        "name": "Models/000000000117.118/Animations/128",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.0956683
+        "dateModified": 1694697447.7120583
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/16",
+        "name": "Models/000000000117.118/Animations/16",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.0966706
+        "dateModified": 1694697447.7150593
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/4",
+        "name": "Models/000000000117.118/Animations/4",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.1477199
+        "dateModified": 1694697447.717562
+    },
+    {
+        "name": "Models/000000000117.118/Animations/output.json",
+        "type": ".JSON file",
+        "size": "0.79 KB",
+        "dateModified": 1694697447.6755798
     }
 ]

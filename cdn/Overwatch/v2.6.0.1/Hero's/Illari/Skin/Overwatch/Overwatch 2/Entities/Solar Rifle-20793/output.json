@@ -1,6 +1,12 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/Solar Rifle-20793/Solar Rifle-20793.owentity",
+        "name": "Entities/Solar Rifle-20793/output.json",
+        "type": ".JSON file",
+        "size": "0.22 KB",
+        "dateModified": 1694697447.4005535
+    },
+    {
+        "name": "Entities/Solar Rifle-20793/Solar Rifle-20793.owentity",
         "type": ".OWENTITY file",
         "size": "0.22 KB",
         "dateModified": 1694267245.4454186

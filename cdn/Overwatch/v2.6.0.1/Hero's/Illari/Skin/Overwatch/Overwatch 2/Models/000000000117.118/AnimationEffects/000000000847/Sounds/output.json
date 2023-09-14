@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/AnimationEffects/000000000847/Sounds/0000000092F5.02C",
+        "name": "Models/000000000117.118/AnimationEffects/000000000847/Sounds/0000000092F5.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.469286
+        "dateModified": 1694697447.520055
+    },
+    {
+        "name": "Models/000000000117.118/AnimationEffects/000000000847/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.24 KB",
+        "dateModified": 1694697447.5176487
     }
 ]

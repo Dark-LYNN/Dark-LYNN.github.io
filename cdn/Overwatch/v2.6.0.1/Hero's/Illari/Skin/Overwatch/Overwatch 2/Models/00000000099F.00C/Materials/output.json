@@ -1,14 +1,20 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000099F.00C/Materials/9D70B4E5B398.owmat",
+        "name": "Models/00000000099F.00C/Materials/9D70B4E5B398.owmat",
         "type": ".OWMAT file",
         "size": "0.19 KB",
         "dateModified": 1694267247.7574716
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000099F.00C/Materials/BA64E74F4553.owmat",
+        "name": "Models/00000000099F.00C/Materials/BA64E74F4553.owmat",
         "type": ".OWMAT file",
         "size": "0.16 KB",
         "dateModified": 1694267247.7574716
+    },
+    {
+        "name": "Models/00000000099F.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.42 KB",
+        "dateModified": 1694697468.516663
     }
 ]

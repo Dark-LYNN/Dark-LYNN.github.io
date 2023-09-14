@@ -1,12 +1,18 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/Showcase/AnimationEffects",
+        "name": "Entities/Showcase/AnimationEffects",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4454186
+        "dateModified": 1694697447.399553
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Showcase/Showcase.owentity",
+        "name": "Entities/Showcase/output.json",
+        "type": ".JSON file",
+        "size": "0.39 KB",
+        "dateModified": 1694697447.398638
+    },
+    {
+        "name": "Entities/Showcase/Showcase.owentity",
         "type": ".OWENTITY file",
         "size": "0.21 KB",
         "dateModified": 1694267245.4454186

@@ -1,146 +1,152 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/00000000014F.003",
+        "name": "Entities/00000000014F.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.7747498
+        "dateModified": 1694697445.0761263
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000000162.003",
+        "name": "Entities/000000000162.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.77525
+        "dateModified": 1694697445.0771267
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/00000000130D.003",
+        "name": "Entities/00000000130D.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.77525
+        "dateModified": 1694697445.1188867
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000002D33.003",
+        "name": "Entities/000000002D33.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.7757502
+        "dateModified": 1694697445.1429257
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000003024.003",
+        "name": "Entities/000000003024.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.7757502
+        "dateModified": 1694697445.1439254
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004828.003",
+        "name": "Entities/000000004828.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.785297
+        "dateModified": 1694697445.1849523
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/0000000048CC.003",
+        "name": "Entities/0000000048CC.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.7857969
+        "dateModified": 1694697445.2096815
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004AC0.003",
+        "name": "Entities/000000004AC0.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.8183734
+        "dateModified": 1694697445.3721848
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004B4A.003",
+        "name": "Entities/000000004B4A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.985705
+        "dateModified": 1694697446.0876603
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003",
+        "name": "Entities/000000004BCA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9882178
+        "dateModified": 1694697446.0886734
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C29.003",
+        "name": "Entities/000000004C29.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.0597851
+        "dateModified": 1694697446.2130377
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004C2A.003",
+        "name": "Entities/000000004C2A.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.060285
+        "dateModified": 1694697446.2145371
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004D41.003",
+        "name": "Entities/000000004D41.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.060285
+        "dateModified": 1694697446.2150369
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004E10.003",
+        "name": "Entities/000000004E10.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.060785
+        "dateModified": 1694697446.2155375
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/0000000050BF.003",
+        "name": "Entities/0000000050BF.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.060785
+        "dateModified": 1694697446.2165382
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000005384.003",
+        "name": "Entities/000000005384.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.0612843
+        "dateModified": 1694697446.217038
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/0000000053DA.003",
+        "name": "Entities/0000000053DA.003",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.0612843
+        "dateModified": 1694697446.2186131
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Gameplay3P",
+        "name": "Entities/Gameplay3P",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4409182
+        "dateModified": 1694697446.219777
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Healing Pylon-20794",
+        "name": "Entities/Healing Pylon-20794",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4414186
+        "dateModified": 1694697447.3905795
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/HeroGallery",
+        "name": "Entities/HeroGallery",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4419186
+        "dateModified": 1694697447.3915794
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/HighlightIntro",
+        "name": "Entities/HighlightIntro",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4429188
+        "dateModified": 1694697447.3930798
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/PreviewEmote",
-        "type": "&lt;DIRECTORY&gt;",
-        "size": "N/A",
-        "dateModified": 1694267245.4444191
+        "name": "Entities/output.json",
+        "type": ".JSON file",
+        "size": "4.40 KB",
+        "dateModified": 1694697445.0756266
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Showcase",
+        "name": "Entities/PreviewEmote",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4454186
+        "dateModified": 1694697447.3950806
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/Solar Rifle-20793",
+        "name": "Entities/Showcase",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.4454186
+        "dateModified": 1694697447.398137
+    },
+    {
+        "name": "Entities/Solar Rifle-20793",
+        "type": "&lt;DIRECTORY&gt;",
+        "size": "N/A",
+        "dateModified": 1694697447.4005535
     }
 ]

@@ -1,44 +1,50 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/0",
+        "name": "Models/000000000117.118/Animations/0/0",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267246.910706
+        "dateModified": 1694697447.6786423
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/28",
+        "name": "Models/000000000117.118/Animations/0/28",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267246.9112055
+        "dateModified": 1694697447.6801429
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/32",
+        "name": "Models/000000000117.118/Animations/0/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.0101256
+        "dateModified": 1694697447.6945312
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/36",
+        "name": "Models/000000000117.118/Animations/0/36",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.089667
+        "dateModified": 1694697447.7060459
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/37",
+        "name": "Models/000000000117.118/Animations/0/37",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.091168
+        "dateModified": 1694697447.708057
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/52",
+        "name": "Models/000000000117.118/Animations/0/52",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.0926688
+        "dateModified": 1694697447.7100582
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/000000000117.118/Animations/0/60",
+        "name": "Models/000000000117.118/Animations/0/60",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.093169
+        "dateModified": 1694697447.7110581
+    },
+    {
+        "name": "Models/000000000117.118/Animations/0/output.json",
+        "type": ".JSON file",
+        "size": "1.39 KB",
+        "dateModified": 1694697447.6765797
     }
 ]

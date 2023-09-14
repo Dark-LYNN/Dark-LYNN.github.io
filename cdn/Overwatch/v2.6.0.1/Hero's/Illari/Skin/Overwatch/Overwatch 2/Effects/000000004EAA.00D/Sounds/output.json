@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
+        "name": "Effects/000000004EAA.00D/Sounds/00000000A14F.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.0590565
+        "dateModified": 1694697439.979943
     },
     {
-        "name": "Overwatch/Overwatch 2/Effects/000000004EAA.00D/Sounds/00000000A150.02C",
+        "name": "Effects/000000004EAA.00D/Sounds/00000000A150.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.154313
+        "dateModified": 1694697440.4071033
     },
     {
-        "name": "Overwatch/Overwatch 2/Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
+        "name": "Effects/000000004EAA.00D/Sounds/00000000A7D9.02C",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.3589165
+        "dateModified": 1694697440.5318522
+    },
+    {
+        "name": "Effects/000000004EAA.00D/Sounds/output.json",
+        "type": ".JSON file",
+        "size": "0.62 KB",
+        "dateModified": 1694697439.977992
     }
 ]

@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000DB77.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267245.4424186
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000DB79.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267245.4424186
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/HighlightIntro/AnimationEffects/00000000E1AE.owanim",
+        "name": "Entities/HighlightIntro/AnimationEffects/00000000E1AE.owanim",
         "type": ".OWANIM file",
         "size": "0.10 KB",
         "dateModified": 1694267245.4429188
+    },
+    {
+        "name": "Entities/HighlightIntro/AnimationEffects/output.json",
+        "type": ".JSON file",
+        "size": "0.66 KB",
+        "dateModified": 1694697447.3940797
     }
 ]

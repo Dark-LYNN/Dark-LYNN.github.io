@@ -1,38 +1,44 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004C03.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004C03.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9882178
+        "dateModified": 1694697446.0941525
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004D7F.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004D7F.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9892182
+        "dateModified": 1694697446.0981653
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004D80.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004D80.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267244.9977312
+        "dateModified": 1694697446.1245766
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAA.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004EAA.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.001731
+        "dateModified": 1694697446.1322255
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/000000004EAE.00D",
+        "name": "Entities/000000004BCA.003/Effects/000000004EAE.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.0478425
+        "dateModified": 1694697446.1859858
     },
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004BCA.003/Effects/0000000051EF.00D",
+        "name": "Entities/000000004BCA.003/Effects/0000000051EF.00D",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267245.058783
+        "dateModified": 1694697446.210037
+    },
+    {
+        "name": "Entities/000000004BCA.003/Effects/output.json",
+        "type": ".JSON file",
+        "size": "1.25 KB",
+        "dateModified": 1694697446.093652
     }
 ]

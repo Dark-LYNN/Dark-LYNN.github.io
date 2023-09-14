@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Entities/000000004828.003/000000004828.003.owentity",
+        "name": "Entities/000000004828.003/000000004828.003.owentity",
         "type": ".OWENTITY file",
         "size": "0.09 KB",
         "dateModified": 1694267244.7857969
+    },
+    {
+        "name": "Entities/000000004828.003/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697445.1854522
     }
 ]

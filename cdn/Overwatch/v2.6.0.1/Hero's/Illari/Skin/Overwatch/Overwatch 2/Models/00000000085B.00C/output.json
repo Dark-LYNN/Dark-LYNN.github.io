@@ -1,20 +1,26 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000085B.00C/00000000085B.owmdl",
+        "name": "Models/00000000085B.00C/00000000085B.owmdl",
         "type": ".OWMDL file",
         "size": "43.28 KB",
         "dateModified": 1694267247.7436216
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000085B.00C/Materials",
+        "name": "Models/00000000085B.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.7456238
+        "dateModified": 1694697468.3480349
     },
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000085B.00C/Textures",
+        "name": "Models/00000000085B.00C/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694697468.34652
+    },
+    {
+        "name": "Models/00000000085B.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267247.749239
+        "dateModified": 1694697468.4049928
     }
 ]

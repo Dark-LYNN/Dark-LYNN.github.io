@@ -1,8 +1,14 @@
 [
     {
-        "name": "Overwatch/Overwatch 2/Models/00000000DAE1.00C/Materials/A158A23BB071.owmat",
+        "name": "Models/00000000DAE1.00C/Materials/A158A23BB071.owmat",
         "type": ".OWMAT file",
         "size": "0.12 KB",
         "dateModified": 1694267248.0101044
+    },
+    {
+        "name": "Models/00000000DAE1.00C/Materials/output.json",
+        "type": ".JSON file",
+        "size": "0.21 KB",
+        "dateModified": 1694697473.2141724
     }
 ]
