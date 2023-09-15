@@ -1,44 +1,50 @@
 [
     {
-        "name": "000000013372.owmdl",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/000000013372.owmdl",
         "type": ".OWMDL file",
         "size": "98.19 KB",
         "dateModified": 1694267354.5962908
     },
     {
-        "name": "index.html",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.5967903
+        "dateModified": 1694282563.5544941
     },
     {
-        "name": "ModelLooks",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.5972905
+        "dateModified": 1694282567.356158
     },
     {
-        "name": "script.js",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/output.json",
+        "type": ".JSON file",
+        "size": "1.03 KB",
+        "dateModified": 1694282557.8230636
+    },
+    {
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "VictoryPose/Season 5/Dice Toss/Models/000000013372.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6099803
+        "dateModified": 1694342944.054397
     }
 ]

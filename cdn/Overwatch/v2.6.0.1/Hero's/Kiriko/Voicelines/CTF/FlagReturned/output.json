@@ -1,36 +1,36 @@
 [
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/FlagReturned/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343982.7962563
+        "dateModified": 1694344340.3502736
     },
     {
-        "name": "Let's get this flag back.ogg",
+        "name": "Voicelines/CTF/FlagReturned/Let's get this flag back.ogg",
         "type": ".OGG file",
         "size": "16.87 KB",
         "dateModified": 1694267354.6189928
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/FlagReturned/output.json",
         "type": ".JSON file",
-        "size": "0.49 KB",
-        "dateModified": 1694343982.7955556
+        "size": "0.90 KB",
+        "dateModified": 1694344340.3497732
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/FlagReturned/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/FlagReturned/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343982.7962563
+        "dateModified": 1694344340.3502736
     },
     {
-        "name": "Taking that back.ogg",
+        "name": "Voicelines/CTF/FlagReturned/Taking that back.ogg",
         "type": ".OGG file",
         "size": "11.70 KB",
         "dateModified": 1694267354.6189928

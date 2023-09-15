@@ -1,68 +1,86 @@
 [
     {
-        "name": "CapturedFlag",
+        "name": "Voicelines/CTF/CapturedFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6144924
+        "dateModified": 1694344225.3911614
     },
     {
-        "name": "CaptureFlag",
+        "name": "Voicelines/CTF/CaptureFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6134923
+        "dateModified": 1694344235.2308931
     },
     {
-        "name": "DefendFlag",
+        "name": "Voicelines/CTF/DefendFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6149933
+        "dateModified": 1694344245.214358
     },
     {
-        "name": "DroppedFlag",
+        "name": "Voicelines/CTF/DroppedFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6154933
+        "dateModified": 1694344257.9336643
     },
     {
-        "name": "EnemyCapturedFlag",
+        "name": "Voicelines/CTF/EnemyCapturedFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.616493
+        "dateModified": 1694344271.3648212
     },
     {
-        "name": "EnemyDroppedFlag",
+        "name": "Voicelines/CTF/EnemyDroppedFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6169922
+        "dateModified": 1694344280.7157624
     },
     {
-        "name": "EnemyTakenFlag",
+        "name": "Voicelines/CTF/EnemyTakenFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6184926
+        "dateModified": 1694344288.619574
     },
     {
-        "name": "FlagReturned",
+        "name": "Voicelines/CTF/FlagReturned",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6189928
+        "dateModified": 1694344334.2171803
     },
     {
-        "name": "PickedUpFlag",
+        "name": "Voicelines/CTF/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694343931.2052562
+    },
+    {
+        "name": "Voicelines/CTF/output.json",
+        "type": ".JSON file",
+        "size": "1.65 KB",
+        "dateModified": 1694343931.2047565
+    },
+    {
+        "name": "Voicelines/CTF/PickedUpFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6209958
+        "dateModified": 1694344349.1210358
     },
     {
-        "name": "RecoverFlag",
+        "name": "Voicelines/CTF/RecoverFlag",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.6220055
+        "dateModified": 1694344360.3923428
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
+    },
+    {
+        "name": "Voicelines/CTF/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694343931.2057567
     }
 ]

@@ -1,36 +1,36 @@
 [
     {
-        "name": "Capture the enemy flag.ogg",
+        "name": "Voicelines/CTF/CaptureFlag/Capture the enemy flag.ogg",
         "type": ".OGG file",
         "size": "16.27 KB",
         "dateModified": 1694267354.6134923
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/CaptureFlag/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343959.3503878
+        "dateModified": 1694344237.1686509
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/CaptureFlag/output.json",
         "type": ".JSON file",
-        "size": "0.50 KB",
-        "dateModified": 1694343959.3493896
+        "size": "0.90 KB",
+        "dateModified": 1694344237.1686509
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/CaptureFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/CaptureFlag/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343959.350889
+        "dateModified": 1694344237.169151
     },
     {
-        "name": "Take the enemy flag.ogg",
+        "name": "Voicelines/CTF/CaptureFlag/Take the enemy flag.ogg",
         "type": ".OGG file",
         "size": "13.16 KB",
         "dateModified": 1694267354.6134923

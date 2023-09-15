@@ -1,504 +1,528 @@
 [
     {
-        "name": "Armor",
+        "name": "Voicelines/Armor",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344137.7393818
     },
     {
-        "name": "AssistanceRequired",
+        "name": "Voicelines/AssistanceRequired",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344146.8179517
     },
     {
-        "name": "Bye",
+        "name": "Voicelines/Bye",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344164.018514
     },
     {
-        "name": "ClearArea",
+        "name": "Voicelines/ClearArea",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344181.9695542
     },
     {
-        "name": "ComeForHealing",
+        "name": "Voicelines/ComeForHealing",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344190.593309
     },
     {
-        "name": "Cough",
+        "name": "Voicelines/Cough",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694343922.5812747
     },
     {
-        "name": "Countdown",
+        "name": "Voicelines/Countdown",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344210.663694
     },
     {
-        "name": "CTF",
+        "name": "Voicelines/CTF",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694343931.2052562
     },
     {
-        "name": "DamageBoosted",
+        "name": "Voicelines/DamageBoosted",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344392.4209929
     },
     {
-        "name": "DamageOverTime",
+        "name": "Voicelines/DamageOverTime",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344118.0308776
     },
     {
-        "name": "Death",
+        "name": "Voicelines/Death",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344413.9768355
     },
     {
-        "name": "DeathCharged",
+        "name": "Voicelines/DeathCharged",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344420.872448
     },
     {
-        "name": "DeathExplosion",
+        "name": "Voicelines/DeathExplosion",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344428.0125506
     },
     {
-        "name": "Discorded",
+        "name": "Voicelines/Discorded",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344447.5893204
     },
     {
-        "name": "Electrocuted",
+        "name": "Voicelines/Electrocuted",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344456.8705232
     },
     {
-        "name": "EliminateTarget",
+        "name": "Voicelines/EliminateTarget",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344465.9882362
     },
     {
-        "name": "Elimination",
+        "name": "Voicelines/Elimination",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344776.9851303
     },
     {
-        "name": "EnemiesAttacking",
+        "name": "Voicelines/EnemiesAttacking",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344828.3992083
     },
     {
-        "name": "EnemyGathers",
+        "name": "Voicelines/EnemyGathers",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344848.0544786
     },
     {
-        "name": "EnemyResurrect",
+        "name": "Voicelines/EnemyResurrect",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344865.3319438
     },
     {
-        "name": "EnemySeen",
+        "name": "Voicelines/EnemySeen",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344876.4035897
     },
     {
-        "name": "EnemySniper",
+        "name": "Voicelines/EnemySniper",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344882.6510463
     },
     {
-        "name": "Fallback",
+        "name": "Voicelines/Fallback",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344891.926135
     },
     {
-        "name": "GetInThere",
+        "name": "Voicelines/GetInThere",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344900.0806875
     },
     {
-        "name": "GetReady",
+        "name": "Voicelines/GetReady",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344948.4543426
     },
     {
-        "name": "GoingIn",
+        "name": "Voicelines/GoingIn",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344956.857702
     },
     {
-        "name": "GroupUp",
+        "name": "Voicelines/GroupUp",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344973.6028519
     },
     {
-        "name": "Healing",
+        "name": "Voicelines/Healing",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344997.4500246
     },
     {
-        "name": "Health",
+        "name": "Voicelines/Health",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694344988.7354436
     },
     {
-        "name": "HealthPack",
+        "name": "Voicelines/HealthPack",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345042.9726481
     },
     {
-        "name": "HealthRestoredFriendly",
+        "name": "Voicelines/HealthRestoredFriendly",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345071.9495451
     },
     {
-        "name": "Hello",
+        "name": "Voicelines/Hello",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345099.7850454
     },
     {
-        "name": "HeroChange",
+        "name": "Voicelines/HeroChange",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345503.1442537
     },
     {
-        "name": "HeroSelect",
+        "name": "Voicelines/HeroSelect",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345322.8069806
     },
     {
-        "name": "ImAttacking",
+        "name": "Voicelines/ImAttacking",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345639.0801506
     },
     {
-        "name": "ImDefending",
+        "name": "Voicelines/ImDefending",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345653.9071019
     },
     {
-        "name": "ImReady",
+        "name": "Voicelines/ImReady",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345664.9489055
     },
     {
-        "name": "ImWithYou",
+        "name": "Voicelines/ImWithYou",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345673.8267174
     },
     {
-        "name": "Incoming",
+        "name": "Voicelines/Incoming",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345681.9249249
     },
     {
-        "name": "InjuredCallout",
+        "name": "Voicelines/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694349991.547495
+    },
+    {
+        "name": "Voicelines/InjuredCallout",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345701.6124363
     },
     {
-        "name": "JumpEnd",
+        "name": "Voicelines/JumpEnd",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345751.3918698
     },
     {
-        "name": "Jumping",
+        "name": "Voicelines/Jumping",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345757.237011
     },
     {
-        "name": "KillStreak",
+        "name": "Voicelines/KillStreak",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345786.2308812
     },
     {
-        "name": "Knockdown",
+        "name": "Voicelines/Knockdown",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345792.9585683
     },
     {
-        "name": "Laugh",
+        "name": "Voicelines/Laugh",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345801.9245317
     },
     {
-        "name": "Match",
+        "name": "Voicelines/Match",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345807.2527678
     },
     {
-        "name": "MatchStartTalk",
+        "name": "Voicelines/MatchStartTalk",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694345931.2962425
     },
     {
-        "name": "MatchTalk",
+        "name": "Voicelines/MatchTalk",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694347411.60439
     },
     {
-        "name": "Melee",
+        "name": "Voicelines/Melee",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694347431.2698648
     },
     {
-        "name": "MeleeEnemyKilledRemark",
+        "name": "Voicelines/MeleeEnemyKilledRemark",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694347440.6174755
     },
     {
-        "name": "Multikill",
+        "name": "Voicelines/Multikill",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348202.7583306
     },
     {
-        "name": "NanoBoosted",
+        "name": "Voicelines/NanoBoosted",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348208.1140523
     },
     {
-        "name": "NeedHealer",
+        "name": "Voicelines/NeedHealer",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348213.4306092
     },
     {
-        "name": "NeedShields",
+        "name": "Voicelines/NeedShields",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348217.5609438
     },
     {
-        "name": "No",
+        "name": "Voicelines/No",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348221.659101
     },
     {
-        "name": "Objective",
+        "name": "Voicelines/Objective",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348225.389165
     },
     {
-        "name": "OnFire",
+        "name": "Voicelines/OnFire",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348280.2436965
     },
     {
-        "name": "OnMyWay",
+        "name": "Voicelines/OnMyWay",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348287.017872
     },
     {
-        "name": "Pain",
+        "name": "Voicelines/output.json",
+        "type": ".JSON file",
+        "size": "12.38 KB",
+        "dateModified": 1694349991.547495
+    },
+    {
+        "name": "Voicelines/Pain",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348296.1762333
     },
     {
-        "name": "PressTheAttack",
+        "name": "Voicelines/PressTheAttack",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348302.4954343
     },
     {
-        "name": "PushForward",
+        "name": "Voicelines/PushForward",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348307.4861498
     },
     {
-        "name": "PVE",
+        "name": "Voicelines/PVE",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348311.4361634
     },
     {
-        "name": "Respawn",
+        "name": "Voicelines/Respawn",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348350.0893898
     },
     {
-        "name": "Resurrected",
+        "name": "Voicelines/Resurrected",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348355.8141916
     },
     {
-        "name": "Revenge",
+        "name": "Voicelines/Revenge",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348361.024302
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/run.py",
         "type": ".PY file",
         "size": "8.02 KB",
         "dateModified": 1694345485.284581
     },
     {
-        "name": "Scream",
+        "name": "Voicelines/Scream",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348366.5085366
     },
     {
-        "name": "ScreamFall",
+        "name": "Voicelines/ScreamFall",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348371.960246
     },
     {
-        "name": "SetupHere",
+        "name": "Voicelines/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694349991.5479946
+    },
+    {
+        "name": "Voicelines/SetupHere",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348376.0061452
     },
     {
-        "name": "Sorry",
+        "name": "Voicelines/Sorry",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348380.659906
     },
     {
-        "name": "Stagger",
+        "name": "Voicelines/Stagger",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348385.58955
     },
     {
-        "name": "TeamKill",
+        "name": "Voicelines/TeamKill",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348390.9992356
     },
     {
-        "name": "Teammate",
+        "name": "Voicelines/Teammate",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348395.881077
     },
     {
-        "name": "Teleporter",
+        "name": "Voicelines/Teleporter",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348426.0211618
     },
     {
-        "name": "Thanks",
+        "name": "Voicelines/test.py",
+        "type": ".PY file",
+        "size": "8.91 KB",
+        "dateModified": 1694704177.2403872
+    },
+    {
+        "name": "Voicelines/Thanks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348433.7475252
     },
     {
-        "name": "Ultimate",
+        "name": "Voicelines/Ultimate",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348440.0127823
     },
     {
-        "name": "Understand",
+        "name": "Voicelines/Understand",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694348460.5080895
     },
     {
-        "name": "Unknown",
+        "name": "Voicelines/Unknown",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349917.5758696
     },
     {
-        "name": "Unwell",
+        "name": "Voicelines/Unwell",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349944.6351824
     },
     {
-        "name": "Voicelines",
+        "name": "Voicelines/Voicelines",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694349955.8465202
+        "dateModified": 1694709724.151579
     },
     {
-        "name": "VotedEpic",
+        "name": "Voicelines/VotedEpic",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349965.5154352
     },
     {
-        "name": "VotedLegendary",
+        "name": "Voicelines/VotedLegendary",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349974.9628613
     },
     {
-        "name": "Yes",
+        "name": "Voicelines/Yes",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349980.4372163
     },
     {
-        "name": "YourWelcome",
+        "name": "Voicelines/YourWelcome",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
         "dateModified": 1694349985.6278214

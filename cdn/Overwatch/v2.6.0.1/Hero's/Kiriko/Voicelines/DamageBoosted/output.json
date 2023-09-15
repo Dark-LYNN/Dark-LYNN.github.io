@@ -1,48 +1,48 @@
 [
     {
-        "name": "index.html",
+        "name": "Voicelines/DamageBoosted/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694344110.5283515
+        "dateModified": 1694344394.5091555
     },
     {
-        "name": "My senses are sharpened.ogg",
+        "name": "Voicelines/DamageBoosted/My senses are sharpened.ogg",
         "type": ".OGG file",
         "size": "16.89 KB",
         "dateModified": 1694267354.6287136
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/DamageBoosted/output.json",
         "type": ".JSON file",
-        "size": "0.85 KB",
-        "dateModified": 1694344110.5278525
+        "size": "1.22 KB",
+        "dateModified": 1694344394.5081532
     },
     {
-        "name": "Powered up. Nice.ogg",
+        "name": "Voicelines/DamageBoosted/Powered up. Nice.ogg",
         "type": ".OGG file",
         "size": "16.72 KB",
         "dateModified": 1694267354.628214
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/DamageBoosted/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/DamageBoosted/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694344110.5283515
+        "dateModified": 1694344394.5091555
     },
     {
-        "name": "Thanks for the boost.ogg",
+        "name": "Voicelines/DamageBoosted/Thanks for the boost.ogg",
         "type": ".OGG file",
         "size": "12.97 KB",
         "dateModified": 1694267354.6277134
     },
     {
-        "name": "This might hurt more than usual.ogg",
+        "name": "Voicelines/DamageBoosted/This might hurt more than usual.ogg",
         "type": ".OGG file",
         "size": "20.32 KB",
         "dateModified": 1694267354.6292138

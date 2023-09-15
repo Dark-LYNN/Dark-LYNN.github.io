@@ -1,24 +1,30 @@
 [
     {
-        "name": "32",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations/16/32",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.1790354
+        "dateModified": 1694282403.1986215
     },
     {
-        "name": "index.html",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations/16/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations/16/output.json",
+        "type": ".JSON file",
+        "size": "0.57 KB",
+        "dateModified": 1694282399.7964702
+    },
+    {
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations/16/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations/16/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307

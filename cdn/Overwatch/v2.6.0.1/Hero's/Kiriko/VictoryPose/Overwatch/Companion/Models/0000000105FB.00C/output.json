@@ -1,50 +1,56 @@
 [
     {
-        "name": "0000000105FB.owmdl",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/0000000105FB.owmdl",
         "type": ".OWMDL file",
         "size": "1277.95 KB",
         "dateModified": 1694267354.178535
     },
     {
-        "name": "Animations",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Animations",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.178535
+        "dateModified": 1694282395.3972857
     },
     {
-        "name": "index.html",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "Materials",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Materials",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.1920576
+        "dateModified": 1694282409.6806414
     },
     {
-        "name": "ModelLooks",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/ModelLooks",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.1925707
+        "dateModified": 1694282414.1927605
     },
     {
-        "name": "script.js",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/output.json",
+        "type": ".JSON file",
+        "size": "1.18 KB",
+        "dateModified": 1694282389.843478
+    },
+    {
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
     },
     {
-        "name": "Textures",
+        "name": "VictoryPose/Overwatch/Companion/Models/0000000105FB.00C/Textures",
         "type": "&lt;DIRECTORY&gt;",
         "size": "N/A",
-        "dateModified": 1694267354.2860208
+        "dateModified": 1694282417.6401775
     }
 ]

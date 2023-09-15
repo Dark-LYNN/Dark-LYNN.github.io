@@ -1,36 +1,36 @@
 [
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/DroppedFlag/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343966.9465907
+        "dateModified": 1694344261.41106
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/DroppedFlag/output.json",
         "type": ".JSON file",
-        "size": "0.51 KB",
-        "dateModified": 1694343966.9460905
+        "size": "0.91 KB",
+        "dateModified": 1694344261.41106
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/DroppedFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/DroppedFlag/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343966.9465907
+        "dateModified": 1694344261.41106
     },
     {
-        "name": "Uh, I don't have the flag anymore.ogg",
+        "name": "Voicelines/CTF/DroppedFlag/Uh, I don't have the flag anymore.ogg",
         "type": ".OGG file",
         "size": "22.86 KB",
         "dateModified": 1694267354.615993
     },
     {
-        "name": "Whoops, I dropped it.ogg",
+        "name": "Voicelines/CTF/DroppedFlag/Whoops, I dropped it.ogg",
         "type": ".OGG file",
         "size": "14.35 KB",
         "dateModified": 1694267354.6154933

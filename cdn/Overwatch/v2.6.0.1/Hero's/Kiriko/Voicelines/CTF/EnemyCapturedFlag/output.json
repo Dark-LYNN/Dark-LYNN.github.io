@@ -1,20 +1,38 @@
 [
     {
-        "name": "000000062DD2.0B2-Let's not repeat that.ogg",
-        "type": ".OGG file",
-        "size": "15.36 KB",
-        "dateModified": 1694267354.615993
+        "name": "Voicelines/CTF/EnemyCapturedFlag/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694343971.0394425
     },
     {
-        "name": "000000062DD4.0B2-Keep them away from our flag next time.ogg",
+        "name": "Voicelines/CTF/EnemyCapturedFlag/Keep them away from our flag next time.ogg",
         "type": ".OGG file",
         "size": "21.76 KB",
         "dateModified": 1694267354.616493
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/EnemyCapturedFlag/Let's not repeat that.ogg",
+        "type": ".OGG file",
+        "size": "15.36 KB",
+        "dateModified": 1694267354.615993
+    },
+    {
+        "name": "Voicelines/CTF/EnemyCapturedFlag/output.json",
+        "type": ".JSON file",
+        "size": "0.51 KB",
+        "dateModified": 1694343971.038497
+    },
+    {
+        "name": "Voicelines/CTF/EnemyCapturedFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
+    },
+    {
+        "name": "Voicelines/CTF/EnemyCapturedFlag/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694343971.0399432
     }
 ]

@@ -1,20 +1,38 @@
 [
     {
-        "name": "How about some armor_.ogg",
+        "name": "Voicelines/Armor/How about some armor_.ogg",
         "type": ".OGG file",
         "size": "12.55 KB",
         "dateModified": 1694267354.6114914
     },
     {
-        "name": "I need some armor.ogg",
+        "name": "Voicelines/Armor/I need some armor.ogg",
         "type": ".OGG file",
         "size": "13.46 KB",
         "dateModified": 1694267354.6119926
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/Armor/index.html",
+        "type": ".HTML file",
+        "size": "1.57 KB",
+        "dateModified": 1694344137.7388334
+    },
+    {
+        "name": "Voicelines/Armor/output.json",
+        "type": ".JSON file",
+        "size": "0.46 KB",
+        "dateModified": 1694344137.7378309
+    },
+    {
+        "name": "Voicelines/Armor/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
+    },
+    {
+        "name": "Voicelines/Armor/script.js",
+        "type": ".JS file",
+        "size": "3.07 KB",
+        "dateModified": 1694344137.7393818
     }
 ]

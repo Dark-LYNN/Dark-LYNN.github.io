@@ -1,38 +1,38 @@
 [
     {
-        "name": "Got the flag.ogg",
+        "name": "Voicelines/CTF/PickedUpFlag/Got the flag.ogg",
         "type": ".OGG file",
         "size": "10.16 KB",
         "dateModified": 1694267354.6209958
     },
     {
-        "name": "I'll just take this.ogg",
+        "name": "Voicelines/CTF/PickedUpFlag/I'll just take this.ogg",
         "type": ".OGG file",
         "size": "13.16 KB",
         "dateModified": 1694267354.6209958
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/PickedUpFlag/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343987.1373045
+        "dateModified": 1694344350.8315742
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/PickedUpFlag/output.json",
         "type": ".JSON file",
-        "size": "0.49 KB",
-        "dateModified": 1694343987.1367874
+        "size": "0.89 KB",
+        "dateModified": 1694344350.831074
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/PickedUpFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/PickedUpFlag/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343987.1378045
+        "dateModified": 1694344350.8315742
     }
 ]

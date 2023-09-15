@@ -1,32 +1,32 @@
 [
     {
-        "name": "Clear the area!.ogg",
+        "name": "Voicelines/ClearArea/Clear the area!.ogg",
         "type": ".OGG file",
         "size": "12.46 KB",
         "dateModified": 1694267354.6225047
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/ClearArea/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343914.895059
+        "dateModified": 1694344201.4640143
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/ClearArea/output.json",
         "type": ".JSON file",
-        "size": "0.31 KB",
-        "dateModified": 1694343914.8945591
+        "size": "0.73 KB",
+        "dateModified": 1694344201.4640143
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/ClearArea/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/ClearArea/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343914.895059
+        "dateModified": 1694344201.4640143
     }
 ]

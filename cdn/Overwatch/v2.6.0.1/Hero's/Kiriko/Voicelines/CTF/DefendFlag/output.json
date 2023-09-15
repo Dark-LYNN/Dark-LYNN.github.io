@@ -1,38 +1,38 @@
 [
     {
-        "name": "Defend our flag!.ogg",
+        "name": "Voicelines/CTF/DefendFlag/Defend our flag!.ogg",
         "type": ".OGG file",
         "size": "13.13 KB",
         "dateModified": 1694267354.6149933
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/DefendFlag/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343963.1861212
+        "dateModified": 1694344248.8510296
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/DefendFlag/output.json",
         "type": ".JSON file",
-        "size": "0.49 KB",
-        "dateModified": 1694343963.1861212
+        "size": "0.89 KB",
+        "dateModified": 1694344248.8510296
     },
     {
-        "name": "Protect our flag.ogg",
+        "name": "Voicelines/CTF/DefendFlag/Protect our flag.ogg",
         "type": ".OGG file",
         "size": "13.57 KB",
         "dateModified": 1694267354.6149933
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/DefendFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/DefendFlag/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343963.1866212
+        "dateModified": 1694344248.8515298
     }
 ]

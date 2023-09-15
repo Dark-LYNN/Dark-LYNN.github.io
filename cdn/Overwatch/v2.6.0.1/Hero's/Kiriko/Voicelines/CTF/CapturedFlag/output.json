@@ -1,36 +1,36 @@
 [
     {
-        "name": "Gotcha.ogg",
+        "name": "Voicelines/CTF/CapturedFlag/Gotcha.ogg",
         "type": ".OGG file",
         "size": "9.59 KB",
         "dateModified": 1694267354.6144924
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/CTF/CapturedFlag/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694343954.5835755
+        "dateModified": 1694344227.1315107
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/CTF/CapturedFlag/output.json",
         "type": ".JSON file",
-        "size": "0.49 KB",
-        "dateModified": 1694343954.5825756
+        "size": "0.89 KB",
+        "dateModified": 1694344227.1315107
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/CTF/CapturedFlag/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/CTF/CapturedFlag/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694343954.5840752
+        "dateModified": 1694344227.1320117
     },
     {
-        "name": "You won't be needing this anymore.ogg",
+        "name": "Voicelines/CTF/CapturedFlag/You won't be needing this anymore.ogg",
         "type": ".OGG file",
         "size": "21.38 KB",
         "dateModified": 1694267354.6139925

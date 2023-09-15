@@ -1,36 +1,36 @@
 [
     {
-        "name": "Goodbye.ogg",
+        "name": "Voicelines/Bye/Goodbye.ogg",
         "type": ".OGG file",
         "size": "9.05 KB",
         "dateModified": 1694267354.6129916
     },
     {
-        "name": "index.html",
+        "name": "Voicelines/Bye/index.html",
         "type": ".HTML file",
         "size": "1.57 KB",
-        "dateModified": 1694344160.974194
+        "dateModified": 1694344165.9524052
     },
     {
-        "name": "output.json",
+        "name": "Voicelines/Bye/output.json",
         "type": ".JSON file",
-        "size": "0.88 KB",
-        "dateModified": 1694344160.974194
+        "size": "0.87 KB",
+        "dateModified": 1694344165.9524052
     },
     {
-        "name": "run.py",
+        "name": "Voicelines/Bye/run.py",
         "type": ".PY file",
         "size": "7.10 KB",
         "dateModified": 1694343159.4150858
     },
     {
-        "name": "script.js",
+        "name": "Voicelines/Bye/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
-        "dateModified": 1694344160.9746943
+        "dateModified": 1694344165.9529045
     },
     {
-        "name": "See ya.ogg",
+        "name": "Voicelines/Bye/See ya.ogg",
         "type": ".OGG file",
         "size": "8.84 KB",
         "dateModified": 1694267354.6129916

@@ -1,24 +1,30 @@
 [
     {
-        "name": "00000000CC2E.owanimclip",
+        "name": "VictoryPose/Shop/Terribly Impressive/Animations/0/32/00000000CC2E.owanimclip",
         "type": ".OWANIMCLIP file",
         "size": "51.02 KB",
         "dateModified": 1694267354.610983
     },
     {
-        "name": "index.html",
+        "name": "VictoryPose/Shop/Terribly Impressive/Animations/0/32/index.html",
         "type": ".HTML file",
         "size": "2.09 KB",
         "dateModified": 1694272682.9440422
     },
     {
-        "name": "script.js",
+        "name": "VictoryPose/Shop/Terribly Impressive/Animations/0/32/output.json",
+        "type": ".JSON file",
+        "size": "0.59 KB",
+        "dateModified": 1694282600.2060914
+    },
+    {
+        "name": "VictoryPose/Shop/Terribly Impressive/Animations/0/32/script.js",
         "type": ".JS file",
         "size": "3.07 KB",
         "dateModified": 1694267355.257453
     },
     {
-        "name": "test.py",
+        "name": "VictoryPose/Shop/Terribly Impressive/Animations/0/32/test.py",
         "type": ".PY file",
         "size": "1.64 KB",
         "dateModified": 1694272429.4606307
