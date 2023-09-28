@@ -36,11 +36,11 @@ function displayDirectoryListing() {
                 if (!isFileInSubdirectory) {
                     const row = document.createElement('tr');
                     const typeClass = isDirectory ? "folder" : "image";
-                    row.innerHTML = `
-                        <td><a class="name">${itemName}</a></td>
-                        <td><a class="${typeClass}">${item.type}</a></td>
-                        <td sorttable_customkey="${sizeInBytes}"><a>${item.size}</a></td>
-                        <td sorttable_customkey="${item.dateModified}"><a>${new Date(item.dateModified * 1000).toLocaleString()}</a></td>
+                        row.innerHTML = `
+                        <td><a class="name" onclick="ga('send', 'event', 'File_Downloads', 'Download', '${itemName}');">${itemName}</a></td>
+                        <td><a class="${typeClass}" onclick="ga('send', 'event', 'File_Downloads', 'Download', '${itemName}');">${item.type}</a></td>
+                        <td sorttable_customkey="${sizeInBytes}" onclick="ga('send', 'event', 'File_Downloads', 'Download', '${itemName}');"><a>${item.size}</a></td>
+                        <td sorttable_customkey="${item.dateModified}" onclick="ga('send', 'event', 'File_Downloads', 'Download', '${itemName}');"><a>${new Date(item.dateModified * 1000).toLocaleString()}</a></td>
                     `;
 
                     // Add an event listener to the table row to make it clickable
